@@ -3,6 +3,6 @@ layout: default
 title: Contact Us
 ---
 
-# {% page.title %}
+# {{ page.title }}
 
 [include google forms]
