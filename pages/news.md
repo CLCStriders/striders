@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  
+title:  News
 description: CLC Stiders Running Club in Cheltenham Spa, Gloucestershire
 
 ---
