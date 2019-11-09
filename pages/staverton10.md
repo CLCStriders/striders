@@ -18,7 +18,7 @@ The race is a 2 lap course which heads out of the airport, and into Churchdown v
 
 ### ROUTE:
 
-Route Map: here & here
+Route Map: <a href="/assets/staverton-10-mile-route-map.pdf">Map</a> & <a href="https://www.strava.com/routes/7184956">Strava route</a>
 
 This will be clearly marshalled. Please note that road closures have not been applied for so keep well to the left at all times. Please note that on the farmland section, good concentration is required due to uneven terrain. Also, there are likely to be cattle on the fields.
 
@@ -29,9 +29,9 @@ The Aviator Inn, Gloucestershire Airport, Up and Running, and friends and member
 ### Previous results:
 
 <ul>
-  <li><a href="/assets/staverton102019.pdf">Staverton 10 – 2019 Race Results</a></li>
-  <li><a href="/assets/staverton102018.pdf">Staverton 10 – 2018 Race Results</a></li>
-  <li><a href="/assets/staverton102017.pdf">Staverton 10 – 2017 Race Results</a></li>
-  <li><a href="/assets/staverton102016.pdf">Staverton 10 – 2016 Race Results</a></li>
+  <li><a href="/assets/staverton-10-mile-results-2019.pdf">Staverton 10 – 2019 Race Results</a></li>
+  <li><a href="/assets/staverton-10-mile-results-2018.pdf">Staverton 10 – 2018 Race Results</a></li>
+  <li><a href="/assets/staverton-10-mile-results-2017.pdf">Staverton 10 – 2017 Race Results</a></li>
+  <li><a href="/assets/staverton-10-mile-results-2016.pdf">Staverton 10 – 2016 Race Results</a></li>
 </ul>
  
