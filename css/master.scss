@@ -624,38 +624,220 @@ and (max-device-width : 480px) {
   padding: 0;
 }
 
+* {
+   box-sizing:border-box;
+}
+
+html,
+body {
+    width:100%;
+    height:100%;
+}
+
+body {
+    margin:.55em;
+    color: rgb(0, 0, 0);
+    background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/shattered.png);
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: .95em;
+}
+ 
+::-webkit-scrollbar-track {
+  background-color: rgba(217, 217, 217, .5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(184, 184, 184, .5);
+  box-shadow:
+    inset .05em .05em 0 rgba(0, 0, 0, .1),
+    inset 0 -.05em 0 rgba(0, 0, 0, .07)
+  ;
+}
+
+/* dummy content */
+.content {
+  float:left;
+  font: 1em 'Open Sans', sans-serif;
+  margin:.75em 0 0 0;
+  transition: margin .3s ease-in-out;
+    
+  > p {
+    margin:.25em 0 .75em 0;      
+  }
+}
+
+/* Advanced Checkbox Hack */
+body { -webkit-animation: bugfix infinite 1s; }
+@-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
+
+input[type=checkbox] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+label {
+  position: absolute;
+  left:0;
+  display:none;
+  width:2em;
+  height:2.25em;
+  padding:.35em;
+  font-size:1.1em;
+  color:#fff;
+  transition:color .3s ease-in-out;
+  cursor: pointer;
+  user-select:none;
+  margin:0;
+  background:rgba(0, 0, 0, .4); 
+}
+
+/* big screens */
+nav[role="off-canvas"] {
+    position:relative;
+    width: 50em;
+    margin: 0 auto;
+    transition-duration: .3s, .5s;
+    transition-timing-function: ease-in-out;
+    transition-property: left, opacity, box-shadow;
+    
+    a {
+      color:#fff;
+      text-decoration:none;
+      font: 1.4em 'Open Sans', sans-serif;
+      transition:color .3s ease-in-out;
+      display:table-cell;
+      vertical-align: middle;
+    }
+    
+    ul {
+      padding: 0;  
+      margin: 0 auto;  
+      width:100%;
+    
+      > li {
+        float:left;
+        padding:.55em .55em;
+        width:8em;
+        height:8em;
+        margin:.5em;
+        opacity:.8;
+    
+        text-transform:uppercase;
+        display: table;
+        background:hsla(11, 94%, 50%, .65);
+        cursor: pointer;
+    
+        text-align:center;
+        transition-duration: .3s;
+        transition-timing-function: ease-in-out;
+        transition-property: box-shadow, color, opacity, padding-left;
+        cursor: pointer;
+    
+        &:hover {
+            color:#fff;
+            opacity:1;
+            box-shadow:0 0 0 .5em rgba(255, 255, 255, .95);
+    
+          > a {
+             color:#fff;
+          }
+        }
+
+        &:nth-child(2) {
+          background:hsla(44, 94%, 50%, .65);
+        }
+        &:nth-child(3) {
+          background:hsla(114, 94%, 50%, .65);  
+        }
+        &:nth-child(4) {
+          background:hsla(184, 94%, 50%, .65);  
+        }
+        &:nth-child(5) {
+          background:hsla(224, 94%, 50%, .65);  
+        }
+      }
+    }
+}
+
+/* small screens */
 @media screen and (max-width: 44em) {
   $menu_width: 20em;
-
+  $content_offset : .5em;
+    
+  html,
   body {
-    overflow-x: hidden;
+    margin:0;
+    overflow-x:hidden;
+  }
+
+  .content {
+    margin:2.5em .5em 0 .5em;
   }
     
   nav[role="off-canvas"] {
-    position: absolute;
-    left: -$menu_width;
+    position:absolute;
+    top:3em;
+    left:-$menu_width;
     width: $menu_width;
+    opacity:0;
     
     ul > li {
-      width: 100%;
+      height:100%;
+      width:100%;
+      text-align:left;
+      margin:0;
+    
+      &:hover {
+        box-shadow:inset 0 0 0 .15em rgba(255, 255, 255, .45);
+      }
     }
   }
 
   label {
-    display: block;
+    display:block;
   }
 
   label:after {
     position: absolute;
-    content: "\2261";
+    right: .25em;  
+    top: 0;
+    content:"\2261";
+    font-size:1.8em;
+  }
+
+  label:hover,
+  input:checked ~ label {
+    color:#000;
   }
 
   input:checked ~ nav[role="off-canvas"] {
-    left: 0;
+    opacity:1;
+    left:0;
+    box-shadow:-30em 0 0 30em rgba(0, 0, 0, .3);
+    
+    ul > li {
+      padding: .55em .55em .55em 1.5em;
+       
+      &:hover {
+        padding-left:3.5em;
+      }
+        
+      &:after {
+        position:absolute;
+        right:.25em;
+        content:"\203A";
+        font: bold 1.4em sans-serif;
+        color:inherit;
+      }
+    }
   }
 
   input:checked ~ .content {
-    margin-left: $menu_width + .5em;
-    margin-right: -($menu_width + .5em);
+    margin-left: $menu_width + $content_offset;
+    margin-right:-($menu_width + $content_offset);
   }
 }
