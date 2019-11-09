@@ -10,14 +10,14 @@
      {% endif %}</a>
 </h1>
 
-<p class="blog-author">by 
-   {% if site.author %}
-         {{ site.author }}
+<p class="blog-author"> 
+   {% if site.description %}
+         {{ site.description }}
          {% else %} 
      {% endif %}</p>
 <p class="blog-slogan">
-    {% if site.description %}
-         {{ site.description }}
+    {% if site.slogan %}
+         {{ site.slogan }}
          {% else %} 
      {% endif %}
 </p>
