@@ -5,22 +5,14 @@
     <title>{{ site.name }}</title>
   </head>
   <body>
-
     <div id="outer-wrapper">
-
       <div id="wrapper">
-
         {% include header.html %}
-        
         {% include menu.html %}
-
-        <div class="front-page-content">
-        
-          <h2>{{ page.title }}</h2>
-          
-          {{ content }}
+        <div class="content">
+            <h2>{{ page.title }}</h2>
+            {{ content }}
         </div>
-
       </div>
     </div>
 
