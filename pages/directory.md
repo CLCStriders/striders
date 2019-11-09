@@ -3,4 +3,6 @@ layout: default
 title: Directory
 ---
 
-# {{ page.title }}
+Local businesses
+
+[add disclaimer]
