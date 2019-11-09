@@ -1,8 +1,10 @@
 ---
-page: default
+layout: default
+title: Membership
+
 ---
 
-# Membership
+# {{ page.title }}
 Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesady evening training sessions for a trial run. Once you’ve decided you want to join and take full opportunity of the membership benefits:
 – Membership of one of Cheltenham’s leading running clubs
 – Insirational coaching from our qualified coaches
