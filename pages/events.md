@@ -4,4 +4,4 @@ title: Events
 
 ---
 
-# {{ page.title }}
+Add dynamic rendering of events info
