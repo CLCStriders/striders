@@ -3,15 +3,18 @@ layout : default
 title : About
 ---
 
-I am running 1000 miles in 2019 to raise £1000 for Acorns Children's Hospice.
+Welcome to the CLC Striders website, as you progress through the site you will see that we are a friendly competitive running club, based at the Cheltenham Ladies College Sports Centre. Open to all, we inspire and motivate our members to enjoy their running.
 
-This is a record of all my runs.
+We hold organised training sessions on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, men's and women's team racing on the road, track and cross country.
 
-#### Gear
+New members are always welcome to join us for training, either get in touch or just turn up.
 
-- Shoes: New Balance 720v4s 
-- Jacket: Salomon wing hyrbid M
-- Backpack: Salomon Agile 12 set
-- Tops/Shorts: TCA
-- Watch: Apple Watch Series 4 40mm / Garmin ForeRunner 235
-- Apps: I use the workout activity on the Garmin and sync to Strava
+## Affiliations
+<ul class="tocNav">
+<li><a rel="nofollow" href="http://www.englandathletics.org/" target="_blank">England Athletics</a></li>
+<li><a rel="nofollow" href="http://www.britishathletics.org.uk/" target="_blank">British Athletics</a></li>
+<li><a rel="nofollow" href="http://www.glosaaa.org.uk/" target="_blank">Gloucestershire AAA</a></li>
+<li><a rel="nofollow" href="http://www.midlandathletics.org.uk/" target="_blank">Midlands Counties AA</a></li>
+<li><a rel="nofollow" href="http://www.birminghamccleague.co.uk/" target="_blank">Birmingham League Cross Country</a></li>
+
+</ul>
