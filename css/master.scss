@@ -59,7 +59,7 @@ body {
   font-variant: small-caps;
   color: $orange;
   margin-left: 2px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 h2,
@@ -624,7 +624,7 @@ and (max-device-width : 480px) {
 // menu
 .headerbarleft {
     float: left;
-    width: 300px;
+    width: 200px;
     height: 100%;
     position: relative;
   
@@ -637,7 +637,7 @@ and (max-device-width : 480px) {
 .menubar
 {
 	float:left;
-	padding-top:70px;
+	padding-top:30px;
 }
 
 #access {
@@ -669,18 +669,10 @@ and (max-device-width : 480px) {
     text-decoration: none;
 }
 
-a:link, a:visited {
+#access a:link, a:visited {
     color: #ffa300;
     background-color: inherit;
     text-decoration: none;
 }
 
-.headerbarclclogo {
-    position: absolute;
-    width: 310px;
-    height: 67px;
-    left: 0;
-    top: 24px;
-    background-repeat: no-repeat;
-    /* filter: invert(1); */
 }
