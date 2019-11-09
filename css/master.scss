@@ -669,10 +669,8 @@ and (max-device-width : 480px) {
     text-decoration: none;
 }
 
-#access a:link, a:visited {
+#access a:link, #access a:visited {
     color: #ffa300;
     background-color: inherit;
     text-decoration: none;
-}
-
 }
