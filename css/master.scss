@@ -168,6 +168,12 @@ code {
   padding: 1px 4px;
 }
 
+label {
+  position: absolute;
+  left: 0;
+  display: none;
+}
+
 pre {
   background: #ccc;
   margin-left: -6px;
@@ -616,4 +622,40 @@ and (max-device-width : 480px) {
 .innertext code {
   background: none;
   padding: 0;
+}
+
+@media screen and (max-width: 44em) {
+  $menu_width: 20em;
+
+  body {
+    overflow-x: hidden;
+  }
+    
+  nav[role="off-canvas"] {
+    position: absolute;
+    left: -$menu_width;
+    width: $menu_width;
+    
+    ul > li {
+      width: 100%;
+    }
+  }
+
+  label {
+    display: block;
+  }
+
+  label:after {
+    position: absolute;
+    content: "\2261";
+  }
+
+  input:checked ~ nav[role="off-canvas"] {
+    left: 0;
+  }
+
+  input:checked ~ .content {
+    margin-left: $menu_width + .5em;
+    margin-right: -($menu_width + .5em);
+  }
 }
