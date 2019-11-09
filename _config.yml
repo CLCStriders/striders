@@ -5,10 +5,10 @@ description:    "Cheltenahm Running Club"
 author:         Strider
 url:            https://striders.thechels.uk
 copyright:      "CLC Striders"
-twitter:        https://twitter.com/CLCStriders
-facebook:       https://www.facebook.com/CLCStriders/
-strava:         https://www.strava.com/clubs/clc-striders
-instagram:      https://instagram.com/clc-striders
+twitter: https://twitter.com/CLCStriders
+facebook: https://www.facebook.com/CLCStriders/
+strava: https://www.strava.com/clubs/clc-striders
+instagram: https://instagram.com/clc-striders
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
