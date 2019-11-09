@@ -626,5 +626,17 @@ and (max-device-width : 480px) {
 
 * {
    box-sizing:border-box;
+ }
 }
+
+.headerbarleft {
+    float: left;
+    width: 250px;
+    height: 100%;
+    position: relative;
+  
+}
+.headerbarright {
+    float: right;
+    height: 100%;
 }
