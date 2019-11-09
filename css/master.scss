@@ -637,7 +637,6 @@ body {
 body {
     margin:.55em;
     color: rgb(0, 0, 0);
-    background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/shattered.png);
 }
 
 /* custom scrollbar */
@@ -657,10 +656,9 @@ body {
   ;
 }
 
-/* dummy content */
 .content {
   float:left;
-  font: 1em 'Open Sans', sans-serif;
+  font: 1em;
   margin:.75em 0 0 0;
   transition: margin .3s ease-in-out;
     
