@@ -3,4 +3,4 @@ layout: default
 title: Club Records
 ---
 
-# {{ page.title }}
+[include table of club records, with sortable columns]
