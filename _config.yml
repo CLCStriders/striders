@@ -1,10 +1,10 @@
 highlighter:    rouge
 permalink:      ./:title
-name:           Foot notes
-description:    "Running 1000 miles to raise 1000 pounds in 2019 for Acorns Children's Hospice"
-author:         Benny
-url:            https://thechels.uk
-copyright:      "Benny"
+name:           CLC Striders
+description:    "Cheltenahm Running Club"
+author:         Strider
+url:            https://striders.thechels.uk
+copyright:      "CLC Striders"
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
