@@ -28,5 +28,6 @@ title:
     <!-- <span class="num-words"><em>{{ post.content | number_of_words }}</em> words</span> -->
     <span class="miles"><em>{% if post.tags != empty %}{% for tag in post.tags %}{{ tag }}{% endfor %}{% endif %}</em> total miles</span>
   </li>
+  {% endfor %}
 </ul>
 
