@@ -13,7 +13,7 @@ $orange : #3e9b00;
 }
 
 // 16px = 1em
-
+*   { box-sizing:border-box; }
 body {
   border-top: 4px solid $orange;
   margin: 0;
@@ -619,15 +619,7 @@ and (max-device-width : 480px) {
   }
 }
 
-.innertext code {
-  background: none;
-  padding: 0;
-}
-
-* {
-   box-sizing:border-box;
- }
-
+// menu
 .headerbarleft {
     float: left;
     width: 250px;
