@@ -9,12 +9,11 @@ We hold organised training sessions on Mondays and Wednesdays throughout the yea
 
 New members are always welcome to join us for training, either get in touch or just turn up.
 
-## Affiliations
-<ul class="tocNav">
+### Affiliations
+<ul>
 <li><a rel="nofollow" href="http://www.englandathletics.org/" target="_blank">England Athletics</a></li>
 <li><a rel="nofollow" href="http://www.britishathletics.org.uk/" target="_blank">British Athletics</a></li>
 <li><a rel="nofollow" href="http://www.glosaaa.org.uk/" target="_blank">Gloucestershire AAA</a></li>
 <li><a rel="nofollow" href="http://www.midlandathletics.org.uk/" target="_blank">Midlands Counties AA</a></li>
 <li><a rel="nofollow" href="http://www.birminghamccleague.co.uk/" target="_blank">Birmingham League Cross Country</a></li>
-
 </ul>
