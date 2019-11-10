@@ -1,9 +1,7 @@
 ---
-
 layout:default
 title: 
 description: Cheltenham Ladies College Striders Running Club
-
 ---
 
 <div class="container">
@@ -16,9 +14,10 @@ description: Cheltenham Ladies College Striders Running Club
                   CLC Striders Running Club
 								</a>
 							</div>
-				</div>
+				 </div>
  			</header>
 	</div>
+  
 		<div class="hthRox">
 			<div class="cDvJW">
 				<div class="Callout">
