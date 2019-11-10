@@ -7,7 +7,7 @@ description: CLC Stiders Running Club in Cheltenham Spa, Gloucestershire
 
 <div class="strava-box" style="float:right; margin-left:2em;">
 <h2>Latest Activity</h2>
-<iframe height="600" width="300" frameborder="0" allowtransparency="true" scrolling="no" 
+<iframe height="700" width="300" frameborder="0" allowtransparency="true" scrolling="no" 
         src="https://www.strava.com/clubs/13109/latest-rides/3b253f647806de5a116ec437654e4b6feb2e9062?show_rides=true"></iframe>
 </div>
 
