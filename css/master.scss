@@ -59,16 +59,6 @@ header {
     display: block;
 }
 	
-	.level3 {
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-right: -0.5rem;
-    margin-left: -0.5rem;
-    flex: 0 1 auto;
-}
-
 .menu2bar {
     margin-top: 1.5em;
     padding-top: 1.5em;
@@ -144,7 +134,21 @@ a {
     border-bottom: 2px solid $accent_two;
 }	
 
-
+@media only screen and (max-width: 48em)
+{
+.callout {	
+	color:rgb(34, 34, 34);
+	display:block;
+	font-size:24px;
+	font-weight:800;
+	height:228px;
+	line-height:56px;
+	margin-block-end:48px;
+	margin-block-start:48px;
+	margin-inline-end:0px;
+	margin-inline-start:0px;
+}
+}
 	
 @media only screen and (min-width: 75em)
 {
