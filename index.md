@@ -5,5 +5,3 @@ title:
 description: Cheltenham Ladies College Striders Running Club
 
 ---
-
-
