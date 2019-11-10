@@ -203,7 +203,35 @@ a {
 		</div>
 		
 		<footer>
-			<small>&copy; CLC Striders {% date:Y %} | Privacy | Terms and Conditions | Disclaimers | Contact |</small>
+			<p>&copy; {{ site.time | date: '%Y' }} 
+			     {% if site.copyright %}
+				 {{ site.copyright }}
+				 {% else %} 
+			     {% endif %}  
+			    | Privacy | Terms and Conditions | Disclaimers | Contact |
+
+			    follow us on: 
+			    {% if site.twitter %}
+			      <a href="{{ site.twitter }}">Twitter</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.facebook %}
+			      <a href="{{ site.facebook }}">Facebook</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.instagram %}
+			      <a href="{{ site.instagram }}">Instagram</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.strava %}
+			      <a href="{{ site.strava }}">Strava</a>
+			    {% else %} 
+			    {% endif %}
+			   
+			</p>
 		</footer>
 	</div>
 </div>
