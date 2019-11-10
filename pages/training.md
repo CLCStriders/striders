@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Training
+title: Our Weekly Training Sessions
 description: Club training sessions
 
 ---
 
-## Our Weekly Training Sessions
 Q: I am new to running. Can I try one of your sessions?
+
 A: Yes! If you are a complete beginner, come along and try our Wednesday night Improvers Group. You will get expert advice from our Inprovers coach, Chris (aka “GPS”), on how to embark on your running adventure in a sociable and fun environment. Please see below for more information.
 
 Q: I’m a runner and want to improve, can you help?
+
 A: Yes! Whether you are a recreational runner or a competitive athlete we have a range of training sessions to suit you. If you can comfortably run 5k (3 miles), come along and try our Monday night 4 mile social group. As a rule of thumb, if you do the Cheltenham parkrun in 30 minutes or less, this is the group for you. You can also try our Wednesday night Improvers Group.
 
 If you area more experienced runner, we have a number of Monday night 6 mile groups ranging from 9:30 minutes per mile (c. 1 hour for a 10k) to sub-t minutes per miile (c. 40 minutes for a 10k). Our experienced group leaders will guide you round at an even (but testing!) pace. You can also try our Wednesady night Competitive Group.
@@ -35,18 +36,9 @@ This group is designed for athletes who may not yet feel confident enough to com
 This group is designed for athletes who predominantly do compete and who want to fly the flag for the club especially in Cross Country League races, and for those who really want to become the best they can be at their selected distance. The sessions, especially over the winter months, will be progressive in volume and will have lots of variation.
 
 ### Our Coaches
-brendan
-Brendan Ward
-Head Coach & Coach in Running Fitness
-Phil Jowett
-Phil Jowett
-Coach in Running Fitness
-Martin Bick
-Martin Bick
-Coach in Running Fitness
-Joel Freeland
-Joel Freeland
-Coach in Running Fitness
-femail captio
-Amelia Mullins
-Leader in Running Fitness
+
+- Brendan Ward (Head Coach & Coach in Running Fitness)
+- Phil Jowett (Coach in Running Fitness)
+- Martin Bick (Coach in Running Fitness)
+- Joel Freeland (Coach in Running Fitness)
+- Amelia Mullins (Leader in Running Fitness)
