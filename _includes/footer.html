@@ -1,33 +1,32 @@
-<div class="footer">
-  <div class="wrapper">
-  <p>&copy; {{ site.time | date: '%Y' }} 
-     {% if site.copyright %}
-         {{ site.copyright }}
-         {% else %} 
-     {% endif %} | 
-    <a href="/archives">Archives</a> |
-    <a href="/pages/about">About</a> |
-   
-    follow us on: 
-    {% if site.twitter %}
-      <a href="{{ site.twitter }}">Twitter</a>
-    {% else %} 
-    {% endif %}
-    
-    {% if site.facebook %}
-      <a href="{{ site.facebook }}">Facebook</a>
-    {% else %} 
-    {% endif %}
-    
-    {% if site.instagram %}
-      <a href="{{ site.instagram }}">Instagram</a>
-    {% else %} 
-    {% endif %}
-    
-    {% if site.strava %}
-      <a href="{{ site.strava }}">Strava</a>
-    {% else %} 
-    {% endif %}
-    </p>
-  </div>
-</div>
+<footer>
+			<p>&copy; {{ site.time | date: '%Y' }} 
+			     {% if site.copyright %}
+				 {{ site.copyright }}
+				 {% else %} 
+			     {% endif %}  
+				| <a href="/pages/privact">Privacy</a>
+				| <a href="/pages/terms">Terms and Conditions</a>
+				| <a href="/pages/contact">Contact</a> 
+			    | Follow us on: 
+			    {% if site.twitter %}
+			      <a href="{{ site.twitter }}">Twitter</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.facebook %}
+			      <a href="{{ site.facebook }}">Facebook</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.instagram %}
+			      <a href="{{ site.instagram }}">Instagram</a>
+			    {% else %} 
+			    {% endif %}
+
+			    {% if site.strava %}
+			      <a href="{{ site.strava }}">Strava</a>
+			    {% else %} 
+			    {% endif %}
+			   
+			</p>
+</footer>
