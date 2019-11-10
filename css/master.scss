@@ -19,7 +19,10 @@ body {
     margin: 8px;
     font-family: $ff;
 }
-	
+.wrapper {
+    padding-right: 4rem;
+    padding-left: 4rem;
+}
 img.center {
     display: block;
     margin: 0 auto;
@@ -37,8 +40,6 @@ img.center {
  .container {
     margin-right: auto;
     margin-left: auto;
-    padding-right: 4rem;
-    padding-left: 4rem;
 }
 	
  .divhead {
