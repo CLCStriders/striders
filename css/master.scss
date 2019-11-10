@@ -19,7 +19,8 @@ body {
     margin: 8px;
     font-family: $ff;
 }
-.wrapper {
+
+#wrapper {
     padding-right: 4rem;
     padding-left: 4rem;
 }
@@ -176,14 +177,14 @@ a {
 }	
 @media only screen and (min-width: 0em)
 {
-.hthRox {
+#hthRox {
     margin-left: 8.33333%;
 }
 }
 
 @media only screen and (min-width: 64em)
 {
-	.hthRox {
+#hthRox {
     flex-basis: 66.6667%;
     max-width: 66.6667%;
     display: block;
