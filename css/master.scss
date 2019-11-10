@@ -3,7 +3,9 @@
 ---
 $ff : 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
 $main_color : #0d5f00;
-$orange : #3e9b00;
+$main_font_color: #0d5f00;
+$accent_one: #3e9b00;
+$accent_two: #3e9b00;
 
 @mixin box-sizing($property){
   -webkit-box-sizing: $property;
@@ -12,10 +14,10 @@ $orange : #3e9b00;
 }
 
 body {
-	font-size: 16px;
+    font-size: 16px;
     display: block;
     margin: 8px;
-	font-family: $ff;
+    font-family: $ff;
 }
 	
 img.center {
@@ -28,7 +30,7 @@ img.center {
     font-weight: 200;
     line-height: 1.75;
     font-size: 1.5em;
-    color: rgb(34, 34, 34);
+    color: $main_font_color;
     margin: 0px;
 }
 
@@ -37,7 +39,7 @@ img.center {
     margin-left: auto;
     padding-right: 4rem;
     padding-left: 4rem;
-    width: 80%;
+    width: 960px;
 }
 	
  .divhead {
@@ -153,22 +155,22 @@ a {
 	
 @media only screen and (min-width: 75em)
 {
-	.cDvJW {
+	.wrapper {
 	    width: 76rem;
 	}
 }
 @media only screen and (min-width: 64em)
 {
-	.cDvJW {
+	.wrapper {
 	    width: 61rem;
 	}
 }
 @media only screen and (min-width: 48em)
 {
-	.cDvJW {
-    width: 46rem;
-    margin-right: auto;
-    margin-left: auto;
+	.wrapper {
+	    width: 46rem;
+	    margin-right: auto;
+	    margin-left: auto;
 	}
 }	
 @media only screen and (min-width: 0em)
