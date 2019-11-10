@@ -9,7 +9,7 @@ We hold organised training sessions on Mondays and Wednesdays throughout the yea
 
 New members are always welcome to join us for training, either get in touch or just turn up.
 
-###Affiliations
+__Affiliations__
 
 - <a rel="nofollow" href="http://www.englandathletics.org/">England Athletics</a>
 - <a rel="nofollow" href="http://www.britishathletics.org.uk/">British Athletics</a>
