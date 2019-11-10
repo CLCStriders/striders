@@ -17,4 +17,4 @@ Thinking of joining CLC Striders? Please come along to one of our Monday or Wedn
 
 [Our membership renewable annually on 1st April and is available to be purchased online via Entry Central.]
 
-Alternatively, please complete an <a href="/assets/clc-striders-membership-form.pdf">membership form and either post to the Club Secretary or hand it to any committee member at a training night.
+Alternatively, please complete an <a href="/assets/clc-striders-membership-form.pdf">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
