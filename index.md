@@ -6,14 +6,4 @@ description: Cheltenham Ladies College Striders Running Club
 
 ---
 
-<div class="container">
- <div class="divhead">
-  <header class="headbar">
-   <div class="level3">
-    <div class="level4">
-	<a href="/"><img src="/img/logo.png" class="center" alt="Cheltenham Ladies College Striders Running Club Logo" />
-		CLC Striders Running Club</a>
-    </div>
-  </div>
- </header>
-</div>
+
