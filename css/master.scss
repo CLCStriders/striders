@@ -108,7 +108,7 @@ footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }
 }	
 
 .callout {	
-	color:rgb(34, 34, 34);
+	color: $accent_one;
 	display:block;
 	font-size:48px;
 	font-weight:800;
@@ -137,12 +137,12 @@ a {
 @media only screen and (max-width: 48em)
 {
 .callout {	
-	color:rgb(34, 34, 34);
+	color: $accent_one;
 	display:block;
-	font-size:24px;
+	font-size:18px;
 	font-weight:800;
-	height:228px;
-	line-height:56px;
+	height:356px;
+	line-height:48px;
 	margin-block-end:48px;
 	margin-block-start:48px;
 	margin-inline-end:0px;
