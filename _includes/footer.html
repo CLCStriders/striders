@@ -9,24 +9,28 @@
 				| <a href="/pages/contact">Contact</a> 
 			    | Follow us on: 
 			    {% if site.twitter %}
-			      <a href="{{ site.twitter }}">Twitter</a>
+			      <a href="{{ site.twitter }}"><i class="fab fa-twitter"></i></a>
 			    {% else %} 
 			    {% endif %}
 
 			    {% if site.facebook %}
-			      <a href="{{ site.facebook }}">Facebook</a>
+			      <a href="{{ site.facebook }}"><i class="fab fa-facebook"></i></a>
 			    {% else %} 
 			    {% endif %}
 
 			    {% if site.instagram %}
-			      <a href="{{ site.instagram }}">Instagram</a>
+			      <a href="{{ site.instagram }}"><i class="fab fa-instagram"></i></a>
 			    {% else %} 
 			    {% endif %}
 
 			    {% if site.strava %}
-			      <a href="{{ site.strava }}">Strava</a>
+			      <a href="{{ site.strava }}"><i class="fab fa-strava"></i></a>
 			    {% else %} 
 			    {% endif %}
 			   
+			    {% if site.youtube %}
+			      <a href="{{ site.youtube }}"><i class="fab fa-youtube"></i></a>
+			    {% else %} 
+			    {% endif %}
 			</p>
 </footer>
