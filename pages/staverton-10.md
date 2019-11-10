@@ -2,7 +2,7 @@
 layout: default
 title: Staverton 10
 description: Staverton 10 mile race
-signupurl : link2019
+signupurl : https://www.entrycentral.com/event/111305
 singupyear: 2020
 
 ---
