@@ -43,13 +43,27 @@ body {
     margin-left: auto;
 }
 	 
- .headbar {
+ .leftHead {
+    margin-bottom: 1.5em;
+    padding: 1em;
+	  float:left;
+}
+.rightHead {
+ 	  float:right;
     margin-bottom: 1.5em;
     padding: 1em;
 }
 
+.righHead h1 a { 
+  font-size: 36px;
+  text-decoration:none;
+  font-weight:400;
+}
+
 header {
     display: block;
+    float:none;
+    clear:both;
 }
 	
 .menu2bar {
