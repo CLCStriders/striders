@@ -36,6 +36,8 @@ body {
     font-size: 1em;
     color: $main_font_color;
     margin: 0px;
+	float:none;
+	clear:both;
 }
 
  .container {
@@ -49,15 +51,16 @@ body {
 	  float:left;
 }
 .rightHead {
- 	  float:right;
+    float:right;
     margin-bottom: 1.5em;
     padding: 1em;
 }
-
-.righHead h1 a { 
-  font-size: 36px;
-  text-decoration:none;
-  font-weight:400;
+  
+.rightHead h1 { 
+   font-weight:400;
+    font-size: 3.5rem;
+    border: none;
+    word-break: keep-all;
 }
 
 header {
