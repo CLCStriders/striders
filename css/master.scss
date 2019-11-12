@@ -69,51 +69,30 @@ header {
     clear:both;
 }
 	
-.menu2bar {
+.menuBar {
     margin-top: 1.5em;
     padding-top: 1.5em;
     border-top: 1px solid rgb(212, 215, 217);
 }
 	
-.navbar {
-    box-sizing: border-box;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
-    flex: 0 0 auto;
-}
-	
-.bar {
-    text-align: right;
-    margin: 0px;
-}
-
-nav {
-    display: block;
-}
-	
-.navitems {
-    display: inline-block;
-    text-transform: uppercase;
-    color: rgb(187, 187, 187);
-    padding-bottom: 0.5em;
-    margin-left: 3em;
-    font-size: 0.75em;
-    font-weight: 800;
-    text-decoration: none;
-}
-
 footer { margin-top: 1.5em; }
 footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }	
 	
-.menu2bar {
+.menuBar {
     margin-top: 1.5em;
     padding-top: 1.5em;
     border-top: 1px solid rgb(212, 215, 217);
+    clear: both;
+    float:none;
 }
 	
-.menu2 {
+.menuItem {
     color: rgb(34, 34, 34);
     text-decoration: none;
+    font-size: 0.75em;
+    display: inline-block;
+    text-transform: uppercase;
+    padding-bottom: 0.5em;
     border-bottom: 2px solid $accent_two;
 }	
 
