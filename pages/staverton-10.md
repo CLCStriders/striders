@@ -24,8 +24,8 @@ This will be clearly marshalled. Please note that road closures have not been ap
 
 ### THANKS TO OUR SPONSORS
 
-- <a href="https://willans.co.uk/">Willans LLP</a>
-- <a href="https://pentonsperformancetherapy.co.uk/">Pentons Performance Theraphy</a>
+- <a href="https://willans.co.uk/">Willans LLP Solicitors</a>
+- <a href="https://pentonsperformancetherapy.co.uk/">Pentons Performance Therapy</a>
 
 ### ACKNOWLEDGEMENTS
 
@@ -33,10 +33,10 @@ The Aviator Inn, Gloucestershire Airport, Up and Running, and friends and member
 
 ### Previous results
 
-<ul>
-  <li><a href="/assets/staverton-10-mile-results-2019.pdf">Staverton 10 – 2019 Race Results</a></li>
-  <li><a href="/assets/staverton-10-mile-results-2018.pdf">Staverton 10 – 2018 Race Results</a></li>
-  <li><a href="/assets/staverton-10-mile-results-2017.pdf">Staverton 10 – 2017 Race Results</a></li>
-  <li><a href="/assets/staverton-10-mile-results-2016.pdf">Staverton 10 – 2016 Race Results</a></li>
-</ul>
+
+- <a href="/assets/staverton-10-mile-results-2019.pdf">Staverton 10 – 2019 Race Results</a>
+- <a href="/assets/staverton-10-mile-results-2018.pdf">Staverton 10 – 2018 Race Results</a>
+- <a href="/assets/staverton-10-mile-results-2017.pdf">Staverton 10 – 2017 Race Results</a>
+- <a href="/assets/staverton-10-mile-results-2016.pdf">Staverton 10 – 2016 Race Results</a>
+
  
