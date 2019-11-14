@@ -22,6 +22,11 @@ Route Map: <a href="/assets/staverton-10-mile-route-map.pdf">Map</a> & <a href="
 
 This will be clearly marshalled. Please note that road closures have not been applied for so keep well to the left at all times. Please note that on the farmland section, good concentration is required due to uneven terrain. Also, there are likely to be cattle on the fields.
 
+### THANKS TO OUR SPONSORS
+
+- <a href="https://willans.co.uk/">Willans LLP</a>
+- <a href="https://pentonsperformancetherapy.co.uk/">Pentons Performance Theraphy</a>
+
 ### ACKNOWLEDGEMENTS
 
 The Aviator Inn, Gloucestershire Airport, Up and Running, and friends and members of CLC Striders.
