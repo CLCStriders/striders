@@ -60,7 +60,6 @@ body {
 .rightHead h1 { 
    font-weight:400;
     font-size: 3.5rem;
-    border: none;
     word-break: keep-all;
 }
 
@@ -117,7 +116,12 @@ footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-	
+
+h1 a {
+    border: 0;
+}	
+
+
 a {
     color: rgb(34, 34, 34);
     text-decoration: none;
