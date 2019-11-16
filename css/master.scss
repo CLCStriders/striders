@@ -143,7 +143,9 @@ a {
 	margin-inline-start:0px;
  }
   
-  .righthead, .lefthead {
+  .righthead,
+  .lefthead 
+	{
 	 margin: 0.5rem;
 	 float: none;
 	 clear:both;
@@ -156,11 +158,6 @@ a {
     word-break: keep-all;
 	}
 	
-	img {     
-    display: block;
-    margin: 0 auto;
-    border: none;
-   }
 }
 	
 @media only screen and (min-width: 75em)
