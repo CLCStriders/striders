@@ -2,6 +2,8 @@
 layout: post
 title: Burton Dassett - Birmingham Cross Country League - Race 1
 tags: [6.2]
+categories: CrossCountry
+
 ---
 
 Hosted by Spa Striders, the first fixture of the Midland League Cross Country season (2019-2020) for the CLC Striders Ladies and Men’s teams took place in the rolling parkland at Burton Dassett Country Park on Saturday 9th November. In conditions that saw lashing rain combine with gusting winds and bitterly cold temperatures, the event demanded true grit and determination from all the runners. And the CLC athletes delivered in spades.
