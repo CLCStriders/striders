@@ -141,18 +141,21 @@ a {
 	margin-block-start:36px;
 	margin-inline-end:0px;
 	margin-inline-start:0px;
-}
-	 .rightHead h1 { 
-   font-weight:400;
-    font-size: 2rem;
-    word-break: keep-all;
-	}
-	.righthead, .lefthead {
+ }
+  
+  .righthead, .lefthead {
 	 margin 0.5rem;
 	 float: none;
 	 clear:both;
 	 padding: 0.5rem;
 	}
+  
+	 .rightHead h1 { 
+     font-weight:400;
+    font-size: 2rem;
+    word-break: keep-all;
+	}
+	
 	img { text-align:center;}
 }
 	
@@ -172,8 +175,7 @@ a {
 {
 	.wrapper {
 	    width: 46rem;
-	    margin-right: auto;
-	    margin-left: auto;
+	    margin: auto auto;
 	}
 }	
 
