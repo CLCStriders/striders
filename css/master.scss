@@ -142,6 +142,10 @@ a {
 	margin-inline-end:0px;
 	margin-inline-start:0px;
 }
+	 .rightHead h1 { 
+   font-weight:400;
+    font-size: 1.5rem;
+    word-break: keep-all;
 }
 	
 @media only screen and (min-width: 75em)
@@ -149,12 +153,22 @@ a {
 	.wrapper {
 	    width: 76rem;
 	}
+	
+	 .rightHead h1 { 
+   font-weight:400;
+    font-size: 2.5rem;
+    word-break: keep-all;
 }
 @media only screen and (min-width: 64em)
 {
 	.wrapper {
 	    width: 61rem;
 	}
+	
+	 .rightHead h1 { 
+   font-weight:400;
+    font-size: 1.5rem;
+    word-break: keep-all;
 }
 @media only screen and (min-width: 48em)
 {
@@ -163,6 +177,11 @@ a {
 	    margin-right: auto;
 	    margin-left: auto;
 	}
+	
+	 .rightHead h1 { 
+   font-weight:400;
+    font-size: 1.5rem;
+    word-break: keep-all;
 }	
 
 @media only screen and (min-width: 64em)
@@ -172,4 +191,9 @@ a {
     max-width: 66.6667%;
     display: block;
 	}
+ .rightHead h1 { 
+   font-weight:400;
+    font-size: 2rem;
+    word-break: keep-all;
+}	
 }
