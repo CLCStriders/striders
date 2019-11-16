@@ -147,8 +147,11 @@ a {
     font-size: 2rem;
     word-break: keep-all;
 	}
-	.righthead {
+	.righthead, .lefthead {
 	 margin 0.5rem;
+	 float: none;
+	 clear:both;
+	 padding: 0.5rem;
 	}
 	img { text-align:center;}
 }
