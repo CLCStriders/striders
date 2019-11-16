@@ -156,7 +156,11 @@ a {
     word-break: keep-all;
 	}
 	
-	img { text-align:center;}
+	img {     
+    display: block;
+    margin: 0 auto;
+    border: none;
+   }
 }
 	
 @media only screen and (min-width: 75em)
