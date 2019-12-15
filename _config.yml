@@ -1,7 +1,7 @@
 highlighter:    rouge
 permalink:      ./:title
 name:           CLC Striders
-description:    "Running Club"
+description:    "Cheltenham Running Club"
 slogan:         "Cheltenham Running Club"
 author:         CLC Strider
 url:            https://striders.thechels.uk
@@ -9,7 +9,7 @@ copyright:      "CLC Striders"
 twitter:        https://twitter.com/CLCStriders
 facebook:       https://www.facebook.com/CLCStriders/
 strava:         https://www.strava.com/clubs/clc-striders
-instagram:      https://instagram.com/clc-striders
+instagram:      https://instagram.com/CLCStriders
 encoding:       UTF-8
 future:         true
 exclude:        ["README"]
