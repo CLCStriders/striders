@@ -22,7 +22,7 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 | Joel Freeland| Men’s Vice Captain| |
 | Mat Benfield| Webmaster| |
 | Paul Northup| Press Officer| |
-| Hedley| Kit Coordinator| |
+| Hedley Phillips| Kit Coordinator| |
 | __ | Social Secretary| |
 
 ### Committee minutes
