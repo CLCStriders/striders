@@ -13,7 +13,7 @@ __Q__: I’m a runner and want to improve, can you help?
 
 __A__: Yes! Whether you are a recreational runner or a competitive athlete we have a range of training sessions to suit you. If you can comfortably run 5k (3 miles), come along and try our Monday night 4 mile social group. As a rule of thumb, if you do the Cheltenham parkrun in 30 minutes or less, this is the group for you. You can also try our Wednesday night Improvers Group.
 
-If you area more experienced runner, we have a number of Monday night 6 mile groups ranging from 9:30 minutes per mile (c. 1 hour for a 10k) to sub-t minutes per miile (c. 40 minutes for a 10k). Our experienced group leaders will guide you round at an even (but testing!) pace. You can also try our Wednesady night Competitive Group.
+If you area more experienced runner, we have a number of Monday night 6 mile groups ranging from 9:30 minutes per mile (~1 hour for a 10k) to sub-6 minutes per miile (~40 minutes for a 10k). Our experienced group leaders will guide you round at an even (but testing!) pace. You can also try our Wednesady night Competitive Group.
 
 ### Road Run – Monday 6.30pm CLC Sports Centre
 
