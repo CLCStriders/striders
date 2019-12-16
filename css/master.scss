@@ -6,6 +6,7 @@ $main_color : #0d5f00;
 $main_font_color: #000000;
 $accent_one: #3e9b00;
 $accent_two: #d4d7d9;
+$margins: 2rem 0;
 
 @mixin box-sizing($property){
   -webkit-box-sizing: $property;
@@ -21,33 +22,21 @@ body {
 }
 
 #wrapper {
-    padding-right: 1rem;
-    padding-left: 1rem;
 	margin: auto;
 }
 
 #output_table {
-   padding: 1rem 0;	
+   margin:  $margin;	
 }
-.center {
-    display: block;
-    margin: 0 auto;
-    border: none;
-} 
-	
+
 .content {
     font-weight: 200;
     line-height: 1.75;
     font-size: 1em;
     color: $main_font_color;
-    margin: 0px;
-	float:none;
-	clear:both;
-}
-
- .container {
-    margin-right: auto;
-    margin-left: auto;
+    margin:  $margin;
+    float:none;
+    clear:both;
 }
 	 
 header {
@@ -59,11 +48,11 @@ header {
 .brandImage {
     margin: inherit;
     border: none;
-    height: 2rem;
+    height: 2.5rem;
     padding: 0 1rem 0 0;
 }
 		
-footer { margin-top: 1.5em; }
+footer { margin:  $margin; }
 footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }	
 	
 
@@ -80,20 +69,11 @@ footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }
 	margin-inline-start:0px;
 }
 	
-	p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
 h1 a {
     border: 0;
 }	
 
-
-a {
+content a, footer a {
     color: rgb(34, 34, 34);
     text-decoration: none;
     border-bottom: 2px solid $accent_two;
@@ -113,49 +93,6 @@ a {
 	margin-inline-end:0px;
 	margin-inline-start:0px;
  }
-  
-  .righthead,
-  .lefthead 
-	{
-	 margin: 0.5rem;
-	 float: none;
-	 clear:both;
-	 padding: 0.5rem;
-	}
-  
-	 .rightHead h1 { 
-     font-weight:400;
-    font-size: 2rem;
-    word-break: keep-all;
-	}
-	
+  	
 }
-	
-@media only screen and (min-width: 75em)
-{
-	.wrapper {
-	    width: 76rem;
-	}
-}
-@media only screen and (min-width: 64em)
-{
-	.wrapper {
-	    width: 61rem;
-	}
-}
-@media only screen and (min-width: 48em)
-{
-	.wrapper {
-	    width: 46rem;
-	    margin: auto auto;
-	}
-}	
 
-@media only screen and (min-width: 64em)
-{
-#wrapper {
-    flex-basis: 66.6667%;
-    max-width: 66.6667%;
-    display: block;
-   }	
-}
