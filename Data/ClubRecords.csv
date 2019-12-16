@@ -1,0 +1,182 @@
+﻿Type,Gender,Distance,Age Group,Holder,Time,Venue,Date
+Road,Men,5km,U20,George Parker,21:03,White Horse,2014-08-19
+Road,Men,5km,Senior,Will Ferguson,15:07,Aztec West,2015-05-26
+Road,Men,5km,35-39,John Parker,15:11,White Horse,2011-08-18
+Road,Men,5km,40-44,James Oram,16:43,White Horse,2014-07-15
+Road,Men,5km,45-49,Richard Shardlow,17:53,Vienna,2014-09-18
+Road,Men,5km,50-54,Paul Northup,18:50,Haresfield,2017-05-24
+Road,Men,5km,55-59,JJ Willson,19:02,Aztec West,2016-07-26
+Road,Men,5km,60-64,Tony Stanton,21:09,White Horse,2009-08-20
+Road,Men,5km,65-69,David James,22:34,Aztec West,2015-05-26
+Road,Men,10km,U20,Ben Pedley,35:23:00,White Horse,2010-04-03
+Road,Men,10km,Senior,John Parker,31:55:00,Berkeley,2010-05-10
+Road,Men,10km,35-39,John Parker,31:55:00,Berkeley,2010-05-10
+Road,Men,10km,40-44,Darren Milne,33:28:00,Bourton,2013-02-27
+Road,Men,10km,45-49,Brendan Ward,36:31:00,Blaisdon,2009-05-04
+Road,Men,10km,50-54,Charles Goodwin,37:50:00,Berkeley,2017-05-15
+Road,Men,10km,55-59,JJ Willson,39:42:00,Berkeley,2016-05-09
+Road,Men,10km,60-64,Edward Collier,44:02:00,Worcester City 10k,2018-09-16
+Road,Men,10km,65-69,David James,47:25:00,Aviator 10k,2015-06-14
+Road,Men,1m,U20,George Parker,06:05,Bourton,2014-07-19
+Road,Men,1m,Senior,John Parker,04:32,Bourton,2010-07-17
+Road,Men,1m,35-39,John Parker,04:32,Bourton,2010-07-17
+Road,Men,1m,40-44,Paul Lockyer,05:20,Bourton,2015-07-18
+Road,Men,1m,45-49,Gareth Harries,05:25,Bourton,2018-07-21
+Road,Men,1m,50-54,Paul Northup,05:26,Meteor Mile,2017-09-02
+Road,Men,1m,55-59,Andrew Gage,06:15,Bourton,2016-07-16
+Road,Men,1m,60-64,David James,06:52,Bourton,2012-07-22
+Road,Men,1m,65-69,David James,06:44,Staverton,2019-08-31
+Road,Men,4m,U20,Ollie Mosley,29:58:00,Aviator 4,2014-05-11
+Road,Men,4m,Senior,John Parker,20:20,White Horse,2010-04-10
+Road,Men,4m,35-39,John Parker,20:20,White Horse,2010-04-10
+Road,Men,4m,40-44,Phil Jowett,23:14,White Horse,2010-04-10
+Road,Men,4m,45-49,Billy Bradshaw,25:21:00,"Pilot Inn, Glos",2010-06-03
+Road,Men,4m,50-54,JJ Willson,25:26:00,Aviator 4,2013-05-12
+Road,Men,4m,55-59,Nicholas Von Benzon,27:48:00,Aviator 4,2012-05-06
+Road,Men,4m,60-64,David James,28:26:00,Aviator 4,2012-05-06
+Road,Men,4m,65-69,,,,
+Road,Men,5m,U20,Ben Pedley,28:54:00,"Pilot Inn, Glos",2010-01-01
+Road,Men,5m,Senior,Will Ferguson,25:30:00,"Pilot Inn, Glos",2011-01-01
+Road,Men,5m,35-39,John Parker,26:16:00,Aero 5,2010-07-01
+Road,Men,5m,40-44,Chris Hale,29:28:00,Tewkesbury,2010-11-07
+Road,Men,5m,45-49,Will Miles,30:00:00,White Horse,2009-05-25
+Road,Men,5m,50-54,Paul Northup,29:53:00,Linda Franks 5 Mile Race,2018-01-21
+Road,Men,5m,55-59,Nicholas Von Benzon,34:39:00,Quedgeley,2011-12-17
+Road,Men,5m,60-64,Tony Stanton,34:33:00,"Pilot Inn, Glos",2010-01-01
+Road,Men,5m,65-69,Mike Brooker,47:25:00,Tewkesbury,2008-11-02
+Road,Men,7m,,,,,
+Road,Men,7m,U20,,,,
+Road,Men,7m,Senior,Nathan Jones,40:03:00,Pilot 7m,2009-07-30
+Road,Men,7m,35-39,Rob Lynch,-,"Pilot Inn, Glos",2009-07-30
+Road,Men,7m,40-44,,,,
+Road,Men,7m,45-49,Charles Goodwin,45:59:00,Pilot 7m,2012-07-26
+Road,Men,7m,50-54,,,,
+Road,Men,7m,55-59,,,,
+Road,Men,7m,60-64,,,,
+Road,Men,7m,65-69,,,,
+Road,Men,10m,U20,,,,
+Road,Men,10m,Senior,Will Ferguson,53:39:00,Staverton 10m,2018-01-28
+Road,Men,10m,35-39,Will Ferguson,53:39:00,Staverton 10m,2018-01-28
+Road,Men,10m,40-44,James Oram,58:35:00,Staverton 10m,2016-01-31
+Road,Men,10m,45-49,Robert Shute,66:32:00,Gloucester 10m,2009-01-04
+Road,Men,10m,50-54,Paul Northup,01:04:47,Gloucestershire Airport,2017-01-29
+Road,Men,10m,55-59,Gavin Jerman,01:13:14,Oldbury,2018-09-09
+Road,Men,10m,60-64,,,,
+Road,Men,10m,65-69,,,,
+Road,Men,13.1m,U20,George Parker,01:43:37,Stroud,2014-10-26
+Road,Men,13.1m,Senior,Will Ferguson,01:09.5,Reading,2019-03-17
+Road,Men,13.1m,35-39,Will Ferguson,01:09.5,Reading,2019-03-17
+Road,Men,13.1m,40-44,James Oram,01:16:34,Bath,2015-03-01
+Road,Men,13.1m,45-49,Billy Bradshaw,01:25:16,Stroud,2010-10-24
+Road,Men,13.1m,50-54,Charles Goodwin,01:22:02,Cheltenham,2015-09-27
+Road,Men,13.1m,55-59,Andy Brookes,01:26:58,Cheltenham,2018-09-30
+Road,Men,13.1m,60-64,Edward Collier,01:34:57,Cheltenham,2018-09-30
+Road,Men,13.1m,65-69,,,,
+Road,Men,20m,U20,George Parker,02:50:54,Gloucester,2015-03-08
+Road,Men,20m,Senior,James Oram,02:02:18,Gloucester,2015-03-08
+Road,Men,20m,35-39,Wayne Usher,02:06:51,Gloucester,2011-03-13
+Road,Men,20m,40-44,James Oram,02:02:18,Gloucester,2015-03-08
+Road,Men,20m,45-49,Paul Northup,02:26:52,Gloucester,2015-03-08
+Road,Men,20m,50-54,Paul Northup,02:20:52,Gloucester 20,2016-03-13
+Road,Men,20m,55-59,,,,
+Road,Men,20m,60-64,,,,
+Road,Men,20m,65-69,,,,
+Road,Men,26.2m,U20,George Parker,03:52:46,London,2015-04-26
+Road,Men,26.2m,Senior,Will Ferguson,02:30:20,London,2019-04-28
+Road,Men,26.2m,35-39,Will Ferguson,02:30:20,London,2019-04-28
+Road,Men,26.2m,40-44,James Oram,02:43:43,London,2015-04-26
+Road,Men,26.2m,45-49,Dave Billingham,03:05:40,London,2010-04-25
+Road,Men,26.2m,50-54,Paul Northup,03:10:06,London,2016-04-24
+Road,Men,26.2m,55-59,Gavin Jerman,03:31:14,Abingdon,2018-10-21
+Road,Men,26.2m,60-64,Phil Hodder,03:58:45,Brighton,2011-04-10
+Road,Men,26.2m,65-69,,,,
+Road,Women,5km,U20,,,,
+Road,Women,5km,Senior,Hilary Mott,17:51,White Horse,2014-08-19
+Road,Women,5km,35-39,Laura Kent,18:12,White Horse,2009-08-20
+Road,Women,5km,40-44,Amanda Steer,20:17,Aztec West,2014-11-25
+Road,Women,5km,45-49,Amanda Steer,20:46,Pomphrey,2019-04-30
+Road,Women,5km,50-54,Jill Harsent,25:19:00,White Horse,2010-05-20
+Road,Women,5km,55-59,Dawn Addinall,25:13:00,White Horse,2009-06-18
+Road,Women,5km,60-64,Dawn Addinall,24:13:00,White Horse,2010-07-15
+Road,Women,5km,65-69,,,,
+Road,Women,10km,U20,,,,
+Road,Women,10km,Senior,Laura Kent,37:34:00,Bourton,2010-02-28
+Road,Women,10km,35-39,Laura Kent,37:34:00,Bourton,2010-02-28
+Road,Women,10km,40-44,Amanda Steer,41:26:00,Bourton,2014-02-23
+Road,Women,10km,45-49,Amanda Steer,41:05:00,Bourton,2015-02-22
+Road,Women,10km,50-54,Nikki Smith,46:20:00,London,2015-05-25
+Road,Women,10km,55-59,Dawn Addinall,48:31:00,Moreton-in-Marsh,2010-04-11
+Road,Women,10km,60-64,Sylvia Koster,52:31:00,Beacon,2009-09-06
+Road,Women,10km,65-69,,,,
+Road,Women,1m,U20,,,,
+Road,Women,1m,Senior,Helen Knight,05:52,Bourton,2018-07-21
+Road,Women,1m,35-39,Helen Knight,05:52,Bourton,2018-07-21
+Road,Women,1m,40-44,,,,
+Road,Women,1m,45-49,Amanda Steer,06:05,Bourton,2016-07-16
+Road,Women,1m,50-54,,,,
+Road,Women,1m,55-59,,,,
+Road,Women,1m,60-64,,,,
+Road,Women,1m,65-69,,,,
+Road,Women,4m,U20,,,,
+Road,Women,4m,Senior,Eloise du Luart,25:30:00,Aviator 4,2011-05-08
+Road,Women,4m,35-39,Lucy McNulty,26:38:00,Aviator 4,2012-05-06
+Road,Women,4m,40-44,Amanda Steer,26:54:00,Pilot 4m,2011-12-27
+Road,Women,4m,45-49,,,,
+Road,Women,4m,50-54,,,,
+Road,Women,4m,55-59,Dawn Addinall,34:37:00,"Pilot Inn, Glos",2009-12-27
+Road,Women,4m,60-64,Sylvia Koster,32:57:00,White Horse,2009-03-21
+Road,Women,4m,65-69,,,,
+Road,Women,5m,U20,,,,
+Road,Women,5m,Senior,Laura Kent,29:46:00,Tewkesbury,2009-11-01
+Road,Women,5m,35-39,Laura Kent,29:46:00,Tewkesbury,2009-11-01
+Road,Women,5m,40-44,Amelia Mullins,33:47:00,Linda Franks,2016-01-24
+Road,Women,5m,45-49,Amanda Steer,33:06:00,Linda Franks,2015-01-25
+Road,Women,5m,50-54,Nikki Smith,40:12:00,Linda Franks,2015-01-25
+Road,Women,5m,55-59,Sue Clark,40:43:00,Linda Franks,2012-05-13
+Road,Women,5m,60-64,Dawn Addinall,39:06:00,Tewkesbury,2010-11-07
+Road,Women,5m,65-69,,,,
+Road,Women,7m,U20,,,,
+Road,Women,7m,Senior,Liza Barry,47:29:00,Pilot 7m,2009-07-30
+Road,Women,7m,35-39,Louise Inchley,-,Pilot 7m,2009-07-30
+Road,Women,7m,40-44,Amanda Steer,51:20:00,Pilot 7m,2012-07-26
+Road,Women,7m,45-49,,,,
+Road,Women,7m,50-54,,,,
+Road,Women,7m,55-59,,,,
+Road,Women,7m,60-64,,,,
+Road,Women,7m,65-69,,,,
+Road,Women,10m,U20,,,,
+Road,Women,10m,Senior,Edwina Sutton,01:02:50,Gloucester 10m,2009-01-04
+Road,Women,10m,35-39,Carla Quirighetti,01:31:57,Gloucester 10m,2011-01-09
+Road,Women,10m,40-44,Helen Knight,01:09:12,Oldbury,2019-09-01
+Road,Women,10m,45-49,Amanda Steer,01:11:01,Oldbury,2016-09-11
+Road,Women,10m,50-54,,,,
+Road,Women,10m,55-59,,,,
+Road,Women,10m,60-64,,,,
+Road,Women,10m,65-69,,,,
+Road,Women,13.1m,U20,,,,
+Road,Women,13.1m,Senior,Laura Kent,01:22:15,Stroud,2009-10-25
+Road,Women,13.1m,35-39,Laura Kent,01:22:15,Stroud,2009-10-25
+Road,Women,13.1m,40-44,Helen Knight,01:29:30,Gosport,2019-11-17
+Road,Women,13.1m,45-49,Amanda Steer,01:32:46,Cheltenham,2015-09-27
+Road,Women,13.1m,50-54,Nikki Smith,01:41:39,Bath,2015-03-01
+Road,Women,13.1m,55-59,Dawn Addinall,01:53:36,Tewkesbury,2010-05-09
+Road,Women,13.1m,60-64,Dawn Addinall,01:52:36,Cardiff (Short),2010-10-16
+Road,Women,13.1m,65-69,,,,
+Road,Women,20m,U20,,,,
+Road,Women,20m,Senior,Rachael Elkins,02:21:12,Gloucester,2012-03-18
+Road,Women,20m,35-39,Alice Johnston,02:26:19,Stafford,2012-03-11
+Road,Women,20m,40-44,Emma Abbey,02:50:38,Gloucester,2017-03-19
+Road,Women,20m,45-49,Janet Mustoe,03:50:07,Berkeley,2017-03-11
+Road,Women,20m,50-54,,,,
+Road,Women,20m,55-59,,,,
+Road,Women,20m,60-64,,,,
+Road,Women,20m,65-69,,,,
+Road,Women,26.2m,U20,,,,
+Road,Women,26.2m,Senior,Liza Barry,02:57:54,London,2010-04-25
+Road,Women,26.2m,35-39,Emma Skeen,03:16:47,London,2012-04-22
+Road,Women,26.2m,40-44,Amelia Mullins,03:31:34,Abingdon,2015-10-18
+Road,Women,26.2m,45-49,Sarah Wilson,04:17:42,London,2019-04-28
+Road,Women,26.2m,50-54,,,,
+Road,Women,26.2m,55-59,,,,
+Road,Women,26.2m,60-64,Dawn Addinall,04:43:48,Edinburgh,2011-05-22
+Road,Women,26.2m,65-69,,,,
