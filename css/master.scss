@@ -50,60 +50,21 @@ body {
     margin-left: auto;
 }
 	 
- .leftHead {
-    margin-bottom: 1.5em;
-    padding: 1em;
-	  float:left;
-}
-.rightHead {
-    float:right;
-    margin-bottom: 1.5em;
-    padding: 1em;
-}
-  
-.rightHead h1 { 
-   font-weight:400;
-    font-size: 3.5rem;
-    word-break: keep-all;
-    line-height:1rem;
-}
-
 header {
     display: block;
     float:none;
     clear:both;
 }
 
-logoImage {
-  max-height: 3rem;
+brandImage {
+    margin: inherit;
+    border: none;
+    height: 2em;
 }
-	
-.menuBar {
-    margin-top: 1.5em;
-    padding-top: 1.5em;
-    border-top: 1px solid rgb(212, 215, 217);
-}
-	
+		
 footer { margin-top: 1.5em; }
 footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }	
 	
-.menuBar {
-    margin-top: 1.5em;
-    padding-top: 1.5em;
-    border-top: 1px solid rgb(212, 215, 217);
-    clear: both;
-    float:none;
-}
-	
-.menuItem {
-    color: rgb(34, 34, 34);
-    text-decoration: none;
-    font-size: 0.75em;
-    display: inline-block;
-    text-transform: uppercase;
-    padding-bottom: 0.5em;
-    border-bottom: 2px solid $accent_two;
-}	
 
 .callout {	
 	color: $accent_one;
