@@ -28,7 +28,7 @@ $(document).ready(function(){
    success:function(data)
    {
     var row_data = data.split(/\r?\n|\r/);
-    var table_data = '<table class="table table-bordered table-striped">';
+    var table_data = '<table class="table table-bordered table-striped table-hover table-sm .table-responsive">';
     for(var count = 0; count<row_data.length; count++)
     {
      var cell_data = row_data[count].split(",");
@@ -41,7 +41,13 @@ $(document).ready(function(){
       }
       else
       {
-       table_data += '<td>'+cell_data[cell_count]+'</td>';
+        if(cell_data == "") 
+        {
+          table_data += '';
+        }
+        else {    
+          table_data += '<td>'+cell_data[cell_count]+'</td>';
+        }
       }
      }
      table_data += '</tr>';
