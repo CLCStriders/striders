@@ -3,7 +3,7 @@ layout: default
 title: Directory
 ---
 
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
