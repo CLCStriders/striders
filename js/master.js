@@ -2,7 +2,7 @@
 $(document).ready(function() { $('table').addClass('table table-bordered table-striped table-hover table-sm .table-responsive'); });
 
 // add datatables to bootstrap
-$(document).ready(function() { $('#output_data_table').DataTable(); } );
+$(document).ready(function() { $('#output_data_table').DataTable({  ordering: true, searching: true, paging: true }); } );
 
 // homepage carousel
 $(document).ready(function() { $('#gallery').carousel({ interval: false}); });
