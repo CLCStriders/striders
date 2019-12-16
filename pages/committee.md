@@ -23,7 +23,7 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 | Mat Benfield| Webmaster| |
 | Paul Northup| Press Officer| |
 | Hedley Phillips| Kit Coordinator| |
-| __ | Social Secretary| |
+| Tom Kabala | Social Secretary| |
 
 ### Committee minutes
 
