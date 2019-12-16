@@ -2,7 +2,7 @@
 <html lang="en">
   <head>    
     {% include meta.html %}
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">" />
     <title>{{ site.name }}</title>
   </head>
   <body>
@@ -11,15 +11,14 @@
         {% include menu.html %}
         <div class="content">
             <h2>{{ page.title }}</h2>
+            {{ page.content }}
             <div id="output_table"></div>
         </div>          
             {% include footer.html %}
       </div>
     <script src="/js/master.js"></script>
     <script src="//code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
- 
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script> 
   <script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
