@@ -23,11 +23,11 @@ All our routes are circular, starting and finishing at our base <a href="https:/
 
 <a href="/assets/clc-striders-training-etiquette.pdf">CLC STRIDERS TRAINING ETIQUETTE</a>
 
-### Currently, our routes are
+### Currently, our routes vary every few weeks but are
 
-– 4 miles at a variety of paces
-– 6 miles at a variety of paces
-- 8 miles at a variety of paces
+   – 4 miles at a variety of paces
+   – 6 miles at a variety of paces
+   - 8 miles at a variety of paces
 
 ### Speed Work – Wednesday 6.30pm CLC Sports Centre
 
@@ -47,4 +47,4 @@ This group is designed for athletes who predominantly do compete and who want to
 - Phil Jowett (Coach in Running Fitness)
 - Martin Bick (Coach in Running Fitness)
 - Joel Freeland (Coach in Running Fitness)
-- Amelia Mullins (Leader in Running Fitness)
+- Amelia Mullins (Coach in Running Fitness)
