@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Directory
+description : A directory of local businesses aimed at runners
+
 ---
 
 <table>
