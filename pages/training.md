@@ -25,9 +25,10 @@ All our routes are circular, starting and finishing at our base <a href="https:/
 
 ### Currently, our routes vary every few weeks but are
 
-   – 4 miles at a variety of paces
-   – 6 miles at a variety of paces
-   - 8 miles at a variety of paces
+
+* 4 miles at a variety of paces
+* 6 miles at a variety of paces
+* 8 miles at a variety of paces
 
 ### Speed Work – Wednesday 6.30pm CLC Sports Centre
 
