@@ -2,7 +2,7 @@
 <html lang="en">
   <head>    
     {% include meta.html %}
-    <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <title>{{ site.name }}</title>
   </head>
   <body>
@@ -11,46 +11,50 @@
         {% include menu.html %}
         <div class="content">
             <h2>{{ page.title }}</h2>
-            <div id="example"></div>
+            <div id="output_table"></div>
         </div>          
             {% include footer.html %}
       </div>
     <script src="/js/master.js"></script>
     <script src="//code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-    <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
-    <script>            
-      $(document).ready( function () {
-        
-   $('#example').dataTable( {
-    "data": [
-        {
-            "name":       "Tiger Nixon",
-            "position":   "System Architect",
-            "salary":     "$3,120",
-            "start_date": "2011/04/25",
-            "office":     "Edinburgh",
-            "extn":       5421
-        },
-        {
-            "name": "Garrett Winters",
-            "position": "Director",
-            "salary": "5300",
-            "start_date": "2011/07/25",
-            "office": "Edinburgh",
-            "extn": "8422"
-        },
-        // ...
-    ],
-    "columns": [
-        { "data": "name" },
-        { "data": "position" },
-        { "data": "office" },
-        { "data": "extn" },
-        { "data": "start_date" },
-        { "data": "salary" }
-    ]
-     })
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ 
+  <script>
+$(document).ready(function(){
+ $('#load_data').click(function(){
+  $.ajax({
+   url:"{{page.source}}",
+   dataType:"text",
+   success:function(data)
+   {
+    var row_data = data.split(/\r?\n|\r/);
+    var table_data = '<table class="table table-bordered table-striped">';
+    for(var count = 0; count<row_data.length; count++)
+    {
+     var cell_data = row_data[count].split(",");
+     table_data += '<tr>';
+     for(var cell_count=0; cell_count<cell_data.length; cell_count++)
+     {
+      if(count === 0)
+      {
+       table_data += '<th>'+cell_data[cell_count]+'</th>';
+      }
+      else
+      {
+       table_data += '<td>'+cell_data[cell_count]+'</td>';
+      }
+     }
+     table_data += '</tr>';
+    }
+    table_data += '</table>';
+    $('#output_table').html(table_data);
+   }
   });
-    </script>
+ });
+ 
+});
+</script>
+
   </body>
 </html>
