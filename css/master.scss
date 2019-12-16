@@ -6,7 +6,7 @@ $main_color : #0d5f00;
 $main_font_color: #000000;
 $accent_one: #3e9b00;
 $accent_two: #d4d7d9;
-$margins: 2rem 0;
+$margins: 2rem auto;
 
 @mixin box-sizing($property){
   -webkit-box-sizing: $property;
@@ -17,16 +17,16 @@ $margins: 2rem 0;
 body {
     font-size: 16px;
     display: block;
-    margin: 8px;
+    margin: $margins;
     font-family: $ff;
 }
 
 #wrapper {
-	margin: auto;
+    margin: $margins;
 }
 
 #output_table {
-   margin:  $margin;	
+   margin:  $margins;	
 }
 
 .content {
@@ -34,7 +34,7 @@ body {
     line-height: 1.75;
     font-size: 1em;
     color: $main_font_color;
-    margin:  $margin;
+    margin: $margins;
     float:none;
     clear:both;
 }
@@ -52,10 +52,13 @@ header {
     padding: 0 1rem 0 0;
 }
 		
-footer { margin:  $margin; }
-footer p { font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em; }	
+footer { 
+	margin: $margins;
+}
+footer p { 
+	font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em;
+}	
 	
-
 .callout {	
 	color: $accent_one;
 	display:block;
