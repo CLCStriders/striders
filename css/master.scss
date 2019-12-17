@@ -19,6 +19,7 @@ body {
     display: block;
     margin: $margins;
     font-family: $ff;
+    padding-top: 65px; 
 }
 
 #output_table {
@@ -29,6 +30,7 @@ header {
     display: block;
     float:none;
     clear:both;
+    border-bottom: 2px solid $accent_two;
 }
 
 .brandImage {
@@ -37,7 +39,9 @@ header {
     height: 2.5rem;
     padding: 0 1rem 0 0;
 }
-		
+
+
+
 footer { 
 	margin: $margins;
 }
@@ -61,7 +65,7 @@ h1 a {
     border: 0;
 }	
 
-content a, footer a {
+.container a, footer a {
     color: rgb(34, 34, 34);
     text-decoration: none;
     border-bottom: 2px solid $accent_two;
@@ -69,17 +73,15 @@ content a, footer a {
 
 @media only screen and (max-width: 48em)
 {
-.callout {	
-	color: $accent_one;
-	display:block;
-	font-size:36px;
-	font-weight:800;
-	line-height:50px;
-	margin-block-end:36px;
-	margin-block-start:36px;
-	margin-inline-end:0px;
-	margin-inline-start:0px;
- }
-  	
+	.callout {	
+		color: $accent_one;
+		display:block;
+		font-size:36px;
+		font-weight:800;
+		line-height:50px;
+		margin-block-end:36px;
+		margin-block-start:36px;
+		margin-inline-end:0px;
+		margin-inline-start:0px;
+	 }	
 }
-
