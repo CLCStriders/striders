@@ -8,15 +8,15 @@ Road,Men,5km,50-54,Paul Northup,18:50,Haresfield,2017-05-24
 Road,Men,5km,55-59,JJ Willson,19:02,Aztec West,2016-07-26
 Road,Men,5km,60-64,Tony Stanton,21:09,White Horse,2009-08-20
 Road,Men,5km,65-69,David James,22:34,Aztec West,2015-05-26
-Road,Men,10km,U20,Ben Pedley,35:23:00,White Horse,2010-04-03
-Road,Men,10km,Senior,John Parker,31:55:00,Berkeley,2010-05-10
-Road,Men,10km,35-39,John Parker,31:55:00,Berkeley,2010-05-10
-Road,Men,10km,40-44,Darren Milne,33:28:00,Bourton,2013-02-27
-Road,Men,10km,45-49,Brendan Ward,36:31:00,Blaisdon,2009-05-04
-Road,Men,10km,50-54,Charles Goodwin,37:50:00,Berkeley,2017-05-15
-Road,Men,10km,55-59,JJ Willson,39:42:00,Berkeley,2016-05-09
-Road,Men,10km,60-64,Edward Collier,44:02:00,Worcester City 10k,2018-09-16
-Road,Men,10km,65-69,David James,47:25:00,Aviator 10k,2015-06-14
+Road,Men,10km,U20,Ben Pedley,35:23,White Horse,2010-04-03
+Road,Men,10km,Senior,John Parker,31:55,Berkeley,2010-05-10
+Road,Men,10km,35-39,John Parker,31:55,Berkeley,2010-05-10
+Road,Men,10km,40-44,Darren Milne,33:28,Bourton,2013-02-27
+Road,Men,10km,45-49,Brendan Ward,36:31,Blaisdon,2009-05-04
+Road,Men,10km,50-54,Charles Goodwin,37:50,Berkeley,2017-05-15
+Road,Men,10km,55-59,JJ Willson,39:42,Berkeley,2016-05-09
+Road,Men,10km,60-64,Edward Collier,44:02,Worcester City 10k,2018-09-16
+Road,Men,10km,65-69,David James,47:25,Aviator 10k,2015-06-14
 Road,Men,1m,U20,George Parker,06:05,Bourton,2014-07-19
 Road,Men,1m,Senior,John Parker,04:32,Bourton,2010-07-17
 Road,Men,1m,35-39,John Parker,04:32,Bourton,2010-07-17
@@ -26,7 +26,7 @@ Road,Men,1m,50-54,Paul Northup,05:26,Meteor Mile,2017-09-02
 Road,Men,1m,55-59,Andrew Gage,06:15,Bourton,2016-07-16
 Road,Men,1m,60-64,David James,06:52,Bourton,2012-07-22
 Road,Men,1m,65-69,David James,06:44,Staverton,2019-08-31
-Road,Men,4m,U20,Ollie Mosley,29:58:00,Aviator 4,2014-05-11
+Road,Men,4m,U20,Ollie Mosley,29:58,Aviator 4,2014-05-11
 Road,Men,4m,Senior,John Parker,20:20,White Horse,2010-04-10
 Road,Men,4m,35-39,John Parker,20:20,White Horse,2010-04-10
 Road,Men,4m,40-44,Phil Jowett,23:14,White Horse,2010-04-10
@@ -41,7 +41,7 @@ Road,Men,5m,35-39,John Parker,26:16,Aero 5,2010-07-01
 Road,Men,5m,40-44,Chris Hale,29:28,Tewkesbury,2010-11-07
 Road,Men,5m,45-49,Will Miles,30:00,White Horse,2009-05-25
 Road,Men,5m,50-54,Paul Northup,29:53,Linda Franks 5 Mile Race,2018-01-21
-Road,Men,5m,55-59,Nicholas Von Benzon,34:39:00,Quedgeley,2011-12-17
+Road,Men,5m,55-59,Nicholas Von Benzon,34:39,Quedgeley,2011-12-17
 Road,Men,5m,60-64,Tony Stanton,34:33,"Pilot Inn (Glos)",2010-01-01
 Road,Men,5m,65-69,Mike Brooker,47:25,Tewkesbury,2008-11-02
 Road,Men,7m,,,,,
