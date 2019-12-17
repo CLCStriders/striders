@@ -15,7 +15,7 @@
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
-   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/{{page.source}}",
+   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/{{ page.source }}?v={{ site.cache }}",
    dataType:"text",
    success:function(data)
    {
@@ -52,8 +52,6 @@ $(document).ready(function(){
  
 });
 </script>
-    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.css"  crossorigin="anonymous"/>
-    <script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"  crossorigin="anonymous"></script>  
            </div>
         </div>          
             {% include footer.html %}
