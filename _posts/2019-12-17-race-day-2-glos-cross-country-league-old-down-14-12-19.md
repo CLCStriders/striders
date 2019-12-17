@@ -1,6 +1,6 @@
 ---
 title: 'Race Day 2: Glos Cross Country League, Old Down, 14.12.19'
-date: 2019-12-17T09:05:04+00:00
+date: 2019-12-17
 author: Paul Northup
 layout: post
 categories:
