@@ -1,0 +1,3 @@
+Contact: security@clcstriders-runningclub.co.uk
+Preferred-Languages: en
+Canonical: /.well-known/security.txt
