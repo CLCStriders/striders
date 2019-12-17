@@ -25,7 +25,7 @@ $(document).ready(function(){
     for(var count = 0; count<row_data.length; count++)
     {
       if( count === 0 ) {
-       table_data. ='<thead>';
+       table_data +='<thead>';
         var cell_data = row_data[count].split(",");
          table_data += '<tr>';
          for(var cell_count=0; cell_count<cell_data.length; cell_count++)
@@ -36,7 +36,7 @@ $(document).ready(function(){
           }
          }
          table_data += '</tr>';
-       table_data. ='</thead><tbody>';   
+       table_data +='</thead><tbody>';   
       }
       else {
          var cell_data = row_data[count].split(",");
