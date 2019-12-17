@@ -19,7 +19,7 @@ body {
     display: block;
     margin: $margins;
     font-family: $ff;
-    padding-top: 65px; 
+    padding-top: 75px; 
 }
 
 #output_table {
@@ -30,7 +30,6 @@ header {
     display: block;
     float:none;
     clear:both;
-    border-bottom: 2px solid $accent_two;
 }
 
 .brandImage {
@@ -65,7 +64,7 @@ h1 a {
     border: 0;
 }	
 
-.container a, footer a {
+footer > a {
     color: rgb(34, 34, 34);
     text-decoration: none;
     border-bottom: 2px solid $accent_two;
