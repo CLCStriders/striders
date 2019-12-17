@@ -13,7 +13,7 @@ facebook:       https://www.facebook.com/CLCStriders/
 strava:         https://www.strava.com/clubs/clc-striders
 instagram:      https://instagram.com/CLCStriders
 encoding:       UTF-8
-future:         true
+future:         false
 exclude:        ["README"]
 sass:
   style:        compressed
