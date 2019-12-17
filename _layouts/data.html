@@ -14,17 +14,16 @@
         </div>          
             {% include footer.html %}
       </div>
-    <script src="/js/master.js?v=990uigkbf"></script>
   <script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
-   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/{{page.source}}?v=898989yuihkbkjv",
+   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/{{page.source}}",
    dataType:"text",
    success:function(data)
    {
     var row_data = data.split(/\r?\n|\r/);
-    var table_data = '<table id="output_data_table" class="display table table-bordered table-striped table-hover table-sm .table-responsive">';
+    var table_data = '<table id="output_table" data-toggle="table" class="display table table-bordered table-striped table-hover table-sm .table-responsive">';
     for(var count = 0; count<row_data.length; count++)
     {
      var cell_data = row_data[count].split(",");
@@ -56,5 +55,6 @@ $(document).ready(function(){
  
 });
 </script>
+    <script src="/js/master.js?b=jkgkvd65ukygvfdu"></script>    
   </body>
 </html>
