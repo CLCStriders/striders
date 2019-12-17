@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stroud Half Marathon 2019
-tags: [13.1]
+tags: [13.1, Race Reports]
 ---
 
 On a bright, crisp, chilly late October morning – and having enjoyed an extra hour in bed with the switch back to GMT – a crop of CLC Striders took their places among 2,000 or so starters for the popular annual Stroud Half Marathon.
