@@ -26,12 +26,6 @@ body {
    margin:  $margins;	
 }
 	 
-header {
-    display: block;
-    float:none;
-    clear:both;
-}
-
 .brandImage {
     margin: inherit;
     border: none;
@@ -62,12 +56,6 @@ footer p {
 	
 h1 a {
     border: 0;
-}	
-
-footer > a {
-    color: rgb(34, 34, 34);
-    text-decoration: none;
-    border-bottom: 2px solid $accent_two;
 }	
 
 @media only screen and (max-width: 48em)
