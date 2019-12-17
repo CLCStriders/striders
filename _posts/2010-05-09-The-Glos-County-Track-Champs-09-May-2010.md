@@ -1,0 +1,52 @@
+---
+id: 174
+title: The Glos County Track Champs 09 May 2010
+date: 2010-05-09T09:00:00+01:00
+excerpt: '<p>It was the turn of the middle distance runners at the county track championships today. They produced some outstanding performances in both the 800m and 1500m. Great efforts, keep it up!, Brendan Ward (Club Chairman) County Champs 09 May 2010 Photos Report Results</p>'
+layout: post
+permalink: /2010/05/The-Glos-County-Track-Champs-09-May-2010-/
+---
+**The Glos County Track Championships 09 May 2010** </p> 
+
+**Report**
+
+**800m**Rich Dare ran a fantastic 800 metres to take the County Senior Men&#8217;s Gold Medal at the Prince of Wales Stadium Sunday 9th May. Dare who had raced the 5K Track Championships only two days before knocked two seconds off his PB time to record 2 min&#8217;s dead. Rich Cannock who was in the same race did very well to run a sub 2.20 for the distance and also record a PB time.  
+**1500m**Ben Pedley ran an aggressive race to record a lifetime best in the 1500 metres to win Silver in the Junior Mens race and record 4.23.1 for the distance.
+
+<a name="Report"></a>**Results**</p> 
+
+<map name="100109w.jpg">
+  <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />
+  
+  <area shape="RECT" coords="379,28,393,45" alt="Sarah Greef" />
+  
+  <area shape="RECT" coords="354,28,368,46" alt="Rachel Vines" />
+  
+  <area shape="RECT" coords="303,28,318,46" alt="Anna Maughan" />
+  
+  <area shape="RECT" coords="206,28,220,46" alt="Dawn Addinall" />
+  
+  <area shape="RECT" coords="86,28,103,46" alt="Alex Evans" />
+</map>
+
+<map name="100109m.jpg">
+  <area shape="RECT" coords="63,31,76,45" alt="Clive Scott" />
+  
+  <area shape="RECT" coords="112,32,121,44" alt="Paul Davies" />
+  
+  <area shape="RECT" coords="118,32,129,43" alt="Paul Stonuary" />
+  
+  <area shape="RECT" coords="223,29,236,47" alt="James Gibbs" />
+  
+  <area shape="RECT" coords="255,29,264,42" alt="David Smeath" />
+  
+  <area shape="RECT" coords="263,28,272,43" alt="Chris Hale" />
+  
+  <area shape="RECT" coords="275,31,288,45" alt="Rob Shute" />
+  
+  <area shape="RECT" coords="308,31,321,45" alt="Billy Bradshaw" />
+  
+  <area shape="RECT" coords="582,29,594,46" alt="Will Ferguson" />
+  
+  <area shape="RECT" coords="680,30,694,45" alt="Race Winner" />
+</map>
