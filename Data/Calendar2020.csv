@@ -1,7 +1,7 @@
-Date,Race,Distance,Terrain,Link
+Date,Race,Distance,Terrain,Links
 22 December 2019,Forest of Dean Christmas 5 mile race,5 miles,-,-
-29 December 2019,Gloucester 10 mile road race,10 miles,Road,https://www.beyondthelimitations.org.uk
-19 January 2020,Linda Franks Race,5 miles,Road,https://www.almostathletes.co.uk
+29 December 2019,'<a href="https://www.beyondthelimitations.org.uk">Gloucester 10 mile road race</a>',10 miles,Road
+19 January 2020,'<a href="https://www.almostathletes.co.uk">Linda Franks Race</a>',5 miles,Road
 19 January 2020,Speedway 10km (Chepstow),10km,Road,https://sites.google.com/view/speedway10k
 26 January 2020,Staverton 10,10 miles,Road,-
 28 January 2020,Pomphrey 5km (Bristol),5km,Road,-
