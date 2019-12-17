@@ -14,4 +14,6 @@ if(selection) {
 }
 
 // datatables
-
+$(document).ready(function() {
+    $('#output_table_data').DataTable();
+} );
