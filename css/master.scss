@@ -21,22 +21,8 @@ body {
     font-family: $ff;
 }
 
-#wrapper {
-    margin: $margins;
-}
-
 #output_table {
    margin:  $margins;	
-}
-
-.content {
-    font-weight: 200;
-    line-height: 1.75;
-    font-size: 1em;
-    color: $main_font_color;
-    margin: $margins;
-    float:none;
-    clear:both;
 }
 	 
 header {
