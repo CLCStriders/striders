@@ -10,11 +10,8 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
             {{ page.content }}
-            <div id="output_table_div"></div>
-        </div>          
-            {% include footer.html %}
-      </div>
-  <script>
+            <div id="output_table_div">
+                <script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
@@ -57,5 +54,9 @@ $(document).ready(function(){
 </script>
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.css"  crossorigin="anonymous"/>
     <script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"  crossorigin="anonymous"></script>  
+           </div>
+        </div>          
+            {% include footer.html %}
+      </div>
   </body>
 </html>
