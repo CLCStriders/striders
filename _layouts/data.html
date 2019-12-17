@@ -10,7 +10,7 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
             {{ page.content }}
-            <div id="output_table"></div>
+            <div id="output_table_div"></div>
         </div>          
             {% include footer.html %}
       </div>
@@ -24,7 +24,7 @@ $(document).ready(function(){
    success:function(data)
    {
     var row_data = data.split(/\r?\n|\r/);
-    var table_data = '<table id="output_data_table" class="table table-bordered table-striped table-hover table-sm .table-responsive">';
+    var table_data = '<table id="output_data_table" class="display table table-bordered table-striped table-hover table-sm .table-responsive">';
     for(var count = 0; count<row_data.length; count++)
     {
      var cell_data = row_data[count].split(",");
@@ -49,7 +49,7 @@ $(document).ready(function(){
      table_data += '</tr>';
     }
     table_data += '</table>';
-    $('#output_table').html(table_data);
+    $('#output_table_div').html(table_data);
    }
   });
  });
