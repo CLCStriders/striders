@@ -5,6 +5,8 @@ description : A directory of local businesses aimed at runners
 
 ---
 
+Note that the CLC Striders Running Club do not endorse or recommend any commercial products or services and being listed does not constitute or imply an endorsement.
+
 <table>
 <tbody>
 <tr>
@@ -43,8 +45,9 @@ Like our facebook page for more offers. <a href="http://www.facebook.com/justali
 We are Malc and Rachel and we really love running and the running community.On Saturdays we can usually be found at Cheltenham parkrun. We have travelled the world to take part in races &#8211; long and short, and love meeting like minded people. We’ve certainly tested our t-shirts, vests and hoodies. We focus on supplying what we believe runners want, and what they tell us they want.</td>
 </tr>
 </tbody>
+           
 </table>
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
@@ -81,7 +84,7 @@ We are Malc and Rachel and we really love running and the running community.On S
 </tbody>
 </table>
 <h2>Sports Physiotherapy</h2>
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
@@ -117,7 +120,7 @@ We are Malc and Rachel and we really love running and the running community.On S
 </tr>
 </tbody>
 </table>
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
@@ -158,7 +161,7 @@ As a team player herself, Madeleine understands the importance of reducing the r
 </tr>
 </tbody>
 </table>
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
@@ -206,7 +209,7 @@ Cheltenham and Gloucester.</td>
 </tr>
 </tbody>
 </table>
-<table style="width: 800px; border: 1px solid #0d5f00;">
+<table>
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
@@ -243,6 +246,4 @@ Cheltenham and Gloucester.</td>
 </tr>
 </tbody>
 </table>
-           
-
-Note that the CLC Striders Running Club do not endorse or recommend any commercial products or services and being listed does not constitute or imply an endorsement.
+          
