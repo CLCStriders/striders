@@ -16,5 +16,5 @@ var taglines=[
 
 var selection = document.querySelector('#tagline') !== null;
 if(selection) {
-  selection.innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
+  document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
 }
