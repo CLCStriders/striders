@@ -51,6 +51,12 @@ footer p {
 	margin-inline-end:0px;
 	margin-inline-start:0px;
 }
+
+.carousel-inner > .item >img{
+  min-height : 300px;
+  max-height : 300px;
+  width : 100%;
+}
 	
 h1 a {
     border: 0;
