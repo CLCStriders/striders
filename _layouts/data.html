@@ -46,17 +46,12 @@ $(document).ready(function(){
     }
     table_data += '</table>';
      
-    var firstTr = table_data.find('tr:first').remove()
-    firstTr.find('th').contents().unwrap().wrap('<th>')
-    table_data.prepend($('<thead></thead>').append(firstTr))
-     
     $('#output_table_div').html(table_data);
    }
   });
  });
  
 });
-
 </script>
            </div>
         </div>          
