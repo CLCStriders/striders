@@ -1,6 +1,6 @@
 ---
 title: Fixtures
-source: Data/Calendar2020.csv
+source: Data/Fixtures.csv
 layout: data
 
 ---
