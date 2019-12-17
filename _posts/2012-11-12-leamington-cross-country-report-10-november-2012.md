@@ -1,0 +1,10 @@
+---
+id: 493
+title: 'Leamington Cross Country Report &#8211; 10 November 2012'
+date: 2012-11-12T21:05:24+00:00
+excerpt: '<p>CLC Striders competed at Leamington in the Birmingham Cross Country League Division 2 fixture.</p>'
+layout: post
+permalink: /2012/11/leamington-cross-country-report-10-november-2012/
+---
+The Spa town course is hilly and always challenging, but the exceptionally muddy conditions this year made racing particularly tough. The Striders men, who gained promotion last season at the very first attempt, acquitted themselves well in this highly competitive league. In the men&#8217;A Team, star man was Rich Dare (pictured) who ran superbly to lead the Striders home in 8th place. Rich Evershed was next in 29th place, club captain Chris Driskell finished 52nd, Dave Smeath ran well for 70th, Rich Shardlow was 98th with the final A Team member Jon Bird coming home in 104th place. This places the team an excellent 11th place overall out of 17 teams with three fixtures remaining. The mens&#8217;B Team finished in 8th place being led home by Jamie Patterson who finished 125th. Meanwhile the Striders Ladies Team, who compete in the Midlands division league, were led home by Liza Barry who ran a very good race to finish 41st. Barry was supported by Trish Woods in 101st followed by Amanda Steer in 114th place, Ladies Captain Rachel Vines 135th with final team member Helen Howes finishing in 161st place.  
+<a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2012-13/2012-11-10-m2.pdf" target="_blank" rel="nofollow">Mens&#8217;</a>and <a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2012-13/2012-11-10-w.pdf" target="_blank" rel="nofollow">ladies&#8217;</a>results are now available on the Birmingham Cross Country League Website
