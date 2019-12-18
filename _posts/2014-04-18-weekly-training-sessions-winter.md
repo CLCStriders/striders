@@ -3,7 +3,7 @@ title: Weekly Training Sessions (Winter)
 author: Clark Lawson
 layout: post
 categories:
-  - Awards
+  - Training
 ---
 ### I am new to running. Can I try one of your sessions?
 
