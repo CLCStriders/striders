@@ -1,11 +1,10 @@
 ---
-id: 3606
 title: Stroud Half Marathon, 27 October 2019
 author: Paul Northup
 layout: post
 categories:
-  - Race Reports
-  - Road Reports
+  - RaceReports
+  - RoadReports
 tags:
   - Stroud
   - Stroud Half Marathon
