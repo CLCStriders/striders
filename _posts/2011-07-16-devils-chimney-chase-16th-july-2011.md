@@ -1,12 +1,10 @@
 ---
 
-title: 'Devil's Chimney Chase 16th July 2011'
-date: 2011-07-16T23:34:00+01:00
-excerpt: "<p>Striders take on the notorious Devil's Chimney Chase over Leckhampton Hill...</p>"
+title: 'Devils Chimney Chase 16th July 2011'
 layout: post
-permalink: /2011/07/devils-chimney-chase-16th-july-2011/
+
 ---
-</p> 
+<p>Striders take on the notorious Devil's Chimney Chase over Leckhampton Hill...</p>
 
 Sid Mcfarland, John Bird, Jamie Paterson and Chris Driskell completed the Almost Athletes Devil's Chimney Chase - a race every bit as tough as the name suggests!
 
