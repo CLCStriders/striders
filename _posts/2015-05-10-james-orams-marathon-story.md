@@ -1,14 +1,13 @@
 ---
 
-title: 'James Oram's Marathon Story'
-date: 2015-05-10T16:26:21+01:00
+title: 'James Orams Marathon Story'
 author: Clark Lawson
-excerpt: "<p>After smashing the club's marathon record (and also the VM record at the same time) with a 2:43:43, James Oram shares his marathon story with the website.</p>"
 layout: post
-permalink: /2015/05/james-orams-marathon-story/
 categories:
-  - Awards
+  - Blog
 ---
+After smashing the club's marathon record (and also the VM record at the same time) with a 2:43:43, James Oram shares his marathon story with the website.
+
 Why?
 
 My father-in-law is fond of saying, &#8220;a runner runs&#8221; as well as I did not feel that I had done myself justice at London previously. This would be my third London marathon and, going into the start of training, felt like my best shot to date to atone for the schoolboy mess I made of 2013 where I went haring off and getting to 10k only 12 seconds outside my personal best. I had also been running with the Striders for about 9 or 10 months by the time I started training and felt like I was going into it in really good shape.
