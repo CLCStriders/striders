@@ -41,6 +41,6 @@ In pen 5 it took us 6 minutes to cross the start line. It was impossible to run 
 
 The feeling at the end was indescribable. I had known for a few weeks that the hoped for 4 hour target was not really feasible anymore, so finishing just 8 minutes over was really wonderful. The lady who put the medal around my neck asked me if I needed a hug, at which point I fell into her arms in tears - having watched the man in front of me do the same (poor woman). London is very well organised, and I was processed swiftly through photos, goodie bags and kit bag retrieval. When I turned my phone back on it went incandescent - apparently friends, family and Striders had been watching me, and donations had been flooding in.
 
-We took the train back to St Albans where my godfather met us at the station, making me laugh by proudly telling random people that I had run the marathon. The same station hand was still on duty, and stopped me to ask how I had got on. I told him 4:08 he smiled and said â€œreally well done, love, really well doneâ€.
+We took the train back to St Albans where my godfather met us at the station, making me laugh by proudly telling random people that I had run the marathon. The same station hand was still on duty, and stopped me to ask how I had got on. I told him 4:08 he smiled and said 'really well done, love, really well done'.
 
 But the best part came 3 days later when I visited my best friend to show her my medal.
