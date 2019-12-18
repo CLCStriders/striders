@@ -1,23 +1,14 @@
 ---
-id: 1691
 title: CLC Striders Staverton 10 Race Information
-date: 2015-01-25T21:15:36+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1691
-permalink: /2015/01/clc-striders-staverton-10-race-information/
 categories:
   - Events
-  - News
-  - Uncategorised
 ---
-<p style="text-align: center;">
-  <strong>ENTRIES WILL SHORTLY BE OPENED FOR THE CLC STRIDERS STAVERTON 10 MILE RACE</strong>
-</p>
+  
+<strong>ENTRIES WILL SHORTLY BE OPENED FOR THE CLC STRIDERS STAVERTON 10 MILE RACE</strong>
 
-<p style="text-align: center;">
   <strong>CLC STRIDERS present the 2nd Staverton 10 on Sunday January 29th 2017 at 09:00am held at The Aviator Inn, Gloucestershire Airport.</strong>
-</p>
 
 This is a fantastic flat, fast road race which is aimed at helping runners prepare for the Spring Marathon season.
 
