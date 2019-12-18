@@ -4,6 +4,9 @@ title: Categories
 ---
 
 <div id="archives">
+  {% include toc.html html=content %}
+  
+  
 {% for category in site.categories %}
   <h4>{{ category[0] }}</h4>
   <ul>
