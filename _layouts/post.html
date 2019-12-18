@@ -8,13 +8,15 @@
       <div class="container">
         {% include header.html %}
           <div class="container">
-              <h2>{{ page.title }}</h2>
-            
+             
             <div class="container postHeader">
-                <span class="float-left"></span><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
+                <span class="float-left"><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a> </span> 
                 <span class="post-date float-lg-right">
                     <em>{{ page.date | date: "%-d %B %Y" }}</em>  
                 </span>
+
+                <h2>{{ page.title }}</h2>
+
                 <br/>
                 <span class="read-time float-lg-right" title="Estimated read time"><small>
                     <em>{% assign words = content | number_of_words %}
@@ -29,8 +31,8 @@
            
             {{ content }}
             
-            {% unless post.category == null %}
-              {% capture pageCategory %}{{ post.category }}{% endcapture %}
+            {% unless page.category == null %}
+              {% capture pageCategory %}{{ page.category }}{% endcapture %}
               {% unless site.categories[pageCategory].size == 1 %}
                 <div class="row related-posts">
                   <h2>More {{ page.category }} Posts!</h2>
