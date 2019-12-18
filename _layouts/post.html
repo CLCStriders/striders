@@ -9,16 +9,16 @@
         {% include header.html %}
           <div class="container">
              
-            <div class="container postHeader">
-                <span class="float-left"><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a> </span> 
-                <span class="post-date float-lg-right">
+            <div class="postHeader">
+                <span class="float-left">
+                     <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
+                </span> 
+                <span class="post-date float-right">
                     <em>{{ page.date | date: "%-d %B %Y" }}</em>  
                 </span>
 
                 <h2>{{ page.title }}</h2>
-
-                <br/>
-                <span class="read-time float-lg-right" title="Estimated read time"><small>
+                <span class="read-time" title="Estimated read time"><small>
                     <em>{% assign words = content | number_of_words %}
                        approx {% if words < 360 %} 1 min read. 
                               {% else %} {{ words | divided_by:180 }} mins read. 
@@ -26,8 +26,6 @@
                     </em> 
                  </small></span>
            </div>
-              
-           <div class="container">
            
             {{ content }}
             
