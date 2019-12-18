@@ -20,4 +20,5 @@ sass:
   style:        compressed
 gems:
   - jekyll-feed
-plugins:        jekyll-paginate
+  - jekyll-paginate
+  - jekyll-github-metadata
