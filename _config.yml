@@ -2,7 +2,6 @@ highlighter:    rouge
 markdown:       kramdown
 permalink:      ./:title
 paginate:       10
-paginate_path: "/news/page:num/"
 name:           CLC Striders
 description:    "Cheltenham Running Club"
 slogan:         "Cheltenham Running Club"
