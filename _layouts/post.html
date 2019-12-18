@@ -12,13 +12,13 @@
               <span class="float-left"></span><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
 
             <span class="post-date float-lg-right">
-                <em>{{ page.date | date: "%-d %B %Y" }}</em> 
+                <em>{{ page.date | date: "%-d %B %Y" }}</em>  
             </span>
             <span class="read-time float-lg-right" title="Estimated read time">
                 <em>{% assign words = content | number_of_words %}
-                   approx {% if words < 360 %} 1 min read.
+                   approx {% if words < 360 %} 1 min read. 
                           {% else %} {{ words | divided_by:180 }} mins read. 
-                          {% endif %}
+                          {% endif %} 
                 </em> 
             </span>
             <hr/>
