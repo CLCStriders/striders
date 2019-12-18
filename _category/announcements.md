@@ -1,4 +1,5 @@
 ---
 tag: announcements
-permalink: "/category/announcements"
+permalink: "/categories/announcements"
+
 ---
