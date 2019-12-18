@@ -1,15 +1,12 @@
 ---
-
 title: Midlands Road Relays 24th September 2011
-date: 2011-09-24T20:51:33+01:00
 author: Clark Lawson
-excerpt: "<p>Striders's Ladies impress and Men improve in the Midland Road Relays at Sutton Park. (More photos added!)</p>"
 layout: post
-permalink: /2011/09/midlands-road-relays-24th-september-2011/
 categories:
-  - Awards
+  - Road Reports
 ---
-</p> 
+
+<p>Striders's Ladies impress and Men improve in the Midland Road Relays at Sutton Park. (More photos added!)</p>
 
 The ladies team travelled to Sutton Park to compete in the Midland Counties Road Relays at Sutton Park on Saturday 24 September 2011. This was the third year that the club had participated in this event and certainly showed how far the club has come over this period by turning out 3 womensâ€™ teams. 
 
@@ -69,4 +66,5 @@ Leg 5 - Jon Howes - 23:56
 
 Leg 6 - Jamie Paterson - 21:37
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>
+* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a>
+* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>
