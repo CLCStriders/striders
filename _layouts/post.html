@@ -11,17 +11,16 @@
               <h2>{{ page.title }}</h2>
               <span class="float-left"></span><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
 
-              <span class="post-date float-lg-right">| {{ page.date | date: "%-d %B %Y" }}</span>
-              <span class="read-time float-lg-right" title="Estimated read time">| <em>{% assign words = content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
+              <span class="post-date float-lg-right">| {{ page.date | date: "%-d %B %Y" }} </span>
+              <span class="read-time float-lg-right" title="Estimated read time">| <em>{% assign words = content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em> </span>
 
             <hr/>
             
             {{ content }}
             
-            <hr/>
 
-            {% unless page.category == null %}
-              {% capture pageCategory %}{{ page.category }}{% endcapture %}
+            {% unless post.category == null %}
+              {% capture pageCategory %}{{ post.category }}{% endcapture %}
               {% unless site.categories[pageCategory].size == 1 %}
                 <div class="row related-posts">
                   <h2>More {{ page.category }} Posts!</h2>
