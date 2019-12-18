@@ -8,3 +8,9 @@ You can:
 
 [You can access the front end here](https://striders.thechels.uk)
 
+
+### Technology
+
+This website is built using Jekyll - a static site generator built on Ruby, it is hosted on Github.
+
+The site and DNS records are backed by CloudFlare.
