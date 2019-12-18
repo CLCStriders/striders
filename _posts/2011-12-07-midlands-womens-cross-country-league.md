@@ -1,5 +1,5 @@
 ---
-title: 'Midlands Womens Cross Country League - 3rd December 2011'
+title: 'Midlands Womens Cross Country League 3rd December 2011'
 layout: post
 
 ---
