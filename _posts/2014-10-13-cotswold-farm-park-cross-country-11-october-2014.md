@@ -1,13 +1,11 @@
 ---
 
 title: 'Cotswold Farm Park - Cross Country - 11 October 2014'
-date: 2014-10-13T20:08:29+01:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders had a squad of 34 runners competing in the first Gloucestershire Cross Country league fixture of the 2014/15 season.</p>'
 layout: post
-permalink: /2014/10/cotswold-farm-park-cross-country-11-october-2014/
 categories:
-  - Awards
+  - Cross Country Reports
 ---
 The Striders ladies race was first to start. CLC are the county's leading ladies cross country team, winning four county league titles over the past five years and the club didn't disappoint; they finished second team on the day, and were first Gloucestershire club. The Striders ladies were led home by their bright new signing Katie Trustlove who, in her first ever cross country ,race led the ladies A team home in an excellent 8th place. Jo Wilkie ran well in 11th, and Liza Barry ran an excellent comeback race finishing in 14th place. With several months of racing ahead it certainly looks like the striders ladies are in a good place. Meanwhile, Rachel Vines led the B team to 5th place overall. Vines was backed up well by Vicky Veness who was 22nd with Amelia Mullins finishing in a solid 24th place. Other notable performances were had by Amanda Steer, Rachel Burdick, Beckie Boulton, Emma Abbey, Nikki Smith, Dawn Addinall and Amanda Pill.
 
