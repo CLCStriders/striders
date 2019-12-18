@@ -1,11 +1,7 @@
 ---
-id: 3671
 title: Christmas Training Schedule
-date: 2019-12-15T12:12:19+00:00
 author: Mat Benfield
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3671
-permalink: /2019/12/christmas-training-schedule/
 categories:
   - Announcements
   - Training
