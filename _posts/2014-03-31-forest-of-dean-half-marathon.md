@@ -1,14 +1,14 @@
 ---
 
 title: 'Forest of Dean Half Marathon - 30 March 2014'
-date: 2014-03-31T21:02:38+01:00
 author: Clark Lawson
-excerpt: '<p>The Striders went down to the woods today and came back with a lovely prize.....</p>'
 layout: post
-permalink: /2014/03/forest-of-dean-half-marathon/
 categories:
-  - Awards
+  - Race Reports
 ---
+
+<p>The Striders went down to the woods today and came back with a lovely prize.....</p>'
+
 An early start with the clocks moving forward, but this did have the benefit of keeping the temperatures down for the start of the Forest Of Dean Half Marathon on this beautiful sunny March Mothers Day. The race had a festival upbeat buzz right from the start as the growing number of Striders congregated in the registration area. 13.1 miles of undulating (hilly) trail lay ahead, some bits pretty stony, and despite the recent months of rain, thankfully not muddy.
 
 The trail, terrain and fast downhill start did not get the better of the striders. Jo Wilkie used her fitness and strength carried over from her successful cross country season to earn the position of 1<sup>st</sup>Strider and 7<sup>th</sup>female at 1.33.19, the 2<sup>nd</sup>Strider and 10<sup>th</sup>female was Alice Johnston whose first race post injury did not disappoint in a super quick time of 1.34.29. 
