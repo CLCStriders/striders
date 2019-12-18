@@ -5,6 +5,25 @@ description: Club training sessions
 
 ---
 
+{:toc}
+
+
+<style>
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+#markdown-toc ul {
+    list-style: decimal;
+}
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
+</style>
+
 __Q__: I am new to running. Can I try one of your sessions?
 
 __A__: Yes! If you are a complete beginner, come along and try our Wednesday night Improvers Group. You will get expert advice from our Inprovers coach, Chris (aka “GPS”), on how to embark on your running adventure in a sociable and fun environment. Please see below for more information.
