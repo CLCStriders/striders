@@ -3,7 +3,7 @@ title: 'Race Day 2: Glos Cross Country League, Old Down, 14.12.19'
 author: Paul Northup
 layout: post
 categories:
-  - Cross Country Reports
+  - Cross Country
   - Race Reports
 ---
 
