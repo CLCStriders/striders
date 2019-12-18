@@ -1,11 +1,11 @@
 ---
 
-title: 'Rudolph's Rampage - 16th December 2012'
-date: 2012-12-19T09:00:30+00:00
-excerpt: '<p>A small contingent of Striders travelled to the picturesque Cotswold village of Painswick to take part in the Rudolphâ€™s Rampage, a fun but tough 4 ½ mile off-road race with festive fancy dress!</p>'
+title: 'Rudolphs Rampage - 16th December 2012'
 layout: post
-permalink: /2012/12/rudolphs-rampage-16th-december-2012/
+
 ---
+<p>A small contingent of Striders travelled to the picturesque Cotswold village of Painswick to take part in the Rudolphâ€™s Rampage, a fun but tough 4 ½ mile off-road race with festive fancy dress!</p>
+
 Conditions were very muddy and the course involved running up a long hill, back through the woodlands along the top of the hill, a long steep descent (interrupted be several stiles) and a nasty sting in the tail with another steep climb up to the centre of Painswick village and finally back down the hill to the finish. 
 
 Once again, the Striders ladies stole the headlines with Liza Barry (in angels wings) and Trish Woods (Santa hat with tinsel finish) finishing 1st and 2nd ladies respectively. Liza was 7th overall, and would have placed even higher had she not taken a wrong turn in the village, and Trish also battled on despite a fall. Dawn Addinall showed her customary determination to come home in 39th place over all, and 3rd in her V55 category.. 
