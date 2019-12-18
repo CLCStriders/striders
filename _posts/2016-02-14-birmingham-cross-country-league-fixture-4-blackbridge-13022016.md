@@ -1,15 +1,10 @@
 ---
 
-title: 'Birmingham Cross Country League/Midland Women's Cross Country League - 13/02/2016'
-date: 2016-02-14T11:42:28+00:00
+title: Birmingham Cross Country League and Midland Womens Cross Country League - 13.02.2016
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1957
-permalink: /2016/02/birmingham-cross-country-league-fixture-4-blackbridge-13022016/
 categories:
   - Cross Country Reports
-  - News
-  - Race Reports
 ---
 CLC striders men put in an excellent performance in the final Birmingham cross country league fixture of the season held at Gloucester.
 
