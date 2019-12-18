@@ -1,12 +1,10 @@
 ---
 
-title: 'National Women's 6-Stage Road Relays - Sutton Park 14th April 2012'
-date: 2012-04-14T20:20:42+01:00
-excerpt: "<p>Fantastic 21st place for Striders'women in National 6-Stage Road Relays!</p>"
+title: 'National Womens 6-Stage Road Relays - Sutton Park 14th April 2012'
 layout: post
-permalink: /2012/04/nationa-womens-6-stage-road-relays-sutton-park-14th-april-2012/
+
 ---
-</p> 
+<p>Fantastic 21st place for Striders'women in National 6-Stage Road Relays!</p>
 
 CLC Striders Ladies 6 stage Road team acquitted themselves superbly well to finish 21st in the National Championships held at Sutton Park, Birmingham. The Striders ladies who were also Gloucestershire's leading club, finished 7th Midlands team in these top class championships.The course is undulating and is run over 3 miles.
 
@@ -46,4 +44,4 @@ Videos:
 
 <a href="http://youtu.be/jn8BQYMXbXE" target="_blank" rel="nofollow">Pat Woods</a>
 
-<a href="http://youtu.be/2ysHblDNXeg" target="_blank" rel="nofollow">Hilary</a></p>
+<a href="http://youtu.be/2ysHblDNXeg" target="_blank" rel="nofollow">Hilary</a>
