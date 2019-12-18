@@ -15,7 +15,8 @@
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
-   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/{{ page.source }}?v={{ site.cache }}",
+    // {{ site.data }}
+   url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/{{ page.source }}?v={{ site.cache }}",
    dataType:"text",
    success:function(data)
    {
