@@ -9,6 +9,7 @@
         {% include header.html %}
           <div class="container">
               <h2>{{ page.title }}</h2>
+              <span class="float-left"></span><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
 
               <span class="post-date float-lg-right">| {{ page.date | date: "%-d %B %Y" }}</span>
               <span class="read-time float-lg-right" title="Estimated read time">| <em>{% assign words = post.content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
@@ -18,9 +19,7 @@
             {{ content }}
             
             <hr/>
-            <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
-            
-            
+
             {% unless page.category == null %}
               {% capture pageCategory %}{{ page.category }}{% endcapture %}
               {% unless site.categories[pageCategory].size == 1 %}
