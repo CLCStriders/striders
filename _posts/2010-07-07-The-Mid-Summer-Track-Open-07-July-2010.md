@@ -1,11 +1,11 @@
 ---
 
 title: The Mid-Summer Track Open 07 July 2010
-date: 2010-07-07T09:00:00+01:00
-excerpt: '<p>Wilkie, Dare and Parker in Record Breaking Form at the POWS - 7th July 2010. Click on the links to see the great track performances by all the Striders. You all make me very proud, keep it up!, Brendan Ward (Club Chairman) Mid-Summer Open 07 July 2010 Photos Report Results</p>'
 layout: post
-permalink: /2010/07/The-Mid-Summer-Track-Open-07-July-2010-/
+
 ---
+<p>Wilkie, Dare and Parker in Record Breaking Form at the POWS - 7th July 2010. Click on the links to see the great track performances by all the Striders. You all make me very proud, keep it up!, Brendan Ward (Club Chairman) Mid-Summer Open 07 July 2010 Photos Report Results</p>
+
 **The Mid-Summer Track Open 07 July 2010** </p> 
 
 **Report**

@@ -1,11 +1,11 @@
 ---
 
-title: 'Cotswold 10KM - 27th November 2011'
-date: 2011-12-02T07:08:38+00:00
-excerpt: '<p>On Sunday a few hardy Striders turned out for a lovely 10km race in theheart of the Cotswolds... </p>'
+title: 'Cotswold 10km 27th November 2011'
 layout: post
-permalink: /2011/12/cotswold-10km-27th-noovember-2011/
+
 ---
+<p>On Sunday a few hardy Striders turned out for a lovely 10km race in theheart of the Cotswolds... </p>
+
 &#8220;The Cotswold 10km was described as a flat and  
 undulating course, not sure where the flat bit was! It definitely was  
 not a PB course but it was a good one. There were 165 runners 5 of  

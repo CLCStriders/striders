@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League and Midlands Womens Cross Country League - 12 November 2011'
+title: 'Birmingham Cross Country League and Midlands Womens Cross Country League 12 November 2011'
 layout: post
 
 ---
