@@ -1,5 +1,5 @@
 ---
-tag: racereports
-permalink: "/categories/racereports"
+category: race+reports
+permalink: "pages/categories/racereports"
 
 ---
