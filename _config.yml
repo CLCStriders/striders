@@ -1,10 +1,10 @@
-cache:          47h79hhhhhhh
+cache:          Gggghfrscgdd
 
 highlighter:    rouge
 markdown:       kramdown
 permalink:      ./:title
 paginate:       10
-postLimit:      25
+postLimit:      10
 paginate_path: "/news/page:num/"
 name:           CLC Striders
 description:    "Cheltenham Running Club"
