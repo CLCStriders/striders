@@ -11,14 +11,20 @@
               <h2>{{ page.title }}</h2>
               <span class="float-left"></span><a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
 
-              <span class="post-date float-lg-right">| {{ page.date | date: "%-d %B %Y" }} </span>
-              <span class="read-time float-lg-right" title="Estimated read time">| <em>{% assign words = content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em> </span>
-
+            <span class="post-date float-lg-right">
+                <em>{{ page.date | date: "%-d %B %Y" }}</em> 
+            </span>
+            <span class="read-time float-lg-right" title="Estimated read time">
+                <em>{% assign words = content | number_of_words %}
+                   approx {% if words < 360 %} 1 min read.
+                          {% else %} {{ words | divided_by:180 }} mins read. 
+                          {% endif %}
+                </em> 
+            </span>
             <hr/>
-            
+           
             {{ content }}
             
-
             {% unless post.category == null %}
               {% capture pageCategory %}{{ post.category }}{% endcapture %}
               {% unless site.categories[pageCategory].size == 1 %}
@@ -27,13 +33,7 @@
                   <ul class="medium-12 small-12 columns">
                     {% for post in site.categories[pageCategory] limit:6 %}
                       {% unless post.title == page.title %}
-
-                       <li>
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-                          {{ post.title }}
-                        </a>
-                       </li>
-
+                       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
                       {% endunless %}
                     {% endfor %}
                   </ul>
