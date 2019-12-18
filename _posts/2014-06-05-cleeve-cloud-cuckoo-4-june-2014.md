@@ -1,14 +1,14 @@
 ---
 
 title: 'Cleeve Cloud Cuckoo - 4 June 2014'
-date: 2014-06-05T16:49:37+01:00
 author: Clark Lawson
-excerpt: '<p>There was a sizeable Striders presence in the Cleeve Cloud Cuckoo race on 4 June 2014.</p>'
 layout: post
-permalink: /2014/06/cleeve-cloud-cuckoo-4-june-2014/
 categories:
-  - Awards
+  - Race Reports
 ---
+
+<p>There was a sizeable Striders presence in the Cleeve Cloud Cuckoo race on 4 June 2014.</p>'
+
 Despite the thick fog, torrential rain and unseasonably cold temperatures, an impressive 17 Striders turned out to represent their club.
 
 At the sharp end of the race in-form Will Ferguson was soon engaged in a battle for the lead with Cheltenham Harriersâ€™ Dave Roper who was making his first appearance for four months having been sidelined with injury.
