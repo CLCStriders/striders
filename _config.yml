@@ -29,10 +29,11 @@ gems:
 collections:
  category:
  output: true
+ permalinke: "/category/:name"
  defaults:
   -
     scope:
       path: ""
-      type: category
+      type: "category"
     values:
-      layout: "category"
+      layout: category
