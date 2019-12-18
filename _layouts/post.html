@@ -14,12 +14,8 @@
             
             {{ content }}
             
-                       <hr/>
-             <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
-            <small>
-            <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
-            <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
-           
+            <hr/>
+            <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
           </div>
       {% include footer.html %}
     </div>
