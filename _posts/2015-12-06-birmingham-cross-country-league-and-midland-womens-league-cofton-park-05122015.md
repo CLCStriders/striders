@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League and Midland Womens League - Cofton Park 05.12.2015
+title: 'Birmingham Cross Country League and Midland Womens League - Cofton Park 05.12.2015'
 author: Chris Driskell
 layout: post
 categories:
