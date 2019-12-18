@@ -1,14 +1,10 @@
 ---
 
-title: 'Birmingham Cross Country League and Midland Women's League - Cofton Park 05/12/2015'
-date: 2015-12-06T11:26:30+00:00
+title: 'Birmingham Cross Country League and Midland Womens League - Cofton Park 05.12.2015
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1701
-permalink: /2015/12/birmingham-cross-country-league-and-midland-womens-league-cofton-park-05122015/
 categories:
   - Cross Country Reports
-  - Race Reports
 ---
 &nbsp;
 
