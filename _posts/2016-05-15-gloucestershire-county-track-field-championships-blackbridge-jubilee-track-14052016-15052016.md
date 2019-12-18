@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos County Track &#038; Field Championships, Blackbridge Jubilee Track &#8211; 14/05/2016 &#8211; 15/05/2016'
+title: 'Glos County Track &#038; Field Championships, Blackbridge Jubilee Track - 14/05/2016 - 15/05/2016'
 date: 2016-05-15T17:59:08+01:00
 author: Chris Driskell
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Road Relay Championships &#8211; 31st March 2012'
+title: 'Midland Road Relay Championships - 31st March 2012'
 date: 2012-04-01T18:54:34+01:00
 excerpt: '<p>CLC Striders Men and Women competed at Sutton Park, Birmingham Saturday 31st March in the Midland Road Relay Championships.</p>'
 layout: post

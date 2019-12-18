@@ -1,6 +1,6 @@
 ---
 
-title: 'Linda Franks 4.2 &amp; 2.2m 25 Jan 2009'
+title: 'Linda Franks 4.2 and 2.2m 25 Jan 2009'
 date: 2009-01-25T09:00:00+00:00
 excerpt: '<p>The club had another great turn out today at the Linda Franks 2.2 and 4.2 mile runs - 22 in total represented the CLC Striders Brendan Ward, Club Chairman Linda Franks 4.2 and 2.2 mile run 25 January 2009 Photos Report Results</p>'
 layout: post

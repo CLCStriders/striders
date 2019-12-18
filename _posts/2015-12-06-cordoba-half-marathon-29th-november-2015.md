@@ -1,6 +1,6 @@
 ---
 
-title: 'Cordoba Half Marathon &#8211; 29/11/2015'
+title: 'Cordoba Half Marathon - 29/11/2015'
 date: 2015-12-06T19:30:17+00:00
 author: Chris Driskell
 layout: post

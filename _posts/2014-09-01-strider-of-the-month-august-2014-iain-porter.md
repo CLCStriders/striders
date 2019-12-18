@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; August 2014 &#8211; Iain Porter'
+title: 'Strider of the Month - August 2014 - Iain Porter'
 date: 2014-09-01T19:40:38+01:00
 author: Clark Lawson
 excerpt: '<p>The winner of Strider of the Month for August is Iain Porter. </p>'

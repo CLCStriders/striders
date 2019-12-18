@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos League Fixture 2 Pitville Park &#8211; 3rd November 2012'
+title: 'Glos League Fixture 2 Pitville Park - 3rd November 2012'
 date: 2012-11-03T23:20:30+00:00
 excerpt: '<p>CLC Striders put in a good show in the second county cross country fixture of the season held at Pitville Park Cheltenham.</p>'
 layout: post

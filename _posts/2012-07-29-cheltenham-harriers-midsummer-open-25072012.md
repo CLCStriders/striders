@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham Harriers Midsummer Open &#8211; 25/07/2012'
+title: 'Cheltenham Harriers Midsummer Open - 25/07/2012'
 date: 2012-07-29T08:14:57+01:00
 excerpt: '<p>Wednesday night saw the forth and final Midsummer Open and Striders were competing in the the mile...</p>'
 layout: post

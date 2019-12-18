@@ -1,6 +1,6 @@
 ---
 
-title: 'Devils Chimney Chase &#8211; 14th July 2012'
+title: 'Devils Chimney Chase - 14th July 2012'
 date: 2012-07-16T20:23:43+01:00
 excerpt: '<p>A small group of Striders turned out at the Devils Chimney Chase on Saturday for a run in the mud...</p>'
 layout: post
@@ -25,11 +25,11 @@ Paul Stonuary made the top 100, finishing in 97th place, whilst Dawn Addinall to
 Sian Holley meanwhile accompanied a 2-strong contingent of junior Striders in the Stinger Mile.
 
 Results:  
-1) Andy Kaighin (Chelt Harriers) &#8211; 40:03  
-2) Chris Driskell &#8211; 40:06  
-14) Laura Kent &#8211; 44:23  
-15) Jon Bird &#8211; 44:46  
-97) Paul Stonuary &#8211; 56:48  
-115) Dawn Addinall &#8211; 01:02:10
+1) Andy Kaighin (Chelt Harriers) - 40:03  
+2) Chris Driskell - 40:06  
+14) Laura Kent - 44:23  
+15) Jon Bird - 44:46  
+97) Paul Stonuary - 56:48  
+115) Dawn Addinall - 01:02:10
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/dccresults2012.pdf" target="_blank" rel="nofollow">full results</a>

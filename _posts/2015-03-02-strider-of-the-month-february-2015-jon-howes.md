@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; February 2015 &#8211; Jon Howes'
+title: 'Strider of the Month - February 2015 - Jon Howes'
 date: 2015-03-02T21:15:40+00:00
 author: Clark Lawson
 excerpt: '<p>Strider of the Month winner for February goes to Jon Howes.</p>'

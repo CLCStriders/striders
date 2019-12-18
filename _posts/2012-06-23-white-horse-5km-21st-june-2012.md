@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse 5km &#8211; 21st June 2012'
+title: 'White Horse 5km - 21st June 2012'
 date: 2012-06-23T08:03:07+01:00
 excerpt: '<p>Striders braved the Monsoon and turned out in force at the White Horse on Thursday...</p>'
 layout: post

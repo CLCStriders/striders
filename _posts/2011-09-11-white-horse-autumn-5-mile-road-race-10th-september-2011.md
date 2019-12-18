@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse Autumn 5 Mile Road Race &#8211; 10th September 2011'
+title: 'White Horse Autumn 5 Mile Road Race - 10th September 2011'
 date: 2011-09-11T18:54:32+01:00
 excerpt: '<p>Nicholas Von Benzon runs the 5 mile race at The White Horse.</p>'
 layout: post

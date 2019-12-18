@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC League 3, Pitville Park &#8211; 10th December 2011'
+title: 'Glos XC League 3, Pitville Park - 10th December 2011'
 date: 2011-12-11T16:37:42+00:00
 excerpt: "<p>Strider's women 3rd and men 6th in Pitville Park Cross Country</p>"
 layout: post
@@ -14,95 +14,95 @@ Striders results:
 
 ## Women
 
-8) Laura Kent &#8211; 22:43
+8) Laura Kent - 22:43
 
-9) Hilary Agate &#8211; 22:48
+9) Hilary Agate - 22:48
 
-19) Jo Wilkie &#8211; 23:39
+19) Jo Wilkie - 23:39
 
-20) Rachael Elkins &#8211; 23:42
+20) Rachael Elkins - 23:42
 
-21) Sian Holley &#8211; 23:46
+21) Sian Holley - 23:46
 
-25) Amanda Steer &#8211; 24:20
+25) Amanda Steer - 24:20
 
-26) Emma Skeen &#8211; 24:23
+26) Emma Skeen - 24:23
 
-29) Alice Johnston &#8211; 24:32
+29) Alice Johnston - 24:32
 
-35) Patricia Woods &#8211; 24:51
+35) Patricia Woods - 24:51
 
-36) Sophie Jones &#8211; 24:52
+36) Sophie Jones - 24:52
 
-62) Amelia Mullins &#8211; 27:19
+62) Amelia Mullins - 27:19
 
-74) Helen Howes &#8211; 29:00
+74) Helen Howes - 29:00
 
-76) Helen Beesley &#8211; 29:23
+76) Helen Beesley - 29:23
 
-79) Beckie Boulton &#8211; 29:47
+79) Beckie Boulton - 29:47
 
-86) Jill Harsent &#8211; 31:04
+86) Jill Harsent - 31:04
 
-89) Joanna Bryant &#8211; 31:09
+89) Joanna Bryant - 31:09
 
-93) Harpreet Chawla &#8211; 34:03
+93) Harpreet Chawla - 34:03
 
 Senior Ladies Teams:
 
-3rd &#8211; CLC A = 36 points
+3rd - CLC A = 36 points
 
-5th &#8211; CLC B = 66 points
+5th - CLC B = 66 points
 
-10th &#8211; CLC C = 90 points
+10th - CLC C = 90 points
 
-13th &#8211; CLC D = 172 points
+13th - CLC D = 172 points
 
-24th &#8211; CLC E = 241 points
+24th - CLC E = 241 points
 
 Masters Ladies Teams:
 
-1st &#8211; CLC A = 59 points
+1st - CLC A = 59 points
 
-6th &#8211; CLC B = 165 points
+6th - CLC B = 165 points
 
 ## Men
 
-25) Rich Evershed &#8211; 31:11
+25) Rich Evershed - 31:11
 
-43) Chris Driskell &#8211; 32:31
+43) Chris Driskell - 32:31
 
-49) Tom Stone &#8211; 33:02
+49) Tom Stone - 33:02
 
-50) Dave Smeath &#8211; 33:04
+50) Dave Smeath - 33:04
 
-59) Jon Bird &#8211; 33:33
+59) Jon Bird - 33:33
 
-63) Joel Freeland &#8211; 33:40
+63) Joel Freeland - 33:40
 
-69) Dave Billingham &#8211; 33:58
+69) Dave Billingham - 33:58
 
-95) Billy Bradshaw &#8211; 35:23
+95) Billy Bradshaw - 35:23
 
-103) Paul Wade &#8211; 35:46
+103) Paul Wade - 35:46
 
-116) Adam Cary &#8211; 36:20
+116) Adam Cary - 36:20
 
-145) Rob Lynch &#8211; 39:17
+145) Rob Lynch - 39:17
 
-151) Nicholas Von Benzon &#8211; 40:00
+151) Nicholas Von Benzon - 40:00
 
-186) Duncan Kay &#8211; 51:17
+186) Duncan Kay - 51:17
 
 Senior Men's Teams
 
-6th &#8211; CLC A = 289
+6th - CLC A = 289
 
-16th &#8211; CLC B = 679
+16th - CLC B = 679
 
 Masters Ladies Teams
 
-10th &#8211; CLC A = 418
+10th - CLC A = 418
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosleague3.pdf" target="_blank" rel="nofollow">Results</a>
 

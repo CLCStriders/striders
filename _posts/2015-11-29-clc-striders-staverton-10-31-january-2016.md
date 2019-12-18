@@ -1,6 +1,6 @@
 ---
 
-title: 'CLC Striders Staverton 10 &#8211; 31 January 2016'
+title: 'CLC Striders Staverton 10 - 31 January 2016'
 date: 2015-11-29T16:35:39+00:00
 author: Chris Driskell
 layout: post

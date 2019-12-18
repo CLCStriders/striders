@@ -1,6 +1,6 @@
 ---
 
-title: 'Fleet Half Marathon &#8211; 25th March 2012'
+title: 'Fleet Half Marathon - 25th March 2012'
 date: 2012-03-26T21:09:04+01:00
 excerpt: '<p>Elkins leads Striders home in Fleet Half...</p>'
 layout: post

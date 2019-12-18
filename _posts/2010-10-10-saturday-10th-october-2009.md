@@ -12,4 +12,4 @@ Those that have ran during the day will want to reward their achievements of the
 
 Location : The Retreat, Suffolk Parade,
 
-Time : 8.00 &#8211; 8.30pm, 10th October
+Time : 8.00 - 8.30pm, 10th October

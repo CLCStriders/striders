@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire Cross Country League &#8211; Wotton-under-Edge &#8211; 17/12/2016'
+title: 'Gloucestershire Cross Country League - Wotton-under-Edge - 17/12/2016'
 date: 2016-12-21T19:30:53+00:00
 author: Chris Driskell
 layout: post

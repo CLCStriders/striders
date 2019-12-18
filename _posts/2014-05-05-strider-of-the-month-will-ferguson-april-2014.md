@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; Will Ferguson &#8211; April 2014'
+title: 'Strider of the Month - Will Ferguson - April 2014'
 date: 2014-05-05T20:15:00+01:00
 author: Clark Lawson
 excerpt: '<p>Strider of the Month winner for April is Will Ferguson.</p>'

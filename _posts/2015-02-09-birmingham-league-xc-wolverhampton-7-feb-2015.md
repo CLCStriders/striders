@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham League XC &#8211; Wolverhampton &#8211; 7 Feb 2015'
+title: 'Birmingham League XC - Wolverhampton - 7 Feb 2015'
 date: 2015-02-09T20:52:58+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders ladies capped a magnificent season by winning promotion to Division One in the Midland Cross Country League.</p>'

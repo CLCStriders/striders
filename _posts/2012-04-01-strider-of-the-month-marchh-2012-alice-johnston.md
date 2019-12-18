@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month March 2012 &#8211; Alice Johnston'
+title: 'Strider of the Month March 2012 - Alice Johnston'
 date: 2012-04-01T17:18:07+01:00
 author: Clark Lawson
 excerpt: '<p>Strider of the Month for March is Alice Johnston.</p>'

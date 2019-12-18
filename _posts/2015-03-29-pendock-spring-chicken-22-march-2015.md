@@ -1,6 +1,6 @@
 ---
 
-title: 'Pendock Spring Chicken &#8211; 22 March 2015'
+title: 'Pendock Spring Chicken - 22 March 2015'
 date: 2015-03-29T19:57:29+01:00
 author: Clark Lawson
 excerpt: '<p>Four Striders ran the Pendock Spring Chicken on Sunday 22 March. </p>'

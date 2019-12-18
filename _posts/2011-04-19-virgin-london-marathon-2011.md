@@ -12,14 +12,14 @@ It was a warm day for running but that didn't stop a host of PBs and club record
 
 Results
 
-Wayne Usher &#8211; 2.51.56  
-Chris &#8216;GPS'Hale &#8211; 2.53.40  
-David Smeath &#8211; 2.57.13  
-Rachel Vines &#8211; 3.11.15  
-James Gibbs &#8211; 3:47:19  
-David Wood &#8211; 3.55.57  
-Paula Lipscombe &#8211; 4.07.26  
-Jo Bryant &#8211; 4.22.51  
-Carla Quirighetti &#8211; 4:26:34  
-Jess Straw &#8211; 4:07:56  
-Malc Smith &#8211; 5.41.13</p>
+Wayne Usher - 2.51.56  
+Chris &#8216;GPS'Hale - 2.53.40  
+David Smeath - 2.57.13  
+Rachel Vines - 3.11.15  
+James Gibbs - 3:47:19  
+David Wood - 3.55.57  
+Paula Lipscombe - 4.07.26  
+Jo Bryant - 4.22.51  
+Carla Quirighetti - 4:26:34  
+Jess Straw - 4:07:56  
+Malc Smith - 5.41.13</p>

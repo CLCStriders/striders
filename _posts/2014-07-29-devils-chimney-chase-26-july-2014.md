@@ -1,6 +1,6 @@
 ---
 
-title: 'Devils Chimney Chase &#8211; 26 July 2014'
+title: 'Devils Chimney Chase - 26 July 2014'
 date: 2014-07-29T08:13:44+01:00
 excerpt: '<p>The Striders ladies team took first prize at a sweltering Devils Chimney Chase on Saturday 26th July.</p>'
 layout: post

@@ -14,17 +14,17 @@ The Birmingham League is a traditional cross-country league with promotion and r
 
 Dates for the BCCL 2013/2014 season:
 
-  * 9 November 2013 &#8211; BCCL (1) Newbold Common, Leamington
-  * 7 December 2013 &#8211; BCCL (2) Burbage Common, Hinckley
-  * 11 January 2014 &#8211; BCCL (3) Wyken Croft Park, Coventry
-  * 8 February 2014 &#8211; BCCL (4) Coundon Park, Coventry.
+  * 9 November 2013 - BCCL (1) Newbold Common, Leamington
+  * 7 December 2013 - BCCL (2) Burbage Common, Hinckley
+  * 11 January 2014 - BCCL (3) Wyken Croft Park, Coventry
+  * 8 February 2014 - BCCL (4) Coundon Park, Coventry.
 
 ### Midland Women's Cross Country League fixtures:
 
-  * 9 November 2013 &#8211; Midland Womens CC League (1) at Newbold Common, Leamington 
-  * 7 December 2013 &#8211; Midland Womens CC League (2) &#8211; Wolverhampton 
-  * 11 January 2014 &#8211; Midland Womens CC League (3) &#8211; Droitwich 
-  * 8 February 2014 &#8211; Midland Womens CC League (4) &#8211; Pittville Park, Cheltenham
+  * 9 November 2013 - Midland Womens CC League (1) at Newbold Common, Leamington 
+  * 7 December 2013 - Midland Womens CC League (2) - Wolverhampton 
+  * 11 January 2014 - Midland Womens CC League (3) - Droitwich 
+  * 8 February 2014 - Midland Womens CC League (4) - Pittville Park, Cheltenham
 
 ### Midlands Championships:  
 
@@ -37,7 +37,7 @@ CLC Striders have enjoyed considerable success in this league over recent season
 
 2012/2013 fixtures:
 
-  * 5 October 2013 &#8211; Cotswold Farm Park
-  * 2 November 2013 &#8211; Pittville Park, Cheltenham
-  * 14 December 2013 &#8211; Malvern College 
-  * 1 February 2014 &#8211; Plock Court, Gloucester</p>
+  * 5 October 2013 - Cotswold Farm Park
+  * 2 November 2013 - Pittville Park, Cheltenham
+  * 14 December 2013 - Malvern College 
+  * 1 February 2014 - Plock Court, Gloucester</p>

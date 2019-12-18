@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleeve Cloud Cuckoo Race &#8211; 01/06/2016'
+title: 'Cleeve Cloud Cuckoo Race - 01/06/2016'
 date: 2016-06-05T13:05:24+01:00
 author: Chris Driskell
 layout: post
@@ -19,7 +19,7 @@ categories:
 </div>
 
 <div>
-  Heyrman was neck and neck with her teammate Katie Truslove until the first steep downhill at which point she broke away.  The Brendan Ward &#8211; coached athlete who stormed around the tough hilly course also led the CLC Striders ladies team to victory in the event. Truelove, meanwhile, finished 2nd lady overall and ran a superb race. L35 Zoe Gough completed the ladies team running well to finish 3rd in her category. Next for the ladies were Emma Abbey 96th, Dawn Addinall  111th overall and first in her LV65 category. Just behind Addinall was Caroline Barnes in 112th; Jill Harsent was 124th, and Amanda Pill followed Harsent in 149th place.
+  Heyrman was neck and neck with her teammate Katie Truslove until the first steep downhill at which point she broke away.  The Brendan Ward - coached athlete who stormed around the tough hilly course also led the CLC Striders ladies team to victory in the event. Truelove, meanwhile, finished 2nd lady overall and ran a superb race. L35 Zoe Gough completed the ladies team running well to finish 3rd in her category. Next for the ladies were Emma Abbey 96th, Dawn Addinall  111th overall and first in her LV65 category. Just behind Addinall was Caroline Barnes in 112th; Jill Harsent was 124th, and Amanda Pill followed Harsent in 149th place.
 </div>
 
 <div>

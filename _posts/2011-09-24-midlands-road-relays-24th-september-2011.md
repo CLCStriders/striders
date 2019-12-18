@@ -29,44 +29,44 @@ Next up was Tom Stone, who, in his first race for the club in several months, pr
 
 Results:
 
-Ladies A Team &#8211; 11th place (01:09:22):
+Ladies A Team - 11th place (01:09:22):
 
-Leg 1 &#8211; Rachel Vines &#8211; 17:05
+Leg 1 - Rachel Vines - 17:05
 
-Leg 2 &#8211; Sian Holley &#8211; 17:01
+Leg 2 - Sian Holley - 17:01
 
-Leg 3 &#8211; Jo Wilkie &#8211; 19:02
+Leg 3 - Jo Wilkie - 19:02
 
-Leg 4 &#8211; Hilary Agate &#8211; 16:14
+Leg 4 - Hilary Agate - 16:14
 
-Ladies B Team &#8211; 48th Place (01:22:39):
+Ladies B Team - 48th Place (01:22:39):
 
-Leg 1 &#8211; Helen Howes &#8211; 21:31
+Leg 1 - Helen Howes - 21:31
 
-Leg 2 &#8211; Amelia Mullins &#8211; 20:04
+Leg 2 - Amelia Mullins - 20:04
 
-Leg 3 &#8211; Nicola Christian &#8211; 21:13
+Leg 3 - Nicola Christian - 21:13
 
-Leg 4 &#8211; Nikki Smith &#8211; 19:51
+Leg 4 - Nikki Smith - 19:51
 
 Ladies C Team (incomplete):
 
-Leg 1 &#8211; Laura Finucane &#8211; 22:52
+Leg 1 - Laura Finucane - 22:52
 
-Leg 2 &#8211; Harpreet Chawla &#8211; 25:10
+Leg 2 - Harpreet Chawla - 25:10
 
-Men's Team &#8211; 52nd place (02:14:40):
+Men's Team - 52nd place (02:14:40):
 
-Leg 1 &#8211; Chris Driskell &#8211; 21:31
+Leg 1 - Chris Driskell - 21:31
 
-Leg 2 &#8211; Joel Freeland &#8211; 23:39
+Leg 2 - Joel Freeland - 23:39
 
-Leg 3 &#8211; David Smeath &#8211; 22:26
+Leg 3 - David Smeath - 22:26
 
-Leg 4 &#8211; Tom Stone &#8211; 21:05
+Leg 4 - Tom Stone - 21:05
 
-Leg 5 &#8211; Jon Howes &#8211; 23:56
+Leg 5 - Jon Howes - 23:56
 
-Leg 6 &#8211; Jamie Paterson &#8211; 21:37
+Leg 6 - Jamie Paterson - 21:37
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>

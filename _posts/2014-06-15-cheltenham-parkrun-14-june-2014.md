@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham parkrun &#8211; 14 June 2014'
+title: 'Cheltenham parkrun - 14 June 2014'
 date: 2014-06-15T14:03:31+01:00
 excerpt: '<p>The club were welcomed to fill all volunteer positions at the 69th Cheltenham parkrun on Saturday 14th June and the army of Striders came out in force with us being able to organise the first "pacing day" at Cheltenham parkrun.</p>'
 layout: post
@@ -38,7 +38,7 @@ The positive comments carried on after the event on both facebook and twitter:
 
 > &#8220;@Cheltnamparkrun seems the pacers did their job (esp the 19 min guy), managed to nudge under 19 mins for the first time today&#8221;
 > 
-> &#8220;First @Cheltnamparkrun in ages &#8211; great to see 350(!) runners out enjoying Pittville Park! Thanks @CLCStriders for pacing & all vounteers!&#8221;
+> &#8220;First @Cheltnamparkrun in ages - great to see 350(!) runners out enjoying Pittville Park! Thanks @CLCStriders for pacing & all vounteers!&#8221;
 > 
 > &#8220;Well done Clark. Thank you to all the CLC Striders, especially the pacers who helped me finally run a sub 30! As always, it is wonderful to be with the parkrun family&#8221;
 > 

@@ -22,56 +22,56 @@ Bren
 
 Results:
 
-1) Derek Tebbs &#8211; 33:12 (29:42)
+1) Derek Tebbs - 33:12 (29:42)
 
-2) Jamie Paterson &#8211; 35:30 (26:15)
+2) Jamie Paterson - 35:30 (26:15)
 
-3) Richard Evershed &#8211; 35:42 (25:57)
+3) Richard Evershed - 35:42 (25:57)
 
-4) Rachel Vines &#8211; 35:45 (28:45)
+4) Rachel Vines - 35:45 (28:45)
 
-5) Joel Freeland &#8211; 35:47 (28:47)
+5) Joel Freeland - 35:47 (28:47)
 
-6) Rich Cannock &#8211; 35:52 (28:52)
+6) Rich Cannock - 35:52 (28:52)
 
-7) Chris Hale &#8211; 35:36 (26:12)
+7) Chris Hale - 35:36 (26:12)
 
-8) Emma Skeen &#8211; 36:08 (30:48)
+8) Emma Skeen - 36:08 (30:48)
 
-9) Dave Smeath &#8211; 36:15 (26:30)
+9) Dave Smeath - 36:15 (26:30)
 
-10) Chris Driskell &#8211; 36:26 (26:12)
+10) Chris Driskell - 36:26 (26:12)
 
-11) John Howes &#8211; 36:35 (29:35)
+11) John Howes - 36:35 (29:35)
 
-12) Nikki Smith &#8211; 37:11 (33:11)
+12) Nikki Smith - 37:11 (33:11)
 
-13) Will Ferguson &#8211; 37:11 (24:41)
+13) Will Ferguson - 37:11 (24:41)
 
-14) Liza Barry &#8211; 37:16 (28:46)
+14) Liza Barry - 37:16 (28:46)
 
-15) Steve Hucker &#8211; 37:37 (32:06)
+15) Steve Hucker - 37:37 (32:06)
 
-16) Louise Allsop &#8211; 37:46 (33:46)
+16) Louise Allsop - 37:46 (33:46)
 
-17) Amelia Mullins &#8211; 37:59 (33:59)
+17) Amelia Mullins - 37:59 (33:59)
 
-18) Rachael Elkins &#8211; 38:21 (29:51)
+18) Rachael Elkins - 38:21 (29:51)
 
-19) Pat Woods &#8211; 38:39 (33:09)
+19) Pat Woods - 38:39 (33:09)
 
-20) Nicola Christian &#8211; 38:53 (35:53)
+20) Nicola Christian - 38:53 (35:53)
 
-21) Dan Hart &#8211; 39:07 (35:37)
+21) Dan Hart - 39:07 (35:37)
 
-22) Dawn Addinall &#8211; 39:40 (37:40)
+22) Dawn Addinall - 39:40 (37:40)
 
-23) Becky Boulton &#8211; 40:15 (38:15)
+23) Becky Boulton - 40:15 (38:15)
 
-24) Laura Finucane &#8211; 40:43 (39:13)
+24) Laura Finucane - 40:43 (39:13)
 
-25) Duncan Kay &#8211; 40:53 (39:53)
+25) Duncan Kay - 40:53 (39:53)
 
-26) Harpreet Chawla &#8211; 41:36 (41:36)
+26) Harpreet Chawla - 41:36 (41:36)
 
-27) Jo Bryant &#8211; 41:48 (39:18)</p>
+27) Jo Bryant - 41:48 (39:18)</p>

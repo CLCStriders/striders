@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos County Track and Field Championships Part 2 &#8211; 16th May 2012'
+title: 'Glos County Track and Field Championships Part 2 - 16th May 2012'
 date: 2012-05-16T22:41:36+01:00
 excerpt: '<p>More medals for Striders at Part 2 of the County Track and Field Championships</p>'
 layout: post
@@ -14,22 +14,22 @@ Rich Dare took a well deserved Silver in the Mens 5k, Chris Driskell finished in
 
 Results :
 
-Women &#8211; 3000m:
+Women - 3000m:
 
-1) Rachael Elkins &#8211; 11.13.5
+1) Rachael Elkins - 11.13.5
 
-2) Rachel Vines &#8211; 11.34.2
+2) Rachel Vines - 11.34.2
 
-3) Jo Wilkie &#8211; 11.45.4
+3) Jo Wilkie - 11.45.4
 
-Men &#8211; 5000m:
+Men - 5000m:
 
-2) Rich Dare &#8211; 16.33.5
+2) Rich Dare - 16.33.5
 
-4) Chris Driskell &#8211; 17.11.6
+4) Chris Driskell - 17.11.6
 
-6) Dave Smeath &#8211; 18.28.0
+6) Dave Smeath - 18.28.0
 
-9) Ben Anderson &#8211; 20.22.6
+9) Ben Anderson - 20.22.6
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/countytf2012resultspartii.pdf" target="_blank" rel="nofollow">full results</a>

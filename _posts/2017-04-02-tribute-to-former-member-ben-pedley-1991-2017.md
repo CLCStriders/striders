@@ -1,6 +1,6 @@
 ---
 
-title: 'Tribute to former Member Ben Pedley 1991 &#8211; 2017'
+title: 'Tribute to former Member Ben Pedley 1991 - 2017'
 date: 2017-04-02T21:13:06+01:00
 author: Clark Lawson
 layout: post
@@ -21,4 +21,4 @@ Ben was 26 years old and although we hadn't seen him around in recent months, he
 
 Ben's funeral will be held on Monday 24rd April at 12pm at St. Peter's Church, Church Road, Leckhampton for anyone who would like to attend.
 
-Rest in Peace Benjamin Fredrick Pedley 30 January 1991 &#8211; 22 March 2017
+Rest in Peace Benjamin Fredrick Pedley 30 January 1991 - 22 March 2017

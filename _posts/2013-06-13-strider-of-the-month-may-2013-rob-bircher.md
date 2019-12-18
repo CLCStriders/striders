@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; May 2013 &#8211; Rob Bircher'
+title: 'Strider of the Month - May 2013 - Rob Bircher'
 date: 2013-06-13T18:21:32+01:00
 author: Clark Lawson
 excerpt: "<p>Congratulations to Rob Bircher who is May's Strider of the Month.</p>"

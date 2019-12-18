@@ -314,7 +314,7 @@ Women's captain Rachel Vines set off on leg one for the Club and finished in an 
   </tr></colgroup>
 </table>
 
-Total Time = 2.04.20 CLC Striders Finished 13th overall &#8211; 42 Teams took part The official <a href="http://www.race-results.co.uk/results/2010/mw610.pdf " target="_blank" rel="nofollow">results</a>
+Total Time = 2.04.20 CLC Striders Finished 13th overall - 42 Teams took part The official <a href="http://www.race-results.co.uk/results/2010/mw610.pdf " target="_blank" rel="nofollow">results</a>
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

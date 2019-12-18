@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Women's Cross Country League Burbage Common &#8211; 1st December 2012'
+title: 'Midland Women's Cross Country League Burbage Common - 1st December 2012'
 date: 2012-12-02T10:18:35+00:00
 excerpt: '<p>The womenâ€™s team travelled to Burbage Common in Nuneaton to compete in the 2nd fixture of the season in the Midlands league.</p>'
 layout: post

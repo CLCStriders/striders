@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire County Cross Country Championships &#8211; 5th January 2013'
+title: 'Gloucestershire County Cross Country Championships - 5th January 2013'
 date: 2013-01-06T22:36:33+00:00
 excerpt: '<p>Striders women picked up a number of medals at the Gloucestershire County Cross Country Championships at Crypt School on Saturday.</p>'
 layout: post

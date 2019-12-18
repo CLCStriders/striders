@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; November 2014 &#8211; Steph Parker'
+title: 'Strider of the Month - November 2014 - Steph Parker'
 date: 2014-12-08T17:23:42+00:00
 author: Clark Lawson
 excerpt: '<p>Steph Parker is Strider of the Month for November 2014. Well done Steph!</p>'

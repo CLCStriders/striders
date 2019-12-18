@@ -36,7 +36,7 @@ The final top ten place was claimed by Eloise du Luart, who posted an impressive
 
 Outside the top ten there were also some compelling contests for spectators to enjoy, in particular from Bradshaw, Slade and Freeland; as they came into the final straight, there was little to separate the three runners and in spite of both Sladeâ€™s efforts to overcome the deficit and an attempt by Freeland to use his much celebrated and devastatingly effective sprint finish to make up distance , Bradshaw held off the challenge and claimed 13th place over Sladeâ€™s 14th and Freelandâ€™s 15th. . 
 
-Coming in soon after were Stridersâ€™ next womenâ€™s finishers &#8211; Pat Woods, Amanda Steer and Lucy McNulty- who all claimed top 30 spots, McNultyâ€™s 26:59 and Steerâ€™s 28:15 earning them club records in their categories.
+Coming in soon after were Stridersâ€™ next womenâ€™s finishers - Pat Woods, Amanda Steer and Lucy McNulty- who all claimed top 30 spots, McNultyâ€™s 26:59 and Steerâ€™s 28:15 earning them club records in their categories.
 
 The Striders contingent was a formidable force throughout the field and there were numerous other notable performances from them including Amelia Mullins who ran well to take 32nd ; Stephen Callinan who took 34th spot on his debut for the club as well as Phil Hodder who set a club M60 record of 29:48 with his 33rd place and Derek Tebbs who set a club M50 record of 27:29 with his 20th position.
 

@@ -30,7 +30,7 @@ Top Three Teams
 1. Notts ac = 51 2. CLC = 60 3. Wolverhampton = 92  
 Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Ladies MCAA 5m CC Results.xls" target="_blank" rel="nofollow">here</a>for the official results
 
-Results &#8211; Men  
+Results - Men  
 40. Ben Pedley (U20) 41.57 
 
 Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Mens MCAA 7m CC Results.xls" target="_blank" rel="nofollow">here</a>for the official results

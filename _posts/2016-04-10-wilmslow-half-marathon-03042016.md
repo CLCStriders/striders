@@ -1,6 +1,6 @@
 ---
 
-title: 'Wilmslow Half Marathon &#8211; 03/04/2016'
+title: 'Wilmslow Half Marathon - 03/04/2016'
 date: 2016-04-10T17:54:46+01:00
 author: Chris Driskell
 layout: post

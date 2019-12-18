@@ -1,6 +1,6 @@
 ---
 
-title: 'National Women's 6-Stage Road Relays &#8211; Sutton Park 14th April 2012'
+title: 'National Women's 6-Stage Road Relays - Sutton Park 14th April 2012'
 date: 2012-04-14T20:20:42+01:00
 excerpt: "<p>Fantastic 21st place for Striders'women in National 6-Stage Road Relays!</p>"
 layout: post
@@ -14,25 +14,25 @@ The Striders were led off by Laura Kent who recorded 18.52 to finish 38th, Kent 
 
 Striders'Results:
 
-Stage 1) Laura Kent &#8211; 18:55
+Stage 1) Laura Kent - 18:55
 
-Stage 2) Sian Holley &#8211; 19:56
+Stage 2) Sian Holley - 19:56
 
-Stage 3) Emma Skeen &#8211; 19:27
+Stage 3) Emma Skeen - 19:27
 
-Stage 4) Rachel Vines &#8211; 20:08
+Stage 4) Rachel Vines - 20:08
 
-Stage 5) Pat Woods &#8211; 20:01
+Stage 5) Pat Woods - 20:01
 
-Stage 6) Hilary Agate &#8211; 18:23
+Stage 6) Hilary Agate - 18:23
 
-Team Finished 21st &#8211; 1.56.46 &#8211; (7th Midlands club)
+Team Finished 21st - 1.56.46 - (7th Midlands club)
 
 Report to follow
 
 Videos:
 
-<a href="http://youtu.be/7UtDvtYZvro" target="_blank" rel="nofollow">Laura &#8211; start</a>
+<a href="http://youtu.be/7UtDvtYZvro" target="_blank" rel="nofollow">Laura - start</a>
 
 <a href="http://youtu.be/8yd-O9xnBzs" target="_blank" rel="nofollow">Laura â€“ start II</a>
 

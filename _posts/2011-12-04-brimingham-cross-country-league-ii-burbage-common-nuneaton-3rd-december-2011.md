@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League 2 &#8211; 3rd December 2011'
+title: 'Birmingham Cross Country League 2 - 3rd December 2011'
 date: 2011-12-04T11:04:05+00:00
 excerpt: '<p>Men battle their way to 3rd place in second Birmingham League cross country clash at Nuneaton...</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire League Cross Country &#8211; Blackbridge, Gloucester  &#8211; 05/11/2016'
+title: 'Gloucestershire League Cross Country - Blackbridge, Gloucester  - 05/11/2016'
 date: 2016-11-07T16:49:40+00:00
 author: Joel Freeland
 layout: post

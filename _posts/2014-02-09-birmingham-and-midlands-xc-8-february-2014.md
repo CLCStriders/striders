@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham and Midlands XC &#8211; 8 February 2014'
+title: 'Birmingham and Midlands XC - 8 February 2014'
 date: 2014-02-09T22:13:23+00:00
 excerpt: '<p>CLC Striders men avoided relegation in Coventry while the ladies rounded off an excellent season at Pittville Park.</p>'
 layout: post

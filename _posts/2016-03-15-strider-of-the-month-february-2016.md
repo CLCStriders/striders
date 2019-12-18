@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; February 2016'
+title: 'Strider of the Month - February 2016'
 date: 2016-03-15T20:39:21+00:00
 author: Clark Lawson
 layout: post

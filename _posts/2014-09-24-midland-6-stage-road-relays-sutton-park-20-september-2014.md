@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland 6 Stage Road Relays &#8211; Sutton Park &#8211; 20 September 2014'
+title: 'Midland 6 Stage Road Relays - Sutton Park - 20 September 2014'
 date: 2014-09-24T10:11:46+01:00
 excerpt: '<p>On a historic day for the club, the CLC men put in their best ever performance in the Midland 6 Stage Road Relays at Sutton Park to finish in a superb 22nd place meaning they qualify for the National Road Relay Championships to be held in October.</p>'
 layout: post
@@ -13,7 +13,7 @@ In the Women's race a fast finishing Jo Wilkie capped off an excellent performan
 
 
 **Full results**  
-Women &#8211; 4.315 Km 
+Women - 4.315 Km 
 
 <table>
   <colgroup> <col></col> <col></col> </colgroup> <tr>
@@ -97,7 +97,7 @@ Women &#8211; 4.315 Km
   </tr>
 </table>
 
-Men &#8211; 5.848 Km 
+Men - 5.848 Km 
 
 <table>
   <colgroup> <col></col> <col></col> </colgroup> <tr>

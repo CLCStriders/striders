@@ -46,7 +46,7 @@ Hey super Gill. I told you United would smash Everton&#8230;
 
 I've been crying, crying, crying over you Rach but don't go breaking my heart! 
 
-Harpreet, have you found the brakes on that bike yet? &#8211; STOP!!! 
+Harpreet, have you found the brakes on that bike yet? - STOP!!! 
 
 X: Hey Y How's your arse?
 

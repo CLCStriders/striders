@@ -1,6 +1,6 @@
 ---
 
-title: 'Cirencester Parks Summer Sizzler 10km &#8211; 20th June 2016'
+title: 'Cirencester Parks Summer Sizzler 10km - 20th June 2016'
 date: 2016-06-29T17:59:11+01:00
 author: Chris Driskell
 layout: post

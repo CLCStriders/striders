@@ -6,7 +6,7 @@ excerpt: '<p>Four Striders braved the old Style Cross Country Course at Halesowe
 layout: post
 permalink: /2009/11/--The-Midlands-XC-Halesowen-28-Nov-09/
 ---
-**The Midlands Cross Country at Halesowen &#8211; 28 November 2009**
+**The Midlands Cross Country at Halesowen - 28 November 2009**
 
 **<a name="Report"></a><a name="Report"></a>Report**
 
@@ -20,8 +20,8 @@ The Women Started first and were led home in 7th Position by Liza Barry who seem
 
 **Men (7miles)**
 
-27th Rich Dare &#8211; 42.18 
+27th Rich Dare - 42.18 
 
 **Women (5 miles)**
 
-7th Liza Barry &#8211; 34.30 12th Naomi Kellett &#8211; 37.48 &#8211; LV40 13th Rachel Vines &#8211; 38.00
+7th Liza Barry - 34.30 12th Naomi Kellett - 37.48 - LV40 13th Rachel Vines - 38.00

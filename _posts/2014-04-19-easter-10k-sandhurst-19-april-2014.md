@@ -1,6 +1,6 @@
 ---
 
-title: 'Easter 10k &#8211; Sandhurst &#8211; 19 April 2014'
+title: 'Easter 10k - Sandhurst - 19 April 2014'
 date: 2014-04-19T17:02:20+01:00
 excerpt: '<p>CLC Striders dominated the Easter 10k at Sandhurst Village on Saturday 19th April, taking both the mens and womens team honours as well as numerous individual prizes.</p>'
 layout: post

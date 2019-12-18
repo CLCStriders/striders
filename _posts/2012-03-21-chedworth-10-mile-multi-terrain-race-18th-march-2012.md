@@ -1,6 +1,6 @@
 ---
 
-title: 'Chedworth 10 Mile Multi-Terrain Race &#8211; 18th March 2012'
+title: 'Chedworth 10 Mile Multi-Terrain Race - 18th March 2012'
 date: 2012-03-21T22:33:15+00:00
 excerpt: '<p>Six Striders ran in the Chedworth 10 Mile Multi-Terrain Race on Sunday..</p>'
 layout: post

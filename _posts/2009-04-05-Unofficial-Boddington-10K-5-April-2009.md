@@ -1,7 +1,7 @@
 ---
 
 title: Unofficial Boddington 10K 5 April 2009
-excerpt: '<p>Bren &amp; Riz were spotted running in the unofficial Boddington 10K time trial today Boddington 10K time trial 05 April 2009 Photos Report Results</p>'
+excerpt: '<p>Bren and Riz were spotted running in the unofficial Boddington 10K time trial today Boddington 10K time trial 05 April 2009 Photos Report Results</p>'
 layout: post
 permalink: /0000/00/Unofficial-Boddington-10K--5-April-2009/
 ---

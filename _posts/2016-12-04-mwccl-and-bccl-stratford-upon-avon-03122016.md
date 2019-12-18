@@ -1,6 +1,6 @@
 ---
 
-title: 'MWCCL and BCCL, Stratford-upon-Avon &#8211; 03/12/2016'
+title: 'MWCCL and BCCL, Stratford-upon-Avon - 03/12/2016'
 date: 2016-12-04T17:53:47+00:00
 author: Chris Driskell
 layout: post

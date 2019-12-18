@@ -29,7 +29,7 @@ The annual Meteor Mile was run on the runway at Staverton airport under a settin
 
 <img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1.jpg" alt="" class="wp-image-3566" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1.jpg 800w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> <figcaption>_From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_</figcaption></figure> 
 
-## &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+## &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
 
 **Summer road race retrospective** 
 

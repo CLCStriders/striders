@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleeve Cloud Cuckoo &#8211; 4 June 2014'
+title: 'Cleeve Cloud Cuckoo - 4 June 2014'
 date: 2014-06-05T16:49:37+01:00
 author: Clark Lawson
 excerpt: '<p>There was a sizeable Striders presence in the Cleeve Cloud Cuckoo race on 4 June 2014.</p>'

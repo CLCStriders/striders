@@ -1,6 +1,6 @@
 ---
 
-title: 'Forest of Dean Half Marathon &#8211; 30 March 2014'
+title: 'Forest of Dean Half Marathon - 30 March 2014'
 date: 2014-03-31T21:02:38+01:00
 author: Clark Lawson
 excerpt: '<p>The Striders went down to the woods today and came back with a lovely prize.....</p>'

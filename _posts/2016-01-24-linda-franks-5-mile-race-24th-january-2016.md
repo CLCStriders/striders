@@ -1,6 +1,6 @@
 ---
 
-title: 'Linda Franks 5 Mile Race &#8211; 24th January 2016'
+title: 'Linda Franks 5 Mile Race - 24th January 2016'
 date: 2016-01-24T10:36:05+00:00
 author: Chris Driskell
 layout: post

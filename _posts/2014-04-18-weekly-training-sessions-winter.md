@@ -22,7 +22,7 @@ If you are a more experienced runner, we have a number of Monday night six mile 
 
 Our Sessions
 
-# Road Run &#8211; Monday 6.30pm CLC Sports Centre
+# Road Run - Monday 6.30pm CLC Sports Centre
 
 We meet at the CLC Sports Centre on Monday evenings at 18.30 and offer two groups: a four mile sociable run and a six mile run at a range of paces. If you would like to try a Monday session, please come along to the <a href="http://maps.google.co.uk/maps?q=gl50+2nx&#038;hl=en&#038;sll=51.89445,-2.081823&#038;sspn=0.038984,0.122395&#038;t=h&#038;hnear=GL50+2NX,+United+Kingdom&#038;z=16" target="_blank" rel="nofollow">CLC Sports Centre</a>at 6.25 pm on Monday evening and ask to speak to one of our club captains. You can also email us at <a href="mailto:training@clcstriders-runningclub.co.uk" target="_blank" rel="nofollow">training@clcstriders-runningclub.co.uk</a>.
 
@@ -32,7 +32,7 @@ All our routes are circular, starting and finishing at the <a href="http://maps.
 
 <a href="http://www.gmap-pedometer.com/?r=6085063" target="_blank" rel="nofollow">6 miles</a><a href="http://www.gmap-pedometer.com/?r=6085063" target="_blank" rel="nofollow"></a>at a variety of paces
 
-### Speed Work &#8211; Wednesday 6.30pm CLC Sports Centre
+### Speed Work - Wednesday 6.30pm CLC Sports Centre
 
 Speed work is for all abilities; it is a common misconception that it is only for the pros. Recreational runners will see tangible benefits in their fitness and performance. We have two groups; an improvers group and a competitive group:
 

@@ -1,6 +1,6 @@
 ---
 
-title: 'MWCCL &#038; BCCL Baggeridge Park &#8211; 14th January 2012'
+title: 'MWCCL &#038; BCCL Baggeridge Park - 14th January 2012'
 date: 2012-01-15T13:20:10+00:00
 excerpt: '<p>Striders battle it out in the Black Country...</p>'
 layout: post

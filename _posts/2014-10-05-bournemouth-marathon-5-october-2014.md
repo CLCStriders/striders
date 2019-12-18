@@ -1,6 +1,6 @@
 ---
 
-title: 'Bournemouth Marathon &#8211; 5 October 2014'
+title: 'Bournemouth Marathon - 5 October 2014'
 date: 2014-10-05T19:33:13+01:00
 excerpt: '<p>A quartet of Striders headed to the South Coast to take on the Bournemouth Marathon on Sunday 5th October 2014.</p><p>After months of preparations including clocking up some serious mileage, the quartet smashed their targets on race day.</p>'
 layout: post

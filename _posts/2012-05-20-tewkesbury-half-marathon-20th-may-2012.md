@@ -1,6 +1,6 @@
 ---
 
-title: 'Tewkesbury Half Marathon &#8211; 20th May 2012'
+title: 'Tewkesbury Half Marathon - 20th May 2012'
 date: 2012-05-20T20:26:31+01:00
 excerpt: '<p>John Parker ran a storming race to win the Tewkesbury Half Marathon on Sunday 20th May. </p>'
 layout: post

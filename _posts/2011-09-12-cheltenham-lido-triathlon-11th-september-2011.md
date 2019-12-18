@@ -12,7 +12,7 @@ Spurred on by fellow striders and families, the 6 team members took to the water
 
 Normal 0 false false false EN-GB X-NONE AR-SA MicrosoftInternetExplorer4 /\* Style Definitions \*/ table.MsoNormalTable
 
-Also running for Striders was Matt Puddy who finished in a time of 1:05:51 &#8211; not bad for a first attempt!
+Also running for Striders was Matt Puddy who finished in a time of 1:05:51 - not bad for a first attempt!
 
 Well done all â€“ it was a pleasure to watch! 
 
@@ -24,9 +24,9 @@ The results were as follows:
 
 10<sup>th</sup>â€“ Jo Wilkie â€“ 57.35
 
-50<sup>th </sup>&#8211; Helen Howes â€“ 1.04.47
+50<sup>th </sup>- Helen Howes â€“ 1.04.47
 
-53<sup>rd</sup>&#8211; Lisa Boyd â€“ 1.05.05
+53<sup>rd</sup>- Lisa Boyd â€“ 1.05.05
 
 61<sup>st</sup>â€“ Beckie Boultonâ€“ 1.05.51
 

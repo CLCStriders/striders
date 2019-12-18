@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire XC League I, Little Rissington &#8211; 15/10/2016'
+title: 'Gloucestershire XC League I, Little Rissington - 15/10/2016'
 date: 2016-10-20T18:38:16+01:00
 author: Chris Driskell
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Paul Northup &#8211; VLM 2016 Race Day'
+title: 'Paul Northup - VLM 2016 Race Day'
 date: 2016-05-07T20:32:17+01:00
 author: Clark Lawson
 layout: post
@@ -29,7 +29,7 @@ Importantly (as someone who usually sails past the support stations), I made sur
 
 At the half way point I clocked 1:33:24. A tad slower than I’d planned, yes. But I felt OK and I was ready to do it all again. Except, hopefully, a bit faster? That was the idea, anyway.
 
-And that plan felt doable for way longer than I would have dared hope, to be honest. On all my previous marathon outings I’ve not been properly prepared and, once beyond 16 &#8211; 17 miles, I’ve begun to pay the price. This time, I felt much stronger. I was even enjoying the whole experience and atmosphere. Something I’d found myself almost resenting the first time I ran the London Marathon, to my shame. With my name on my Striders vest, I was getting a lot of encouragement and I tried my best to smile back and interact. Something I’ve never done before, being the introverted, serious sort.
+And that plan felt doable for way longer than I would have dared hope, to be honest. On all my previous marathon outings I’ve not been properly prepared and, once beyond 16 - 17 miles, I’ve begun to pay the price. This time, I felt much stronger. I was even enjoying the whole experience and atmosphere. Something I’d found myself almost resenting the first time I ran the London Marathon, to my shame. With my name on my Striders vest, I was getting a lot of encouragement and I tried my best to smile back and interact. Something I’ve never done before, being the introverted, serious sort.
 
 All was on track through to mile 20. And then the last six miles saw me slow progressively, mile-on-mile, after an encouraging 6:44 for Mile 20. (On reflection, I got carried away during Mile 20, as we turned west towards central London from the docklands. It felt like the end was in sight and I kicked for home!) As you can see, the last six miles were where my pace and time unravelled a little. 
 

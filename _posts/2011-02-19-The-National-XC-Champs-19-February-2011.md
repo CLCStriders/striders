@@ -13,17 +13,17 @@ The exceptionally muddy conditions at the National Cross Country Championships h
 **<a name="Results"></a>Results**
 
 **  
-Women &#8211; 6K  
-** 217 &#8211; Pat Woods &#8211; 31.28  
-265 &#8211; Rachel Vines &#8211; 32.23  
-333 &#8211; Jo Wilkie &#8211; 34.04
+Women - 6K  
+** 217 - Pat Woods - 31.28  
+265 - Rachel Vines - 32.23  
+333 - Jo Wilkie - 34.04
 
-**Men &#8211; 10K  
-** 132 &#8211; Will Ferguson &#8211; 40.37  
-775 &#8211; Tom Stone &#8211; 51.51  
-806 &#8211; Glyn Bagnall &#8211; 52.34 &#8211; (V50)  
-953 &#8211; Joel Freeland &#8211; 55.35  
-1127 &#8211; Nick Von Benzon &#8211; 60.59 &#8211; (V55)  
-1255 &#8211; Dan Harte &#8211; 69.11
+**Men - 10K  
+** 132 - Will Ferguson - 40.37  
+775 - Tom Stone - 51.51  
+806 - Glyn Bagnall - 52.34 - (V50)  
+953 - Joel Freeland - 55.35  
+1127 - Nick Von Benzon - 60.59 - (V55)  
+1255 - Dan Harte - 69.11
 
 Click <a href="http://englishcrosscountry.co.uk/images/nationals11/SM_Final_GunResult.pdf" target="_blank" rel="nofollow">here</a>for the official results

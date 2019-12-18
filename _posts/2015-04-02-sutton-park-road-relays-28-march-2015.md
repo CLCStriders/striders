@@ -1,6 +1,6 @@
 ---
 
-title: 'Sutton Park Road Relays &#8211; 28 March 2015'
+title: 'Sutton Park Road Relays - 28 March 2015'
 date: 2015-04-02T22:21:05+01:00
 author: Clark Lawson
 excerpt: "<p>Nick Barry returned to form after recovering from a stress fracture to lead the CLC Striders mens'team off at the Sutton Park Midland 12 stage road relays.</p>"

@@ -1,6 +1,6 @@
 ---
 
-title: 'Brewer Games &#8211; 4th June 2012'
+title: 'Brewer Games - 4th June 2012'
 date: 2012-06-04T16:30:38+01:00
 excerpt: '<p>Four Striders competed in the Brewer Games at the POWS on Bank Holiday Monday..</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Midsummer Open &#8211; 3 July 2013'
+title: 'Midsummer Open - 3 July 2013'
 date: 2013-07-09T11:47:43+01:00
 excerpt: '<p>Seven Striders took to the track at the Prince of Wales Stadium in the first of the Midsummer Opens hosted by Cheltenham Harriers . The night saw 5 new club records and some great performances in the long awaited summer sunshine.</p>'
 layout: post

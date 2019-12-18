@@ -12,7 +12,7 @@ permalink: /2009/04/Stoke-Open-Track-Meeting-19-April-2009/
 
 CLC Striders travelled to Stoke today to compete in there first ever track racing experience, and what a fantastic day it turned out to be.
 
-This was an open meeting of various age groups, and the Striders didn't dissapoint coming away with one first place with Richard Dare storming to victory in the 800m, four second placings, and two third placings (seven medals won in total) every member of the squad (six in total won a medal) &#8211; Rachel Vines being the only Strider to win two (both silver medals)
+This was an open meeting of various age groups, and the Striders didn't dissapoint coming away with one first place with Richard Dare storming to victory in the 800m, four second placings, and two third placings (seven medals won in total) every member of the squad (six in total won a medal) - Rachel Vines being the only Strider to win two (both silver medals)
 
 <a name="Report"></a><a name="Results"></a>
 

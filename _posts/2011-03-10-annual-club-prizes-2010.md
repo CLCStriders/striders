@@ -12,18 +12,18 @@ permalink: /2011/03/annual-club-prizes-2010/
 
 ## Unsung Hero Chris Slade</p> 
 
-## Services to the Club &#8211; Clive Hodges</p> 
+## Services to the Club - Clive Hodges</p> 
 
-## Newcomer &#8211; John Parker</p> 
+## Newcomer - John Parker</p> 
 
-## Most Improved &#8211; Phil Jowett</p> 
+## Most Improved - Phil Jowett</p> 
 
-## Female Track Athlete &#8211; Rachel Vines</p> 
+## Female Track Athlete - Rachel Vines</p> 
 
-## Male Track Athlete &#8211; Will Ferguson</p> 
+## Male Track Athlete - Will Ferguson</p> 
 
-## Special Achievement &#8211; Liza Barry</p> 
+## Special Achievement - Liza Barry</p> 
 
-## Road Athlete &#8211; Will Ferguson</p> 
+## Road Athlete - Will Ferguson</p> 
 
-## Female Cross Country Athlete &#8211; Laura Kent</p>
+## Female Cross Country Athlete - Laura Kent</p>

@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse 5km &#8211; 19th July 2012'
+title: 'White Horse 5km - 19th July 2012'
 date: 2012-07-20T06:40:49+01:00
 excerpt: '<p>16 Striders ran in the White Horse 5km on Thursday</p>'
 layout: post
@@ -20,38 +20,38 @@ Both Denise Hallem and Claire Sansome showed their continued improvement by sett
 
 Results:
 
-1) Ollie Mott (B&W) &#8211; 15:00
+1) Ollie Mott (B&W) - 15:00
 
-4) John Parker &#8211; 15:28
+4) John Parker - 15:28
 
-18) Chris Driskell &#8211; 16:53
+18) Chris Driskell - 16:53
 
-24) Hilary Agate &#8211; 18:09
+24) Hilary Agate - 18:09
 
-32) Rich Cannock &#8211; 18:44
+32) Rich Cannock - 18:44
 
-34) Laura Kent &#8211; 18:48
+34) Laura Kent - 18:48
 
-46) Sian Holley &#8211; 19:50
+46) Sian Holley - 19:50
 
-49) Derek Tebbs &#8211; 20:01
+49) Derek Tebbs - 20:01
 
-58) Paul Bryant &#8211; 20:35
+58) Paul Bryant - 20:35
 
-59) Phil Jowett &#8211; 20:39
+59) Phil Jowett - 20:39
 
-60) Rachel Vines &#8211; 20:41
+60) Rachel Vines - 20:41
 
-63) Ben Anderson &#8211; 20:44
+63) Ben Anderson - 20:44
 
-65) Amanda Steer &#8211; 20:52
+65) Amanda Steer - 20:52
 
-78) Dan! Harte &#8211; 21:31
+78) Dan! Harte - 21:31
 
-86) David James &#8211; 22:11
+86) David James - 22:11
 
-108) Denise Hallam &#8211; 26:06
+108) Denise Hallam - 26:06
 
-109) Claire Sansome &#8211; 26:19
+109) Claire Sansome - 26:19
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/whresults19072012.pdf" target="_blank" rel="nofollow">full results</a>

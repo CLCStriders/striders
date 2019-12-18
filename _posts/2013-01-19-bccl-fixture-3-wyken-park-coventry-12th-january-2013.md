@@ -1,6 +1,6 @@
 ---
 
-title: 'BCCL Fixture 3 Wyken Park Coventry &#8211; 12th January 2013'
+title: 'BCCL Fixture 3 Wyken Park Coventry - 12th January 2013'
 date: 2013-01-19T13:46:43+00:00
 excerpt: '<p>A CLC Striders team ravaged by injury and illness travelled to Wyken Croft Park in Coventry for the 3<sup>rd</sup>of this seasonâ€™s 4 Birmingham Cross Country League fixtures. </p>'
 layout: post

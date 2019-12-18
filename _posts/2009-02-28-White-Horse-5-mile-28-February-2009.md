@@ -14,7 +14,7 @@ Rich Dare led the CLC Striders home with a superb 28.55 finishing 17th overall i
 
 Liza Barry had a very good run to lead the women home running a very respectable 33.56, she was followed by the ever improving Rachel Vines in 35.42, and ladies club captain Lisa Boyd who ran 36.04.
 
-Other notable performances were had by Justine Hale who smashed the club's V35 ladies record, Tracey Densham who managed to avoid going AWOL &#8211; well done Tracey, Barney Banford, Paul Davis, Simon Dee and Angela Puffett. Unfortunately Gibsey had to pull out due to a severe stitch!!
+Other notable performances were had by Justine Hale who smashed the club's V35 ladies record, Tracey Densham who managed to avoid going AWOL - well done Tracey, Barney Banford, Paul Davis, Simon Dee and Angela Puffett. Unfortunately Gibsey had to pull out due to a severe stitch!!
 
 Kindest Regards.
 

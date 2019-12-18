@@ -1,6 +1,6 @@
 ---
 
-title: 'MWCCL Fixture 3 &#8211; Tipton 12th January 2013'
+title: 'MWCCL Fixture 3 - Tipton 12th January 2013'
 date: 2013-01-19T13:50:43+00:00
 excerpt: '<p>A team of four travelled to the 3rd fixture in the 2012/13 womens midland cross country league on Saturday 12th Jan.</p>'
 layout: post

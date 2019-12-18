@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Counties Women's Relays &#8211; 24/09/2016'
+title: 'Midland Counties Women's Relays - 24/09/2016'
 date: 2016-10-15T10:26:14+01:00
 author: Chris Driskell
 layout: post

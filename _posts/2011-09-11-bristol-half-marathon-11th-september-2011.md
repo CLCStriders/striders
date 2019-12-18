@@ -7,8 +7,8 @@ permalink: /0000/00/bristol-half-marathon-11th-september-2011/
 ---
 Striders results were&#8230;.
 
-1555 &#8211; Rob Lynch &#8211; 01:42:43
+1555 - Rob Lynch - 01:42:43
 
-3857 &#8211; Stephen Hucker &#8211; 01:56:49
+3857 - Stephen Hucker - 01:56:49
 
 <a href="http://www.runbristol.com/HalfMarathon/30/Home.aspx" target="_blank" rel="nofollow">full results</a>

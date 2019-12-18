@@ -6,7 +6,7 @@ excerpt: "<p>Well done to all of you who competed in the Glos Cross Country Leag
 layout: post
 permalink: /2010/10/The-Gloucestershire-Cross-Country-League-09-October-2010/
 ---
-**The Gloucestershire Cross Country League &#8211; 09 October 2010**</p> 
+**The Gloucestershire Cross Country League - 09 October 2010**</p> 
 
 <table>
   <tr>
@@ -33,31 +33,31 @@ John Parker led the Men home and ran well to finish in 2nd position, Chris Drisk
 <a name="Theresults"></a>**Results**
 
 Women  
-7. Liza Barry &#8211; 25.28  
-17. Rachel Vines &#8211; 26.35  
-28. Pat Woods &#8211; 28.04  
-30. Jo Wilkie &#8211; 28.19  
-38. Jessica Shaw &#8211; 29.08  
+7. Liza Barry - 25.28  
+17. Rachel Vines - 26.35  
+28. Pat Woods - 28.04  
+30. Jo Wilkie - 28.19  
+38. Jessica Shaw - 29.08  
 41. Nicki Smith -29.22 (L45)  
-43. Ali Perrio &#8211; 29.30  
-67. Vicky Martin &#8211; 31.50 (L35)  
-84. Helen Howes &#8211; 33.19  
-90. Beckie Boulton &#8211; 34.59 (L35)  
-100. Sal Drummond &#8211; 38.40  
+43. Ali Perrio - 29.30  
+67. Vicky Martin - 31.50 (L35)  
+84. Helen Howes - 33.19  
+90. Beckie Boulton - 34.59 (L35)  
+100. Sal Drummond - 38.40  
 Tracey Densham DNF  
 Teams  
 3. CLC Striders A = 52. CLC were 3rd, although we have the same points as Leamington who are second, this is due to Leamingtons final scorer beating our final scorer
 
 Men  
-2. John Parker &#8211; 30.40  
-51. Chris Driskall &#8211; 35.43  
-56. Jamie Patterson &#8211; 36.05  
-72. Billy Bradshaw &#8211; 36.50 (M45)  
-77. James Gibbs &#8211; 37.11  
-91. Joel Freeland &#8211; 38.28  
-120. Barney Banford &#8211; 39.59  
-122. Simon Dee &#8211; 40.10 (M45)  
-135. Chris Slade &#8211; 41.25 (M40)  
-155. Paul Jenkins &#8211; 44.22 (M45)  
+2. John Parker - 30.40  
+51. Chris Driskall - 35.43  
+56. Jamie Patterson - 36.05  
+72. Billy Bradshaw - 36.50 (M45)  
+77. James Gibbs - 37.11  
+91. Joel Freeland - 38.28  
+120. Barney Banford - 39.59  
+122. Simon Dee - 40.10 (M45)  
+135. Chris Slade - 41.25 (M40)  
+155. Paul Jenkins - 44.22 (M45)  
 Teams  
 8. CLC Striders A = 349

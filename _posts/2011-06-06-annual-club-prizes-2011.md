@@ -16,26 +16,26 @@ permalink: /2011/06/annual-club-prizes-2011/
 
 ## 
 
-## Services to the Club &#8211; Chris Driskell</p> 
+## Services to the Club - Chris Driskell</p> 
 
-## Most Improved &#8211; Dave Smeath
-
-## 
-
-## Female Track Athlete &#8211; Rachel Vines</p> 
-
-## Male Track Athlete &#8211; Rich Dare</p> 
-
-## Road Athlete &#8211; John Parker
+## Most Improved - Dave Smeath
 
 ## 
 
-## Male Cross Country Athlete &#8211; John Parker
+## Female Track Athlete - Rachel Vines</p> 
+
+## Male Track Athlete - Rich Dare</p> 
+
+## Road Athlete - John Parker
 
 ## 
 
-## Female Cross Country Athlete &#8211; Laura Kent</p> 
+## Male Cross Country Athlete - John Parker
 
-## Newcomer &#8211; Rachael Elkins</p> 
+## 
 
-## Special Achievement Award &#8211; Wayne Usher</p>
+## Female Cross Country Athlete - Laura Kent</p> 
+
+## Newcomer - Rachael Elkins</p> 
+
+## Special Achievement Award - Wayne Usher</p>

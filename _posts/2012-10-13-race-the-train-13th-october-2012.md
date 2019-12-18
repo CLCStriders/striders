@@ -1,6 +1,6 @@
 ---
 
-title: 'Race The Train &#8211; 13th October 2012'
+title: 'Race The Train - 13th October 2012'
 date: 2012-10-13T18:49:30+01:00
 excerpt: "<p>Three Striders took part in the inaugural 'Race the Train'in aid of Cotswold Care Hospice.</p>"
 layout: post

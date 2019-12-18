@@ -1,6 +1,6 @@
 ---
 
-title: 'Bourton one mile challenge &#8211; 21 July 2012'
+title: 'Bourton one mile challenge - 21 July 2012'
 date: 2012-07-22T13:39:20+01:00
 excerpt: '<p>Two CLC striders competed in the Bourton one mile challenge, on a sunny saturday evening</p>'
 layout: post

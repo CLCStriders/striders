@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC Championships &#8211; 7th January 2012'
+title: 'Glos XC Championships - 7th January 2012'
 date: 2012-01-07T23:45:17+00:00
 excerpt: "<p>CLC Striders Men's and Women's Teams had excellent results at the County Cross Country Championships held at Plock Court, Gloucester Saturday 7th January. Both Teams finished in a Bronze medal position. </p>"
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse 5km &#8211; 16th August 2012'
+title: 'White Horse 5km - 16th August 2012'
 date: 2012-08-21T06:24:53+01:00
 excerpt: '<p>A squad of 17 CLC Striders raced at the 4<sup>th</sup>and final Whitehorse 5km of the season. This race also incorporated the County 5km Championships</p>'
 layout: post

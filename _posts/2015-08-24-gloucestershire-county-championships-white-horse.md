@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire County Championships &#8211; White Horse'
+title: 'Gloucestershire County Championships - White Horse'
 date: 2015-08-24T16:52:44+01:00
 author: Clark Lawson
 layout: post

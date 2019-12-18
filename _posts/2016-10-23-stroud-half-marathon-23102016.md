@@ -1,6 +1,6 @@
 ---
 
-title: 'Stroud Half Marathon &#8211; 23/10/2016'
+title: 'Stroud Half Marathon - 23/10/2016'
 date: 2016-10-23T16:59:48+01:00
 author: Chris Driskell
 layout: post

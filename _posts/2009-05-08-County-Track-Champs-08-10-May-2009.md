@@ -22,7 +22,7 @@ permalink: /2009/05/County-Track-Champs-08-10-May-2009/
 
 **Report**</p> 
 
-**County Track Championships Part 1 Report**&#8211; Friday 8th May 2009 held on a very windy night
+**County Track Championships Part 1 Report**- Friday 8th May 2009 held on a very windy night
 
 CLC striders had 7 athletes competing in the county track championships held at the Prince of Wales stadium on Friday 8th may 2009.
 
@@ -34,7 +34,7 @@ Well done to you all you ran well in very windy conditions, times will get even 
 
 A special well done to goes out to super auntie Dawn who also won her age group however, as it's not a veterans championships no medals were handed out!! Keep it up Dawn.
 
-**County Track Championships Part 2 Report**&#8211; Sunday 10th May 2009
+**County Track Championships Part 2 Report**- Sunday 10th May 2009
 
 What a weekend!! Part two of the county track championships from the POWs produced some more great results which the club should be very proud of indeed!!
 
@@ -123,7 +123,7 @@ Bren
     </td>
     
     <td>
-      Track 5000m &#8211; record
+      Track 5000m - record
     </td>
   </tr>
   
@@ -161,7 +161,7 @@ Bren
     </td>
     
     <td>
-      Track 5000m &#8211; pb
+      Track 5000m - pb
     </td>
   </tr>
   
@@ -228,7 +228,7 @@ Bren
     </td>
     
     <td>
-      Track 3000m &#8211; record
+      Track 3000m - record
     </td>
   </tr>
   
@@ -266,7 +266,7 @@ Bren
     </td>
     
     <td>
-      Track 3000m &#8211; pb
+      Track 3000m - pb
     </td>
   </tr>
   
@@ -304,7 +304,7 @@ Bren
     </td>
     
     <td>
-      Track 3000m &#8211; pb
+      Track 3000m - pb
     </td>
   </tr>
   
@@ -342,7 +342,7 @@ Bren
     </td>
     
     <td>
-      Track 3000m &#8211; pb
+      Track 3000m - pb
     </td>
   </tr>
   
@@ -380,7 +380,7 @@ Bren
     </td>
     
     <td>
-      Track 3000m &#8211; record
+      Track 3000m - record
     </td>
   </tr>
   
@@ -447,7 +447,7 @@ Bren
     </td>
     
     <td>
-      Track 100m &#8211; record
+      Track 100m - record
     </td>
   </tr>
   
@@ -514,7 +514,7 @@ Bren
     </td>
     
     <td>
-      Track 1500m &#8211; record
+      Track 1500m - record
     </td>
   </tr>
   
@@ -581,7 +581,7 @@ Bren
     </td>
     
     <td>
-      Track 1500m &#8211; record
+      Track 1500m - record
     </td>
   </tr></colgroup>
 </table>

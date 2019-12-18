@@ -1,6 +1,6 @@
 ---
 
-title: 'Weekend Race Reports: 11th &#8211; 12th March 2017'
+title: 'Weekend Race Reports: 11th - 12th March 2017'
 date: 2017-03-14T07:52:46+00:00
 author: Chris Driskell
 layout: post

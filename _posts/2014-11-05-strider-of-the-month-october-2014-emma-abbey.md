@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; October 2014 &#8211; Emma Abbey'
+title: 'Strider of the Month - October 2014 - Emma Abbey'
 date: 2014-11-05T22:31:27+00:00
 author: Clark Lawson
 excerpt: '<p>Strider of the Month winner for October is Emma Abbey.</p>'

@@ -1,6 +1,6 @@
 ---
 
-title: 'Woodchester Park 8 mile multi-terrain race &#8211; 8 September 2013'
+title: 'Woodchester Park 8 mile multi-terrain race - 8 September 2013'
 date: 2013-09-20T17:15:59+01:00
 excerpt: '<p>Amelia Mullins ran in the Woodchester Park 8 Mile Multi-Terrain race on 8 September 2013:</p>'
 layout: post

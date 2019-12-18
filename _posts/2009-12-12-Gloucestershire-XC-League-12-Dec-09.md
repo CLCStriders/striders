@@ -6,7 +6,7 @@ excerpt: '<p>23 CLC Striders battled hard in the 3rd race of the Gloucestershire
 layout: post
 permalink: /2009/12/Gloucestershire-XC-League-12-Dec-09-----/
 ---
-**The Gloucestershire Cross Country League at Tewkesbury &#8211; 12 December 2009**
+**The Gloucestershire Cross Country League at Tewkesbury - 12 December 2009**
 
 **<a name="Report"></a><a name="Report"></a>**
 
@@ -34,7 +34,7 @@ Richard Dare showed his continuing improvement by finishing in 16th place. Follo
 123. Rob Lynch 45.59  
 142. Richard Cannock 53.47
 
-Team Competition &#8211; 17 Teams Entered
+Team Competition - 17 Teams Entered
 
 CLC A Team Finished 7th = 303 Points  
 CLC B Team Finished 3rd = 611 Points
@@ -52,7 +52,7 @@ CLC B Team Finished 3rd = 611 Points
 94. Sal Drummond 48.26  
 96. Georgia D'Esterre 54.10
 
-Team Competition &#8211; 24 Teams Entered
+Team Competition - 24 Teams Entered
 
 CLC A Team 2nd = 50 Points  
 CLC B Team 4th = 156 Points  

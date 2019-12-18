@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham Half Marathon &#8211; 15 September 2013'
+title: 'Cheltenham Half Marathon - 15 September 2013'
 date: 2013-09-17T12:07:42+01:00
 excerpt: "<p>Intrepid Striders were heading off to all parts in a globe-trotting weekend of half marathon action. However, the main focus was, of course, on our home town for Cheltenham's Half Marathon. Dave Smeath takes the long view from sunny Stockholm.....</p>"
 layout: post

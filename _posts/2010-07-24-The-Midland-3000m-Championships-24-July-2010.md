@@ -2,7 +2,7 @@
 
 title: The Midland 3000m Championships 24 July 2010
 date: 2010-07-24T09:00:00+01:00
-excerpt: '<p>Liza Barry &amp; Rachel Vines competed in the Midland 3K Track Championships in Birmingham. Click the link below to see how they got on, Brendan Ward (Club Chairman) Midland 3000m champs 24 July 2010 Photos Report Results</p>'
+excerpt: '<p>Liza Barry and Rachel Vines competed in the Midland 3K Track Championships in Birmingham. Click the link below to see how they got on, Brendan Ward (Club Chairman) Midland 3000m champs 24 July 2010 Photos Report Results</p>'
 layout: post
 permalink: /2010/07/The-Midland-3000m-Championships-24-July-2010-/
 ---
@@ -23,7 +23,7 @@ Brendan Ward (Club Chairman)
   
 **3000m**
 
-6. Rachel Vines &#8211; 10.54.97 &#8211; **Club Record**
+6. Rachel Vines - 10.54.97 - **Club Record**
 
 7. Liza Barry 11.20.27 
 

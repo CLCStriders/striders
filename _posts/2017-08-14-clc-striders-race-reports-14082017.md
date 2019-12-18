@@ -1,6 +1,6 @@
 ---
 
-title: 'CLC Striders Race Reports &#8211; 14/08/2017'
+title: 'CLC Striders Race Reports - 14/08/2017'
 date: 2017-08-14T19:11:39+01:00
 author: Chris Driskell
 layout: post

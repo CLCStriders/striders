@@ -1,8 +1,8 @@
 ---
 
-title: 'The Welsh Track &amp; Midland Champs 13 June 2010'
+title: 'The Welsh Track and Midland Champs 13 June 2010'
 date: 2010-06-13T09:00:00+01:00
-excerpt: "<p>Dare runs 1:59.6 for 800m! The Devil storms under the 2-minute barrier at the Welsh track championships on the same day as John Parker (JP) becomes Midlands 5k v35 track champion. Brilliant performances, I'm so proud of you both, keep it up! Brendan Ward (Club Chairman) Welsh &amp; Midlands vets champs 13 June 2010 Photos Report Results</p>"
+excerpt: "<p>Dare runs 1:59.6 for 800m! The Devil storms under the 2-minute barrier at the Welsh track championships on the same day as John Parker (JP) becomes Midlands 5k v35 track champion. Brilliant performances, I'm so proud of you both, keep it up! Brendan Ward (Club Chairman) Welsh and Midlands vets champs 13 June 2010 Photos Report Results</p>"
 layout: post
 permalink: '/2010/06/The-Welsh-Track-&amp;-Midland-Champs-13-June-2010-/'
 ---

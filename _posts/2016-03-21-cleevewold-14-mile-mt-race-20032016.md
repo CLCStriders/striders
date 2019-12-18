@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleevewold 14 Mile MT Race &#8211; 20/03/2016'
+title: 'Cleevewold 14 Mile MT Race - 20/03/2016'
 date: 2016-03-21T17:00:34+00:00
 author: Chris Driskell
 layout: post

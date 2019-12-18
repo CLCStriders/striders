@@ -6,7 +6,7 @@ excerpt: '<p>James Gibbs and Barney Bamford completed the famous Snowdonia marat
 layout: post
 permalink: /2010/10/The-Snowdonia-Marathon-30-October-2010/
 ---
-**The Snowdon Marathon &#8211; 30 October 2010**</p> 
+**The Snowdon Marathon - 30 October 2010**</p> 
 
 <table>
   <tr>

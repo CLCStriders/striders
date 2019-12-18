@@ -1,6 +1,6 @@
 ---
 
-title: 'South Gloucestershire Evening Tri Series &#8211; 15 May 2013'
+title: 'South Gloucestershire Evening Tri Series - 15 May 2013'
 date: 2013-05-21T13:02:51+01:00
 excerpt: '<p>Having survived an Aquathon, Alice Johnston decided to take the plunge and take on the first event in the South Glos Tri Series on Wednesday night (anything to get out of 200m intervals).</p>'
 layout: post

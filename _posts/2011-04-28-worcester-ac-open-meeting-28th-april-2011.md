@@ -24,12 +24,12 @@ Results
 
 400M
 
-Joel Freeland &#8211; 57.9s
+Joel Freeland - 57.9s
 
-Rich Cannock &#8211; 61.6s
+Rich Cannock - 61.6s
 
 200M
 
-Joel Freeland &#8211; 26.6s
+Joel Freeland - 26.6s
 
-Rich Cannock &#8211; 29.6s
+Rich Cannock - 29.6s

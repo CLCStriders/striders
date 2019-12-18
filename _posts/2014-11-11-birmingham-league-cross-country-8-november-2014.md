@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham League Cross Country &#8211; 8 November 2014'
+title: 'Birmingham League Cross Country - 8 November 2014'
 date: 2014-11-11T12:08:46+00:00
 author: Clark Lawson
 excerpt: "<p>Leamington used to be renowned for it's spa baths, but a band of intrepid Striders encountered a bath of the mud variety at the first Birmingham and Midlands Cross Country fixture of the season.</p>"

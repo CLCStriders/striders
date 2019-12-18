@@ -1,6 +1,6 @@
 ---
 
-title: 'Angels 10k &#8211; Sun 17th April 2016'
+title: 'Angels 10k - Sun 17th April 2016'
 date: 2016-04-18T07:59:18+01:00
 author: Clark Lawson
 layout: post

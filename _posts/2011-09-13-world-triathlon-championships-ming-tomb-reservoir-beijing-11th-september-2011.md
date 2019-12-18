@@ -1,6 +1,6 @@
 ---
 
-title: 'World Triathlon Championships, Ming Tomb Reservoir, Beijing &#8211; 11th September 2011'
+title: 'World Triathlon Championships, Ming Tomb Reservoir, Beijing - 11th September 2011'
 date: 2011-09-13T22:16:30+01:00
 excerpt: '<p>Well done to Darren Milne on a great performance in the World Triathlon Championships</p>'
 layout: post

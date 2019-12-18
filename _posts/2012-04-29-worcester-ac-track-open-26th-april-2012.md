@@ -1,6 +1,6 @@
 ---
 
-title: 'Worcester AC Track Open &#8211; 26th April 2012'
+title: 'Worcester AC Track Open - 26th April 2012'
 date: 2012-04-29T15:43:01+01:00
 author: Clark Lawson
 excerpt: '<p>Three Striders made their way up the M5 to compete in the Worcester AC Open track meeting on a blustery and overcast Thursday evening. The weather had clearly kept some senior competitors away and the field was dominated by junior athletes.</p>'

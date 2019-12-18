@@ -6,4 +6,4 @@ excerpt: '<p>Jon Gould wins the Cirencester Short Course Duathlon. Excellent res
 layout: post
 permalink: /2011/02/The-Cirencester-Short-Course-Duathlon-13-February-2011/
 ---
-**Report**On Sunday 13th February Jon Gould won the Cirencester Short Course Duathlon! The race was an off-road combination of running and mountain biking: 1 mile run &#8211; 5 mile bike &#8211; 1 mile run. The course was incredibly muddy, which made going tough, but Jon managed to pull away on the bike leg to come home in a time of 39:02, over one and a half minutes ahead of second place.
+**Report**On Sunday 13th February Jon Gould won the Cirencester Short Course Duathlon! The race was an off-road combination of running and mountain biking: 1 mile run - 5 mile bike - 1 mile run. The course was incredibly muddy, which made going tough, but Jon managed to pull away on the bike leg to come home in a time of 39:02, over one and a half minutes ahead of second place.

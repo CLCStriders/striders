@@ -1,6 +1,6 @@
 ---
 
-title: 'Fire Service College 10K &#8211; 29th April 2012'
+title: 'Fire Service College 10K - 29th April 2012'
 date: 2012-04-29T19:53:30+01:00
 excerpt: '<p>Miraculous Mayo Makes Molehills of Moreton-in Marsh Monsoon</p>'
 layout: post

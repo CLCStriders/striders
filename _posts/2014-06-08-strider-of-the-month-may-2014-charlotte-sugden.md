@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; May 2014 &#8211; Charlotte Sugden'
+title: 'Strider of the Month - May 2014 - Charlotte Sugden'
 date: 2014-06-08T21:31:21+01:00
 author: Clark Lawson
 excerpt: '<p>Strider of the Month winner for May is Charlotte Sugden (pictured wearing number 107).</p>'

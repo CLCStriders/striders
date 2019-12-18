@@ -1,6 +1,6 @@
 ---
 
-title: 'Coventry Half Marathon &#8211; 28/02/2016'
+title: 'Coventry Half Marathon - 28/02/2016'
 date: 2016-02-29T22:50:38+00:00
 author: Chris Driskell
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Annual Awards &#8211; 18 May 2013'
+title: 'Annual Awards - 18 May 2013'
 date: 2013-05-20T17:36:00+01:00
 excerpt: '<p>David Moorcroft presented the prizes at the CLC Striders Awards evening at The Beehive on Saturday.</p>'
 layout: post

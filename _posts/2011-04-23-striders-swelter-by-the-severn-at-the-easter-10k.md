@@ -19,18 +19,18 @@ The race was won by former Severn AC athlete Josh Lilly in a time of 31:00
 
 Striders Results:
 
-8) Chris Driskell &#8211; 38:21
+8) Chris Driskell - 38:21
 
-29) Ian Daniels &#8211; 45:23
+29) Ian Daniels - 45:23
 
-30) Amanda Steer &#8211; 45:39
+30) Amanda Steer - 45:39
 
-33) Pat Woods &#8211; 46:12
+33) Pat Woods - 46:12
 
-36) Nicholas von Benzon &#8211; 46:38
+36) Nicholas von Benzon - 46:38
 
-37) Jo Wilkie &#8211; 46:51 
+37) Jo Wilkie - 46:51 
 
-53) Duncan Kay &#8211; 64:40 
+53) Duncan Kay - 64:40 
 
 <a href="http://www.severnac.co.uk/report.php?id=244" target="_blank" rel="nofollow">Full results</a></p>

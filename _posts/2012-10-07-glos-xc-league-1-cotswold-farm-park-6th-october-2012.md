@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC League 1 Cotswold Farm Park &#8211; 6th October 2012'
+title: 'Glos XC League 1 Cotswold Farm Park - 6th October 2012'
 date: 2012-10-07T09:23:41+01:00
 excerpt: "<p>CLC Striders men and women's teams got off to a good start in the first county league fixture of the season held at Cotswold Farm Park.</p>"
 layout: post

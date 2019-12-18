@@ -14,7 +14,7 @@ What a great day it was for the Club at the Gloucester Road Relays! The Men did 
 
 Nathan Jones had an excellent run on leg one to record a very swift 16.35, Vet 40 Phil Jowett took over and ran an excellent 17.33 which was the fastest Vet Time of the day, Chris Driskell took over recording a solid 17.59, and anchor man Ben Pedley running strong all the way moved through to Clinch the Bronze Medal.
 
-Amelia Mullins led the Women's Team off to a fine 22.46, Super Vet Dawn Addinall took over and ran well in a time of 25.20, Final Team Member Tracey Densham maintained good form to bring the Club home for the Vet County Championship Gold Medal.Other Athletes for B and C Teams also did well for the Club &#8211; James Gibbs 19.21, Simon Dee 19.42 (V40), Barney Banford 20.25, Paul Smith 18.44, Mark Smith 21.35, Rich Cannock 20.18, Lee Burge 18.53.
+Amelia Mullins led the Women's Team off to a fine 22.46, Super Vet Dawn Addinall took over and ran well in a time of 25.20, Final Team Member Tracey Densham maintained good form to bring the Club home for the Vet County Championship Gold Medal.Other Athletes for B and C Teams also did well for the Club - James Gibbs 19.21, Simon Dee 19.42 (V40), Barney Banford 20.25, Paul Smith 18.44, Mark Smith 21.35, Rich Cannock 20.18, Lee Burge 18.53.
 
 Special Thanks to Will Joyce who was a guest for the Striders C Team. Well done Sir
 

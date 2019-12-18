@@ -1,6 +1,6 @@
 ---
 
-title: 'Oldbury Power Station 10 Mile Race &#8211; 11/09/2016'
+title: 'Oldbury Power Station 10 Mile Race - 11/09/2016'
 date: 2016-09-11T22:23:59+01:00
 author: Chris Driskell
 layout: post

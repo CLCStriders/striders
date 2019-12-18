@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire County Cross Country Championships &#8211; Old Down 07/01/2017'
+title: 'Gloucestershire County Cross Country Championships - Old Down 07/01/2017'
 date: 2017-01-15T16:06:59+00:00
 author: Chris Driskell
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire Country XC &#8211; Malvern College &#8211; 14 December 2013'
+title: 'Gloucestershire Country XC - Malvern College - 14 December 2013'
 date: 2013-12-16T18:10:30+00:00
 excerpt: '<p>CLC Striders ladies triumphed on the hills of Malvern at the third Gloucestershire County League fixture of the season.</p>'
 layout: post

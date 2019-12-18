@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; June 2013 &#8211; JJ WIllson'
+title: 'Strider of the Month - June 2013 - JJ WIllson'
 date: 2013-07-09T07:38:12+01:00
 author: Clark Lawson
 excerpt: '<p>JJ Willson is the June 2013 Strider of the Month.</p>'

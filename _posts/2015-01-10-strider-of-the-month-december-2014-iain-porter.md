@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; December 2014 &#8211; Iain Porter'
+title: 'Strider of the Month - December 2014 - Iain Porter'
 date: 2015-01-10T16:43:33+00:00
 author: Clark Lawson
 excerpt: '<p>Iain Porter is Strider of the Month for December 2014. </p>'

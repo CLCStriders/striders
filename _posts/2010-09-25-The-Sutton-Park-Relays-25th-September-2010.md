@@ -6,7 +6,7 @@ excerpt: '<p>The CLC Striders had two women?s and a men?s team competing in the 
 layout: post
 permalink: /2010/09/The-Sutton-Park-Relays-25th-September-2010/
 ---
-**The MCCA Road Relay Championships &#8211; Sutton Park 25 September 2010**</p> 
+**The MCCA Road Relay Championships - Sutton Park 25 September 2010**</p> 
 
 <table>
   <tr>

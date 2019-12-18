@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham Half Marathon &#8211; 8 September 2014'
+title: 'Cheltenham Half Marathon - 8 September 2014'
 date: 2014-09-08T20:12:29+01:00
 excerpt: "<p>Juan's the Man at the Cheltenham Half Marathon! A huge group of 38 CLC Striders took to the streets of Cheltenham to take on the second running of Cheltenham's Half Marathon. </p>"
 layout: post

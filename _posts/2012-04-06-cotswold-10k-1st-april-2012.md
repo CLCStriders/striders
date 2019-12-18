@@ -1,6 +1,6 @@
 ---
 
-title: 'Cotswold 10K &#8211; 1st April 2012'
+title: 'Cotswold 10K - 1st April 2012'
 date: 2012-04-06T13:40:41+01:00
 excerpt: '<p>Three CLC Striders travelled out to the beautiful Guiting Power on a sunny but fresh April Fools Day. </p>'
 layout: post

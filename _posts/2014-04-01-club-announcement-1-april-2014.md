@@ -1,6 +1,6 @@
 ---
 
-title: 'Club announcement &#8211; 1 April 2014'
+title: 'Club announcement - 1 April 2014'
 date: 2014-04-01T09:29:21+01:00
 excerpt: '<p>The committee is pleased to announce that CLC Striders is to merge with Cheltenham Harriers and Almost Athletes.</p>'
 layout: post

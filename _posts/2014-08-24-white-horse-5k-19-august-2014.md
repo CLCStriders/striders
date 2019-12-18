@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse 5k &#8211; 19 August 2014'
+title: 'White Horse 5k - 19 August 2014'
 date: 2014-08-24T16:11:57+01:00
 excerpt: '<p>Hilary Mott ran a superb race at the final White Horse 5k of 2014 held at Sandhurst village. Mott ran a scintillating 17.51 to smash her own club record by 17 seconds and taking the Gloucestershire championships gold medal. Striders ladies also won the team prize.</p>'
 layout: post

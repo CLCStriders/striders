@@ -1,6 +1,6 @@
 ---
 
-title: 'Not The Roman 9 12K &#8211; 15th January 2012'
+title: 'Not The Roman 9 12K - 15th January 2012'
 date: 2012-01-21T18:14:30+00:00
 excerpt: '<p>Rob Bircher took part in the Not the Roman Nine 12k race in Stratford-upon Avon on Sunday.</p>'
 layout: post

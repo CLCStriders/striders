@@ -1,6 +1,6 @@
 ---
 
-title: 'BMC Regional Races Tipton &#8211; 27/08/2016'
+title: 'BMC Regional Races Tipton - 27/08/2016'
 date: 2016-08-29T14:36:55+01:00
 author: Chris Driskell
 layout: post

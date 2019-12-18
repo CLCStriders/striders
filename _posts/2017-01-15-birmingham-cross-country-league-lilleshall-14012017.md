@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League, Lilleshall &#8211; 14/01/2017'
+title: 'Birmingham Cross Country League, Lilleshall - 14/01/2017'
 date: 2017-01-15T16:14:59+00:00
 author: Chris Driskell
 layout: post

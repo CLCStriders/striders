@@ -76,7 +76,7 @@ A great experience to race in such beautiful countryside, and tips for next year
 **  
 ** 
 
-**Stage 2 &#8211; Stanway House to Cleeve  
+**Stage 2 - Stanway House to Cleeve  
 ** 
 
 **Jo Wilkie**
@@ -89,7 +89,7 @@ Despite intentions to start steady in respect of what everyone was telling me wa
 
 **Amelia Mullins**
 
-After dropping Jo and Jill at the start of leg 2 in a sheltered spot, it was a bit of a shock to arrive at Cleeve Hill golf club to find it blowing a hoolie! As the runners filed off, mainly ahead of me and a few behind me, uphill towards the trig point, it was fairly firm underfoot but with the wind still against us. Soon enough we began to drop down, with less wind but more mud to contend with (should I have worn studs, or even spikes?!). Further on, after a half mile section along a road (so not spikes then!), the path joined a fairly level track &#8211; time to make the most of the relatively flat ground and pick up a few places. The steep downhill past Dowdeswell Reservoir, dodging the worst of the nettles and brambles, gave way to an equally steep uphill through Lineover Woods, where a brisk walk was preferable to attempting to run! A brief respite was most welcome, before climbing the even steeper Wistley Hill, which I heard only the lead runner actually ran up. Then the relief of knowing the end was in sight, with a nice finish alongside a cornfield to Seven Springs &#8211; I finished in 1:19:34, very pleased with my run which was enjoyable despite the wind, mud and hills!
+After dropping Jo and Jill at the start of leg 2 in a sheltered spot, it was a bit of a shock to arrive at Cleeve Hill golf club to find it blowing a hoolie! As the runners filed off, mainly ahead of me and a few behind me, uphill towards the trig point, it was fairly firm underfoot but with the wind still against us. Soon enough we began to drop down, with less wind but more mud to contend with (should I have worn studs, or even spikes?!). Further on, after a half mile section along a road (so not spikes then!), the path joined a fairly level track - time to make the most of the relatively flat ground and pick up a few places. The steep downhill past Dowdeswell Reservoir, dodging the worst of the nettles and brambles, gave way to an equally steep uphill through Lineover Woods, where a brisk walk was preferable to attempting to run! A brief respite was most welcome, before climbing the even steeper Wistley Hill, which I heard only the lead runner actually ran up. Then the relief of knowing the end was in sight, with a nice finish alongside a cornfield to Seven Springs - I finished in 1:19:34, very pleased with my run which was enjoyable despite the wind, mud and hills!
 
 **Glynn Bagnall**
 

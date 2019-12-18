@@ -6,4 +6,4 @@ excerpt: '<p>Congratulations to Alexa who competed in the Battersea Park 5k and 
 layout: post
 permalink: /2010/06/Battersea-Park-5km-23-June-2010-/
 ---
-Congratulations to Alexa who competed in the Battersea Park 5k and was first female home in 20.03!! Well done, Alexa &#8211; hope to see you soon, Brendan Ward (Club Chairman)
+Congratulations to Alexa who competed in the Battersea Park 5k and was first female home in 20.03!! Well done, Alexa - hope to see you soon, Brendan Ward (Club Chairman)

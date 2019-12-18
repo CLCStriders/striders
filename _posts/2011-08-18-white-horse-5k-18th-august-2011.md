@@ -1,6 +1,6 @@
 ---
 
-title: 'White Horse 5K &#8211; 18th August 2011'
+title: 'White Horse 5K - 18th August 2011'
 date: 2011-08-18T22:58:04+01:00
 excerpt: '<p>Massive turnout for Striders and excellent performances in the 4th and final White Horse 5K.</p>'
 layout: post
@@ -24,73 +24,73 @@ Bren
 
 Results as follow:
 
-1) Ed Grazier (Cheltenham Harriers) &#8211; 14:15
+1) Ed Grazier (Cheltenham Harriers) - 14:15
 
-2) Dave Roper (Cheltenham Harriers) &#8211; 15:08
+2) Dave Roper (Cheltenham Harriers) - 15:08
 
-3) John Parker &#8211; 15:11
+3) John Parker - 15:11
 
-29) Jon Bird &#8211; 17:39
+29) Jon Bird - 17:39
 
-30) Chris Driskell &#8211; 17:41
+30) Chris Driskell - 17:41
 
-31) Wayne Usher &#8211; 17:44
+31) Wayne Usher - 17:44
 
-33) Dave Smeath &#8211; 17:45
+33) Dave Smeath - 17:45
 
-36) Chris Hale &#8211; 18:00
+36) Chris Hale - 18:00
 
-38) Charles Goodwin &#8211; 18:19
+38) Charles Goodwin - 18:19
 
-41) Hilary Agate &#8211; 18:33
+41) Hilary Agate - 18:33
 
-47) Joel Freeland &#8211; 18:46
+47) Joel Freeland - 18:46
 
-55) Rich Cannock &#8211; 19:34
+55) Rich Cannock - 19:34
 
-57) Liza Barry &#8211; 19:38
+57) Liza Barry - 19:38
 
-61) Billy Bradshaw &#8211; 19:50
+61) Billy Bradshaw - 19:50
 
-65) Adam Cary &#8211; 20:01
+65) Adam Cary - 20:01
 
-67) Derek Tebbs &#8211; 20:02
+67) Derek Tebbs - 20:02
 
-69) Rachel Vines &#8211; 20:15
+69) Rachel Vines - 20:15
 
-76) Amanda Steer &#8211; 20:50
+76) Amanda Steer - 20:50
 
-77) Phil Jowett &#8211; 20:52
+77) Phil Jowett - 20:52
 
-78) Sophie Jones &#8211; 20:56
+78) Sophie Jones - 20:56
 
-81) Sian Holley &#8211; 21:02
+81) Sian Holley - 21:02
 
-84) Malc Smith &#8211; 21:06
+84) Malc Smith - 21:06
 
-85) Jo Wilkie &#8211; 21:06
+85) Jo Wilkie - 21:06
 
-86) Jess Straw &#8211; 21:10
+86) Jess Straw - 21:10
 
-88) Simon Thomson &#8211; 21:19
+88) Simon Thomson - 21:19
 
-96) Steven Hucker &#8211; 21:54
+96) Steven Hucker - 21:54
 
-100) Steve Callinan &#8211; 22:22
+100) Steve Callinan - 22:22
 
-101) Dan Harte &#8211; 22:23
+101) Dan Harte - 22:23
 
-106) Kevin Bradshaw &#8211; 22:50
+106) Kevin Bradshaw - 22:50
 
-108) Dave Mayo &#8211; 23:00
+108) Dave Mayo - 23:00
 
-110) Matt Puddy &#8211; 23:05
+110) Matt Puddy - 23:05
 
-120) Dawn Addinall &#8211; 24:32
+120) Dawn Addinall - 24:32
 
-121) Jo Bryant &#8211; 24:34
+121) Jo Bryant - 24:34
 
-128) Duncan Kay &#8211; 27:51
+128) Duncan Kay - 27:51
 
 (There were 136 finishers)
 

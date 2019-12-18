@@ -1,6 +1,6 @@
 ---
 
-title: 'CLC Striders Awards &#8211; 2016-2017'
+title: 'CLC Striders Awards - 2016-2017'
 date: 2017-05-14T17:34:22+01:00
 author: Chris Driskell
 layout: post

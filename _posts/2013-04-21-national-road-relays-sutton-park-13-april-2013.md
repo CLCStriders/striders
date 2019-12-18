@@ -1,6 +1,6 @@
 ---
 
-title: 'National Road Relays &#8211; Sutton Park &#8211; 13 April 2013'
+title: 'National Road Relays - Sutton Park - 13 April 2013'
 date: 2013-04-21T20:10:43+01:00
 excerpt: '<p>Saturday 13<sup>th</sup>April saw the womenâ€™s six stage national road relays at the beautiful Sutton Park. As the Midland road relays were cancelled due to snow, this event also included the Midlands six stage.</p>'
 layout: post

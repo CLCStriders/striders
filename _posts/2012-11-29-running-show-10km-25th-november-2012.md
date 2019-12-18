@@ -1,6 +1,6 @@
 ---
 
-title: 'Running Show 10km &#8211; 25th November 2012'
+title: 'Running Show 10km - 25th November 2012'
 date: 2012-11-29T22:06:50+00:00
 excerpt: '<p>Five Striders went for an away day down to the The Running Show at Sandown Park racecourse near London last Sunday.</p>'
 layout: post

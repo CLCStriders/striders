@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; March 2014 &#8211; Amanda Steer'
+title: 'Strider of the Month - March 2014 - Amanda Steer'
 date: 2014-04-08T17:53:58+01:00
 author: Clark Lawson
 excerpt: '<p>Winner of Strider of the Month for March is Amanda Steer.</p>'

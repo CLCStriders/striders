@@ -20,11 +20,11 @@ Ferguson and Jeremy Bradley (Cheltenham Harriers) were running side by side at t
 
 Brendan
 
-1. Will Ferguson &#8211; 25.30 &#8211; Club Record  
-8. Jon Gould &#8211; 29.48 (PB)  
-22. Rachel Vines &#8211; 32.38  
-30. John Howes &#8211; 33.00 (PB)  
-32. Nicholas Von Benzon &#8211; 34.46 &#8211; M55 Club Record  
-49. Helen Howes &#8211; 40.37 (PB)
+1. Will Ferguson - 25.30 - Club Record  
+8. Jon Gould - 29.48 (PB)  
+22. Rachel Vines - 32.38  
+30. John Howes - 33.00 (PB)  
+32. Nicholas Von Benzon - 34.46 - M55 Club Record  
+49. Helen Howes - 40.37 (PB)
 
 Click <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">here</a>for the official results

@@ -1,6 +1,6 @@
 ---
 
-title: 'Malvern Cross Country &#8211; 1 November 2014'
+title: 'Malvern Cross Country - 1 November 2014'
 date: 2014-11-05T22:25:03+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders ladies team blew the rest of the opposition away with an immense display at the second County League Cross Country fixture of the 2014/15 season.</p>'

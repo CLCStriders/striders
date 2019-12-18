@@ -6,7 +6,7 @@ excerpt: "<p>Fabulous stunning performances by all the Striders in the Stroud ha
 layout: post
 permalink: /2010/10/The-Stroud-half-Marathon-24-October-2010/
 ---
-**The Stroud Half Marathon &#8211; 24 October 2010**</p> 
+**The Stroud Half Marathon - 24 October 2010**</p> 
 
 <table>
   <tr>

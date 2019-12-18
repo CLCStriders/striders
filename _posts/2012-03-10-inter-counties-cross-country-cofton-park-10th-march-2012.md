@@ -1,6 +1,6 @@
 ---
 
-title: 'Inter-Counties Cross Country &#8211; Cofton Park 10th March 2012'
+title: 'Inter-Counties Cross Country - Cofton Park 10th March 2012'
 date: 2012-03-10T18:39:11+00:00
 excerpt: '<p>Fab Four run for Gloucestershire in Inter-Counties</p>'
 layout: post
@@ -20,16 +20,16 @@ Results
 
 Senior Women's Race (8K)
 
-1) Gemma Steel (Leics) &#8211; 26:48
+1) Gemma Steel (Leics) - 26:48
 
-134) Hilary Agate &#8211; 32:22
+134) Hilary Agate - 32:22
 
-150) Laura Kent &#8211; 32:55
+150) Laura Kent - 32:55
 
-206) Jo Wilkie &#8211; 35:18
+206) Jo Wilkie - 35:18
 
 Senior Men's Race (12K)
 
-1) Keith Gerrard (Lancs) &#8211; 34:57
+1) Keith Gerrard (Lancs) - 34:57
 
-206) Rich Dare &#8211; 41:35</p>
+206) Rich Dare - 41:35</p>

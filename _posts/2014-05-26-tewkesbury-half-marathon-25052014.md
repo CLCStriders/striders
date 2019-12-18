@@ -1,6 +1,6 @@
 ---
 
-title: 'Tewkesbury Half Marathon &#8211; 25/05/2014'
+title: 'Tewkesbury Half Marathon - 25/05/2014'
 date: 2014-05-26T21:07:31+01:00
 excerpt: '<p>A team of Striders competed on the Tewkesbury Half Marathon on Sunday 25 May, finishing in a time of 2.00:18.</p>'
 layout: post

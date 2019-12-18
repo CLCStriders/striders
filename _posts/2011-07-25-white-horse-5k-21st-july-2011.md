@@ -14,12 +14,12 @@ And there were impressive performance from all three of the Striders contingent.
 
 Results:
 
-1) Phil Wylie &#8211; Bristol & West &#8211; 14:48
+1) Phil Wylie - Bristol & West - 14:48
 
-39) Phil Jowett &#8211; CLC Striders &#8211; 19:05
+39) Phil Jowett - CLC Striders - 19:05
 
-51) Amanda Steer &#8211; CLC Striders &#8211; 20:51
+51) Amanda Steer - CLC Striders - 20:51
 
-54) Malc Smith &#8211; CLC Striders &#8211; 21:19
+54) Malc Smith - CLC Striders - 21:19
 
 Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available</p>

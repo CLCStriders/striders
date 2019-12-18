@@ -1,6 +1,6 @@
 ---
 
-title: 'Lichfield Half Marathon &#8211; 5 May 2013'
+title: 'Lichfield Half Marathon - 5 May 2013'
 date: 2013-05-09T17:59:11+01:00
 excerpt: '<p>Martin Brown ran the Lichfield Half Marathon on Sunday 5 May 2013</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Cross Country &#8211; Droitwich &#8211; 10 January 2015'
+title: 'Midland Cross Country - Droitwich - 10 January 2015'
 date: 2015-01-17T16:18:54+00:00
 author: Clark Lawson
 excerpt: '<p>The CLC ladies team travelled to Droitwich on Saturday 10 January 2015 to compete in the 3<sup>rd</sup>fixture of the Midland Cross Country League.</p>'

@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham Park Run &#8211; 16th February 2013'
+title: 'Cheltenham Park Run - 16th February 2013'
 date: 2013-02-19T22:13:11+00:00
 excerpt: '<p>Striders out in force for first Cheltenham Park Run...</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League and Midlands Women's Cross Country League &#8211; 12 November 2011'
+title: 'Birmingham Cross Country League and Midlands Women's Cross Country League - 12 November 2011'
 date: 2011-11-13T21:17:40+00:00
 excerpt: '<p>Striders men make their debut in the Birmingham League and women run in the Midlands League at Leamington...</p>'
 layout: post

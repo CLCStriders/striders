@@ -6,7 +6,7 @@ excerpt: "<p>Striders make their debut in the Midlands Woman's Cross Country Lea
 layout: post
 permalink: /2010/10/The-Midlands-Womens-Cross-Country-League-30-October-2010/
 ---
-**The Midlands Woman's Cross Country League &#8211; 30 October 2010**</p> 
+**The Midlands Woman's Cross Country League - 30 October 2010**</p> 
 
 <table>
   <tr>

@@ -1,6 +1,6 @@
 ---
 
-title: 'Tewkesbury Guy Fawkes 5 &#8211; 4th November 2012'
+title: 'Tewkesbury Guy Fawkes 5 - 4th November 2012'
 date: 2012-11-11T19:04:17+00:00
 excerpt: '<p>Congratulations to four Striders who competed in the 2012 Tewkesbury Guy Fawkes 5 last Sunday.</p>'
 layout: post

@@ -14,37 +14,37 @@ Other notable performances came from Nick Von Benzon who set a new Men's 55-59 C
 
 Results
 
-1. John Parker &#8211; 33.12
+1. John Parker - 33.12
 
-9. Chris Driskell &#8211; 37.41
+9. Chris Driskell - 37.41
 
-10. Dave Smeath &#8211; 38.32
+10. Dave Smeath - 38.32
 
-21. Billy Bradshaw &#8211; 40.57 (M45)
+21. Billy Bradshaw - 40.57 (M45)
 
-23. Rachel Vines &#8211; 41.09 -1st Lady
+23. Rachel Vines - 41.09 -1st Lady
 
-24. Sian Holley &#8211; 41.11 &#8211; 2nd Lady
+24. Sian Holley - 41.11 - 2nd Lady
 
-31. Rich Cannock &#8211; 42.08
+31. Rich Cannock - 42.08
 
-36. Emma Skeen &#8211; 43.02
+36. Emma Skeen - 43.02
 
-42. Chris Hale &#8211; 43.34 (M40)
+42. Chris Hale - 43.34 (M40)
 
-43. Amanda Steer &#8211; 43.36 &#8211; 1st L40
+43. Amanda Steer - 43.36 - 1st L40
 
-48. Nick Von Benzon &#8211; 44.40 (M55 Club Rec)
+48. Nick Von Benzon - 44.40 (M55 Club Rec)
 
-84. Sarah Bellwood &#8211; 52.58
+84. Sarah Bellwood - 52.58
 
 CLC Striders women won the team prize.
 
-(Vines, Holley, Skeen &#8211; 83 pts).
+(Vines, Holley, Skeen - 83 pts).
 
 CLC Striders men also won the team prize.
 
-(Parker, Driskell, Smeath, Bradshaw &#8211; 41 pts)
+(Parker, Driskell, Smeath, Bradshaw - 41 pts)
 
 Well done to you all, and thanks for running for the club.
 

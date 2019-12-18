@@ -14,7 +14,7 @@ Eight CLC Striders took part in the final Chelt Harriers Mid-summer Open at the 
 
 **The Mile**
 
-James Gibbs did the club proud, winning the mile race &#8211; fantastic effort especially in the windy and wet conditions. Nina and Rachel had a great battle all the way with Nina just stretching out a lead down the home straight to record a time of 6:03.10, Rachel finished strongly just behind in 6:10.2
+James Gibbs did the club proud, winning the mile race - fantastic effort especially in the windy and wet conditions. Nina and Rachel had a great battle all the way with Nina just stretching out a lead down the home straight to record a time of 6:03.10, Rachel finished strongly just behind in 6:10.2
 
 **800M**
 

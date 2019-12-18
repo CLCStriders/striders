@@ -18,7 +18,7 @@ permalink: /2012/01/winter-social-events-for-your-diary/
 
 ### Time: 8pm
 
-### Itâ€™s an end of Cross Country Season celebration &#8211; a time for us to reflect and discuss our successes!  
+### Itâ€™s an end of Cross Country Season celebration - a time for us to reflect and discuss our successes!  
 
 
 ### Everyone is welcome and especially any new comers&#8230;.. 

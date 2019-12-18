@@ -40,11 +40,11 @@ Bren
 92 Nicola Christian 49.48 (L45)  
 100 Dawn Addinall 52.33 (L60)
 
-**Teams &#8211; Men**  
+**Teams - Men**  
 A Team 3rd = 43 (smeath, billingham, harper)  
 B Team 7th = 66 (dunlop, burge, bagnall)</p> 
 
-**Teams &#8211; Women  
+**Teams - Women  
 ** A Team 2nd = 197 (wilkie, holley, smith)
 
 Click here for the <a href="http://www.clcstriders-runningclub.co.uk/documents/Cleeve Cloud final results 2010.xls" target="_blank" rel="nofollow">official</a>results

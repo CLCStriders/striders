@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Road Relays, Sutton Park &#8211; 02/04/2016'
+title: 'Midland Road Relays, Sutton Park - 02/04/2016'
 date: 2016-04-10T17:44:24+01:00
 author: Chris Driskell
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League &#8211; Nuneaton &#8211; 10 January 2015'
+title: 'Birmingham Cross Country League - Nuneaton - 10 January 2015'
 date: 2015-01-13T17:23:57+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders men put in an excellent performance in the third round of the Birmingham Cross country League Division 2 in Leicestershire on Saturday.</p>'

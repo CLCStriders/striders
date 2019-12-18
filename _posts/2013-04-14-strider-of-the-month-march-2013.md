@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; March 2013'
+title: 'Strider of the Month - March 2013'
 date: 2013-04-14T19:03:47+01:00
 author: Clark Lawson
 excerpt: '<p>Jo Wilkie is Strider Of The Month for March.</p>'

@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleeve Cloud Cuckoo &#8211; 5 June 2013'
+title: 'Cleeve Cloud Cuckoo - 5 June 2013'
 date: 2013-06-06T21:50:55+01:00
 excerpt: '<p>CLC Striders Ladies were victorious at the Cleeve Cloud Cuckoo race held on Cleeve Hill on Wednesday 5th June</p>'
 layout: post

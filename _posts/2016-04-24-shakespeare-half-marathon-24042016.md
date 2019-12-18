@@ -1,6 +1,6 @@
 ---
 
-title: 'Shakespeare Half Marathon &#038; Southampton Half Marathon &#8211; 24/04/2016'
+title: 'Shakespeare Half Marathon &#038; Southampton Half Marathon - 24/04/2016'
 date: 2016-04-24T22:46:14+01:00
 author: Chris Driskell
 layout: post

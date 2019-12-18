@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider Of The Month &#8211; January 2014: Rich Shardlow'
+title: 'Strider Of The Month - January 2014: Rich Shardlow'
 date: 2014-02-02T21:58:04+00:00
 author: Clark Lawson
 excerpt: '<p>Rich Shardlow is Strider of the Month for January 2014.</p>'

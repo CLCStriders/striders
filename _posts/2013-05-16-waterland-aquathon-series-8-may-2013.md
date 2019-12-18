@@ -1,6 +1,6 @@
 ---
 
-title: 'Waterland Aquathon Series &#8211; 8 May 2013'
+title: 'Waterland Aquathon Series - 8 May 2013'
 date: 2013-05-16T18:12:09+01:00
 excerpt: '<p>Jo Wilkie and Alice Johnston added an aquatic element to their training by talking part in the first event of the South Cerney Waterland Aquathon series.</p>'
 layout: post

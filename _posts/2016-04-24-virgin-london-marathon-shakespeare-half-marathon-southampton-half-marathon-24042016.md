@@ -1,6 +1,6 @@
 ---
 
-title: 'Virgin London Marathon &#8211; 24/04/2016'
+title: 'Virgin London Marathon - 24/04/2016'
 date: 2016-04-24T20:14:32+01:00
 author: Chris Driskell
 layout: post

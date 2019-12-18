@@ -1,6 +1,6 @@
 ---
 
-title: 'Great South Run &#8211; 28th October 2012'
+title: 'Great South Run - 28th October 2012'
 date: 2012-10-28T20:26:12+00:00
 excerpt: "<p>Six Striders competed in Sunday's Great South Run.. Click on the link to see how they got on...</p>"
 layout: post

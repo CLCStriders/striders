@@ -1,6 +1,6 @@
 ---
 
-title: 'Leamington Cross Country &#8211; 9th November 2013'
+title: 'Leamington Cross Country - 9th November 2013'
 excerpt: "<p>Saturday 9 November saw the first fixture of the 2013/14 Womens'Midland cross country and mens'Birmingham cross country leagues.</p>"
 layout: post
 permalink: /0000/00/leamington-cross-country-9th-november-2013/

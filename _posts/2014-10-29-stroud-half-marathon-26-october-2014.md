@@ -1,6 +1,6 @@
 ---
 
-title: 'Stroud Half Marathon &#8211; 26 October 2014'
+title: 'Stroud Half Marathon - 26 October 2014'
 date: 2014-10-29T13:37:11+00:00
 excerpt: "<p>With batteries full charged following an extra hour's sleep 12 CLC Striders set out to tackle the 33rd annual Stroud Half Marathon.</p>"
 layout: post

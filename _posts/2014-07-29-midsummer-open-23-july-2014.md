@@ -1,6 +1,6 @@
 ---
 
-title: 'Midsummer Open &#8211; 23 July 2014'
+title: 'Midsummer Open - 23 July 2014'
 date: 2014-07-29T08:00:57+01:00
 excerpt: '<p>Will Ferguson finished in a fine third place in the A race over 5k at the Midsummer Open at the Prince of Wales stadium on 23 July 2014. In a near dead heat finish Ferguson recorded a time of 15:45.47 </p>'
 layout: post

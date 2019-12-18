@@ -10,7 +10,7 @@ permalink: /2009/04/London-Marathon-26-April-2009/
 
 **Report**</p> 
 
-We had nine CLC Striders enter and finish the London Marathon today. With some fantastic performances, First home for the men was Wayne Usher making the top 400, with an impresive 2.49 performance &#8211; a new club record. First Lady home was Liza Barry in 3.16.57, 215th women home, and a new club record
+We had nine CLC Striders enter and finish the London Marathon today. With some fantastic performances, First home for the men was Wayne Usher making the top 400, with an impresive 2.49 performance - a new club record. First Lady home was Liza Barry in 3.16.57, 215th women home, and a new club record
 
 Steve Elverd was well inside the 3.30 barrier in 3.27.15. Rob Lynch came home in an impresive 3.32.52. Michael Weldin finished in 3.33.40, a new club M50 record.
 

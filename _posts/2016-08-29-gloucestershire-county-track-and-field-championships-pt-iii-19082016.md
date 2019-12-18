@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire County Track and Field Championships Pt III &#8211; 19/08/2016'
+title: 'Gloucestershire County Track and Field Championships Pt III - 19/08/2016'
 date: 2016-08-29T11:34:31+01:00
 author: Chris Driskell
 layout: post

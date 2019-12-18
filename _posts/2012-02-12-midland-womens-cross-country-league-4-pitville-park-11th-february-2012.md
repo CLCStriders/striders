@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Women's Cross Country League 4, Pitville Park &#8211; 11th February 2012'
+title: 'Midland Women's Cross Country League 4, Pitville Park - 11th February 2012'
 date: 2012-02-12T08:58:36+00:00
 excerpt: '<p>The fourth and final Midland League cross country fixture of the 2011/12 season was at Pitville Park in Cheltenham.</p>'
 layout: post

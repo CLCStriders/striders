@@ -21,11 +21,11 @@ Rachel Vines was the leading CLC lady finishing in 73rd place with Jo Wilkie on 
 Brendan
 
 **Men  
-** 21. Will Ferguson &#8211; 41.47
+** 21. Will Ferguson - 41.47
 
 **Women  
-** 73. Rachel Vines &#8211; 40.21  
-119. Jo Wilkie &#8211; 44.37  
-121 Amanda Steers &#8211; 45.17 
+** 73. Rachel Vines - 40.21  
+119. Jo Wilkie - 44.37  
+121 Amanda Steers - 45.17 
 
 Click <a href="http://www.midlandathletics.org.uk/PDFS/2011_RES_110129_MidCChampsLeamington.pdf" target="_blank" rel="nofollow">here</a>for the official results

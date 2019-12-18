@@ -1,6 +1,6 @@
 ---
 
-title: 'Devils Chimney Chase &#8211; 27 July 2013'
+title: 'Devils Chimney Chase - 27 July 2013'
 date: 2013-08-08T18:50:44+01:00
 excerpt: "<p>Seven Striders ran the Devil's Chimney Chase on Saturday 27 July.</p>"
 layout: post

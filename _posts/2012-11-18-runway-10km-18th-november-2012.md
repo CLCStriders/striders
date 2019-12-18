@@ -1,6 +1,6 @@
 ---
 
-title: 'Runway 10km &#8211; 18th November 2012'
+title: 'Runway 10km - 18th November 2012'
 date: 2012-11-18T17:42:10+00:00
 excerpt: '<p><h1></h1><h4>Runway 10km 2012 - Provisional <a href="http://www.clcstriders-runningclub.co.uk/images/documents/runway10k2012results.pdf" target="_blank" rel="nofollow">results</a>and photos from the race now available to view.</h4></p>'
 layout: post

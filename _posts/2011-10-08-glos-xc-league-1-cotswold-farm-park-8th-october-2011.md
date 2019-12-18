@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC League 1 Cotswold Farm Park &#8211; 8th October 2011'
+title: 'Glos XC League 1 Cotswold Farm Park - 8th October 2011'
 date: 2011-10-08T20:13:53+01:00
 excerpt: '<p>Striders get the Cross Country season off to a strong start at Cotswold Farm Park.</p>'
 layout: post
@@ -20,72 +20,72 @@ Striders Results:
 
 ### Women
 
-6) Laura Kent &#8211; 24:49
+6) Laura Kent - 24:49
 
-10) Sian Holley &#8211; 25:58
+10) Sian Holley - 25:58
 
-12) Emma Skeen &#8211; 26:13
+12) Emma Skeen - 26:13
 
-26) Alice Johnston &#8211; 27:31
+26) Alice Johnston - 27:31
 
-29) Jo Wilkie &#8211; 27:36
+29) Jo Wilkie - 27:36
 
-32) Amanda Steer &#8211; 28:00
+32) Amanda Steer - 28:00
 
-42) Naomi Kellet &#8211; 28:27
+42) Naomi Kellet - 28:27
 
-68) Louise Allsop &#8211; 30:01
+68) Louise Allsop - 30:01
 
-76) Lisa Boyd &#8211; 30:53
+76) Lisa Boyd - 30:53
 
-90) Beckie Boulton &#8211; 33:22
+90) Beckie Boulton - 33:22
 
-94) Trudy Jones &#8211; 33:56
+94) Trudy Jones - 33:56
 
-99) Jill Harsent &#8211; 34:48
+99) Jill Harsent - 34:48
 
-107) Harpreet Chawla &#8211; 37:29
+107) Harpreet Chawla - 37:29
 
 Teams (26 finished)
 
-1st &#8211; CLC A = 28 points
+1st - CLC A = 28 points
 
-8th &#8211; CLC B = 87 points
+8th - CLC B = 87 points
 
-17th &#8211; CLC C = 173 points
+17th - CLC C = 173 points
 
-25th &#8211; CLC D = 260 points
+25th - CLC D = 260 points
 
 ### Men
 
-4) John Parker &#8211; 30:14
+4) John Parker - 30:14
 
-10) Rich Evershed &#8211; 31:53
+10) Rich Evershed - 31:53
 
-49) Chris Hale &#8211; 34:48
+49) Chris Hale - 34:48
 
-71) Joel Freeland &#8211; 35:54
+71) Joel Freeland - 35:54
 
-84) Glyn Bagnall &#8211; 36:34
+84) Glyn Bagnall - 36:34
 
-89) Billy Bradshaw &#8211; 36:49
+89) Billy Bradshaw - 36:49
 
-92) Deryl Slight &#8211; 36:59
+92) Deryl Slight - 36:59
 
-93) Jon Howes &#8211; 37:04
+93) Jon Howes - 37:04
 
-102) Dave Billingham &#8211; 37:32
+102) Dave Billingham - 37:32
 
-156) Stephen Hucker &#8211; 42:42
+156) Stephen Hucker - 42:42
 
-161) Nicholas von Benzon &#8211; 43:17
+161) Nicholas von Benzon - 43:17
 
-187) Duncan Kay &#8211; 52:21
+187) Duncan Kay - 52:21
 
 Teams (18 finished)
 
-6 &#8211; CLC A = 307 points
+6 - CLC A = 307 points
 
-16 &#8211; CLC B = 791 points</p> 
+16 - CLC B = 791 points</p> 
 
 Full results will be on <a href="http://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAAâ€™s website</a>when available

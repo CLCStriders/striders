@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; November 2013 &#8211; Amanda Pill'
+title: 'Strider of the Month - November 2013 - Amanda Pill'
 date: 2013-12-03T19:58:19+00:00
 author: Clark Lawson
 excerpt: "<p>Strider of the Month for November is Amanda Pill. Amanda's running is improving all the time and she has competed for the club in both the Gloucestershire and Midlands Womens'cross country leagues.</p><p>Well done Amanda!</p><p></p>"

@@ -1,6 +1,6 @@
 ---
 
-title: 'Paul Northup &#8211; VLM Update'
+title: 'Paul Northup - VLM Update'
 date: 2016-01-10T09:07:24+00:00
 author: Clark Lawson
 layout: post

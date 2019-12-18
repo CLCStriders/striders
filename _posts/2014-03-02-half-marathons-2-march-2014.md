@@ -1,6 +1,6 @@
 ---
 
-title: 'Half Marathons &#8211; 2 March 2014'
+title: 'Half Marathons - 2 March 2014'
 date: 2014-03-02T21:59:01+00:00
 excerpt: '<p>More than a dozen Striders were in action in a busy weekend of half marathons.</p>'
 layout: post

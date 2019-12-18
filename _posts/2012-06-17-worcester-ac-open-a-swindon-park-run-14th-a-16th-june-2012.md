@@ -1,6 +1,6 @@
 ---
 
-title: 'Worcester AC Open &#038; Swindon Park Run &#8211; 14th &#038; 16th June 2012'
+title: 'Worcester AC Open &#038; Swindon Park Run - 14th &#038; 16th June 2012'
 date: 2012-06-17T16:15:47+01:00
 excerpt: '<p>Jo Wilkie reports on Worcester AC Open and Swindon Park Run...</p>'
 layout: post

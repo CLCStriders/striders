@@ -16,7 +16,7 @@ Nathan Jones (the special one) ran a supurb 17 minute flat to record the fastest
 
 We had a great turnout today, including Tom Thorneycroft actually turning up to a real race, although he arrived after the first leg runners were finishing!
 
-Thanks again for your efforts and support &#8211; another great day
+Thanks again for your efforts and support - another great day
 
 Kindest Regards.
 

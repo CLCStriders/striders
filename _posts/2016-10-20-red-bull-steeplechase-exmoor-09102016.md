@@ -1,6 +1,6 @@
 ---
 
-title: 'Red Bull Steeplechase, Exmoor &#8211; 09/10/2016'
+title: 'Red Bull Steeplechase, Exmoor - 09/10/2016'
 date: 2016-10-20T18:31:38+01:00
 author: Chris Driskell
 layout: post

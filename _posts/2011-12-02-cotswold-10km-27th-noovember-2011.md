@@ -1,6 +1,6 @@
 ---
 
-title: 'Cotswold 10KM &#8211; 27th November 2011'
+title: 'Cotswold 10KM - 27th November 2011'
 date: 2011-12-02T07:08:38+00:00
 excerpt: '<p>On Sunday a few hardy Striders turned out for a lovely 10km race in theheart of the Cotswolds... </p>'
 layout: post

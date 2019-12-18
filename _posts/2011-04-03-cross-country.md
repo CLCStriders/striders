@@ -17,11 +17,11 @@ The Birmingham League is an traditional cross country league and will certainly 
 
 **All Saturdays.**
 
-**12th November 2011 &#8211; Leamington &#8211; All three divisions traditionally compete together at this first fixture.**
+**12th November 2011 - Leamington - All three divisions traditionally compete together at this first fixture.**
 
-**3rd December 2011 &#8211; Nuneaton**
+**3rd December 2011 - Nuneaton**
 
-**14th January 2012 &#8211; Dudley**
+**14th January 2012 - Dudley**
 
 **11th February 2012 â€“ Stafford**
 
@@ -35,17 +35,17 @@ CLC Striders have enjoyed considerable success in this league over recent season
 
 **All Saturdays:**
 
-**8th October 2011 &#8211; Cotswold Farm Park, Nr Guiting Power**
+**8th October 2011 - Cotswold Farm Park, Nr Guiting Power**
 
-**5th November 2011 &#8211; Blackbridge/Crypt School, Gloucester**
+**5th November 2011 - Blackbridge/Crypt School, Gloucester**
 
-**10th December 2011 &#8211; Pitville Park, Cheltenham (hosted by CLC Striders)**
+**10th December 2011 - Pitville Park, Cheltenham (hosted by CLC Striders)**
 
-**11th February 2011 &#8211; Tewkesbury School, Tewkesbury** 
+**11th February 2011 - Tewkesbury School, Tewkesbury** 
 
 ## Gloucester Cross-Country Championships
 
-**Sat 7th January 2012 &#8211; Plock Court, Gloucester**
+**Sat 7th January 2012 - Plock Court, Gloucester**
 
 ## Midlands Cross Country League
 

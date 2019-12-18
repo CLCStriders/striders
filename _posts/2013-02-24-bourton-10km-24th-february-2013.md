@@ -1,6 +1,6 @@
 ---
 
-title: 'Bourton 10km &#8211; 24th February 2013'
+title: 'Bourton 10km - 24th February 2013'
 date: 2013-02-24T21:10:26+00:00
 excerpt: '<p>Sunday 24th February saw a massive turnout for the CLC Striders for the 2013 Bourton 10km. The flat course is renowned for fast times and the Striders certainly achieved those!</p>'
 layout: post

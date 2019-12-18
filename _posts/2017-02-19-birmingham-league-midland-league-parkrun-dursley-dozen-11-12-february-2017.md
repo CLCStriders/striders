@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham League, Midland League, Parkrun, Dursley Dozen &#8211; 11-12 February 2017'
+title: 'Birmingham League, Midland League, Parkrun, Dursley Dozen - 11-12 February 2017'
 date: 2017-02-19T11:11:22+00:00
 author: Chris Driskell
 layout: post

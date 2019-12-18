@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC County Championships &#8211; Coleford &#8211; 3 Jan 2015'
+title: 'Glos XC County Championships - Coleford - 3 Jan 2015'
 date: 2015-01-04T19:33:21+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders ladies won the Gloucestershire Cross Country County Championship at Coleford on 3 Jan 2015.</p>'

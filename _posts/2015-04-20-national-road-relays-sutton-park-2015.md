@@ -1,6 +1,6 @@
 ---
 
-title: 'National Road Relays &#8211; Sutton Park &#8211; 2015'
+title: 'National Road Relays - Sutton Park - 2015'
 date: 2015-04-20T20:53:39+01:00
 author: Clark Lawson
 excerpt: '<p>Jo Wilkie led CLC Striders off on the long first leg at the National 6 stage road relays held at Sutton Park, Birmingham.</p>'

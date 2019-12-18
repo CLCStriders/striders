@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire Cross Country League &#8211; Pittville Park &#8211; 13 December 2014'
+title: 'Gloucestershire Cross Country League - Pittville Park - 13 December 2014'
 date: 2014-12-14T11:29:32+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders Head coach Brendan Ward was over the moon as he watched his teams put in great performances in the third Gloucestershire County Cross Country league fixture of the season held at Pittville Park on Saturday.</p>'

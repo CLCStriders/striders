@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleeve Cloud Cuckoo &#8211; 3 June 2015'
+title: 'Cleeve Cloud Cuckoo - 3 June 2015'
 date: 2015-06-03T16:45:24+01:00
 author: Clark Lawson
 layout: post

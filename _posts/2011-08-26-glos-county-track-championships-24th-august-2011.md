@@ -18,45 +18,45 @@ Well done to all of you, and thanks for making it such an entertaining eveningâ
 
 Results
 
-10,000m &#8211; 25 laps
+10,000m - 25 laps
 
-8. Chris Driskell (3rd overall) &#8211; 37.18.7 &#8211; Pb
+8. Chris Driskell (3rd overall) - 37.18.7 - Pb
 
-9. Charles Goodwin 38.17.3 &#8211; M45 Club Rec/Pb 
+9. Charles Goodwin 38.17.3 - M45 Club Rec/Pb 
 
-11. Hilary Agate (1st Lady) &#8211; 39.16.1 Club Rec/Pb
+11. Hilary Agate (1st Lady) - 39.16.1 Club Rec/Pb
 
-15. Adam Cary &#8211; 42.02.4 Pb
+15. Adam Cary - 42.02.4 Pb
 
-18. Malc Smith &#8211; 46.43.4 &#8211; M45 Pb
+18. Malc Smith - 46.43.4 - M45 Pb
 
 John Parker DNF
 
-Mile &#8211; Race 1
+Mile - Race 1
 
-7. Rachel vines &#8211; 5.51.7 Club Rec/Pb
+7. Rachel vines - 5.51.7 Club Rec/Pb
 
-8. Jo Wilkie &#8211; 6.00.6
+8. Jo Wilkie - 6.00.6
 
-Mile &#8211; Race 2
+Mile - Race 2
 
-12. Rich Cannock &#8211; 5.23.9 &#8211; M35 Pb
+12. Rich Cannock - 5.23.9 - M35 Pb
 
-13. Chris Hale &#8211; 5.30.2 &#8211; M40 Club Rec/Pb
+13. Chris Hale - 5.30.2 - M40 Club Rec/Pb
 
 4 x 400m Relay Women
 
-1. CLC Striders &#8211; 5.12.2 &#8211; Club Rec
+1. CLC Striders - 5.12.2 - Club Rec
 
 (Amanda Steer, Sian Holley, Rachel Vines, Jo Wilkie)
 
 4 x 400m Relay Men
 
-2. CLC Striders A &#8211; 4.07.7 &#8211; Club Rec
+2. CLC Striders A - 4.07.7 - Club Rec
 
 (Joel Freeland, Paul Edwards, Deryl Slight, John Parker)
 
-3.CLC Striders B &#8211; 4.56.6
+3.CLC Striders B - 4.56.6
 
 (Chris Hale, Adam Cary, Jeremy Wilde, Charles Goodwin)
 

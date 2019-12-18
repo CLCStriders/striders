@@ -1,6 +1,6 @@
 ---
 
-title: 'Cotswold Farm Park &#8211; Cross Country &#8211; 11 October 2014'
+title: 'Cotswold Farm Park - Cross Country - 11 October 2014'
 date: 2014-10-13T20:08:29+01:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders had a squad of 34 runners competing in the first Gloucestershire Cross Country league fixture of the 2014/15 season.</p>'

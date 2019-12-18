@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; December 2013 &#8211; Vicky Veness'
+title: 'Strider of the Month - December 2013 - Vicky Veness'
 date: 2014-01-05T22:26:10+00:00
 author: Clark Lawson
 excerpt: '<p>The winner of Strider of the Month for December 2013 is Vicky Veness.</p>'

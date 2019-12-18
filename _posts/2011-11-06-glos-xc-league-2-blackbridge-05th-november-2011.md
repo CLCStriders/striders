@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC League 2 Blackbridge &#8211; 5th November 2011'
+title: 'Glos XC League 2 Blackbridge - 5th November 2011'
 date: 2011-11-06T00:15:23+00:00
 excerpt: "<p>Top five finishes for women's and men's teams at Blackbridge...</p>"
 layout: post
@@ -70,7 +70,7 @@ Striders results:
 
 136) Stephen Hucker â€“ 48:11
 
-171) Duncan Kay &#8211; 1:00:59
+171) Duncan Kay - 1:00:59
 
 4<sup>th</sup>â€“ CLC A = 284
 

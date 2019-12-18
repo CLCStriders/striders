@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucester New Year's Day 5 mile Race &#8211; 1st January 2012'
+title: 'Gloucester New Year's Day 5 mile Race - 1st January 2012'
 date: 2012-01-01T17:38:42+00:00
 excerpt: '<p>Striders start new year in style at Gloucester 5 mile race</p>'
 layout: post
@@ -26,18 +26,18 @@ In a strong field, the race winner was Severn AC's Tim Dalton in a time of 26:16
 
 Results:
 
-1) Tim Dalton (Severn AC) &#8211; 26:16
+1) Tim Dalton (Severn AC) - 26:16
 
-5) Will Ferguson &#8211; 27:45
+5) Will Ferguson - 27:45
 
-17) Billy Bradshaw &#8211; 31:41 (1st MV45)
+17) Billy Bradshaw - 31:41 (1st MV45)
 
-19) Laura Kent &#8211; 32:00 (2nd Lady)
+19) Laura Kent - 32:00 (2nd Lady)
 
-20) Jon Howes &#8211; 32:05
+20) Jon Howes - 32:05
 
-30) Pat Woods &#8211; 34:00 (4th Lady)
+30) Pat Woods - 34:00 (4th Lady)
 
-35) Nick von Benzon &#8211; 34:47 (1st MV55)
+35) Nick von Benzon - 34:47 (1st MV55)
 
-40) Rachel Vines &#8211; 36:27</p>
+40) Rachel Vines - 36:27</p>

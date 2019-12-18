@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; February 2014 &#8211; James Oram'
+title: 'Strider of the Month - February 2014 - James Oram'
 date: 2014-03-07T19:06:44+00:00
 author: Clark Lawson
 excerpt: '<p>James Oram is Strider of the Month for February 2014. </p>'

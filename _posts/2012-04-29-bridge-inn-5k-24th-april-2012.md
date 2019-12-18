@@ -1,6 +1,6 @@
 ---
 
-title: 'Bridge Inn 5K &#8211; 24th April 2012'
+title: 'Bridge Inn 5K - 24th April 2012'
 date: 2012-04-29T15:35:16+01:00
 excerpt: '<p>Dare and Driskell travelled to the Bridge Inn near Bristol to run in the Bridge Inn 5K..</p>'
 layout: post

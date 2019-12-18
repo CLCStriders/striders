@@ -1,6 +1,6 @@
 ---
 
-title: 'Swindon Multi-Terrain Race &#8211; 9th October 2011'
+title: 'Swindon Multi-Terrain Race - 9th October 2011'
 date: 2011-10-12T19:16:47+01:00
 excerpt: '<p>Jo Wilkie completes a weekend of back-to-back races with a great performance in the Swindon 5m Multi-Terrain Race</p>'
 layout: post

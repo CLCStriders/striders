@@ -1,6 +1,6 @@
 ---
 
-title: 'Midlands Women's Cross Country League &#8211; 3rd December 2011'
+title: 'Midlands Women's Cross Country League - 3rd December 2011'
 date: 2011-12-07T22:59:35+00:00
 excerpt: '<p>A team of 3 CLC ladies travelled to Northampton to compete in the 2nd midlands league cross country fixture of the season. </p>'
 layout: post

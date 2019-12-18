@@ -318,7 +318,7 @@ Brendan
   </tr></colgroup>
 </table>
 
-**Senior Women &#8211; 8K Distance**
+**Senior Women - 8K Distance**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 
@@ -702,7 +702,7 @@ Brendan
   </tr></colgroup>
 </table>
 
-Gloucestershire Finished 9th Place **Senior Men &#8211; Distance 12K (speed/pace based on 11.62km, measured by gps devices worn on the day)**
+Gloucestershire Finished 9th Place **Senior Men - Distance 12K (speed/pace based on 11.62km, measured by gps devices worn on the day)**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

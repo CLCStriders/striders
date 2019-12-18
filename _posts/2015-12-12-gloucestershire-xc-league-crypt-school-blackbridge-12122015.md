@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire XC League &#8211; Crypt School Blackbridge 12/12/2015'
+title: 'Gloucestershire XC League - Crypt School Blackbridge 12/12/2015'
 date: 2015-12-12T18:30:23+00:00
 author: Chris Driskell
 layout: post

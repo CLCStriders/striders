@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Women's League and Birmingham Cross Country League, Blackbridge &#8211; 16/01/2016'
+title: 'Midland Women's League and Birmingham Cross Country League, Blackbridge - 16/01/2016'
 date: 2016-01-17T09:48:12+00:00
 author: Chris Driskell
 layout: post

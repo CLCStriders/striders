@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham and Midlands Cross Country &#8211; 11 January 2014'
+title: 'Birmingham and Midlands Cross Country - 11 January 2014'
 date: 2014-01-12T17:43:52+00:00
 excerpt: '<p>Striders men were sent to Coventry for the penultimate Birmingham League fixture of the season, while the women headed to Droitwich in the Midland League......</p>'
 layout: post

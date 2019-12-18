@@ -1,6 +1,6 @@
 ---
 
-title: 'Cleeve Cloud Cuckoo Land 5.75 Mile Race &#8211; 6th June 2012'
+title: 'Cleeve Cloud Cuckoo Land 5.75 Mile Race - 6th June 2012'
 date: 2012-06-07T22:26:11+01:00
 excerpt: '<p>Barry takes individual honours and Striders Ladies victorious on Cleeve Hill</p>'
 layout: post

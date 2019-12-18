@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucestershire Cross Country League &#8211; Tewkesbury &#8211; 14 February 2015'
+title: 'Gloucestershire Cross Country League - Tewkesbury - 14 February 2015'
 date: 2015-02-17T19:44:30+00:00
 author: Clark Lawson
 excerpt: '<p>Liza Barry, Jo Wilkie and Rachel Vines led CLC Striders ladies to their 5th county league title in 7 years in the final race of the 2014/15 cross country season held at a sticky Tewkesbury course.</p>'
@@ -16,17 +16,17 @@ Meanwhile, an under par Will Ferguson finished 15th to lead the mens A team to B
 Other placings were:
 
 **Women**  
-29 &#8211; Beckie Boulton  
-54 &#8211; Emma Abbey  
-78 &#8211; Nat Lovekin  
-92 &#8211; Amanda Pill
+29 - Beckie Boulton  
+54 - Emma Abbey  
+78 - Nat Lovekin  
+92 - Amanda Pill
 
 **Men**  
-68 &#8211; Jon Howes  
-82 &#8211; Rich Shardlow  
-106 &#8211; Stuart Barr  
-127 &#8211; David James  
-133 &#8211; George Parker  
-151 &#8211; Dave Mayo  
-152 &#8211; Rob Gladwin  
-158 &#8211; Gordon Bendall
+68 - Jon Howes  
+82 - Rich Shardlow  
+106 - Stuart Barr  
+127 - David James  
+133 - George Parker  
+151 - Dave Mayo  
+152 - Rob Gladwin  
+158 - Gordon Bendall

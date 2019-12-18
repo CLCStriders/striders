@@ -17,7 +17,7 @@ With lee, nath and gps positively chomping at the bit for food we sat down to a 
 
 At this point we discovered that carla enjoys a wide ranging diet and wouldn't mind trying a spider or two given their high protein content. She was dissapointed to hear though that her spider of choice &#8216;the taranchula'was &#8216;quite quick mind'and she'd struggle to catch one!
 
-Next in sporting terms was a game of pool. The titanic Tussle of lee versus rich c ended in a 2 1 victory to rich! Not to be defeated &#8211; lee resorted to more macho tales and how he wanted to get a good 2 hours of tabbing in before breakfast! This apparantly involves running with 5 stone of gravel in a backpack.
+Next in sporting terms was a game of pool. The titanic Tussle of lee versus rich c ended in a 2 1 victory to rich! Not to be defeated - lee resorted to more macho tales and how he wanted to get a good 2 hours of tabbing in before breakfast! This apparantly involves running with 5 stone of gravel in a backpack.
 
 Bellies full of food and drink we went to bed! Rich thought this was a bit tame at 12.30 but we're well honed atheletes you know!
 

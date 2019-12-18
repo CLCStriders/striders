@@ -1,6 +1,6 @@
 ---
 
-title: 'Race Reports &#8211; April 2015'
+title: 'Race Reports - April 2015'
 date: 2015-05-02T11:18:45+01:00
 author: Clark Lawson
 excerpt: '<p>James Oram ran a fantastic race at the London Marathon smashing his personal best by 10 minutes.</p>'

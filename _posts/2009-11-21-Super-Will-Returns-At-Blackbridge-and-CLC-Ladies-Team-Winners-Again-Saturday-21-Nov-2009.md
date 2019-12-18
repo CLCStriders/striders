@@ -5,7 +5,7 @@ excerpt: "<p>Just a BIG THANK YOU to all of you who attended the rain soaked rac
 layout: post
 permalink: /0000/00/Super-Will-Returns-At-Blackbridge-and-CLC--Ladies-Team-Winners-Again!-Saturday-21-Nov-2009/
 ---
-**The Gloucestershire Cross Country League at Blackbridge &#8211; 11 November 2009**
+**The Gloucestershire Cross Country League at Blackbridge - 11 November 2009**
 
 **<a name="Report"></a><a name="Report"></a>Report**
 
@@ -34,7 +34,7 @@ The Performance of the Day came from CLC Striders Woman's A Team who Won the Tea
 147. Simon Dee 43.59  
 165. Rich Cannock 45.41
 
-Team Competition &#8211; 19 Teams Entered
+Team Competition - 19 Teams Entered
 
 CLC A Team Finished 6th = 248 Points  
 CLC B Team Finished 3rd = 547 Points  
@@ -56,7 +56,7 @@ CLC Masters Team Finished 6th = 300 Points
 96. Justine Hale 34.50 LV35  
 102. Sylvia Koster 35.44 LV60 
 
-Team Competition &#8211; 30 Teams Entered
+Team Competition - 30 Teams Entered
 
 CLC A Team 1st = 41 Points  
 CLC B Team 1st = 131 Points  

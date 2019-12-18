@@ -1,6 +1,6 @@
 ---
 
-title: 'Linda Franks 5 Mile Race &#8211; 13th May 2012'
+title: 'Linda Franks 5 Mile Race - 13th May 2012'
 date: 2012-05-14T21:06:29+01:00
 excerpt: '<p>There was another victory for John Parker at Sundayâ€™s rearranged Linda Franks 5 Mile race.</p>'
 layout: post

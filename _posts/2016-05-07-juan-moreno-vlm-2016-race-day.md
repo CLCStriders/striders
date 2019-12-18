@@ -1,6 +1,6 @@
 ---
 
-title: 'Juan Moreno &#8211; VLM 2016 Race Day'
+title: 'Juan Moreno - VLM 2016 Race Day'
 date: 2016-05-07T20:36:46+01:00
 author: Clark Lawson
 layout: post

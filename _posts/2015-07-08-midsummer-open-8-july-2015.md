@@ -1,6 +1,6 @@
 ---
 
-title: 'Midsummer Open &#8211; 8 July 2015'
+title: 'Midsummer Open - 8 July 2015'
 date: 2015-07-08T16:49:09+01:00
 author: Clark Lawson
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Bourton Mile &#8211; 18 July 2015'
+title: 'Bourton Mile - 18 July 2015'
 date: 2015-07-18T16:50:47+01:00
 author: Clark Lawson
 layout: post

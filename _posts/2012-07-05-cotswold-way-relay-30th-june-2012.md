@@ -1,6 +1,6 @@
 ---
 
-title: 'Cotswold Way Relay &#8211; 30th June 2012'
+title: 'Cotswold Way Relay - 30th June 2012'
 date: 2012-07-05T16:59:00+01:00
 excerpt: '<p>Well done to everyone who ran in the CWR. Our teams were 2nd, 19th and 37th out of 44, so a massive well done (for comparison last year we had two teams which came 5th and 25th). Also some really good individual performances including Laura finishing 1st woman on leg 1, ....</p>'
 layout: post

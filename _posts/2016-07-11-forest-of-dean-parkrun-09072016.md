@@ -1,6 +1,6 @@
 ---
 
-title: 'Forest of Dean Parkrun &#8211; 09/07/2016'
+title: 'Forest of Dean Parkrun - 09/07/2016'
 date: 2016-07-11T17:58:34+01:00
 author: Chris Driskell
 layout: post

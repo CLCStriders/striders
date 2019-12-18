@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League/Midland Women's Cross Country League &#8211; 13/02/2016'
+title: 'Birmingham Cross Country League/Midland Women's Cross Country League - 13/02/2016'
 date: 2016-02-14T11:42:28+00:00
 author: Chris Driskell
 layout: post

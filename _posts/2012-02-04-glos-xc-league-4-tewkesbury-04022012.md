@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC League 4 Tewkesbury &#8211; 4th February 2012'
+title: 'Glos XC League 4 Tewkesbury - 4th February 2012'
 date: 2012-02-04T22:32:14+00:00
 excerpt: '<p>CLC Striders men and women had a fantastic day at the final Gloucestershire County Cross Country League fixture of the 2011/2012 season held in freezing conditions.</p>'
 layout: post
@@ -62,12 +62,12 @@ Women:
 
 Teams overall
 
-1st CLC Striders A =24 &#8211; County league 2011/12 Champions
+1st CLC Striders A =24 - County league 2011/12 Champions
 
 5 CLC Striders B = 51 (1st B Team)
 
 Masters
 
-1st CLC Striders A = 31 &#8211; County masters overall 2011/12 Champions.
+1st CLC Striders A = 31 - County masters overall 2011/12 Champions.
 
 <a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosleague4.pdf" target="_blank" rel="nofollow">full results</a>

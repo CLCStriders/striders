@@ -1,6 +1,6 @@
 ---
 
-title: 'Paris Marathon &#8211; 15th April 2012'
+title: 'Paris Marathon - 15th April 2012'
 date: 2012-04-20T19:24:19+01:00
 excerpt: '<p>Marathon PB for Jo Wilkie in Paris</p>'
 layout: post

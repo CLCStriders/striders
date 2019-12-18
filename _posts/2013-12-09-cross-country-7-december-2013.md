@@ -1,6 +1,6 @@
 ---
 
-title: 'Cross Country &#8211; 7 December 2013'
+title: 'Cross Country - 7 December 2013'
 date: 2013-12-09T20:47:09+00:00
 excerpt: '<p>CLC Striders ladies were in cross country action at Wolverhampton on Saturday 7 December 2013, while the men travelled to Nuneaton.......</p>'
 layout: post

@@ -6,7 +6,7 @@ excerpt: '<p>Striders Women dominate the Gloucestershire Cross-Country County Ch
 layout: post
 permalink: /2011/01/The-Glos-XC-County-Champs-08-January-2011/
 ---
-**Gloucestershire Cross Country County Champs &#8211; January 8th 2011**
+**Gloucestershire Cross Country County Champs - January 8th 2011**
 
 **<a name="report"></a>**
 

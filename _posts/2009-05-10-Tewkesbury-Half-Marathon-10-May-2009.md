@@ -2,7 +2,7 @@
 
 title: Tewkesbury Half Marathon 10 May 2009
 date: 2009-05-10T09:00:00+01:00
-excerpt: "<p>Over 10 CLC Striders completed the Tewkesbury half marathon. Many personal bests were recorded. Another excellent set of results demonstrating the tremendous determination of each and every CLC Strider. What a fantastic day and weekend of racing, Lisa Boyd &amp; Rachel Vines, Women's team captains Tewkesbury Half Matathon 10 May 2009 Photos Report Results</p>"
+excerpt: "<p>Over 10 CLC Striders completed the Tewkesbury half marathon. Many personal bests were recorded. Another excellent set of results demonstrating the tremendous determination of each and every CLC Strider. What a fantastic day and weekend of racing, Lisa Boyd and Rachel Vines, Women's team captains Tewkesbury Half Matathon 10 May 2009 Photos Report Results</p>"
 layout: post
 permalink: /2009/05/Tewkesbury-Half-Marathon-10-May-2009/
 ---

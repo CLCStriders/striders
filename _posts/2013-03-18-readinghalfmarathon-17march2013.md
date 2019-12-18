@@ -1,6 +1,6 @@
 ---
 
-title: 'Reading Half Marathon &#8211; 17 March 2013'
+title: 'Reading Half Marathon - 17 March 2013'
 date: 2013-03-18T21:05:44+00:00
 author: Clark Lawson
 excerpt: '<p>Four CLC Striders braved wintry conditions at the Reading Half Marathon</p>'

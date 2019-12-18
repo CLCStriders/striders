@@ -8,28 +8,28 @@ categories:
 
 Well done to all of our fantastic award winners below for 2018/2019:
 
-**MALE STRIDER OF THE YEAR&nbsp; &#8211;&nbsp;**Gavin Jerman
+**MALE STRIDER OF THE YEAR&nbsp; -&nbsp;**Gavin Jerman
 
-**FEMALE STRIDER OF THE YEAR &#8211;&nbsp;**Helen Knight
+**FEMALE STRIDER OF THE YEAR -&nbsp;**Helen Knight
 
-**CROSS COUNTRY MALE &#8211;&nbsp;&nbsp;**Tom Kabala
+**CROSS COUNTRY MALE -&nbsp;&nbsp;**Tom Kabala
 
-**CROSS COUNTRY FEMALE &#8211;&nbsp;**&nbsp;Rachel Vines
+**CROSS COUNTRY FEMALE -&nbsp;**&nbsp;Rachel Vines
 
-**ROAD ATHLETE &#8211;&nbsp;&nbsp;**Will Ferguson
+**ROAD ATHLETE -&nbsp;&nbsp;**Will Ferguson
 
-**BEST NEWCOMER &#8211;&nbsp;&nbsp;**Louis Fievet
+**BEST NEWCOMER -&nbsp;&nbsp;**Louis Fievet
 
-**MOST IMPROVED ATHLETE &#8211;&nbsp;&nbsp;**Hedley Phillips&nbsp;
+**MOST IMPROVED ATHLETE -&nbsp;&nbsp;**Hedley Phillips&nbsp;
 
-**UNSUNG HERO &#8211;&nbsp;**Nicola Weager&nbsp;
+**UNSUNG HERO -&nbsp;**Nicola Weager&nbsp;
 
-**SPIRIT OF THE CLUB &#8211;&nbsp;&nbsp;**Eoin McQuone
+**SPIRIT OF THE CLUB -&nbsp;&nbsp;**Eoin McQuone
 
-**SERVICE TO THE CLUB &#8211;&nbsp;&nbsp;**Amelia Mullins
+**SERVICE TO THE CLUB -&nbsp;&nbsp;**Amelia Mullins
 
-**THE DAVE MOORCROFT AWARD FOR OUTSTANDING CONTRIBUTION &#8211;&nbsp;**&nbsp;Martin Bick&nbsp;
+**THE DAVE MOORCROFT AWARD FOR OUTSTANDING CONTRIBUTION -&nbsp;**&nbsp;Martin Bick&nbsp;
 
-**SPECIAL ACHIEVEMENT &#8211;&nbsp;**&nbsp;Rob Bircher &#8211; For his 100 mile Ultra Marathon in May (With special thanks to Andrew Paterson for his support)!<figure class="wp-block-image is-resized">
+**SPECIAL ACHIEVEMENT -&nbsp;**&nbsp;Rob Bircher - For his 100 mile Ultra Marathon in May (With special thanks to Andrew Paterson for his support)!<figure class="wp-block-image is-resized">
 
 <img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/07/65823609_10102887805686661_142917283042295808_n.jpg" alt="" class="wp-image-3513" width="720" height="540" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/07/65823609_10102887805686661_142917283042295808_n.jpg 960w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/07/65823609_10102887805686661_142917283042295808_n-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/07/65823609_10102887805686661_142917283042295808_n-768x576.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>2018-19 Award winners (L-R) Eoin McQuone, Louis Fievet, Gavin Jerman, Will Ferguson, Tom Kabala, Martin Bick, Hedley Phillips, Amelia Mullins, Nicola Weager, Rachel Vines</figcaption></figure>

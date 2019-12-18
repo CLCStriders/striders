@@ -1,6 +1,6 @@
 ---
 
-title: 'National Road Relays &#8211; 5 April 2014'
+title: 'National Road Relays - 5 April 2014'
 date: 2014-04-07T19:59:23+01:00
 excerpt: '<p>CLC ladies travelled to the beautiful Sutton Park to take part in the National Road relays on Saturday 5 April 2014.</p>'
 layout: post

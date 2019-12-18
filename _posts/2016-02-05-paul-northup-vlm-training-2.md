@@ -1,6 +1,6 @@
 ---
 
-title: 'Paul Northup &#8211; VLM Training'
+title: 'Paul Northup - VLM Training'
 date: 2016-02-05T09:00:21+00:00
 author: Clark Lawson
 layout: post

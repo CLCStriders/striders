@@ -1,6 +1,6 @@
 ---
 
-title: 'Tewkesbury Half Marathon &#8211; 19 May 2013'
+title: 'Tewkesbury Half Marathon - 19 May 2013'
 date: 2013-05-21T13:05:11+01:00
 excerpt: '<p>Rob Bircher and Sue Clark ran the Tewkesbury Half Marathon on Sunday.</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Bourton 10K &#8211; 26th February 2012'
+title: 'Bourton 10K - 26th February 2012'
 date: 2012-02-27T17:56:06+00:00
 excerpt: '<p>John Parker (JP) led CLC Striders home in the Bourton 10k Road Race which was held in near perfect running conditions on Sunday 26th February. </p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Quedgeley 5 Mile Christmas Fun Run &#8211; 17th December 2011'
+title: 'Quedgeley 5 Mile Christmas Fun Run - 17th December 2011'
 date: 2011-12-18T09:05:45+00:00
 excerpt: '<p>Seven Striders ran in the Quedgeley 5 Mile Christmas Fun Run on Saturday...</p>'
 layout: post

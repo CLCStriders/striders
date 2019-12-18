@@ -1,6 +1,6 @@
 ---
 
-title: 'National 4 Stage Championships &#8211; Sutton Park &#8211; 4 October 2014'
+title: 'National 4 Stage Championships - Sutton Park - 4 October 2014'
 date: 2014-10-06T20:31:59+01:00
 excerpt: '<p>Jo Wilkie led CLC Striders ladies to their highest ever finish in the National 4 Stage Championships held at Sutton Park, Birmingham on Saturday 4 October 2014. </p>'
 layout: post

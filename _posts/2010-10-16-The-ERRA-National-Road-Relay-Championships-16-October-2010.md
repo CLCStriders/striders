@@ -6,7 +6,7 @@ excerpt: '<p>The Fab Four do themselves Proud at the ERRA national Road Relay Ch
 layout: post
 permalink: /2010/10/The-ERRA-National-Road-Relay-Championships-16-October-2010/
 ---
-**The ERRA National Road Relay Championships &#8211; 16 October 2010**</p> 
+**The ERRA National Road Relay Championships - 16 October 2010**</p> 
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ Natasha Poole ran a storming leg overtaking 14 runners to finish in 45th place (
 Jo Wilkie put in a solid run to finish in 50th place (19.04)  
 Laura Kent ran the final leg for the Striders overtaking 7 runners to bring the Club home in a very respectable 43rd place (17.04).
 
-This was the Clubs first National relay experience &#8211; very well done the Fab Four!
+This was the Clubs first National relay experience - very well done the Fab Four!
 
 
 

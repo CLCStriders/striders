@@ -1,6 +1,6 @@
 ---
 
-title: 'BCCL &#038; MCCL fixture 4 &#8211; 9 February 2013'
+title: 'BCCL &#038; MCCL fixture 4 - 9 February 2013'
 date: 2013-02-10T21:20:02+00:00
 excerpt: '<p>The 4th and final Birmingham and Midland Cross country league fixture saw the women and men both competing on home turf at Pittville Park. This fixture was also special as it was the first time the club had hosted an event in this league.</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'GWR Towpath Multi-Terrain 10km &#8211; 28/07/2017'
+title: 'GWR Towpath Multi-Terrain 10km - 28/07/2017'
 date: 2017-07-29T18:53:39+01:00
 author: Chris Driskell
 layout: post

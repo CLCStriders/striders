@@ -1,6 +1,6 @@
 ---
 
-title: 'Leamington Cross Country Report &#8211; 10 November 2012'
+title: 'Leamington Cross Country Report - 10 November 2012'
 date: 2012-11-12T21:05:24+00:00
 excerpt: '<p>CLC Striders competed at Leamington in the Birmingham Cross Country League Division 2 fixture.</p>'
 layout: post

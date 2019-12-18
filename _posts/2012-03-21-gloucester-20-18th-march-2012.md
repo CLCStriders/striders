@@ -1,6 +1,6 @@
 ---
 
-title: 'Gloucester 20 &#8211; 18th March 2012'
+title: 'Gloucester 20 - 18th March 2012'
 date: 2012-03-21T17:18:47+00:00
 excerpt: '<p>Seven Striders ran in the Gloucester 20 at the weekend...</p>'
 layout: post
@@ -14,16 +14,16 @@ Rachael Elkins'run is worthy of particular mention as it knocked a further 5 min
 
 Striders'Results:
 
-19) James Waller &#8211; 02:11:26
+19) James Waller - 02:11:26
 
-40) Rachael Elkins &#8211; 02:21:12 (new club SL record)
+40) Rachael Elkins - 02:21:12 (new club SL record)
 
-50) Adam Cary &#8211; 02:22:52
+50) Adam Cary - 02:22:52
 
-61) Sophie Jones &#8211; 02:26:54
+61) Sophie Jones - 02:26:54
 
-68) Jo Wilkie &#8211; 02:27:40
+68) Jo Wilkie - 02:27:40
 
-78) Robert Lynch &#8211; 02:30:03
+78) Robert Lynch - 02:30:03
 
-99) Pat Woods &#8211; 02:34:37
+99) Pat Woods - 02:34:37

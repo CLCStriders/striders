@@ -1,6 +1,6 @@
 ---
 
-title: 'Training cancelled &#8211; Easter Monday'
+title: 'Training cancelled - Easter Monday'
 date: 2014-04-18T09:19:01+01:00
 excerpt: '<p>There will not be any training on Easter Monday, 21 April 2014, as the centre will be closing at 8pm. </p>'
 layout: post

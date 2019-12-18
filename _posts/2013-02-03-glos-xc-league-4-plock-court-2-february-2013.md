@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos XC league 4 Plock Court &#8211; 2 February 2013'
+title: 'Glos XC league 4 Plock Court - 2 February 2013'
 date: 2013-02-03T18:15:12+00:00
 excerpt: '<p>The striders cross country team competed in the 4th and final Glos league cross country fixture of the 2012/13 season at a very muddy Plock court</p>'
 layout: post

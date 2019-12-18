@@ -1,6 +1,6 @@
 ---
 
-title: 'Frampton 10km &#8211; 9th July 2012'
+title: 'Frampton 10km - 9th July 2012'
 date: 2012-07-11T22:10:58+01:00
 excerpt: '<p>An impressive contingent of 19 Striders took part in the Frampton 10k on a thankfully dry and pleasant Monday evening, and they produced some excellent performances.</p>'
 layout: post

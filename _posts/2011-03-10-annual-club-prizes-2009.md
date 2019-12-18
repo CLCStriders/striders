@@ -14,24 +14,24 @@ permalink: /2011/03/annual-club-prizes-2009/
 
 </p> 
 
-## Female Strider of the Year &#8211; Rachel Vines (DJ)
+## Female Strider of the Year - Rachel Vines (DJ)
 
 Award kindly donated by an anonymous source
 
 
 
-## Special Achievement Award &#8211; Will Ferguson aka Super
+## Special Achievement Award - Will Ferguson aka Super
 
 (Award kindly donated by CLC Sports Centre)
 
 
 
-## Most Improved Strider &#8211; Dawn Addinall
+## Most Improved Strider - Dawn Addinall
 
 
 
-## Services to the Club Award &#8211; Phil Jowett aka Jowster
+## Services to the Club Award - Phil Jowett aka Jowster
 
 
 
-## Unsung Hero Award &#8211; Louise Allsop
+## Unsung Hero Award - Louise Allsop

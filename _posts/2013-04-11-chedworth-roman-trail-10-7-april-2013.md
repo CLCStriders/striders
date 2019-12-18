@@ -1,6 +1,6 @@
 ---
 
-title: 'Chedworth Roman Trail 10 &#8211; 7 April 2013'
+title: 'Chedworth Roman Trail 10 - 7 April 2013'
 date: 2013-04-11T18:29:25+01:00
 excerpt: '<p>Five Striders competed in the Chedworth Roman Trail 10 last Sunday.</p>'
 layout: post

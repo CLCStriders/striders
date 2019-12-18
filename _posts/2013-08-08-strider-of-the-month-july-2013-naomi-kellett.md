@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; July 2013 &#8211; Naomi Kellett'
+title: 'Strider of the Month - July 2013 - Naomi Kellett'
 date: 2013-08-08T19:00:43+01:00
 author: Clark Lawson
 excerpt: "<p>Naomi Kellett is July's Strider of the Month.</p>"

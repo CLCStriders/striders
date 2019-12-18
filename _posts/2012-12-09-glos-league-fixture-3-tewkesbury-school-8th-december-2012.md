@@ -1,6 +1,6 @@
 ---
 
-title: 'Glos League Fixture 3 Tewkesbury School &#8211; 8th December 2012'
+title: 'Glos League Fixture 3 Tewkesbury School - 8th December 2012'
 date: 2012-12-09T19:42:27+00:00
 excerpt: '<p>16 Striders put their Christmas shopping on hold to run for the club at Tewkesbury School.</p>'
 layout: post

@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; March 2015 &#8211; James Oram'
+title: 'Strider of the Month - March 2015 - James Oram'
 date: 2015-04-02T22:13:39+01:00
 author: Clark Lawson
 excerpt: '<p>The winner of Strider of the Month for March is James Oram.</p>'

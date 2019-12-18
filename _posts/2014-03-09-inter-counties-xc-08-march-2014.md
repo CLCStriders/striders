@@ -1,6 +1,6 @@
 ---
 
-title: 'Inter-counties XC &#8211; 08 March 2014'
+title: 'Inter-counties XC - 08 March 2014'
 date: 2014-03-09T18:04:52+00:00
 excerpt: '<p>Striders were well represented and the Inter-counties Cross Country Championship on Saturday.</p>'
 layout: post

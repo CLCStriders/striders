@@ -1,6 +1,6 @@
 ---
 
-title: 'Bridge Inn 5km &#8211; 29th May 2012'
+title: 'Bridge Inn 5km - 29th May 2012'
 date: 2012-06-02T10:42:51+01:00
 excerpt: '<p>Pat Woods ran in the undulating Bridge Inn 5km course on a balmy evening.</p>'
 layout: post

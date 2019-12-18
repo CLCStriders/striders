@@ -1,6 +1,6 @@
 ---
 
-title: 'Cheltenham Half Marathon &#8211; 4th September 2011'
+title: 'Cheltenham Half Marathon - 4th September 2011'
 date: 2011-09-10T21:50:55+01:00
 excerpt: '<p>Beckie Boulton and Philip Hodder fly the Striders Flag in the Cheltenham Half Marathon</p>'
 layout: post

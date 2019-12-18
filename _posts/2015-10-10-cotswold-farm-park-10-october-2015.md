@@ -1,6 +1,6 @@
 ---
 
-title: 'Cotswold Farm Park &#8211; 10 October 2015'
+title: 'Cotswold Farm Park - 10 October 2015'
 date: 2015-10-10T16:59:03+01:00
 author: Clark Lawson
 layout: post

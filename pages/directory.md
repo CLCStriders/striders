@@ -42,7 +42,7 @@ Like our facebook page for more offers. <a href="http://www.facebook.com/justali
 <tr>
 <td>Company Info:</td>
 <td>Run by runners for runners.<br />
-We are Malc and Rachel and we really love running and the running community.On Saturdays we can usually be found at Cheltenham parkrun. We have travelled the world to take part in races &#8211; long and short, and love meeting like minded people. We’ve certainly tested our t-shirts, vests and hoodies. We focus on supplying what we believe runners want, and what they tell us they want.</td>
+We are Malc and Rachel and we really love running and the running community.On Saturdays we can usually be found at Cheltenham parkrun. We have travelled the world to take part in races - long and short, and love meeting like minded people. We’ve certainly tested our t-shirts, vests and hoodies. We focus on supplying what we believe runners want, and what they tell us they want.</td>
 </tr>
 </tbody>
            
@@ -51,11 +51,11 @@ We are Malc and Rachel and we really love running and the running community.On S
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
-<td><b>Up &amp; Running Cheltenham</b></td>
+<td><b>Up and Running Cheltenham</b></td>
 </tr>
 <tr>
 <td>Services Offered:</td>
-<td>Specialist Running Shop, Gait Analysis &amp; advice on all things running.</td>
+<td>Specialist Running Shop, Gait Analysis and advice on all things running.</td>
 </tr>
 <tr>
 <td>Address:</td>
@@ -217,7 +217,7 @@ Cheltenham and Gloucester.</td>
 </tr>
 <tr>
 <td>Services Offered:</td>
-<td>Sports specific physiotherapy, 3D video running gait analysis &amp; bike fitting service.</td>
+<td>Sports specific physiotherapy, 3D video running gait analysis and bike fitting service.</td>
 </tr>
 <tr>
 <td>Address:</td>
@@ -226,7 +226,7 @@ Cheltenham and Gloucester.</td>
 </tr>
 <tr>
 <td>Telephone:</td>
-<td>07940 102905 &amp; 01242 509923</td>
+<td>07940 102905 and 01242 509923</td>
 </tr>
 <tr>
 <td>Email:</td>
@@ -234,7 +234,7 @@ Cheltenham and Gloucester.</td>
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.straightbackphysio.co.uk" target="_blank" rel="nofollow">www.straightbackphysio.co.uk</a> &amp; <a href="http://www.runningfx.co.uk" target="_blank" rel="nofollow">www.runningfx.co.uk</a></td>
+<td><a href="http://www.straightbackphysio.co.uk" target="_blank" rel="nofollow">www.straightbackphysio.co.uk</a> and <a href="http://www.runningfx.co.uk" target="_blank" rel="nofollow">www.runningfx.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>

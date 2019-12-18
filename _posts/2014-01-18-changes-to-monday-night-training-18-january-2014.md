@@ -1,6 +1,6 @@
 ---
 
-title: 'Changes to Monday night training &#8211; 18 January 2014'
+title: 'Changes to Monday night training - 18 January 2014'
 date: 2014-01-18T11:09:40+00:00
 excerpt: '<p>With immediate effect there will be a slight change to the Monday night training session.</p>'
 layout: post

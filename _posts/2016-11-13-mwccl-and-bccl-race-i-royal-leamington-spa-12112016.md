@@ -1,6 +1,6 @@
 ---
 
-title: 'MWCCL and BCCL Race I Royal Leamington Spa &#8211; 12/11/2016'
+title: 'MWCCL and BCCL Race I Royal Leamington Spa - 12/11/2016'
 date: 2016-11-13T10:06:42+00:00
 author: Chris Driskell
 layout: post

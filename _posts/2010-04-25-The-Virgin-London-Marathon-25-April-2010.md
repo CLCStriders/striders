@@ -19,18 +19,18 @@ Brendan
 
 <a name="Report"></a>**Results**
 
-919 Liza Barry 2.57.54 (Women's Club Rec) &#8211; PB  
-1482 Dave Billingham 3.05.40 (M45 Club Rec) &#8211; PB  
+919 Liza Barry 2.57.54 (Women's Club Rec) - PB  
+1482 Dave Billingham 3.05.40 (M45 Club Rec) - PB  
 1719 Bethan Miles 3.08.26  
-3016 Overall Matt Eggelton 3.20.41 &#8211; PB  
-3858 Tom Thorneycroft 3.27.06 &#8211; PB  
-7869 John Howes 3.48.42 &#8211; PB 
+3016 Overall Matt Eggelton 3.20.41 - PB  
+3858 Tom Thorneycroft 3.27.06 - PB  
+7869 John Howes 3.48.42 - PB 
 
-8915 Sam Page 3.53.08 &#8211; PB  
-6521 Overall Ian Daniels 3.42.13 &#8211; PB  
-7278 Alexa Phoeniz 3.45.59 &#8211; PB  
-12295 Heather Eggelton 4.05.29 &#8211; PB  
-27465 Becky Boulton 5.05.59 &#8211; PB  
+8915 Sam Page 3.53.08 - PB  
+6521 Overall Ian Daniels 3.42.13 - PB  
+7278 Alexa Phoeniz 3.45.59 - PB  
+12295 Heather Eggelton 4.05.29 - PB  
+27465 Becky Boulton 5.05.59 - PB  
 36387 Bruce Jockleson 7.29.10 -PB 
 
 <map name="100109w.jpg">

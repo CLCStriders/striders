@@ -1,6 +1,6 @@
 ---
 
-title: 'Pilot Inn 4 Mile Race &#8211; 27th December 2012'
+title: 'Pilot Inn 4 Mile Race - 27th December 2012'
 date: 2013-01-06T13:45:19+00:00
 excerpt: '<p>Victory for Dare at Pilot..</p>'
 layout: post

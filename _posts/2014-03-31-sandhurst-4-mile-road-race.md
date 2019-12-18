@@ -1,6 +1,6 @@
 ---
 
-title: 'Sandhurst 4 Mile Road Race &#8211; 22 March 2014'
+title: 'Sandhurst 4 Mile Road Race - 22 March 2014'
 date: 2014-03-31T20:51:31+01:00
 excerpt: '<p>Will Ferguson and Chris Driskell put in a good show at the annual 4 mile road race at Sandhurst, near Gloucester, on Saturday 22 March. </p>'
 layout: post

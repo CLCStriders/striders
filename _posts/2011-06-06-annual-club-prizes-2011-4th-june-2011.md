@@ -1,6 +1,6 @@
 ---
 
-title: 'Annual Club Prizes 2011 &#8211; 4th June 2011'
+title: 'Annual Club Prizes 2011 - 4th June 2011'
 date: 2011-06-06T18:40:29+01:00
 excerpt: '<p>The Awards night is an annual event and is now a firmly established part of the Striders calendar.</p>'
 layout: post

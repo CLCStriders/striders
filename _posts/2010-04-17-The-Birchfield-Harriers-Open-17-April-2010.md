@@ -22,22 +22,22 @@ Brendan
 
 <a name="Report"></a>**Results**
 
-**800 metres &#8211; Men  
-** 2. Rich Dare &#8211; 2.02.09 (Club Rec/PB)  
-3. Phil Jowett &#8211; 2.08.14 (M40 Club Rec/PB)
+**800 metres - Men  
+** 2. Rich Dare - 2.02.09 (Club Rec/PB)  
+3. Phil Jowett - 2.08.14 (M40 Club Rec/PB)
 
-**2 Miles &#8211; Men**  
-1. Chris Hale &#8211; 11.21.02 (Club Rec/PB)
+**2 Miles - Men**  
+1. Chris Hale - 11.21.02 (Club Rec/PB)
 
 **2 Miles Women**  
-2. Natasha Poole &#8211; 12.01.22 (Club Rec/PB)  
-3. Rachel Vines &#8211; 12.01.29 (PB)
+2. Natasha Poole - 12.01.22 (Club Rec/PB)  
+3. Rachel Vines - 12.01.29 (PB)
 
 **1500 Metres Men**  
-3. Will Ferguson &#8211; 4.15.25 (Club Rec/PB)
+3. Will Ferguson - 4.15.25 (Club Rec/PB)
 
 **1500 Metres Junior Men**  
-2. Ben Pedley &#8211; 4.25.95 &#8211; (Club Rec/PB)
+2. Ben Pedley - 4.25.95 - (Club Rec/PB)
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

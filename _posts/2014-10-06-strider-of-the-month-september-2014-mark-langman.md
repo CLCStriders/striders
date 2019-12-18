@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; September 2014 &#8211; Mark Langman'
+title: 'Strider of the Month - September 2014 - Mark Langman'
 date: 2014-10-06T20:28:48+01:00
 author: Clark Lawson
 excerpt: '<p>Mark Langman wins Strider of the Month for September.</p>'

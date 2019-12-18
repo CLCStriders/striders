@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; June &#8211; Juan Moreno'
+title: 'Strider of the Month - June - Juan Moreno'
 date: 2014-07-04T15:36:12+01:00
 author: Clark Lawson
 excerpt: '<p>Juan Moreno is Strider of the Month for June.</p>'

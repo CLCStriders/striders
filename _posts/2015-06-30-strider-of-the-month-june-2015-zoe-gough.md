@@ -1,6 +1,6 @@
 ---
 
-title: 'Strider of the Month &#8211; June 2015 &#8211; Zoe Gough'
+title: 'Strider of the Month - June 2015 - Zoe Gough'
 date: 2015-06-30T16:47:11+01:00
 author: Clark Lawson
 layout: post

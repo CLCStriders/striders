@@ -1,6 +1,6 @@
 ---
 
-title: 'BCCL Fixture II Plock Court &#8211; 1st December 2012'
+title: 'BCCL Fixture II Plock Court - 1st December 2012'
 date: 2012-12-02T09:54:36+00:00
 excerpt: "<p>There was an exceptionally strong turnout for Striders'men in the second Birmingham League Fixture at a muddy Plock Court on Saturday..</p>"
 layout: post
@@ -16,43 +16,43 @@ Finally thanks, must also go to team manager Phil Jowett for filming the race an
 
 Striders results:
 
-29) Rich Dare &#8211; 37:19
+29) Rich Dare - 37:19
 
-36) Will Ferguson &#8211; 37:44
+36) Will Ferguson - 37:44
 
-42) Chris Driskell &#8211; 38:22
+42) Chris Driskell - 38:22
 
-80) Dave Smeath &#8211; 40:27
+80) Dave Smeath - 40:27
 
-104) Jamie Paterson &#8211; 42:03
+104) Jamie Paterson - 42:03
 
-110) Rich Shardlow &#8211; 42:16
+110) Rich Shardlow - 42:16
 
-123) Jo Maddocks &#8211; 42:51
+123) Jo Maddocks - 42:51
 
-126) Damien Cuke &#8211; 42:57
+126) Damien Cuke - 42:57
 
-131) James Coull &#8211; 43:05
+131) James Coull - 43:05
 
-139) JJ Willson &#8211; 43:23
+139) JJ Willson - 43:23
 
-143) Jon Bird &#8211; 43:35
+143) Jon Bird - 43:35
 
-144) Jon Cooke &#8211; 43:36
+144) Jon Cooke - 43:36
 
-160) Joel Freeland &#8211; 45:00
+160) Joel Freeland - 45:00
 
-177) Adam Cary &#8211; 46:27
+177) Adam Cary - 46:27
 
-180) James Waller &#8211; 47:03
+180) James Waller - 47:03
 
-199) Phil Lauder &#8211; 50:11
+199) Phil Lauder - 50:11
 
-200) Stephen Hucker &#8211; 50:29
+200) Stephen Hucker - 50:29
 
-202) Andrew Paterson &#8211; 50:42
+202) Andrew Paterson - 50:42
 
-203) Dave Mayo &#8211; 50:44
+203) Dave Mayo - 50:44
 
 <a href="http://www.youtube.com/watch?v=_WFeTRYaCrQ" target="_blank" rel="nofollow">video</a>
 

@@ -1,6 +1,6 @@
 ---
 
-title: 'Birmingham Cross Country League &#8211; Plock Court &#8211; 6 December 2014'
+title: 'Birmingham Cross Country League - Plock Court - 6 December 2014'
 date: 2014-12-08T13:14:40+00:00
 author: Clark Lawson
 excerpt: '<p>CLC Striders took a squad of 14 men to the second round fixture of the Birmingham Cross Country League (Division 2) held at Plock Court, Gloucester on Saturday.</p>'

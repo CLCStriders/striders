@@ -1,6 +1,6 @@
 ---
 
-title: 'Midland Women's Cross Country League, Wolverhampton &#8211; 14/01/2017'
+title: 'Midland Women's Cross Country League, Wolverhampton - 14/01/2017'
 date: 2017-01-15T16:40:08+00:00
 author: Chris Driskell
 layout: post

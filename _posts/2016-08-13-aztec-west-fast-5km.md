@@ -1,6 +1,6 @@
 ---
 
-title: 'Aztec West Fast 5km &#8211; 26/07/2016'
+title: 'Aztec West Fast 5km - 26/07/2016'
 date: 2016-08-13T19:36:40+01:00
 author: Chris Driskell
 layout: post
@@ -15,12 +15,12 @@ There were great performances from the 5 Striders who competed in the Aztec West
 
 Striders performances:
 
-42 &#8211; Will Pearce 17:54
+42 - Will Pearce 17:54
 
-53 &#8211; Jon Howes 18:14
+53 - Jon Howes 18:14
 
-70 &#8211; JJ Willson 19:02
+70 - JJ Willson 19:02
 
-126 &#8211; Andrew Gage 23:02
+126 - Andrew Gage 23:02
 
-130 &#8211; Chris Thomas 23:22
+130 - Chris Thomas 23:22

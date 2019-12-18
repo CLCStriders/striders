@@ -1,6 +1,6 @@
 ---
 
-title: 'The Midlands 4 &amp; 6 stage relays 19 Sept 2009'
+title: 'The Midlands 4 and 6 stage relays 19 Sept 2009'
 date: 2009-09-19T09:00:00+01:00
 excerpt: "<p>CLC Striders competed for the first time in the Midlands 6 Stage men's, and 4 stage Women's Road Relays held at Sutton Park Birmingham. Find out how they got on by clicking on Report and Results Brendan Ward, Club Chairman The midlands relays 19 Sept 2009 Photos Report Results</p>"
 layout: post
