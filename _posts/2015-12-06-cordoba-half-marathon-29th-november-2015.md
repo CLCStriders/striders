@@ -1,5 +1,5 @@
 ---
-id: 1719
+
 title: 'Cordoba Half Marathon &#8211; 29/11/2015'
 date: 2015-12-06T19:30:17+00:00
 author: Chris Driskell
@@ -9,7 +9,7 @@ permalink: /2015/12/cordoba-half-marathon-29th-november-2015/
 categories:
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 ---
 [<img class="alignnone size-medium wp-image-1735" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/12/IMG_0168-300x169.jpg" alt="IMG_0168" width="300" height="169" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/12/IMG_0168-300x169.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/12/IMG_0168.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/12/IMG_0168.jpg)
 

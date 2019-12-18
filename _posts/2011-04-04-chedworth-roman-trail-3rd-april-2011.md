@@ -1,5 +1,5 @@
 ---
-id: 343
+
 title: Chedworth Roman Trail 3rd April 2011
 date: 2011-04-04T20:00:06+01:00
 excerpt: '<p>Congratulations to Darren Milne, Charles Goodwin, Glyn Bagnall and Jamie Paterson for battling it out at the challenging 10M Chedworth Roman Trail race on Sunday.</p>'

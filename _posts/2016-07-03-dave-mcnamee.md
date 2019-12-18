@@ -1,5 +1,5 @@
 ---
-id: 2353
+
 title: Dave McNamee
 date: 2016-07-03T10:34:07+01:00
 author: Chris Driskell

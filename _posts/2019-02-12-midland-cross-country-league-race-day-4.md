@@ -1,5 +1,5 @@
 ---
-id: 3318
+
 title: Midland Cross Country League, Race Day 4, 9.2.2019
 date: 2019-02-12T19:13:39+00:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/02/midland-cross-country-league-race-day-4/
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Cattle Country
   - Gloucester AC

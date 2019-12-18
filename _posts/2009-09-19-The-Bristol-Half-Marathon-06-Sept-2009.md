@@ -1,5 +1,5 @@
 ---
-id: 228
+
 title: The Bristol Half Marathon 06 Sept 2009
 date: 2009-09-19T09:00:00+01:00
 excerpt: "<p>Nathan Jones, Rachel Vines, Jon Cooke and Dylan Peters were the four intrepid CLC Striders who ventured out to take part in the Bristol Half Marathon on Sunday 6 September 2009. Check out the report below to see how they got on Rachel Vines, Women's vice club captain The Bristol Half 06 Sept 2009 Photos Report Results</p>"

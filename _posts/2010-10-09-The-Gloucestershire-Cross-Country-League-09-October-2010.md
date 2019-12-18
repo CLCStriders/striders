@@ -1,5 +1,5 @@
 ---
-id: 130
+
 title: The Gloucestershire Cross Country League 09 October 2010
 date: 2010-10-09T09:00:00+01:00
 excerpt: "<p>Well done to all of you who competed in the Glos Cross Country League today at Cotswold Farm Park, there were some excellent performances by many of you today which you should feel proud of. The Women's Team finished 3rd, Men finished 8th - Click on report, results, and Photos to find out more , Brendan Ward (Club Chairman) Glos XC League Photos Report Results</p>"
@@ -24,7 +24,7 @@ permalink: /2010/10/The-Gloucestershire-Cross-Country-League-09-October-2010/
 
 The first Glos Cross Country League race of the season kicked off on Saturday 9th October at Cotswold Farm Park.
 
-CLC Striders ladies Team we&#8217;re led home by Liza Barry in an excellent 7th Place (Her first league top 10 finish), she was followed by Rachel Vines in 18th place (her first league top 20 finish), final A Team scorer was Pat Woods who ran well to clinch 28th position. The ladies A Team finished in 2nd position on the day. Other notable performances we&#8217;re had by Jo Wilkie finishing in an encouraging 30th place, Jessica Shaw making her debut to finish a fine 38th place, and Ali Perrio also making her debut to finish in a very respectable 43rd spot.
+CLC Striders ladies Team we're led home by Liza Barry in an excellent 7th Place (Her first league top 10 finish), she was followed by Rachel Vines in 18th place (her first league top 20 finish), final A Team scorer was Pat Woods who ran well to clinch 28th position. The ladies A Team finished in 2nd position on the day. Other notable performances we're had by Jo Wilkie finishing in an encouraging 30th place, Jessica Shaw making her debut to finish a fine 38th place, and Ali Perrio also making her debut to finish in a very respectable 43rd spot.
 
 John Parker led the Men home and ran well to finish in 2nd position, Chris Driskall was next in 51st, Jamie Patterson ran well for 56th spot, Billy Bradshaw a solid 72nd place, James Gibbs doing well for 77th place, and new boy Joel Freeland final A Team scorer in 91st position. The Men finished 8th Team on the day.
 

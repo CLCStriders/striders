@@ -1,5 +1,5 @@
 ---
-id: 1666
+
 title: Autumn Aviator 10k Cancelled
 date: 2015-11-01T20:00:27+00:00
 author: Clark Lawson

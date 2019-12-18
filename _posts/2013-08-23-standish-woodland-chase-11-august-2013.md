@@ -1,5 +1,5 @@
 ---
-id: 554
+
 title: 'Standish Woodland Chase &#8211; 11 August 2013'
 date: 2013-08-23T20:31:59+01:00
 excerpt: '<p>Chris Driskell and Rachel Vines took part in the Standish Woodland chase near Stonehouse.</p>'

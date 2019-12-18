@@ -1,5 +1,5 @@
 ---
-id: 303
+
 title: The Reading and Fleet Half Marathons, 20 March 11
 date: 2011-03-20T00:00:00+00:00
 excerpt: '<p>Four CLC Striders travelled to Reading and two travelled to Fleet to race half marathons! Click on the links to see how they got on", Dave Smeath</p>'

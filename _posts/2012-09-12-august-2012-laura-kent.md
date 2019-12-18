@@ -1,5 +1,5 @@
 ---
-id: 477
+
 title: 'August 2012: Laura Kent'
 date: 2012-09-12T21:57:55+01:00
 author: Clark Lawson

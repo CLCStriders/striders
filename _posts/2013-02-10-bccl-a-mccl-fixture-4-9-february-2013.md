@@ -1,12 +1,12 @@
 ---
-id: 516
+
 title: 'BCCL &#038; MCCL fixture 4 &#8211; 9 February 2013'
 date: 2013-02-10T21:20:02+00:00
 excerpt: '<p>The 4th and final Birmingham and Midland Cross country league fixture saw the women and men both competing on home turf at Pittville Park. This fixture was also special as it was the first time the club had hosted an event in this league.</p>'
 layout: post
 permalink: /2013/02/bccl-a-mccl-fixture-4-9-february-2013/
 ---
-The air was damp and cool and the ground extremely sodden and slippy but this didn&#8217;t hinder the ladies team from scoring well. Liza Barry used her usual strength and determination to lead the ladies for the majority of the race; however, Helen Roberts had the run of her life to stay with Barry on the 2 lap course and managed to pip her close to the finish line, Roberts taking 39th place and Barry claiming 41st place. The final scorer for the women&#8217;s A team was the ever consistent Trish woods in 53rd place.
+The air was damp and cool and the ground extremely sodden and slippy but this didn't hinder the ladies team from scoring well. Liza Barry used her usual strength and determination to lead the ladies for the majority of the race; however, Helen Roberts had the run of her life to stay with Barry on the 2 lap course and managed to pip her close to the finish line, Roberts taking 39th place and Barry claiming 41st place. The final scorer for the women's A team was the ever consistent Trish woods in 53rd place.
 
 Amanda Steer (57th) worked hard and ran well to pull away from team mate Naomi Kellett in the last half a lap. Kellett who has just recently returned to racing and had an excellent run placing 65th. Helen Howes completed the B team in an excellent 95th place.
 

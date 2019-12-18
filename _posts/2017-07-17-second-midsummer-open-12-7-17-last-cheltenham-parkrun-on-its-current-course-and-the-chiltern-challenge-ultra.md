@@ -1,5 +1,5 @@
 ---
-id: 2855
+
 title: Second Midsummer Open; last Cheltenham Parkrun on current course; and Chiltern Challenge
 date: 2017-07-17T21:11:48+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 183
+
 title: The Brighton Marathon 18 April 2010
 date: 2010-04-18T09:00:00+01:00
 excerpt: '<p>A Big Congratulations goes out to Emma Skeen who ran her socks off to record a fantastic personal best time at the Brighton Marathon on April 18th 2010. Emma recorded a chip time of 3.27.50. Well done!! Brendan Ward (Club Chairman) Brighton Marathon 18 April 2010 Photos Results</p>'

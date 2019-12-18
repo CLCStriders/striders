@@ -1,5 +1,5 @@
 ---
-id: 421
+
 title: 'Yeovil Half Marathon &#8211; 25th March 2012'
 date: 2012-03-25T20:19:20+01:00
 excerpt: '<p>Awesome run for Evershed in Yeovil ..</p>'

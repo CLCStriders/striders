@@ -1,5 +1,5 @@
 ---
-id: 286
+
 title: Gloucester 10m 04 January 2009
 date: 2009-01-04T09:00:00+00:00
 excerpt: '<p>Well done to all of you who competed in the Gloucester New Year 10 mile road race which was held on a very cold winters day! Will Ferguson became the first CLC Strider to win a race overall - fantastic performance. Brendan Ward, Club Chairman Gloucester New Year 10m 04 January 2009 Photos Report Results</p>'
@@ -10,9 +10,9 @@ permalink: /2009/01/Gloucester-10m-04-January-2009/
 
 **<a name="Report"></a>Report**
 
-Will Ferguson men&#8217;s club captain left it until the final 400 metres to record his first win in a CLC Striders vest in the Gloucester 10 mile road race.
+Will Ferguson men's club captain left it until the final 400 metres to record his first win in a CLC Striders vest in the Gloucester 10 mile road race.
 
-Eddie Sutton (5th lady) 23rd overall, was next home for the club running an excellent 62.50, 49th was Dave Smeath men&#8217;s vice captain who ran a solid 65.51, 57th Billy Bradshaw 66.16 a big pb, 60th Rob the Riz Shute 66.32, 80th Chris gps Hale 68.43, 121st Paul Stonuary 72.56, 130th Ian Daniels nursing a dodgy hamstring 73.28, 182nd Angela Puffett a great 76.50, 199th Rachel DJ Vines lady&#8217;s vice captain running pb of 78.01.
+Eddie Sutton (5th lady) 23rd overall, was next home for the club running an excellent 62.50, 49th was Dave Smeath men's vice captain who ran a solid 65.51, 57th Billy Bradshaw 66.16 a big pb, 60th Rob the Riz Shute 66.32, 80th Chris gps Hale 68.43, 121st Paul Stonuary 72.56, 130th Ian Daniels nursing a dodgy hamstring 73.28, 182nd Angela Puffett a great 76.50, 199th Rachel DJ Vines lady's vice captain running pb of 78.01.
 
 Conditions undulating and very cold well done to you all.
 

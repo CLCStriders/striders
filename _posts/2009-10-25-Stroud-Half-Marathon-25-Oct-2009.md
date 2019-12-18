@@ -1,5 +1,5 @@
 ---
-id: 218
+
 title: Stroud Half Marathon 25 Oct 2009
 date: 2009-10-25T09:00:00+00:00
 excerpt: "<p>Striders Break records and pb's galore at the Stroud Half Marathon Sunday 25th October. Click on full race report to find out more, Brendan Ward Club Chairman Stroud Half Marathon 25 October 2009 Photos Report Results</p>"

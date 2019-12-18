@@ -1,5 +1,5 @@
 ---
-id: 173
+
 title: The Berkeley 10km Road Race 10 May 2010
 date: 2010-05-10T09:00:00+01:00
 excerpt: '<p>John Parker and Dave Billingham competed in the Berkeley 10K Monday 10th May. A Big Congratulations goes out to John Parker (JP) who has become the first person to run a sub 32 minute 10K from the Club. JP recorded an excellent 31.55. Well done, great performances, keep it up!, Brendan Ward (Club Chairman) Berkeley 10km 10 May 2010 Photos Report Results</p>'

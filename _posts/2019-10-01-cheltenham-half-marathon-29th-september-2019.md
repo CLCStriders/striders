@@ -1,5 +1,5 @@
 ---
-id: 3585
+
 title: Cheltenham Half Marathon, 29th September 2019
 date: 2019-10-01T19:02:05+01:00
 author: Paul Northup

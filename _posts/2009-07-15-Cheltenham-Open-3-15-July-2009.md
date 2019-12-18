@@ -1,5 +1,5 @@
 ---
-id: 241
+
 title: 'Cheltenham Open #3 15 July 2009'
 date: 2009-07-15T09:00:00+01:00
 excerpt: '<p>There were 5 personal best times and one club record achieved at the Prince of Wales stadium open meeting on Wednesday 15th July. This was great to see especially in the windy conditions. Well done guys!! Brendan Ward, Club Chairman Cheltenham open #3 15 July 2009 Photos Report Results</p>'

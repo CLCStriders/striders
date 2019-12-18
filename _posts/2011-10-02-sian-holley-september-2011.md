@@ -1,5 +1,5 @@
 ---
-id: 371
+
 title: 'Sian Holley: September 2011'
 date: 2011-10-02T15:40:49+01:00
 author: Clark Lawson

@@ -1,5 +1,5 @@
 ---
-id: 3521
+
 title: Frampton on Severn 10k﻿ – 1 July 2019
 date: 2019-07-02T08:38:46+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 486
+
 title: 'Stroud Half Marathon &#8211; 21st October 2012'
 date: 2012-10-28T16:00:57+00:00
 excerpt: '<p>4 Striders competed in the Stroud Half Marathon...</p>'

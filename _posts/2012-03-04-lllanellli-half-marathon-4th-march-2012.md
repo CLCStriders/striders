@@ -1,5 +1,5 @@
 ---
-id: 411
+
 title: 'Lllanellli Half Marathon &#8211; 4th March 2012'
 date: 2012-03-04T20:36:29+00:00
 excerpt: '<p>Chris Hale ran the Llanelli Half Marathon as a build up to London..</p>'

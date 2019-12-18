@@ -1,5 +1,5 @@
 ---
-id: 523
+
 title: 'Sussex Coastal Marathon &#8211; 23 March 2013'
 date: 2013-03-26T19:09:18+00:00
 excerpt: '<p>Ross and Natalie Greening braved an icy, easterly wind to run the Sussex Coastal Marathon on Saturday.</p>'

@@ -1,5 +1,5 @@
 ---
-id: 356
+
 title: 'Amanda Steer: August 2011'
 date: 2011-08-29T19:28:13+01:00
 author: Clark Lawson
@@ -11,4 +11,4 @@ categories:
 ---
 </p> 
 
-A Massive congratulations goes out to Amanda Steer who is August&#8217;s Strider of the month. Amanda has been improving race by race and has already run Pbs for 5k and 10k this month. Keep it up girl! Well done.
+A Massive congratulations goes out to Amanda Steer who is August's Strider of the month. Amanda has been improving race by race and has already run Pbs for 5k and 10k this month. Keep it up girl! Well done.

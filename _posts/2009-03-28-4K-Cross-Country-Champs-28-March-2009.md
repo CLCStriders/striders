@@ -1,5 +1,5 @@
 ---
-id: 276
+
 title: 4K Cross Country Champs 28 March 2009
 date: 2009-03-28T09:00:00+00:00
 excerpt: '<p>What a day - CLC Striders women take all three medals in the county 4k cross country championships held at Plock Court on a very blustery day. Liza Barry became the first Strider to win a Gold medal at senior level, with Rachel Vines winning Silver and Lisa Boyd taking the Bronze medal - they also won the team prize to cap what was a fantastic day!! Keep winning girls it makes me a very happy coach, Brendan Ward, Club Chairman 4k cross country champs 28 March 2009 Photos Report Results</p>'
@@ -12,9 +12,9 @@ permalink: /2009/03/4K-Cross-Country-Champs-28-March-2009/
 
 **Report**</p> 
 
-Liza Barry won Gold in the woman&#8217;s 4k county cross country championships, with Rachel Vines winning a superb Silver, and Lisa Boyd a well deserved Bronze. The lady&#8217;s team also won the team prize.
+Liza Barry won Gold in the woman's 4k county cross country championships, with Rachel Vines winning a superb Silver, and Lisa Boyd a well deserved Bronze. The lady's team also won the team prize.
 
-Will Ferguson ran well to finish 4th in the men&#8217;s event, with Rich Dare finishing in 8th position having a solid run. The conditions at plock court were very blustery and cold so it made this short race of only 2.8 miles very tough indeed
+Will Ferguson ran well to finish 4th in the men's event, with Rich Dare finishing in 8th position having a solid run. The conditions at plock court were very blustery and cold so it made this short race of only 2.8 miles very tough indeed
 
 Congratulations. Kindest Regards
 

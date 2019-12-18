@@ -1,5 +1,5 @@
 ---
-id: 2629
+
 title: Inter-Counties Cross Country Championships – Prestwold Hall Loughborough, Saturday 11th March 2017
 date: 2017-03-12T21:17:59+00:00
 author: Chris Driskell

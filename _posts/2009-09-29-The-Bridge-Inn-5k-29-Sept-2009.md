@@ -1,5 +1,5 @@
 ---
-id: 223
+
 title: The Bridge Inn 5k 29 Sept 2009
 date: 2009-09-29T09:00:00+01:00
 excerpt: '<p>Nathan and Rich Dare had a great race in the Bridge Inn 5k at Bristol. Rich Dare finished a strong 12th in a quality field of runners in a time of 16mins 57secs. Nathan finished 11th in a time of 16mins and 55secs. Considering how tough the course was and especially as it was pitch black apart from the street lights above, they both really enjoyed the race.See full race report by clicking below The Bristol Bridge Inn 5k 29 Sept 2009 Photos Report Results</p>'

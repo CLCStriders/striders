@@ -1,5 +1,5 @@
 ---
-id: 3073
+
 title: Ferguson flies in Bourton 10k
 date: 2018-02-26T12:09:58+00:00
 author: Paul Northup

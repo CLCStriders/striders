@@ -1,5 +1,5 @@
 ---
-id: 277
+
 title: White Horse 4 mile 21 March 2009
 date: 2009-03-21T09:00:00+00:00
 excerpt: '<p>Thanks for all your efforts today a great day out it was indeed especially for all you ladies winning every chocolate biscuit going!!Thanks also to Mike and Rob for helping today much appreciated guys. Thanks again for your support Brendan Ward, Club Chairman White Horse 4 mile Grocery Run 21 March 2009 Photos Report Results</p>'

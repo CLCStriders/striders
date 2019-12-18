@@ -1,5 +1,5 @@
 ---
-id: 401
+
 title: 'Glos XC League 4 Tewkesbury &#8211; 4th February 2012'
 date: 2012-02-04T22:32:14+00:00
 excerpt: '<p>CLC Striders men and women had a fantastic day at the final Gloucestershire County Cross Country League fixture of the 2011/2012 season held in freezing conditions.</p>'

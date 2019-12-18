@@ -1,5 +1,5 @@
 ---
-id: 3022
+
 title: The Seven Sins Trail and Canicross (29.12.17)
 date: 2017-12-30T10:24:27+00:00
 author: Paul Northup

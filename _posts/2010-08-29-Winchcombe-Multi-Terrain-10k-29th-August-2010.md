@@ -1,5 +1,5 @@
 ---
-id: 148
+
 title: Winchcombe Multi Terrain 10k 29th August 2010
 date: 2010-08-29T09:00:00+01:00
 excerpt: '<p>JP notches up another win to lead the fab four home in the Winchcombe Multi Terrain 10k Sunday 29th August 2010, Brendan Ward (Club Chairman) Winchcombe 10k Photos Report Results</p>'
@@ -22,7 +22,7 @@ permalink: /2010/08/Winchcombe-Multi-Terrain-10k-29th-August-2010/
 
 **<a name="Results"><a name="Report"></a>Report</a>**</p> 
 
-_&#8220;A massive well done to the fab four (John Parker, Jon Gould, Natasha Poole and Justine Hale) who completed a very challenging 10k Hillclimbe today, as well as the fab 2 (Evan and John P&#8217;s son) who ran the 1km race._
+_&#8220;A massive well done to the fab four (John Parker, Jon Gould, Natasha Poole and Justine Hale) who completed a very challenging 10k Hillclimbe today, as well as the fab 2 (Evan and John P's son) who ran the 1km race._
 
 _Having watched both races, I can honestly say what a great effort by Everyone!&#8221;_
 

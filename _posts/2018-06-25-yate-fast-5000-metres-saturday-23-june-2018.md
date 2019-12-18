@@ -1,5 +1,5 @@
 ---
-id: 3164
+
 title: Yate Fast 5,000 metres – Saturday 23 June 2018
 date: 2018-06-25T06:19:32+01:00
 author: Paul Northup

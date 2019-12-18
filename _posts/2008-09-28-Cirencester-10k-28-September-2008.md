@@ -1,5 +1,5 @@
 ---
-id: 294
+
 title: Cirencester 10k 28 September 2008
 date: 2008-09-28T09:00:00+01:00
 excerpt: "<p>A special thank you to all the competitors for supporting the club, and continually showing huge improvement. It's greatly appreciated. Brendan Ward, Club Chairman Cirencester 10K 28 September Photos Report Results</p>"

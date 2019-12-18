@@ -1,5 +1,5 @@
 ---
-id: 233
+
 title: The Bugatti Beer 10k 5 Aug 2009
 excerpt: '<p>Twenty CLC Striders ran the Hilly Bugatti 10km beer race on Wed eve. Super Will Ferguson managed to miss the start of the race, although he did make up for time and came home in 4th. Dare and Wayne were close on his heels and gps was the first Vet Strider home. Nina led the women home, very closely followed by the ever improving DJ Vines. Louise Inchley was next followed by Sylvia and Louise Newman who both broke the 55min barrier. Fantastic results, well done everyone Brendan Ward, Club Chairman The Bugatti 10km 05 Aug 2009 Photos Report Results</p>'
 layout: post

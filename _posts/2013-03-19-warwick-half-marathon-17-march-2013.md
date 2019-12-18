@@ -1,5 +1,5 @@
 ---
-id: 522
+
 title: 'Warwick Half Marathon &#8211; 17 March 2013'
 date: 2013-03-19T20:44:10+00:00
 excerpt: '<p>Martin Brown ran the inaugural Warwick half marathon on Sunday.</p>'

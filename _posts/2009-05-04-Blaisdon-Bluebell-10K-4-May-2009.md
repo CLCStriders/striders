@@ -1,5 +1,5 @@
 ---
-id: 265
+
 title: Blaisdon Bluebell 10K 4 May 2009
 date: 2009-05-04T09:00:00+01:00
 excerpt: '<p>Over an out and back undulating course Bren made his comeback after 17 months out of racing, and did well to finish 5th overall running 36.31 for 10k. Phil also had a fine run finishing 14th in 40.36 Brendan Ward, Club Chairman Blaisdon 10k 04 May 2009 Photos Report Results</p>'
@@ -16,7 +16,7 @@ Thanks guys for inspiring me to race again I did actually enjoy it!!
 
 Bren, Club Chairman
 
-_&#8220;Bren ran a strong and relaxed race to come home in 5th place against an impressive field &#8211; setting a very good standard for the V45 10k club record on a hilly 10K course. Good to see Dodgy has still got what it takes &#8211; welcome back to competitive racing&#8221;_ Jowster, Dodgy&#8217;s web master
+_&#8220;Bren ran a strong and relaxed race to come home in 5th place against an impressive field &#8211; setting a very good standard for the V45 10k club record on a hilly 10K course. Good to see Dodgy has still got what it takes &#8211; welcome back to competitive racing&#8221;_ Jowster, Dodgy's web master
 
 <a name="Report"></a><a name="Results"></a>
 

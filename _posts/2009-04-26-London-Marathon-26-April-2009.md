@@ -1,5 +1,5 @@
 ---
-id: 269
+
 title: London Marathon 26 April 2009
 date: 2009-04-26T09:00:00+01:00
 excerpt: "<p>Brilliant performances by nine CLC Striders in this year's London marathon, 3 new club records, well done. Brendan Ward, Club Chairman London Marathon 2009 26 April 2009 Photos Report Results</p>"

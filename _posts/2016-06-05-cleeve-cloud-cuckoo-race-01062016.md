@@ -1,5 +1,5 @@
 ---
-id: 2313
+
 title: 'Cleeve Cloud Cuckoo Race &#8211; 01/06/2016'
 date: 2016-06-05T13:05:24+01:00
 author: Chris Driskell
@@ -11,7 +11,7 @@ categories:
   - Race Reports
 ---
 <div>
-  Karlien Heyrman won the women&#8217;s race at Cheltenham Harriers’ Cleeve Cloud Cuckoo race held on Cleeve Hill.
+  Karlien Heyrman won the women's race at Cheltenham Harriers’ Cleeve Cloud Cuckoo race held on Cleeve Hill.
 </div>
 
 <div>

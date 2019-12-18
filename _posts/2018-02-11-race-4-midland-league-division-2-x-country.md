@@ -1,5 +1,5 @@
 ---
-id: 3048
+
 title: 'Gutsy and generous: Race 4, Midland League, Division 2 X-Country'
 date: 2018-02-11T11:04:28+00:00
 author: Paul Northup

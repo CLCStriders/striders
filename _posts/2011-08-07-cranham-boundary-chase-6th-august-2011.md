@@ -1,12 +1,12 @@
 ---
-id: 352
+
 title: Cranham Boundary Chase 6th August 2011
 date: 2011-08-07T18:54:07+01:00
 excerpt: '<p>Billingham, Bradshaw and von Benzon conquer Cranham Chase</p>'
 layout: post
 permalink: /2011/08/cranham-boundary-chase-6th-august-2011/
 ---
-Dave Billingham, Billy Bradshaw and Nicholas von Benzon were in action for Striders in Gloucester AC&#8217;s Cranham Boundary Chase on Saturday.
+Dave Billingham, Billy Bradshaw and Nicholas von Benzon were in action for Striders in Gloucester AC's Cranham Boundary Chase on Saturday.
 
 In this undulating and in places rather more than undulating 5.8 mile road race around the boundaries of the village of Cranham, Dave Billingham was the first Strider home in 22nd place in a time of 39:25.
 

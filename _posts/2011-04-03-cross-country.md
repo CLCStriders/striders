@@ -1,5 +1,5 @@
 ---
-id: 338
+
 title: Cross Country
 date: 2011-04-03T15:26:58+01:00
 excerpt: |
@@ -29,7 +29,7 @@ For further information, visit <a href="http://www.birminghamccleague.co.uk/" ta
 
 ## Gloucester League
 
-CLC Striders have enjoyed considerable success in this league over recent seasons with the women winning the league title for two consecutive seasons and the men holding their own alongside Gloucestershire&#8217;s other leading clubs.
+CLC Striders have enjoyed considerable success in this league over recent seasons with the women winning the league title for two consecutive seasons and the men holding their own alongside Gloucestershire's other leading clubs.
 
 **Dates for the 2011/2012 season**
 

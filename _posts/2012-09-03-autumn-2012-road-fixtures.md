@@ -1,5 +1,5 @@
 ---
-id: 475
+
 title: Autumn 2012 Road Fixtures
 date: 2012-09-03T06:04:27+01:00
 excerpt: '<p>Autumn road fixtures now published...</p>'

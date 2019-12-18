@@ -1,5 +1,5 @@
 ---
-id: 2132
+
 title: 'Virgin London Marathon &#8211; 24/04/2016'
 date: 2016-04-24T20:14:32+01:00
 author: Chris Driskell
@@ -10,7 +10,7 @@ categories:
   - News
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 ---
 CLC Striders had six athletes competing in the London Marathon.
 

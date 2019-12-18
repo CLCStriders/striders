@@ -1,5 +1,5 @@
 ---
-id: 535
+
 title: 'Waterland Aquathon Series &#8211; 8 May 2013'
 date: 2013-05-16T18:12:09+01:00
 excerpt: '<p>Jo Wilkie and Alice Johnston added an aquatic element to their training by talking part in the first event of the South Cerney Waterland Aquathon series.</p>'
@@ -10,4 +10,4 @@ Both felt like fish-out-of-water as they listened to the pre race brief for the 
 
 Overall they finished 3rd and 4th ladies with Wilkie in 17th place overall and Johnston 24th.
 
-Johnston then made a classic faux pas whilst clearing her stuff from transition by walking off with someone else&#8217;s wetsuit. Luckily the 17 stone 6&#8217;3&#8243; owner of Alice&#8217;s new XL wetsuit spotted the mistake and chased her down in the car park.
+Johnston then made a classic faux pas whilst clearing her stuff from transition by walking off with someone else's wetsuit. Luckily the 17 stone 6'3&#8243; owner of Alice's new XL wetsuit spotted the mistake and chased her down in the car park.

@@ -1,5 +1,5 @@
 ---
-id: 3293
+
 title: Sheer Will Power
 date: 2019-01-15T08:43:29+00:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/01/sheer-will-power/
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Burton Dassett
   - cross country

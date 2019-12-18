@@ -1,5 +1,5 @@
 ---
-id: 527
+
 title: 'Strider of the Month &#8211; March 2013'
 date: 2013-04-14T19:03:47+01:00
 author: Clark Lawson

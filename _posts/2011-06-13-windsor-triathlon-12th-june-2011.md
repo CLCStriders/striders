@@ -1,5 +1,5 @@
 ---
-id: 78
+
 title: Windsor Triathlon 12th June 2011
 date: 2011-06-13T16:49:11+01:00
 excerpt: '<p>Darren Milne takes part in the Windsor Triathlon...</p>'

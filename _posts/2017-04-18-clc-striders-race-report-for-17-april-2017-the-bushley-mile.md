@@ -1,5 +1,5 @@
 ---
-id: 2708
+
 title: CLC Striders Race report for 17 April 2017 The Bushley Mile
 date: 2017-04-18T18:38:15+01:00
 author: Chris Driskell

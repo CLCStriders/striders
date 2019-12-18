@@ -1,5 +1,5 @@
 ---
-id: 2982
+
 title: Gloucester League Cross Country Race 2, Charlton Park, 4 November 2017
 date: 2017-11-06T10:53:04+00:00
 author: Paul Northup

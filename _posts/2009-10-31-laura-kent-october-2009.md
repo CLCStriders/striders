@@ -1,5 +1,5 @@
 ---
-id: 325
+
 title: 'Laura Kent: October 2009'
 date: 2009-10-31T00:00:00+00:00
 author: Clark Lawson

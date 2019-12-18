@@ -1,5 +1,5 @@
 ---
-id: 3298
+
 title: 'Linda Franks  five-mile road race, 20 January 2019'
 date: 2019-01-22T09:16:17+00:00
 author: Paul Northup

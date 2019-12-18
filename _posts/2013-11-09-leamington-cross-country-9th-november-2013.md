@@ -1,11 +1,11 @@
 ---
-id: 495
+
 title: 'Leamington Cross Country &#8211; 9th November 2013'
 excerpt: "<p>Saturday 9 November saw the first fixture of the 2013/14 Womens'Midland cross country and mens'Birmingham cross country leagues.</p>"
 layout: post
 permalink: /0000/00/leamington-cross-country-9th-november-2013/
 ---
-As the team of Striders travelled to Leamington conditions looked dire, however by the time the womens&#8217;race started at 1:30pm the sun was shining and it was a beautiful day. Recent rain had made the ground soft and muddy and the ditch was full of muddy water. The women completed two laps of the testing course which included a steep hill climb and descent and the dreaded ditch crossing.
+As the team of Striders travelled to Leamington conditions looked dire, however by the time the womens'race started at 1:30pm the sun was shining and it was a beautiful day. Recent rain had made the ground soft and muddy and the ditch was full of muddy water. The women completed two laps of the testing course which included a steep hill climb and descent and the dreaded ditch crossing.
 
 Jo Wilkie got stuck in straight from the start and was not seen for dust finishing in 38<sup>th</sup>place, her highest ever Midlands league score in 31 minutes dead. Helen Roberts started conservatively and gradually increased the pace to finish a very strong 56<sup>th </sup>in 31:55. Rachel Vines, Amanda Steer and Vicky Veness ran pretty much together the whole way round with Vines just managing to clinch the 3<sup>rd</sup>scorers spot in 78<sup>th</sup>place (33:13). Steer and Veness followed in 81<sup>st</sup>(33:20) and 83<sup>rd</sup>place (33:25) respectively. This was Vickyâ€™s debut in the Midlands league and despite tough conditions got an excellent result.
 

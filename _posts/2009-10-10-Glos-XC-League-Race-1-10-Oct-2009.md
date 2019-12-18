@@ -1,5 +1,5 @@
 ---
-id: 221
+
 title: 'Glos XC League Race #1 10 Oct 2009'
 date: 2009-10-10T09:00:00+01:00
 excerpt: '<p>CLC Striders made a fantastic start to the cross country season and gave us all lots of highlights to enjoy. To find out more please click on race report. Brendan Ward Club Chairman Glos XC League #1 10 October 2009 Photos Report Results</p>'
@@ -14,7 +14,7 @@ permalink: '/2009/10/Glos-XC-League-Race-#1-10-Oct-2009/'
 
 Laura Kent was the star performer for CLC Striders Ladies Team in the first Glos Cross Country League race of the season held at cotswold farm park. Kent stayed with the leading group from the start, and only lost the race by a whisker, having a very entertaining sprint finish with local star athlete steph lane from Bourton.
 
-Both Liza Barry and Rachel Vines supported Kent well by finishing 11th and 21st respectively. This meant the Striders women won the Team race by 11 points from Gloucester AC, which is a fantastic performance as this is only the clubs second season in the league. Rich Dare led the mens Team home in a well deserved 15th position, and was backed up well by New signing Ben Pedley 35th, V40 Dave Billingham 37th, Ashley Bishop 39th, Matt Eggelton 58th, and Lee Buge in 61st. The Striders Men finished in a fine 6th place. Inis amais had a great run to win the under 13 girls race for CLC Striders, and was followed home by Isobel nolding in 10th, and Georgia gordon in 12th place. The under 13&#8217;s Team finished in 3rd place. Zenab weyers led home the under 17 girls Striders team, and finished in a very respectable 9th place, she was followed in by Ashleigh brooks in 14th place. 
+Both Liza Barry and Rachel Vines supported Kent well by finishing 11th and 21st respectively. This meant the Striders women won the Team race by 11 points from Gloucester AC, which is a fantastic performance as this is only the clubs second season in the league. Rich Dare led the mens Team home in a well deserved 15th position, and was backed up well by New signing Ben Pedley 35th, V40 Dave Billingham 37th, Ashley Bishop 39th, Matt Eggelton 58th, and Lee Buge in 61st. The Striders Men finished in a fine 6th place. Inis amais had a great run to win the under 13 girls race for CLC Striders, and was followed home by Isobel nolding in 10th, and Georgia gordon in 12th place. The under 13's Team finished in 3rd place. Zenab weyers led home the under 17 girls Striders team, and finished in a very respectable 9th place, she was followed in by Ashleigh brooks in 14th place. 
 
 <a name="Report"></a>**Results**
 

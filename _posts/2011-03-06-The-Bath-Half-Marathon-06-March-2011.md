@@ -1,5 +1,5 @@
 ---
-id: 96
+
 title: The Bath Half Marathon 06 March 2011
 date: 2011-03-06T09:00:00+00:00
 excerpt: '<p>Some excellent pbs and results were achieved at the Bath Half. Click on race report to find out how the Striders got on!, Chris Hale aka GPS The Bath Half Photos Report Results</p>'

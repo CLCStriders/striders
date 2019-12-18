@@ -1,5 +1,5 @@
 ---
-id: 2789
+
 title: Race reports for 23 – 29 May 2017
 date: 2017-05-30T08:52:04+01:00
 author: Paul Northup
@@ -19,7 +19,7 @@ On Wednesday 24 May, **Paul Northup** posted a new club age category record in t
 
 On Thursday May 25, stars of _Me and My Dog_ **Andrew Paterson and Betty** finished 3rd overall in the Forest of Dean Fountain Five (mile race) in the canicross class.
 
-On Saturday 27th May, **Gareth Harries** flew the Striders’ flag in Uditore&#8217;s second anniversary Parkrun in the Mediterranean heat of Sicily, finishing in a time of 20:02.
+On Saturday 27th May, **Gareth Harries** flew the Striders’ flag in Uditore's second anniversary Parkrun in the Mediterranean heat of Sicily, finishing in a time of 20:02.
 
 A day later, also over in Europe, **JJ Willson** completed the Brussels 20k in a time of 1:31:34 around a course with 304m of ascent and in 30+ degree temperatures.
 

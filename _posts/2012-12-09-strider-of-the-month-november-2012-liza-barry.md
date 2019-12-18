@@ -1,5 +1,5 @@
 ---
-id: 503
+
 title: 'Strider Of The Month November 2012: Liza Barry'
 date: 2012-12-09T20:24:35+00:00
 author: Clark Lawson

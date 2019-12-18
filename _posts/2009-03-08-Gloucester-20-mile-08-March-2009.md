@@ -1,5 +1,5 @@
 ---
-id: 280
+
 title: Gloucester 20 mile 08 March 2009
 excerpt: '<p>Well done to all of you who braved the wind and rain to compete in the Gloucester 20 mile road race. I do hope that this has given you a big confidence boost for the London marathon next month. Congratulations Brendan Ward, Club Chairman Gloucester 20 mile 08 March 2009 Report Results</p>'
 layout: post

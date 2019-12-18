@@ -1,5 +1,5 @@
 ---
-id: 340
+
 title: Wilmslow half marathon 27 March 2011
 date: 2011-03-27T00:00:00+00:00
 excerpt: '<p>Rachel Vines ran new PB at Wilmslow half marathon, see how she got on.</p>'

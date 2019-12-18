@@ -1,5 +1,5 @@
 ---
-id: 404
+
 title: 'Birmingham Cross Country League Fixture 4, Stafford &#8211; 11th February 2012'
 date: 2012-02-12T09:47:11+00:00
 excerpt: "<p>Striders'men secure promotion to Birmingham League Division 2...</p>"

@@ -1,5 +1,5 @@
 ---
-id: 425
+
 title: 'Pitville Park cross country handicap &#8211; 29 September 2012'
 date: 2012-09-29T21:00:22+01:00
 excerpt: '<p>As a fun warm up to the start of the 2012/13 cross country season 13 CLC striders took part in a 4 mile handicap in Pitville Park. This was perfect training as the Park will host 2 fixtures this season. All we need now is stream jump practiceâ€¦.. </p>'

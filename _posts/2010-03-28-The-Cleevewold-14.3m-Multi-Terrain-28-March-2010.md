@@ -1,5 +1,5 @@
 ---
-id: 188
+
 title: The Cleevewold 14.3m Multi-Terrain 28 March 2010
 date: 2010-03-28T09:00:00+01:00
 excerpt: "<p>Having marshalled todays race I would like to say how proud I was to watch everyone today at what was a VERY tough course, especially as most of you had run yesterday. It was tiring watching so I cant imagine what it was like to run it! Well Done, Chris Hale aka GPS (Men's Vice Captain). The Cleevewold 14.3m 28 March 2010 Photos Report Results</p>"
@@ -12,7 +12,7 @@ permalink: /2010/03/The-Cleevewold-14.3m-Multi-Terrain-28-March-2010-/
 
 **Report**
 
-Buoyed by the club&#8217;s stunning success in the Gloucestershire County 4K Cross Country Championships the day before, 4 CLC Striders competed in the 20th annual Cleevewold Race, which this year followed a slightly longer course thanks to a detour around a herd of rare cattle on the top of Cleeve Common. On a drier but windier day than expected, the 14.3 mile course, notorious for its testing terrain but renowned for its spectacular scenery, offered a tough challenge for the Striders team, which was made up both of regular Cleevewolders as well as those making their first appearance over the course. There were impressive debuts for the newcomers. In her first off-road race over this distance, Sian Holley ran an excellent race to break the 2 hours 30 barrier and finish in 92nd place in 2:29:33 and it was also a Cleevewold first for James Gibbs who, having only decided at the last minute to compete in the race, produced a superb performance to finish well inside the top 50 in 42nd place with a strong time of 2:07:50. Of the more experienced Cleevewolders, Dave Billingham showed strong form in the run-up to the London Marathon, his time of 2:01:43 earning him 30th place, whilst Chris Driskell took 9th place in a time of 1:49:55
+Buoyed by the club's stunning success in the Gloucestershire County 4K Cross Country Championships the day before, 4 CLC Striders competed in the 20th annual Cleevewold Race, which this year followed a slightly longer course thanks to a detour around a herd of rare cattle on the top of Cleeve Common. On a drier but windier day than expected, the 14.3 mile course, notorious for its testing terrain but renowned for its spectacular scenery, offered a tough challenge for the Striders team, which was made up both of regular Cleevewolders as well as those making their first appearance over the course. There were impressive debuts for the newcomers. In her first off-road race over this distance, Sian Holley ran an excellent race to break the 2 hours 30 barrier and finish in 92nd place in 2:29:33 and it was also a Cleevewold first for James Gibbs who, having only decided at the last minute to compete in the race, produced a superb performance to finish well inside the top 50 in 42nd place with a strong time of 2:07:50. Of the more experienced Cleevewolders, Dave Billingham showed strong form in the run-up to the London Marathon, his time of 2:01:43 earning him 30th place, whilst Chris Driskell took 9th place in a time of 1:49:55
 
 <a name="Report"></a>**Results**
 

@@ -1,5 +1,5 @@
 ---
-id: 1669
+
 title: Stroud Half Marathon
 date: 2015-10-25T21:00:38+00:00
 author: Clark Lawson
@@ -9,7 +9,7 @@ permalink: /2015/10/stroud-half-marathon/
 categories:
   - Road Reports
 ---
-CLC Striders had a large showing at this year&#8217;s Stroud Half Marathon. <!--more-->
+CLC Striders had a large showing at this year's Stroud Half Marathon. <!--more-->
 
 The club were led home by veteran John Willson who remained strong throughout the race and came home in a sub-1.30 for the 13.1-mile course with Willson also setting a new club V55 record.
 

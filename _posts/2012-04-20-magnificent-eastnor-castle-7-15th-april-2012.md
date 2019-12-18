@@ -1,5 +1,5 @@
 ---
-id: 433
+
 title: 'Magnificent Eastnor Castle 7 &#8211; 15th April 2012'
 date: 2012-04-20T17:39:45+01:00
 excerpt: '<p>Another magnificent win for JP at Eastnor Castle</p>'

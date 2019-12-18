@@ -1,5 +1,5 @@
 ---
-id: 1862
+
 title: 'Staverton 10 &#8211; Residents Info'
 date: 2017-01-19T12:56:55+00:00
 author: Clark Lawson

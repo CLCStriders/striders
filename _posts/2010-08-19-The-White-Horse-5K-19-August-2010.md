@@ -1,5 +1,5 @@
 ---
-id: 150
+
 title: The White Horse 5K 19 August 2010
 date: 2010-08-19T09:00:00+01:00
 excerpt: "<p>Yet again, it was a super turnout from the Striders. Everyone gave their best and delivered some great performances. I'm very proud of you all, Brendan Ward (Club Chairman) The White Horse 5k Photos Report Results</p>"
@@ -10,7 +10,7 @@ permalink: /2010/08/The-White-Horse-5K-19-August-2010-/
 
 **Report**
 
-CLC Striders turned out in force at the final White Horse 5k of 2010. The Club had a total of 29 Athletes taking part which was to also mark the Clubs Two year Competitive Anniversary. John Parker (JP) led the Striders home with a solid 15.38, Rich Dare followed running 16.20, Dave Smeath was next man and ran superb to finally break 18 minutes for this testing distance &#8211; Smeath recorded a swift 17.55, Chris Hale followed Smeath with 18.10 to take the County M40 5k Bronze medal,John Cooke returned to competitive racing to run an excellent 18.16, the final scorer for the men&#8217;s team was Jamie Patterson who ran well to record 18.16. The Women&#8217;s team was led to victory by Liza Barry who ran 19.44 and took the County Senior Women&#8217;s Silver medal, Barry was closely followed by the ever improving Sian Holly who ran 19.47 and Won the County Women&#8217;s Bronze medal, Pat Woods was next to finish for the Women&#8217;s team recording an excellent 20.25, Jo Wilkie followed woods recording a very respectable 21.02, Emma Skeen followed with a brisk 21.25, Louise inchley was next for the Women running well in a time of 23.07. Other notable performances were had by Dawn Addinall (L60) who Won the County Gold Medal in her category,and Duncan Kay who made his debut for the Club and ran sub 30 minutes for the distance. Brendan Ward (Club Chairman)
+CLC Striders turned out in force at the final White Horse 5k of 2010. The Club had a total of 29 Athletes taking part which was to also mark the Clubs Two year Competitive Anniversary. John Parker (JP) led the Striders home with a solid 15.38, Rich Dare followed running 16.20, Dave Smeath was next man and ran superb to finally break 18 minutes for this testing distance &#8211; Smeath recorded a swift 17.55, Chris Hale followed Smeath with 18.10 to take the County M40 5k Bronze medal,John Cooke returned to competitive racing to run an excellent 18.16, the final scorer for the men's team was Jamie Patterson who ran well to record 18.16. The Women's team was led to victory by Liza Barry who ran 19.44 and took the County Senior Women's Silver medal, Barry was closely followed by the ever improving Sian Holly who ran 19.47 and Won the County Women's Bronze medal, Pat Woods was next to finish for the Women's team recording an excellent 20.25, Jo Wilkie followed woods recording a very respectable 21.02, Emma Skeen followed with a brisk 21.25, Louise inchley was next for the Women running well in a time of 23.07. Other notable performances were had by Dawn Addinall (L60) who Won the County Gold Medal in her category,and Duncan Kay who made his debut for the Club and ran sub 30 minutes for the distance. Brendan Ward (Club Chairman)
 
 <a name="Results"></a>**Results**
 

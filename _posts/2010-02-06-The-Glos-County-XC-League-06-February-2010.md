@@ -1,12 +1,12 @@
 ---
-id: 202
+
 title: The Glos County XC League 06 February 2010
 date: 2010-02-06T09:00:00+00:00
 excerpt: "<p>I am the Proudest Person around at the moment. The CLC Women's Team became County League Champions, and also won the County Team Competition as well which is a Phenomenal achievement in it's self.Will Ferguson Became County Senior Men's Champion, and had to battle for his life to Win this coveted title by a Whisker from Gloucester's Steve Milward. I would also like to thank all you for giving up your Saturday to help your Club with this event, I am so greatful to you and really appreciate your marvellous efforts. Thank you so much. Brendan Ward (Club Chairman). Glos County XC League 06 February 2010 Photos Report Results</p>"
 layout: post
 permalink: /2010/02/The-Glos-County-XC-League-06-February-2010-/
 ---
-**Glos County XC League at Pitville Park 06 Feb 2010** **The Course****The Races****More Photo&#8217;s of the race**
+**Glos County XC League at Pitville Park 06 Feb 2010** **The Course****The Races****More Photo's of the race**
 
 **<a name="report"></a>Report**
 

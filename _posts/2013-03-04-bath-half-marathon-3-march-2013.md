@@ -1,5 +1,5 @@
 ---
-id: 519
+
 title: 'Bath Half Marathon &#8211; 3 March 2013'
 date: 2013-03-04T09:58:05+00:00
 excerpt: '<p>A hardy contingent of Striders braved arctic conditions to run the Bath Half Marathon 2013 on Sunday.</p>'

@@ -1,5 +1,5 @@
 ---
-id: 3287
+
 title: Gloucestershire Cross Country Champs, Jan 5th, 2019
 date: 2019-01-06T20:32:23+00:00
 author: Paul Northup

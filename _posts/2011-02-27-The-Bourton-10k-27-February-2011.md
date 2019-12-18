@@ -1,5 +1,5 @@
 ---
-id: 98
+
 title: The Bourton 10k 27 February 2011
 date: 2011-02-27T09:00:00+00:00
 excerpt: '<p>DJ Vines and Rachel Elkins pictured with GB International Dan Robinson winner of the Bourton 10k. Click on race report to find out how the Striders got on!, Brendan Ward (Club Chairman) The Bourton 10k Photos Report Results</p>'
@@ -1014,4 +1014,4 @@ permalink: /2011/02/The-Bourton-10k-27-February-2011/
   </tr></colgroup>
 </table>
 
-Click <a href="http://www.bourtonroadrunners.co.uk/race_results/10k_results_2011.htm" target="_blank" rel="nofollow">here</a>for official the results Here&#8217;s a video clip from YouTube (we hope Nick Hitchings from Malvern Joggers doesn&#8217;t mind us posting this here&#8230;)
+Click <a href="http://www.bourtonroadrunners.co.uk/race_results/10k_results_2011.htm" target="_blank" rel="nofollow">here</a>for official the results Here's a video clip from YouTube (we hope Nick Hitchings from Malvern Joggers doesn't mind us posting this here&#8230;)

@@ -1,5 +1,5 @@
 ---
-id: 1673
+
 title: Gloucestershire Cross Country Race at Malvern
 date: 2015-11-01T20:00:56+00:00
 author: Clark Lawson

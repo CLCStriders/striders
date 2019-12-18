@@ -1,5 +1,5 @@
 ---
-id: 2290
+
 title: 'BMC Regional Races, Tipton &#8211; 24/05/2016'
 date: 2016-05-30T22:38:07+01:00
 author: Chris Driskell

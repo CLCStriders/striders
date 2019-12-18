@@ -1,5 +1,5 @@
 ---
-id: 326
+
 title: Christmas meal 20 December 2008
 date: 2008-12-20T00:00:00+00:00
 excerpt: |

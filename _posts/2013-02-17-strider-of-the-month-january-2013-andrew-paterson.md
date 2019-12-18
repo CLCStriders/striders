@@ -1,5 +1,5 @@
 ---
-id: 501
+
 title: 'Strider of the Month January 2013: Andrew Paterson'
 date: 2013-02-17T22:52:26+00:00
 author: Clark Lawson

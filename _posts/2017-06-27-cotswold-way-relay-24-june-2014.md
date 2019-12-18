@@ -1,5 +1,5 @@
 ---
-id: 2805
+
 title: Cotswold Way Relay – 24 June, 2014
 date: 2017-06-27T08:38:57+01:00
 author: Paul Northup

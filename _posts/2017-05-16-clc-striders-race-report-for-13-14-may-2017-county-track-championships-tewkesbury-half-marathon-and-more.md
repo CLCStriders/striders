@@ -1,5 +1,5 @@
 ---
-id: 2730
+
 title: 'CLC Striders Race report for 13 – 14 May 2017  County Track Championships, Tewkesbury Half Marathon and more'
 date: 2017-05-16T21:47:21+01:00
 author: Chris Driskell

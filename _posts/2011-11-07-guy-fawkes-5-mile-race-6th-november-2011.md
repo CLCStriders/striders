@@ -1,5 +1,5 @@
 ---
-id: 381
+
 title: 'Guy Fawkes 5 Mile Race &#8211; 6th November 2011'
 date: 2011-11-07T22:28:30+00:00
 excerpt: "<p>A very well done to John Parker (JP) who has won the Men's County Road Series Championship for 2011! </p>"

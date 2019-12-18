@@ -1,5 +1,5 @@
 ---
-id: 3429
+
 title: Midland Road Relays, Sutton Park, 23.3.19﻿
 date: 2019-03-31T11:45:11+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: '/2019/03/midland-road-relays-sutton-park-23-3-19%ef%bb%bf/'
 categories:
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 tags:
   - Midland Counties Road Relay
   - Sutton Park

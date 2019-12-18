@@ -1,5 +1,5 @@
 ---
-id: 476
+
 title: 'Cheltenham Triathlon &#8211; 9th September 2012'
 date: 2012-09-09T21:46:53+01:00
 excerpt: '<p>Photos from the Cheltenham Triathlon...</p>'

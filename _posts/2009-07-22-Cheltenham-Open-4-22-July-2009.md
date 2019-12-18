@@ -1,5 +1,5 @@
 ---
-id: 237
+
 title: 'Cheltenham Open #4 22 July 2009'
 date: 2009-07-22T09:00:00+01:00
 excerpt: '<p>Eight CLC Striders took part in the final Cheltenham Harriers Mid-summer Open at the Prince of Wales Stadium. They did the club proud. Gibsey demonstrated great determination and skill and won the mile race. A fantastic effort by all, especially in the windy and wet conditions. Well done guys!! Brendan Ward, Club Chairman Cheltenham open #4 22 July 2009 Photos Report Results</p>'

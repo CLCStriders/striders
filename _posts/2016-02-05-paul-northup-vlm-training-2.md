@@ -1,5 +1,5 @@
 ---
-id: 1950
+
 title: 'Paul Northup &#8211; VLM Training'
 date: 2016-02-05T09:00:21+00:00
 author: Clark Lawson
@@ -19,7 +19,7 @@ One of the things I’ve always treasured about running is that it is largely a 
 
 There was a time in my life when I had an intensive bout of singing lessons (don’t ask!). I didn’t have the best of vocal ranges but I was content with the way I could use my voice within that. Still, in an effort to stretch my range – especially in the upper register – my singing teacher used to say something to me that in any other context I would have dismissed as New Age mumbo jumbo. She used to say: “Imagine yourself parachuting onto that note.” In other words: picture yourself singing that note (you think you can’t reach or haven’t reached until now); and then sing it. I’ll never forget that intensive vocal training, because I found myself singing notes I never thought I’d ever reach – by thinking myself into them before I opened my mouth.
 
-Now, I’m no fan of self-help books and make-yourself-better stuff and 10-steps-to-a-better-this-or-that. But I do recognise that there comes a point in running (perhaps in any physical programme) where you&#8217;ve established a bedrock of resource to draw on with your fitness and you start to need more than just the physical regime in order to make those improvements you want to see.
+Now, I’m no fan of self-help books and make-yourself-better stuff and 10-steps-to-a-better-this-or-that. But I do recognise that there comes a point in running (perhaps in any physical programme) where you've established a bedrock of resource to draw on with your fitness and you start to need more than just the physical regime in order to make those improvements you want to see.
 
 And that’s where your mind comes in.
 
@@ -27,7 +27,7 @@ What I’ve started to do since belonging to the CLC Striders club is to embed c
 
 It’s different than purely setting yourself a target time. It’s making a time your mindset, your mantra, something you whisper to yourself in quiet moments. Until it becomes real.
 
-I realise that this might sound really fey and mystic (perhaps it is!). And like I said, I&#8217;m no fan of self-help, self-improvement theories which usually see someone getting rich off a combination of a charismatic personality and a neat idea that, when boiled down, distils to plain, old-fashioned commonsense.
+I realise that this might sound really fey and mystic (perhaps it is!). And like I said, I'm no fan of self-help, self-improvement theories which usually see someone getting rich off a combination of a charismatic personality and a neat idea that, when boiled down, distils to plain, old-fashioned commonsense.
 
 But what I am saying is that – especially on the roads and especially over the longer distances (so, especially in the marathon) – there’s an awful lot of the preparation and race that goes on in the mind. I’m starting to train my brain to think of running the London marathon within a certain time frame now. And, as the race gets closer, I’ll refine that window down such that I engrain the idea of a particular time in my mind. That will become my mantra. My circuits will be wired for it.
 

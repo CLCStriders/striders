@@ -1,5 +1,5 @@
 ---
-id: 312
+
 title: 'Hilary Agate : October 2010'
 date: 2010-10-31T00:00:00+01:00
 author: Clark Lawson

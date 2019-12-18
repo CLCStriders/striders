@@ -1,5 +1,5 @@
 ---
-id: 2930
+
 title: End of summer racing round-up
 date: 2017-09-05T09:49:36+01:00
 author: Paul Northup
@@ -29,7 +29,7 @@ In the club’s internal summer track competition, Will Fergusson finished top o
 
 [<img class="alignnone wp-image-2932 size-full" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg" alt="IMG_3420" width="640" height="480" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg 640w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg)
 
-**Parkrun &#8216;take-over&#8217;**
+**Parkrun &#8216;take-over'**
 
 On the 2 September, CLC once again successfully ‘took over’ the volunteering duties at Cheltenham Parkrun. Managing the timing, marshalling, briefing, pacing, and recording they delivered a safe and successful park run for just over 500 runners in Pittville Park.
 

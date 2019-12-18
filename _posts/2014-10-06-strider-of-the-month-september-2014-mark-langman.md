@@ -1,5 +1,5 @@
 ---
-id: 621
+
 title: 'Strider of the Month &#8211; September 2014 &#8211; Mark Langman'
 date: 2014-10-06T20:28:48+01:00
 author: Clark Lawson

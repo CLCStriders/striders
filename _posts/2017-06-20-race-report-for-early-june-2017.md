@@ -1,5 +1,5 @@
 ---
-id: 2799
+
 title: Race report for early June 2017
 date: 2017-06-20T08:11:53+01:00
 author: Paul Northup

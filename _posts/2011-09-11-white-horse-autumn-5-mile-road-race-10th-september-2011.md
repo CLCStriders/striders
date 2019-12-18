@@ -1,5 +1,5 @@
 ---
-id: 362
+
 title: 'White Horse Autumn 5 Mile Road Race &#8211; 10th September 2011'
 date: 2011-09-11T18:54:32+01:00
 excerpt: '<p>Nicholas Von Benzon runs the 5 mile race at The White Horse.</p>'
@@ -10,4 +10,4 @@ The biggest challenge for those hoping to compete in Severn Athletics Clubâ€�
 
 
 
-Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC&#8217;s website</a>when available
+Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available

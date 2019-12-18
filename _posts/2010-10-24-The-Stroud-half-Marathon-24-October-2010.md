@@ -1,5 +1,5 @@
 ---
-id: 125
+
 title: The Stroud half Marathon 24 October 2010
 date: 2010-10-24T09:00:00+01:00
 excerpt: "<p>Fabulous stunning performances by all the Striders in the Stroud half marathon. On top of everyone's fantastic performances many achieved PB's and we recorded a new club record to boot. I couldn't be prouder of you all!!!!, Brendan Ward (Club Chairman) The Stroud Half Marathon Photos Report Results</p>"

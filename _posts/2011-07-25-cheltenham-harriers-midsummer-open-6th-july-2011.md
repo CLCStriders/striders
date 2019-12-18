@@ -1,5 +1,5 @@
 ---
-id: 92
+
 title: Cheltenham Harriers Midsummer Open 6th July 2011
 date: 2011-07-25T20:27:08+01:00
 excerpt: '<p>Joel Freeland takes on the 400m and the elements at the first of the Cheltenham Harrier Midsummer Opens</p>'

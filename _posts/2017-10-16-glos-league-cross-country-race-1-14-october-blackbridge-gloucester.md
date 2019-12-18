@@ -1,5 +1,5 @@
 ---
-id: 2962
+
 title: Glos League cross country, Race 1, 14 October, Blackbridge, Gloucester
 date: 2017-10-16T17:18:19+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2017/10/glos-league-cross-country-race-1-14-october-blackbridge-glou
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Blackbridge
   - Crypt School
@@ -31,7 +31,7 @@ The B Team finishers were **Nicola Weager** in 86<sup>th</sup> in 29:03, **Emma 
 
 In the Open Team competition, the Striders Ladies A Team finished in 7<sup>th</sup> place, the B Team finished in 15<sup>th</sup>, the C Team in 24<sup>th</sup> and the D Team in 33<sup>rd</sup>. In the Masters, CLC Striders women finished in 4<sup>th</sup>, 13<sup>th </sup>and 22<sup>nd</sup> positions.
 
-**Who&#8217;s the Daddy?**
+**Who's the Daddy?**
 
 Meanwhile, in the men’s race, just one week after becoming a father for the first time, **Will Ferguson** stormed home to a convincing win in a time of 28:39 across the 5.5-mile course.
 

@@ -1,5 +1,5 @@
 ---
-id: 598
+
 title: County Track Championships
 date: 2014-05-26T20:56:10+01:00
 excerpt: '<p>Jo Wilkie and Rachel Vines competed in the County Championships on 14 May 2014.</p>'

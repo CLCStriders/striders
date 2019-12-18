@@ -1,5 +1,5 @@
 ---
-id: 301
+
 title: Richard Burton 10k
 date: 2011-03-29T08:59:24+01:00
 excerpt: '<p><b><i></i></b></p><p>On a sunny morning in the valleys of Cwmavon, Richard Dare decided to run the infamous Richard Burton 10k, infamous not because of the locally born idol but for the hills that can be found at around the 3k mark and continue until the 6-7k point making it the toughest road 10k in Wales.</p>'

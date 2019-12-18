@@ -1,5 +1,5 @@
 ---
-id: 571
+
 title: 'Gloucestershire County Cross Country Championships &#8211; 4 January 2014'
 date: 2014-01-06T22:28:48+00:00
 excerpt: '<p>Jo Wilkie took bronze at the Gloucestershire County Championships and the women took silver in the team contest in another successful day for Stridersâ€™ ladies at the Gloucestershire County Championships at Blackbridge on Saturday.</p>'

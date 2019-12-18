@@ -1,5 +1,5 @@
 ---
-id: 564
+
 title: 'Gloucestershire League Cross Country &#8211; Pittville Park &#8211; 2 November 2013'
 date: 2013-11-03T20:59:18+00:00
 excerpt: "<p>CLC Striders women put in a top performance at Pittville Park to finish 3rd in the womens'team event at the second Gloucestershire Cross Country fixture of the season. They now head the league by eleven points.</p>"

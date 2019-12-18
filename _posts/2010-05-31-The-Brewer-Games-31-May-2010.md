@@ -1,5 +1,5 @@
 ---
-id: 168
+
 title: The Brewer Games 31 May 2010
 date: 2010-05-31T09:00:00+01:00
 excerpt: '<p>Dare, Jowett, Sesen, Parker, Burge, Cannock and Wilkie put in some encouraging performances at the Brewer Games 31st May 2010. Click on Results and Photos to to see more!! Well done everyone, keep it up!, Brendan Ward (Club Chairman) Brewer Games 31 May 2010 Photos Report Results</p>'
@@ -10,7 +10,7 @@ permalink: /2010/05/The-Brewer-Games-31-May-2010/
 
 **Report**
 
-Rich Dare and Phil Jowett were off first in the 800m. Rich Dare ran in the A-heat, passing 400m in 59s and equalling his PB with another astonishing time of 2:00.0 dead! Jowster ran in the B-heat, passing 400m in 61s and completing the 800m in 2:08.3, winning the senior men&#8217;s B-heat. John Sesen was next with his sprint debut for CLC Striders, from a flying start he clocked 13.6s for the 100m. John Parker, Rich Cannock, Lee Burge and Jo Wilkie were up next in the 1500m. John Parker produced another astounding club record breaking performance, clocking 4:10.8 in his first ever 1500m! It took a sprint finish along the final straight to separate Rich Cannock and Lee Burge, both setting PBs, with Rich breaking the 5-minute barrier, and Lee finishing just outside in 5:01.9. Jo Wilkie completed the 1500m in great style in the women&#8217;s race, speeding down the final straight to clock a great time of 5:25.0 The final race of the day was captured on video. You can watch John Sesen and JP racing in a very closely contested 200m sprint  
+Rich Dare and Phil Jowett were off first in the 800m. Rich Dare ran in the A-heat, passing 400m in 59s and equalling his PB with another astonishing time of 2:00.0 dead! Jowster ran in the B-heat, passing 400m in 61s and completing the 800m in 2:08.3, winning the senior men's B-heat. John Sesen was next with his sprint debut for CLC Striders, from a flying start he clocked 13.6s for the 100m. John Parker, Rich Cannock, Lee Burge and Jo Wilkie were up next in the 1500m. John Parker produced another astounding club record breaking performance, clocking 4:10.8 in his first ever 1500m! It took a sprint finish along the final straight to separate Rich Cannock and Lee Burge, both setting PBs, with Rich breaking the 5-minute barrier, and Lee finishing just outside in 5:01.9. Jo Wilkie completed the 1500m in great style in the women's race, speeding down the final straight to clock a great time of 5:25.0 The final race of the day was captured on video. You can watch John Sesen and JP racing in a very closely contested 200m sprint  
 Well done everyone, with special thanks to Mike, Lesley, Rachel, Chris and Simon for the outstanding support, which I know really helps and makes the day extra special. Well done everyone!  
 Brendan
 

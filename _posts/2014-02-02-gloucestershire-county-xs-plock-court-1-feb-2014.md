@@ -1,5 +1,5 @@
 ---
-id: 574
+
 title: 'Gloucestershire County XC &#8211; Plock Court &#8211; 1 Feb 2014'
 date: 2014-02-02T20:57:38+00:00
 excerpt: '<p>CLC Striders ladies became 2013/14 Gloucestershire County Cross Country League champions at Plock Court on Saturday.</p>'

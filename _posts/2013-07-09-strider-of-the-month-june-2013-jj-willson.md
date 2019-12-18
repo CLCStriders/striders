@@ -1,5 +1,5 @@
 ---
-id: 546
+
 title: 'Strider of the Month &#8211; June 2013 &#8211; JJ WIllson'
 date: 2013-07-09T07:38:12+01:00
 author: Clark Lawson

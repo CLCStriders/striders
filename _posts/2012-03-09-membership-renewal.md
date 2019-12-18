@@ -1,5 +1,5 @@
 ---
-id: 414
+
 title: Membership renewal
 date: 2012-03-09T10:15:24+00:00
 excerpt: "<p>It's that time of year to renew your Striders membership. </p>"

@@ -1,5 +1,5 @@
 ---
-id: 86
+
 title: 'Duncan Kay: June 2011'
 date: 2011-08-03T22:24:14+01:00
 author: Clark Lawson

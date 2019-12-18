@@ -1,5 +1,5 @@
 ---
-id: 118
+
 title: The Pitville Park Cross Country 20 Nov 2010
 date: 2010-11-20T09:00:00+00:00
 excerpt: "<p>Thank you very much indeed for all your help and efforts at the Pitville Park Cross Country. The Marshalling was superb, and the performances unbelievable. The Women's A Team Finished 1st and the B Team Finished Third out of thirty Three Teams. The Men's A Team finished a Fabulous Third place and the Men's B Team Finished 15th out of 19 Teams.You are a very special group of people and I am very grateful for all your support today. Thanks again for making my day so sweet!!, Brendan Ward (Club Chairman) Pitville Park XC Photos Report Results</p>"
@@ -12,10 +12,10 @@ permalink: /2010/11/The-Pitville-Park-Cross-Country-20-Nov-2010/
 
 CLC Striders staged fixture Two of the Glos County Cross Country League on there home course at Pitville Park Saturday 20th November.
 
-The Striders used there home advantage and put in many exceptional Performances on the Day. Natasha Poole (pictured) led the Women&#8217;s A Team to victory over Team Bath. Poole led the Striders charge finishing in an excellent 5th place with Hilary agate 8th and Laura Kent 9th. The Team Total was 22 points.  
+The Striders used there home advantage and put in many exceptional Performances on the Day. Natasha Poole (pictured) led the Women's A Team to victory over Team Bath. Poole led the Striders charge finishing in an excellent 5th place with Hilary agate 8th and Laura Kent 9th. The Team Total was 22 points.  
 Liza Barry who was given the same time as Kent finished in 10th Place and led the Striders B Team to a Fabulous 3rd place overall. Rachel Vines had a brilliant run to finish 13th and second scorer and Rachel Elkin put in a great great effort to finish in 18th Place as the final B Team scorer. Both Striders A and B Teams were the leading Gloucestershire Clubs.
 
-The Striders Men were led home by the super consistent John Parker who ran well to finish in 3rd place, he was followed home by Will Frguson who put in a welcome appearance to finish 10th, next for the club was Dave Smeath who ran very well to clinch 43rd, 4th scorer was Ben Pedley in 45th, Chris Driskall 47th and Final A Team scorer was Jamie Patterson who finished 61st. The Striders Men&#8217;s A Team Finished 3rd overall out of 19 Teams.  
+The Striders Men were led home by the super consistent John Parker who ran well to finish in 3rd place, he was followed home by Will Frguson who put in a welcome appearance to finish 10th, next for the club was Dave Smeath who ran very well to clinch 43rd, 4th scorer was Ben Pedley in 45th, Chris Driskall 47th and Final A Team scorer was Jamie Patterson who finished 61st. The Striders Men's A Team Finished 3rd overall out of 19 Teams.  
 Charlie White made his Striders Debut and finished in an encouraging 61st and led the Striders B Team to 15th position overall. Other B team positions worth noting were had by Veteran Billy Bradshaw in 86th, Vet Simon Dee in 118th, Joel Freeland in 123rd, Andy Love making his Debut in 129th and Veteran Chris Slade in 134th.
 
 <table>
@@ -328,7 +328,7 @@ Charlie White made his Striders Debut and finished in an encouraging 61st and le
   </tr></colgroup>
 </table>
 
-**Women&#8217;s Masters Team Results  
+**Women's Masters Team Results  
 ** 3rd. CLC Striders A = 87  
 21st CLC Striders B = 268  
 23 Teams Competed

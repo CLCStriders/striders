@@ -1,5 +1,5 @@
 ---
-id: 189
+
 title: The Forest of Dean Half Marathon 28 March 2010
 date: 2010-03-28T09:00:00+01:00
 excerpt: '<p>Wayne Usher lead CLC Striders home in the Forest of Dean Half Marathon to finish 13th overall (1.21.12) on this tough trail course. Jon Howes (1.36.05), Emma Skeen (1.46.26), Ange Puffett (1.48.48) and Mary Hatton (2.21.09) also ran very strong races - click on photos to see more, Brendan Ward (Club Chairman). FOD Half Marathon 28 March 2010 Photos Results</p>'

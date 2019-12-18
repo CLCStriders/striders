@@ -1,5 +1,5 @@
 ---
-id: 160
+
 title: The Mid-Summer Track Open 07 July 2010
 date: 2010-07-07T09:00:00+01:00
 excerpt: '<p>Wilkie, Dare and Parker in Record Breaking Form at the POWS - 7th July 2010. Click on the links to see the great track performances by all the Striders. You all make me very proud, keep it up!, Brendan Ward (Club Chairman) Mid-Summer Open 07 July 2010 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2010/07/The-Mid-Summer-Track-Open-07-July-2010-/
 
 Wilkie, Dare and Parker in Record Breaking Form at the POWS &#8211; 7th July 2010. 
 
-Eight CLC Striders had a lot of fun at the POWS in the Midsummer Open Meeting and between them they managed to set four Club Records with Rich Dare setting a 400m record, John Parker a 400m and an 800m M35 Club Record and Jo Wilkie an 800m Women&#8217;s Club Record.
+Eight CLC Striders had a lot of fun at the POWS in the Midsummer Open Meeting and between them they managed to set four Club Records with Rich Dare setting a 400m record, John Parker a 400m and an 800m M35 Club Record and Jo Wilkie an 800m Women's Club Record.
 
 **<a name="Results"></a>Results<a name="Results"></a>**  
 **Men 800m Race 1  

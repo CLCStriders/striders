@@ -1,5 +1,5 @@
 ---
-id: 360
+
 title: 'Winchcombe Hill Climb 10km &#8211; 26th August 2012'
 date: 2012-08-31T21:45:31+01:00
 excerpt: '<p>Kent wins prize for 1st lady in Winchcombe</p>'

@@ -1,5 +1,5 @@
 ---
-id: 2813
+
 title: June into July – inc. Aztec 5k and Frampton 10k
 date: 2017-07-04T08:09:01+01:00
 author: Paul Northup

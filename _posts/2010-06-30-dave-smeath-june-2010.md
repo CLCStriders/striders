@@ -1,5 +1,5 @@
 ---
-id: 316
+
 title: 'Dave Smeath: June 2010'
 date: 2010-06-30T00:00:00+01:00
 author: Clark Lawson

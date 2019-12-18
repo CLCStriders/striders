@@ -1,5 +1,5 @@
 ---
-id: 559
+
 title: 'Cotswold Farm Park &#8211; Gloucestershire Cross Country League &#8211; 5 October 2013'
 date: 2013-10-08T07:29:14+01:00
 excerpt: '<p>CLC Striders got off to an excellent start to the 2013/14 Cross Country season at Cotswold Farm Park.</p>'

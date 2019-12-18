@@ -1,5 +1,5 @@
 ---
-id: 558
+
 title: 'Midland XC 5 and 7 &#8211; 23 November 2013'
 date: 2013-11-30T22:59:23+00:00
 excerpt: '<p>A team of 6 Striders made the trip up to Wolverhampton to compete in the Midlands 5 and 7 Mile Championships.</p>'

@@ -1,5 +1,5 @@
 ---
-id: 2607
+
 title: 'Gloucestershire XC League, Pittville Park &#8211; 18/02/2017'
 date: 2017-02-25T11:18:35+00:00
 author: Chris Driskell

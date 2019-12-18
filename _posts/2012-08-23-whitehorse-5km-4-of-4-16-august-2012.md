@@ -1,5 +1,5 @@
 ---
-id: 473
+
 title: Whitehorse 5km 4 of 4 16 August 2012
 date: 2012-08-23T21:15:04+01:00
 excerpt: '<p>A squad of 17 CLC Striders raced at the 4<sup>th</sup>and final Whitehorse 5km of the season. This race also incorporated the County 5km Championships. </p>'

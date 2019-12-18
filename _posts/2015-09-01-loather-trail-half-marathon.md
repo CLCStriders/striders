@@ -1,5 +1,5 @@
 ---
-id: 681
+
 title: Loather Trail Half Marathon
 date: 2015-09-01T16:55:26+01:00
 author: Clark Lawson

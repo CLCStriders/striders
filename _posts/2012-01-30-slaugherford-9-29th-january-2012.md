@@ -1,5 +1,5 @@
 ---
-id: 400
+
 title: 'Slaughterford 9 &#8211; 29th January 2012'
 date: 2012-01-30T08:35:41+00:00
 excerpt: '<p>Rachael Elkins of CLC Striders achieved a superb victory as first lady in the Slaughterford 9 multi-terrain race near Corsham in Wilts. </p>'

@@ -1,5 +1,5 @@
 ---
-id: 61
+
 title: Striders Fly Round The Aviator 4
 date: 2011-05-08T21:02:30+01:00
 excerpt: '<p>Wins for Du Luart and JP and prizes for McNulty, Steer and Bradshaw as Striders set the pace and break records in the first ever road race promoted by the club.</p>'
@@ -32,7 +32,7 @@ As unperturbed as ever by the elements, Parker was by some distance the first co
 
 Next to cross the line were Gresswell in 23:09 and James in 23:37; they were followed by Dan Fivey who with a time of 24:06 pipped his Up and Running colleague Jon Bird by a mere 6 seconds and finishing closely behind them were Jamie Paterson of Striders and Steve Moore, the first finisher from the strong Almost Athletes contingent.
 
-The final top ten place was claimed by Eloise du Luart, who posted an impressive 25:30 to take 1st place in the contest for the womenâ€™s prize and break the Striders senior women&#8217;s 4-mile record in the process.
+The final top ten place was claimed by Eloise du Luart, who posted an impressive 25:30 to take 1st place in the contest for the womenâ€™s prize and break the Striders senior women's 4-mile record in the process.
 
 Outside the top ten there were also some compelling contests for spectators to enjoy, in particular from Bradshaw, Slade and Freeland; as they came into the final straight, there was little to separate the three runners and in spite of both Sladeâ€™s efforts to overcome the deficit and an attempt by Freeland to use his much celebrated and devastatingly effective sprint finish to make up distance , Bradshaw held off the challenge and claimed 13th place over Sladeâ€™s 14th and Freelandâ€™s 15th. . 
 

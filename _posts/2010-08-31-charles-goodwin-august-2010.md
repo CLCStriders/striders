@@ -1,5 +1,5 @@
 ---
-id: 314
+
 title: 'Charles Goodwin: August 2010'
 date: 2010-08-31T00:00:00+01:00
 author: Clark Lawson

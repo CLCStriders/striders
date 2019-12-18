@@ -1,5 +1,5 @@
 ---
-id: 689
+
 title: 'Strider of the Month &#8211; September 2015 &#8211; Katie Truslove'
 date: 2015-09-30T16:58:29+01:00
 author: Clark Lawson

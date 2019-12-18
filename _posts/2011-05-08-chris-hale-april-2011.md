@@ -1,5 +1,5 @@
 ---
-id: 63
+
 title: 'Chris Hale : April 2011'
 date: 2011-05-08T21:46:36+01:00
 author: Clark Lawson

@@ -1,12 +1,12 @@
 ---
-id: 589
+
 title: 'London Marathon &#8211; 13 April 2014'
 date: 2014-04-16T20:10:40+01:00
 excerpt: '<p>Five Striders went head-to-head with Mo Farah et al in the 2014 London Marathon while down on the south coast, Charlotte Sugden took on the Brighton Marathon.</p>'
 layout: post
 permalink: /2014/04/london-marathon-13-april-2014/
 ---
-On a bright, sunny day in the capital James Oram led the Striders contingent around in a superb 2:56.58. Nicola Christian finished in a super 4:04.10, with Rachel Marlow completing the course in 4:35.29. Each year the club is allocated a couple of places in the marathon and this year&#8217;s recipients were Miranda Stewart, who dipped under 4.40 coming home in 4:39.44 and Derek Tebbs, who finished in 3:42.02. Well done all.
+On a bright, sunny day in the capital James Oram led the Striders contingent around in a superb 2:56.58. Nicola Christian finished in a super 4:04.10, with Rachel Marlow completing the course in 4:35.29. Each year the club is allocated a couple of places in the marathon and this year's recipients were Miranda Stewart, who dipped under 4.40 coming home in 4:39.44 and Derek Tebbs, who finished in 3:42.02. Well done all.
 
 Meanwhile, a couple of weeks earlier, Charlotte Sugden tackled her first ever marathon down in Brighton:
 

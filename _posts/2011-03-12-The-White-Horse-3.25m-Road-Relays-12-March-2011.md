@@ -1,5 +1,5 @@
 ---
-id: 95
+
 title: The White Horse 3.25m Road Relays 12 March 2011
 date: 2011-03-12T09:00:00+00:00
 excerpt: "<p>10 CLC Striders ran in the famous White Horse Road Relays. Two women's team (running 3 legs each) and one men's team (running 4 legs). Click on the links to see how they got on!!, Brandan Ward (Club Chairman) The White Horse 3.25m Road Relays Photos Report Results</p>"
@@ -24,7 +24,7 @@ Rich Dare
 
 **<a name="Results"></a>Results**
 
-Women&#8217;s teams got silver and bronze in the county champs and men took silver. In the open race, women were second and men were 3rd. Amanda took fastest W40.  
+Women's teams got silver and bronze in the county champs and men took silver. In the open race, women were second and men were 3rd. Amanda took fastest W40.  
 **Men**
 
 <table>

@@ -1,5 +1,5 @@
 ---
-id: 3265
+
 title: Gloucestershire X Country League, Race Day 2
 date: 2018-11-07T11:13:44+00:00
 author: Paul Northup

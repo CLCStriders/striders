@@ -1,5 +1,5 @@
 ---
-id: 209
+
 title: Pilot Inn 4m Road Race 27 December 2009
 date: 2009-12-27T09:00:00+00:00
 excerpt: '<p>Six Striders made a fantastic impression at the Pilot Inn 4m road race. To find out more please click on race report. Brendan Ward Club Chairman Pilot Inn 4m race 27 December 2009 Photos Report Results</p>'

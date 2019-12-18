@@ -1,5 +1,5 @@
 ---
-id: 3198
+
 title: Midsummer Open – Prince of Wales – 18 July
 date: 2018-07-22T22:51:58+01:00
 author: Paul Northup

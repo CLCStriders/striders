@@ -1,5 +1,5 @@
 ---
-id: 171
+
 title: The White Horse 5km Road Race 20 May 2010
 date: 2010-05-20T09:00:00+01:00
 excerpt: '<p>Striders Hit 30+ at the White Horse 5k 20th May 2010 - to find out more click on results/photos. Great turn out and efforts, keep it up!, Brendan Ward (Club Chairman) White Horse 5km 1 of 4 20 May 2010 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2010/05/The-White-Horse-5km-Road-Race-20-May-2010-/
 
 CLC Striders had a Massive turnout of runners with 32 taking part in the white horse 5k road race on 20th May.  
 The Striders Men were led home by John Parker who ran an excellent 15.23 to set a new Club Record and PB time, Rich Dare followed in 17th with a brisk 16.17, Phil Jowett was next in 30th in 17.23, setting a new V40 Club Record and PB time, Chris Hale was close behind Jowett in 35th running a new PB and going sub 18 minutes for the first time over the 5k distance.  
-Front Runner for the Women&#8217;s team was Liza Barry who was 71st overall in a time of 19.39, Sian Holley followed in 81st place recording a fine 20.26 PB time, Lindsay Ferguson who was making her debut for the club was next in 93rd place in a time of 21.07, just behind Ferguson was Patricia Woods in 94th place in a respectable 21.11. 
+Front Runner for the Women's team was Liza Barry who was 71st overall in a time of 19.39, Sian Holley followed in 81st place recording a fine 20.26 PB time, Lindsay Ferguson who was making her debut for the club was next in 93rd place in a time of 21.07, just behind Ferguson was Patricia Woods in 94th place in a respectable 21.11. 
 
 Well done everyone!  
 Brendan

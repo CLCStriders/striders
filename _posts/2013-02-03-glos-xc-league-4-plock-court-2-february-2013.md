@@ -1,18 +1,18 @@
 ---
-id: 514
+
 title: 'Glos XC league 4 Plock Court &#8211; 2 February 2013'
 date: 2013-02-03T18:15:12+00:00
 excerpt: '<p>The striders cross country team competed in the 4th and final Glos league cross country fixture of the 2012/13 season at a very muddy Plock court</p>'
 layout: post
 permalink: /2013/02/glos-xc-league-4-plock-court-2-february-2013/
 ---
-Conditions were heavy going for the ladies as they fought for positions in the league in the final fixture. The first scorer in the women&#8217;s team was Liza Barry who ran very strongly to finish in 9th position in a time of 28:15. Liza, who had worked hard all season ended up 3rd senior lady in the overall standings. Second scorer was Trish Woods whose gritty performance earnt her 16th place in a time of 29:34. Final scorer in the women&#8217;s A team was Alice Johnson, who despite the lack of recent training, ran well to finish in 18th place in a time of 29:55. The women were 3rd on the day.
+Conditions were heavy going for the ladies as they fought for positions in the league in the final fixture. The first scorer in the women's team was Liza Barry who ran very strongly to finish in 9th position in a time of 28:15. Liza, who had worked hard all season ended up 3rd senior lady in the overall standings. Second scorer was Trish Woods whose gritty performance earnt her 16th place in a time of 29:34. Final scorer in the women's A team was Alice Johnson, who despite the lack of recent training, ran well to finish in 18th place in a time of 29:55. The women were 3rd on the day.
 
 In the B team put in a good performance to finish 12th overall and second B team on the day. Amanda Steer ran well to score 20th place. Steer was backed up by fellow team mates Amelia Mullins in a fine 44th place and Beckie Boulton in 60th place.
 
 Amanda Steer also claimed a silver medal for being 2nd place LV40 in the overall season standings.
 
-The men also put in some fine performances on the churned up course. First scorer in the men&#8217;s team was club captain, Chris Driskell. Driskell set an early fast pace to finish in 20th place in a time of 35.05. Second scorer was new club member Andrew Jones, who in his debut cross country race, ran well to claim 24th place. Dave Smeath also found a return to form, finishing in 31st place (35.57).
+The men also put in some fine performances on the churned up course. First scorer in the men's team was club captain, Chris Driskell. Driskell set an early fast pace to finish in 20th place in a time of 35.05. Second scorer was new club member Andrew Jones, who in his debut cross country race, ran well to claim 24th place. Dave Smeath also found a return to form, finishing in 31st place (35.57).
 
 The team was completed by Jon Howes (65th place), Rich Shardlow (72nd place) and JJ Willson (86th place) who all put in strong performances.
 

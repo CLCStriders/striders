@@ -1,5 +1,5 @@
 ---
-id: 2938
+
 title: The Stratford Big 10k (Sunday 10 September 2017)
 date: 2017-09-11T17:19:45+01:00
 author: Paul Northup

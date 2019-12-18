@@ -1,5 +1,5 @@
 ---
-id: 1932
+
 title: 'Strider of the Month &#8211; January 2016'
 date: 2016-02-04T19:31:57+00:00
 author: Clark Lawson

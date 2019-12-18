@@ -1,5 +1,5 @@
 ---
-id: 442
+
 title: 'Glos County Track and Field Championships Part 2 &#8211; 16th May 2012'
 date: 2012-05-16T22:41:36+01:00
 excerpt: '<p>More medals for Striders at Part 2 of the County Track and Field Championships</p>'

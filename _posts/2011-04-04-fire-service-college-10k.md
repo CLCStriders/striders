@@ -1,5 +1,5 @@
 ---
-id: 345
+
 title: Fire Service College 10k
 date: 2011-04-04T20:12:32+01:00
 excerpt: '<p>Five CLC Striders took part in the Fire Service College 10k this weekend - see below to find out more</p>'

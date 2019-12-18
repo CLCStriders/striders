@@ -1,5 +1,5 @@
 ---
-id: 659
+
 title: 'Midsummer Open &#8211; 1 July 2015'
 date: 2015-07-01T16:46:33+01:00
 author: Clark Lawson

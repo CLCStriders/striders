@@ -1,5 +1,5 @@
 ---
-id: 79
+
 title: 'Wayne Usher and Malc Smith : May 2011'
 date: 2011-06-01T00:00:00+01:00
 author: Clark Lawson

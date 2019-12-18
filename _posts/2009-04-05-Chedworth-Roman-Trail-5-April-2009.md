@@ -1,5 +1,5 @@
 ---
-id: 273
+
 title: Chedworth Roman Trail 5 April 2009
 date: 2009-04-05T09:00:00+01:00
 excerpt: '<p>Darren Milne ran an excellent race to finish in 11th place out of serveral hundred runners in the Chedworth Roman Trail multi terrain race held from Chedworth village. Well done, Brendan Ward, Club Chairman Chedworth Roman Trail 05 April 2009 Photos Report Results</p>'

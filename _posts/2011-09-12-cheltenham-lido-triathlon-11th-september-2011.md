@@ -1,5 +1,5 @@
 ---
-id: 363
+
 title: Cheltenham Lido Triathlon 11th September 2011
 date: 2011-09-12T22:30:38+01:00
 excerpt: '<p>Following a Summer of training, a blustery yet warm morning greeted the Striders ladies Tri-team as they took on the Cheltenham Lido Triathlon.</p>'

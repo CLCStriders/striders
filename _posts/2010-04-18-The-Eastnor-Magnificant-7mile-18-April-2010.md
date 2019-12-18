@@ -1,5 +1,5 @@
 ---
-id: 182
+
 title: The Eastnor Magnificant 7mile 18 April 2010
 date: 2010-04-18T09:00:00+01:00
 excerpt: '<p>JP Makes it Four Wins in Four Weeks at the Magnificent 7 Promoted by Ledbury Harriers on Sunday 18th April 2010.James Gibbs also finishes in a fine 26th Place. Well done chaps, Brendan Ward (Club Chairman) The Eastnor 7m 18 April 2010 Photos Report Results</p>'
@@ -10,7 +10,7 @@ permalink: /2010/04/The-Eastnor-Magnificant-7mile-18-April-2010-/
 
 **Report**
 
-John Parker (JP) made it Four Wins out of Four at Ledbury Harriers Magnificent 7 Mile Multi Terrain Race. JP led from start to finish and completely obliterated the field winning by a staggering 1 minute 37 seconds from Gloucester&#8217;s Steve Milward. Parkers time for the very tough and hilly multi terrain course was 41.02 which smashed the previous course record by 42 seconds which was held by Dursleys Gary Hughes.  
+John Parker (JP) made it Four Wins out of Four at Ledbury Harriers Magnificent 7 Mile Multi Terrain Race. JP led from start to finish and completely obliterated the field winning by a staggering 1 minute 37 seconds from Gloucester's Steve Milward. Parkers time for the very tough and hilly multi terrain course was 41.02 which smashed the previous course record by 42 seconds which was held by Dursleys Gary Hughes.  
 James gibbs also ran for the Striders and proved he is returning to form, Gibbs ran an excellent race to finish 26th in a time of 51.41.
 
 Well done to you both.  

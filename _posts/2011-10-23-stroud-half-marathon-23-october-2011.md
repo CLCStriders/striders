@@ -1,5 +1,5 @@
 ---
-id: 378
+
 title: Stroud Half Marathon 23 October 2011
 date: 2011-10-23T22:37:57+01:00
 excerpt: '<p>The CLC Striders were out in full force at the 30<sup>th</sup>Stroud half marathon on 23 October 2011.</p>'

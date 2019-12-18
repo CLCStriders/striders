@@ -1,5 +1,5 @@
 ---
-id: 164
+
 title: The White Horse 5km Race 17 June 2010
 date: 2010-06-18T09:00:00+01:00
 excerpt: '<p>Once again, a fantastic turnout by the Striders at the White Horse 5km. Once again, some great performances with Jowett and Kellett setting new V40 Club Records. Brilliant, keep it up everyone!, Brendan Ward (Club Chairman) White Horse 5km 17 June 2010 Photos Report Results</p>'

@@ -1,5 +1,5 @@
 ---
-id: 351
+
 title: Cross Country Fixtures
 date: 2011-08-07T14:34:22+01:00
 excerpt: '<p><b>Cross-country fixtures for 2013-2014 season</b></p>'
@@ -19,7 +19,7 @@ Dates for the BCCL 2013/2014 season:
   * 11 January 2014 &#8211; BCCL (3) Wyken Croft Park, Coventry
   * 8 February 2014 &#8211; BCCL (4) Coundon Park, Coventry.
 
-### Midland Women&#8217;s Cross Country League fixtures:
+### Midland Women's Cross Country League fixtures:
 
   * 9 November 2013 &#8211; Midland Womens CC League (1) at Newbold Common, Leamington 
   * 7 December 2013 &#8211; Midland Womens CC League (2) &#8211; Wolverhampton 

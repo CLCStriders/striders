@@ -1,5 +1,5 @@
 ---
-id: 3581
+
 title: Midland Road Relays, 21st September 2019
 date: 2019-09-23T09:22:59+01:00
 author: Paul Northup
@@ -16,11 +16,11 @@ tags:
 
 On a gloriously sunny late September day, nine CLC Striders ladies travelled to Sutton Park in Birmingham for the Midland area autumn Road Relays. 
 
-The race consisted of four 4.33km (2.7 mile) laps on undulating tarmac paths through the park, providing a rare chance for the club&#8217;s runners to test their mettle against some of the top athletes from across the country.&nbsp;
+The race consisted of four 4.33km (2.7 mile) laps on undulating tarmac paths through the park, providing a rare chance for the club's runners to test their mettle against some of the top athletes from across the country.&nbsp;
 
-The ladies &#8216;A&#8217; team comprised **Liza Barry**, **Sarah Richards**, **Helen Knight** and **Rachel Vines**. They all ran really well to finish in an excellent 28th position overall (out of more than 100 teams on the day!).
+The ladies &#8216;A' team comprised **Liza Barry**, **Sarah Richards**, **Helen Knight** and **Rachel Vines**. They all ran really well to finish in an excellent 28th position overall (out of more than 100 teams on the day!).
 
-Running for the ladies &#8216;B&#8217; team were **Fiona Brady-Miller**, **Sarah Wilson**, **Nicola Weager** and **Amelia Mullins**, who finished in a very creditable 59th place. **Zoe Gough** also ran the first leg, finishing 91st out of 121 runners on that leg.<figure class="wp-block-image">
+Running for the ladies &#8216;B' team were **Fiona Brady-Miller**, **Sarah Wilson**, **Nicola Weager** and **Amelia Mullins**, who finished in a very creditable 59th place. **Zoe Gough** also ran the first leg, finishing 91st out of 121 runners on that leg.<figure class="wp-block-image">
 
 <img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Sutton-Park-Sept-2019-e1569226803744.jpg" alt="" class="wp-image-3582" /> <figcaption>_The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Miller, Sarah Wilson, Helen Knight, Nicola Weager, Rachel Vines, Liza Barry and Amelia Mullins_</figcaption></figure> 
 

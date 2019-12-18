@@ -1,5 +1,5 @@
 ---
-id: 282
+
 title: Withington Wobbler 3.6m 15 Feb 2009
 date: 2009-02-15T09:00:00+00:00
 excerpt: '<p>19 clc striders headed off to Withington to test a 3.6 mile road course out as the club may be holding a race in the village later on this year Brendan Ward, Club Chairman Withington Wobbler 3.6m 15 February 2009 Photos Report Results</p>'
@@ -37,7 +37,7 @@ Position on actual time, with handicap time and position in brackets distance:
 6. Paul Davis 26.36 (32.36 6th)  
 7. Barney Banford 26.38 (34.38 15th)  
 8. Lisa Boyd 26.42 (30.42 2nd)  
-9. Nick O&#8217;Neil 26.47 (32.47 8th)  
+9. Nick O'Neil 26.47 (32.47 8th)  
 10. Tom Thorneycroft 26.51 (35.21 16th)  
 11. Rachel Vines 26.59 (29.59 1st)  
 12. Simon Dee 27.11 (34.11 14th)  

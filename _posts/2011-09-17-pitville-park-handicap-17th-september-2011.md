@@ -1,5 +1,5 @@
 ---
-id: 367
+
 title: Pitville Park Handicap 17th September 2011
 date: 2011-09-17T18:28:47+01:00
 excerpt: '<p>CLC Striders held a fun handicap race at Pitville Park on Saturday 17th September as a pre cross country season warm up. </p>'
@@ -10,7 +10,7 @@ permalink: /2011/09/pitville-park-handicap-17th-september-2011/
 
 Almost 30 turned up for this fun event, which was held over a very windy 4.3 mile four lap course. 
 
-The overall handicap winner was Vet 50 Derek Tebbs who put in a strong performance. Rachel DJ Vines was first overall female handicap winner timing her run to perfection. DJ also recorded the fastest female time of the day, just edging out Liza Doc Barry by one second. The club welcomed back Super Will Ferguson who recorded the day&#8217;s fastest time running even laps throughout his run.
+The overall handicap winner was Vet 50 Derek Tebbs who put in a strong performance. Rachel DJ Vines was first overall female handicap winner timing her run to perfection. DJ also recorded the fastest female time of the day, just edging out Liza Doc Barry by one second. The club welcomed back Super Will Ferguson who recorded the day's fastest time running even laps throughout his run.
 
 Thanks to all of you for taking part, and to Mike Simpson and Tony Stanton for all their help on the day.
 

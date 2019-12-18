@@ -1,5 +1,5 @@
 ---
-id: 305
+
 title: The Annual Cleevewold 14 Mile race, 28 March 2011
 date: 2011-03-28T00:00:00+01:00
 excerpt: |

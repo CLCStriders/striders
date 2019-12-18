@@ -1,5 +1,5 @@
 ---
-id: 349
+
 title: 'Joel Freeland: July 2011'
 date: 2011-08-03T22:27:30+01:00
 author: Clark Lawson

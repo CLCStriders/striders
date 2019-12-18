@@ -1,5 +1,5 @@
 ---
-id: 264
+
 title: County Track Champs 08-10 May 2009
 date: 2009-05-08T09:00:00+01:00
 excerpt: "<p>What a weekend, some great results which the club is very proud of indeed. CLC Striders won 6 medals, 1 Gold (Will Ferguson 5k), 2 Silvers (Nick o'Neil 100m and Nina Oates 1500m), 3 Bronze (Rich Dare 5k, Will Ferguson 1500m, Nina Oates 3k). Super Dawn also won her age group in the 3k. Please keep it up as I enjoy every minute watching you perform for this very special club!!Brendan Ward, Club Chairman GLos County Champs 08-10 May 2009 Photos Report Results</p>"
@@ -26,19 +26,19 @@ permalink: /2009/05/County-Track-Champs-08-10-May-2009/
 
 CLC striders had 7 athletes competing in the county track championships held at the Prince of Wales stadium on Friday 8th may 2009.
 
-Between the seven athletes the club won 3 medals, gold in the 5k men (Will Ferguson), Bronze in the 5k men (Rich Dare), and Bronze in the women&#8217;s 3k (Nina Oates)
+Between the seven athletes the club won 3 medals, gold in the 5k men (Will Ferguson), Bronze in the 5k men (Rich Dare), and Bronze in the women's 3k (Nina Oates)
 
 Other notable performances came from Lisa Boyd who gained 4th place in the 3k, Rachel Vines who was 5th in the 3k, Liza Barry was 6th in the 3k, and Dawn Addinall 7th also in the 3k.
 
 Well done to you all you ran well in very windy conditions, times will get even faster on a good day!!
 
-A special well done to goes out to super auntie Dawn who also won her age group however, as it&#8217;s not a veterans championships no medals were handed out!! Keep it up Dawn.
+A special well done to goes out to super auntie Dawn who also won her age group however, as it's not a veterans championships no medals were handed out!! Keep it up Dawn.
 
 **County Track Championships Part 2 Report**&#8211; Sunday 10th May 2009
 
 What a weekend!! Part two of the county track championships from the POWs produced some more great results which the club should be very proud of indeed!!
 
-Nick the bolt O&#8217;Neil kicked off with a stunning 11.9 (club rec) and a silver medal in the 100 metres, Nina Oates followed with a scintillating performance to clinch silver in the 1500 metres running a very fast 5.18.1, (club rec), she was followed by Super Will who worked his way through the field to finish 3rd in the 1500 metres in a time of 4.18.6 (club rec).
+Nick the bolt O'Neil kicked off with a stunning 11.9 (club rec) and a silver medal in the 100 metres, Nina Oates followed with a scintillating performance to clinch silver in the 1500 metres running a very fast 5.18.1, (club rec), she was followed by Super Will who worked his way through the field to finish 3rd in the 1500 metres in a time of 4.18.6 (club rec).
 
 The club in total over the weekend won 6 county medals, one gold, two silver, and three bronze which is a fantastic effort, you make my role so enjoyable and I love you all for giving me the best job in the world (seeing you succeed) !!
 
@@ -415,7 +415,7 @@ Bren
   
   <tr>
     <td>
-      Nick O&#8217;Neil
+      Nick O'Neil
     </td>
     
     <td>

@@ -1,5 +1,5 @@
 ---
-id: 3229
+
 title: Gloucestershire County Track Championships
 date: 2018-09-10T08:39:21+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2018/09/gloucestershire-county-track-championships/
 categories:
   - Road Reports
   - Track Reports
-  - Uncategorised
+
 tags:
   - Evesham 10k
   - Gloucestershire County Track Championships

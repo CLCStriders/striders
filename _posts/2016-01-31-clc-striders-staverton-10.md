@@ -17,7 +17,7 @@ Leading the way from the start was Will Ferguson.  Although Ferguson had compan
 
 Next for the Striders in 3rd place and showing excellent pacing was Nick Barry with an excellent time of 56:42.  He was followed in the top 10 by James Oram who finished 6th with a time of 58:35 and by Iain Porter who  finished 8th with a time of 58:48.
 
-Finally, in the women&#8217;s race, the club was well represented by Liza Barry who finished 39th overall and 2nd lady in an excellent time of 66:37.
+Finally, in the women's race, the club was well represented by Liza Barry who finished 39th overall and 2nd lady in an excellent time of 66:37.
 
 There were 176 finishers in this first running of the Staverton 10, and CLC Striders are extremely grateful to everyone who helped to organize and run it.
 

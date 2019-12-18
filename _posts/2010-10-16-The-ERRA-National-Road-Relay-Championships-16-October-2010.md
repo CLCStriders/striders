@@ -1,5 +1,5 @@
 ---
-id: 128
+
 title: The ERRA National Road Relay Championships 16 October 2010
 date: 2010-10-16T09:00:00+01:00
 excerpt: '<p>The Fab Four do themselves Proud at the ERRA national Road Relay Championships at Sutton Park Saturday 16th October 2010, Brendan Ward (Club Chairman) ERRA Relays Photos Report Results</p>'

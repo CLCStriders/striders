@@ -1,5 +1,5 @@
 ---
-id: 318
+
 title: The MCAA womens 6 stage relays 19 March 2011
 date: 2011-03-19T00:00:00+00:00
 excerpt: '<p>The 6 CLC Striders travelled to Sutton Park to compete in the Midlands Counties 6 Stage Road Relays. Click on the links to see how they got on!!", Rachel Vines</p>'

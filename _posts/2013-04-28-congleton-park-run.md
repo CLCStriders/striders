@@ -1,5 +1,5 @@
 ---
-id: 57
+
 title: Congleton Park Run
 date: 2013-04-28T21:40:02+01:00
 excerpt: '<p>Jo Wilkie did the Striders proud in the north last week when she took part in the Congleton Park Run.</p>'

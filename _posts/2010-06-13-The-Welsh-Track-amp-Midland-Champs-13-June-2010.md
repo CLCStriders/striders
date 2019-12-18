@@ -1,5 +1,5 @@
 ---
-id: 165
+
 title: 'The Welsh Track &amp; Midland Champs 13 June 2010'
 date: 2010-06-13T09:00:00+01:00
 excerpt: "<p>Dare runs 1:59.6 for 800m! The Devil storms under the 2-minute barrier at the Welsh track championships on the same day as John Parker (JP) becomes Midlands 5k v35 track champion. Brilliant performances, I'm so proud of you both, keep it up! Brendan Ward (Club Chairman) Welsh &amp; Midlands vets champs 13 June 2010 Photos Report Results</p>"
@@ -12,7 +12,7 @@ permalink: '/2010/06/The-Welsh-Track-&amp;-Midland-Champs-13-June-2010-/'
 
 At last Dare Devil goes sub 2!! Rich Dare ran magnificently in the welsh Track Championships in Cardiff Sunday 13th June to finally breakthrough the 2 minute barrier with an excellent 1.59.6 reaching the bell in 59 seconds to break his own Club Record to boot.
 
-On the same day at Leicester John Parker (JP) won the Midland Vets Track V35 Title in the 5k recording a time of 15.39.3. This is JP&#8217;s first official Vet Title, next Sunday at Horwich he is competing in the National Vets 5k Road Championships where he hopes to fair well against top competition.
+On the same day at Leicester John Parker (JP) won the Midland Vets Track V35 Title in the 5k recording a time of 15.39.3. This is JP's first official Vet Title, next Sunday at Horwich he is competing in the National Vets 5k Road Championships where he hopes to fair well against top competition.
 
 Well done to you both.
 

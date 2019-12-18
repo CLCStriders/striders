@@ -1,5 +1,5 @@
 ---
-id: 215
+
 title: Super Will Returns At Blackbridge and CLC Ladies Team Winners Again! Saturday 21 Nov 2009
 excerpt: "<p>Just a BIG THANK YOU to all of you who attended the rain soaked race. What an atmosphere, you definitely hear us above the other teams, and it REALLY does make a difference. Click on the race report to find out how we did Chris Hale (Men's Vice Captain) The Official results Glos XC League #2 21 November 2009 Photos Report Results</p>"
 layout: post
@@ -9,9 +9,9 @@ permalink: /0000/00/Super-Will-Returns-At-Blackbridge-and-CLC--Ladies-Team-Winne
 
 **<a name="Report"></a><a name="Report"></a>Report**
 
-Will Ferguson finished an excellent 4th place in the 2nd Gloucestershire Cross Country League Fixture of the season held at Crypt School, Gloucester. Ferguson who is Studying at Imperial College London had a break from his studies to support his Club. Ben Pedley followed Ferguson Home with a fine 32nd Place, Rich Dare was next in 36th, Wayne Usher 54th, Dave Billingham 60th and the Clubs final A Team Scorer was Chris Hale in a solid 62nd place. CLC Striders Men&#8217;s A Team Finished in 7th Place overall.
+Will Ferguson finished an excellent 4th place in the 2nd Gloucestershire Cross Country League Fixture of the season held at Crypt School, Gloucester. Ferguson who is Studying at Imperial College London had a break from his studies to support his Club. Ben Pedley followed Ferguson Home with a fine 32nd Place, Rich Dare was next in 36th, Wayne Usher 54th, Dave Billingham 60th and the Clubs final A Team Scorer was Chris Hale in a solid 62nd place. CLC Striders Men's A Team Finished in 7th Place overall.
 
-The Performance of the Day came from CLC Striders Woman&#8217;s A Team who Won the Team Event yet again and now lead the County Series by 22 points which is a remarkable achievement as this is only the Clubs Second Season in the League. Laura Kent finished an excellent 3rd, with Liza Barry running Superbly to Clinch 11th Place and Naomi Kellett Stormed through the field to finish in a highly respectable 27th place. The day was even more remarkable for the Striders Ladies Team as they also were first in the B Team Competition, C Team Competition and D Team Competition.
+The Performance of the Day came from CLC Striders Woman's A Team who Won the Team Event yet again and now lead the County Series by 22 points which is a remarkable achievement as this is only the Clubs Second Season in the League. Laura Kent finished an excellent 3rd, with Liza Barry running Superbly to Clinch 11th Place and Naomi Kellett Stormed through the field to finish in a highly respectable 27th place. The day was even more remarkable for the Striders Ladies Team as they also were first in the B Team Competition, C Team Competition and D Team Competition.
 
 **Results**
 

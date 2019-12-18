@@ -1,6 +1,6 @@
 ---
-id: 504
-title: 'Rudolph&#8217;s Rampage &#8211; 16th December 2012'
+
+title: 'Rudolph's Rampage &#8211; 16th December 2012'
 date: 2012-12-19T09:00:30+00:00
 excerpt: '<p>A small contingent of Striders travelled to the picturesque Cotswold village of Painswick to take part in the Rudolphâ€™s Rampage, a fun but tough 4 ½ mile off-road race with festive fancy dress!</p>'
 layout: post

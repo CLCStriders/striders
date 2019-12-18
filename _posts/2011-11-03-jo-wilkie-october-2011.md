@@ -1,5 +1,5 @@
 ---
-id: 379
+
 title: 'Jo Wilkie: October 2011'
 date: 2011-11-03T21:24:28+00:00
 author: Clark Lawson

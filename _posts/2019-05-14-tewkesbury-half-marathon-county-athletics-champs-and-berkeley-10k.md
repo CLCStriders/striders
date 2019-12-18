@@ -1,5 +1,5 @@
 ---
-id: 3472
+
 title: Tewkesbury Half Marathon, County Athletics Champs and Berkeley 10k
 date: 2019-05-14T07:50:14+01:00
 author: Paul Northup

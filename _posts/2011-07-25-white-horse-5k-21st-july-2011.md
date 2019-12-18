@@ -1,5 +1,5 @@
 ---
-id: 347
+
 title: White Horse 5K 21st July 2011
 date: 2011-07-25T20:54:27+01:00
 excerpt: '<p>Three Striders ran in the 3rd White Horse 5K on 21st July. </p>'
@@ -22,4 +22,4 @@ Results:
 
 54) Malc Smith &#8211; CLC Striders &#8211; 21:19
 
-Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC&#8217;s website</a>when available</p>
+Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available</p>

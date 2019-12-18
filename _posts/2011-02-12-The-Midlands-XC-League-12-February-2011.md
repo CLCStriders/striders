@@ -1,5 +1,5 @@
 ---
-id: 103
+
 title: The Midlands XC League 12 February 2011
 date: 2011-02-12T09:00:00+00:00
 excerpt: "<p>The CLC Striders competed in the women's final midland cross country league fixture held at Cofton park, Birmingham. I'm so proud of you all for doing so well. Click on the report to see how they got on!, Brendan Ward (Club Chairman) Midland XC League Photos Report Results</p>"

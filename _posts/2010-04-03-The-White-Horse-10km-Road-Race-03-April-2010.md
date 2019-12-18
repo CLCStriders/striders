@@ -1,5 +1,5 @@
 ---
-id: 187
+
 title: The White Horse 10km Road Race 03 April 2010
 date: 2010-04-03T09:00:00+01:00
 excerpt: '<p>JP leads the Striders home in the White Horse 10k to record his 2nd win in a week. Find out more by clicking on full race report and photos, Brendan Ward (Club Chairman). The White Horse 10k 03 April 2010 Photos Report Results</p>'

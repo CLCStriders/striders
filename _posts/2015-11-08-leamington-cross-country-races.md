@@ -1,5 +1,5 @@
 ---
-id: 1680
+
 title: Leamington Cross Country Races
 date: 2015-11-08T10:19:39+00:00
 author: Clark Lawson

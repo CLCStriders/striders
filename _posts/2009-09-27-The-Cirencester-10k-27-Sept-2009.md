@@ -1,5 +1,5 @@
 ---
-id: 224
+
 title: The Cirencester 10k 27 Sept 2009
 date: 2009-09-27T09:00:00+01:00
 excerpt: '<p>CLC Striders had 21 Athletes competing at the Cirencester 10k on 27th September 2009. The Club Produced 3 Club Records and some very satisfying performances on a very warm and sunny day. See full Report/Results and Photos by clicking below. Well done to you all Brendan Ward, Club Chairman The Cirencester 10k 27 Sept 2009 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2009/09/The-Cirencester-10k-27-Sept-2009/
 
 **Report**</p> 
 
-Nathan Jones led the Club home with a fine run recording a swift 35.45 in the Cirencester 10k, next in for the Club was Rich Dare in a solid 36.31, he was followed by Chris GPS Hale who had the run of the day smashing his PB and setting a new V40 Men&#8217;s Club Record to boot with a time of 38.03. 
+Nathan Jones led the Club home with a fine run recording a swift 35.45 in the Cirencester 10k, next in for the Club was Rich Dare in a solid 36.31, he was followed by Chris GPS Hale who had the run of the day smashing his PB and setting a new V40 Men's Club Record to boot with a time of 38.03. 
 
 The Women were led home by the very consistent Liza Barry who ran 42.07, next in for the Women was new signing Naomi Kellett who on her first outing for the Club set a new FV40 time of 42.48. Other Record Breakers were Amelia Mullins who set a new FV35 Record running a very respectable 48.57.
 

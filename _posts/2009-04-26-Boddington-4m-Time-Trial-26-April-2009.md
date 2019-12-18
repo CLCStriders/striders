@@ -1,5 +1,5 @@
 ---
-id: 268
+
 title: Boddington 4m Time Trial 26 April 2009
 date: 2009-04-26T09:00:00+01:00
 excerpt: '<p>We had another great morning at Boddington. We did a 4 mile time trial on an out and back course, producing some very encouraging times Brendan Ward, Club Chairman Boddington 4m Time Trial 26 April 2009 Photos Report Results</p>'

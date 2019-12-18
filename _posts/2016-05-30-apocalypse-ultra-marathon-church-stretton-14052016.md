@@ -1,5 +1,5 @@
 ---
-id: 2294
+
 title: 'Apocalypse Ultra-Marathon, Church Stretton &#8211; 14/05/2016'
 date: 2016-05-30T22:42:43+01:00
 author: Chris Driskell

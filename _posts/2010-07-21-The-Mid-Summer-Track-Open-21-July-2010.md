@@ -1,5 +1,5 @@
 ---
-id: 154
+
 title: The Mid-Summer Track Open 21 July 2010
 date: 2010-07-21T09:00:00+01:00
 excerpt: '<p>Five athletes represented the club at this event. Strong performances from everyone. Click the link below to see how they got on, Brendan Ward (Club Chairman) Mid-Summer Open 21 July 2010 Photos Report Results</p>'
@@ -10,7 +10,7 @@ permalink: /2010/07/The-Mid-Summer-Track-Open-21-July-2010-/
 
 **Report**
 
-Jo Wilkie ran well to record a solid 2.37.2 and finish 6th in the Women&#8217;s 800 metres &#8211; meanwhile John Parker (JP), Rich Dare (Dare Devil) and Rich Cannock all recorded PBS&#8217;in the 1500 metres with JP also breaking his own Club Record and become the first Strider under 4.10 for the distance. Final Strider competing was Nick the bolt O&#8217;neil who ran a superb race to win the 150 metres sprint setting a new Club Record of 18.2 for this seldom run distance.  
+Jo Wilkie ran well to record a solid 2.37.2 and finish 6th in the Women's 800 metres &#8211; meanwhile John Parker (JP), Rich Dare (Dare Devil) and Rich Cannock all recorded PBS'in the 1500 metres with JP also breaking his own Club Record and become the first Strider under 4.10 for the distance. Final Strider competing was Nick the bolt O'neil who ran a superb race to win the 150 metres sprint setting a new Club Record of 18.2 for this seldom run distance.  
 Brendan Ward (Club Chairman)
 
 <a name="Results"></a>**Results**  
@@ -23,7 +23,7 @@ Brendan Ward (Club Chairman)
 13th Rich Cannock &#8211; 4.49.0 (PB) M35
 
 150m Men  
-1st Nick O&#8217;neil &#8211; 18.2 (PB) Club Record Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Midsummer results meeting 3 21 July 2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
+1st Nick O'neil &#8211; 18.2 (PB) Club Record Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Midsummer results meeting 3 21 July 2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

@@ -1,5 +1,5 @@
 ---
-id: 2828
+
 title: Midsummer Open (5.7.17) and Evesham 10k
 date: 2017-07-11T07:40:39+01:00
 author: Paul Northup

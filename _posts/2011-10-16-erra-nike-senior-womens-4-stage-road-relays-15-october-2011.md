@@ -1,5 +1,5 @@
 ---
-id: 376
+
 title: ERRA Nike Senior womens 4 stage road relays 15 October 2011
 date: 2011-10-16T17:30:58+01:00
 excerpt: '<p>A team of 4 CLC Striders travelled to the spectacular Sutton Park to compete in the National 4 stage road relays</p>'

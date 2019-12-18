@@ -1,5 +1,5 @@
 ---
-id: 271
+
 title: Boddington 4m Handicap 18 April 2009
 date: 2009-04-18T09:00:00+01:00
 excerpt: '<p>We did a 4 mile handicap time trial at Boddington today on an out and back course. Well done to you all you have definitely inspired me to make a racing comeback!! Thanks. Brendan Ward, Club Chairman Boddington 4m Handicap 18 April 2009 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2009/04/Boddington-4m-Handicap-18-April-2009/
 
 We did a 4 mile handicap time trial at Boddington today on an out and back course, and it proved to be a great bit of fun especially as we started at 8.30am (nice and early).
 
-Great runs were had by Nathan Jones, Chris Hale, Paul Smith, Liza Barry and captain &#8216;Super Vet&#8217;Boyd. Rob the riz Shute was a little dissapointed by his time, and so was Dodgy Bren who finally had the previlidge to run with his troops!!
+Great runs were had by Nathan Jones, Chris Hale, Paul Smith, Liza Barry and captain &#8216;Super Vet'Boyd. Rob the riz Shute was a little dissapointed by his time, and so was Dodgy Bren who finally had the previlidge to run with his troops!!
 
 Times below in order of fastest, handicap positions are also shown. Well done to Liza and Lisa for beating all the boys!!
 

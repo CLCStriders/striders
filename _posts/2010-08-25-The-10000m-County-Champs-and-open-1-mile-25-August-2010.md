@@ -1,5 +1,5 @@
 ---
-id: 149
+
 title: The 10,000m County Champs and open 1-mile 25 August 2010
 date: 2010-08-25T09:00:00+01:00
 excerpt: '<p>Seven CLC Striders braved the rain and wind to compete in the county 10,000m and open mile races at the POW stadium. Cheered on by a small but loud support team including Chris Driskell, Gps, Chris Cannock, Phil and Lesley, the fab 7 broke four club records and received Gold, Silver and Bronze county medals - Fantastic!, Brendan Ward (Club Chairman) County 10,000m and Open Mile Photos Report Results</p>'

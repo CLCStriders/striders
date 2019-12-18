@@ -1,5 +1,5 @@
 ---
-id: 3015
+
 title: Midland League Div 2 Race 2, Clopton Park, Stratford, 2 Dec 2017
 date: 2017-12-04T09:40:19+00:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2017/12/midland-league-div-2-race-2-clopton-park-stratford-2-dec-201
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Clopton Park
   - Division 2

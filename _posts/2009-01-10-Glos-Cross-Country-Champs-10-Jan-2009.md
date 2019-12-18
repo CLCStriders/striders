@@ -1,5 +1,5 @@
 ---
-id: 285
+
 title: Glos Cross Country Champs 10 Jan 2009
 date: 2009-01-10T09:00:00+00:00
 excerpt: '<p>Well done everyone, especially Billy Bradshaw who had the run of the day and a big congratulations to Alex Evans for doing so well in completing her first cross country race and running the furthest that she has ever gone before Brendan Ward, Club Chairman Glos Cross Country champs 10 January 2009 Photos Report Results</p>'

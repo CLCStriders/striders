@@ -1,5 +1,5 @@
 ---
-id: 480
+
 title: 'Bristol Half Marathon &#8211; 30th September 2012'
 date: 2012-10-01T16:51:47+01:00
 excerpt: '<p>Twelve CLC Striders decended on Bristol for the annual half marathon. </p>'

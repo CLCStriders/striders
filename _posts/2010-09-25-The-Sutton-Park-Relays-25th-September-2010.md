@@ -1,5 +1,5 @@
 ---
-id: 134
+
 title: The Sutton Park Relays 25th September 2010
 date: 2010-09-25T09:00:00+01:00
 excerpt: '<p>The CLC Striders had two women?s and a men?s team competing in the MCCA Road Relay Championships held at Sutton Park, Brendan Ward (Club Chairman) Sutton Park Relays Photos Report Results</p>'

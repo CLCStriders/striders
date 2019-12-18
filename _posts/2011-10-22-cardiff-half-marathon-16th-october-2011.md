@@ -1,5 +1,5 @@
 ---
-id: 377
+
 title: Cardiff Half Marathon 16th October 2011
 date: 2011-10-22T20:27:38+01:00
 excerpt: '<p>There was lovely weather and a great atmosphere at the Cardiff Half Marathon last weekend...</p>'

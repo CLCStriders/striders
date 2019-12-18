@@ -1,5 +1,5 @@
 ---
-id: 266
+
 title: 1500m Club Championship 29 April 2009
 date: 2009-04-29T09:00:00+01:00
 excerpt: "<p>We had a great 1500 metres club championships today held on the college grass track, although conditions were windy and the track slightly up hill it didn't spoil the day. Fantastic fun, well done to all! Brendan Ward, Club Chairman 1500m Club Championship 29 April 2009 Photos Report Results</p>"
@@ -28,7 +28,7 @@ permalink: /2009/04/1500m-Club-Championship-29-April-2009/
 
 **Report**</p> 
 
-We had a great 1500 metres club championships today held on the college grass track, although conditions were windy and the track slightly up hill it didn&#8217;t spoil the fun.
+We had a great 1500 metres club championships today held on the college grass track, although conditions were windy and the track slightly up hill it didn't spoil the fun.
 
 
 

@@ -1,5 +1,5 @@
 ---
-id: 2952
+
 title: Iain Porter wins the Glencoe off-road Marathon
 date: 2017-10-02T20:24:39+01:00
 author: Paul Northup

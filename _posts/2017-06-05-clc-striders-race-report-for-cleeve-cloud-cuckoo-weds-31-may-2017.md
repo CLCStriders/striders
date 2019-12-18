@@ -1,5 +1,5 @@
 ---
-id: 2795
+
 title: CLC Striders Race report for Cleeve Cloud Cuckoo – Weds 31 May 2017
 date: 2017-06-05T16:33:20+01:00
 author: Paul Northup
@@ -10,7 +10,7 @@ categories:
   - Cross Country Reports
   - Race Reports
 ---
-On a perfect end-of-spring evening, a group of CLC Striders headed up to Cleeve Hill for the annual Cleeve Cloud Cuckoo race. The views – and the hills! – were breath-taking. Starting out from Cleeve Common Golf Club, the five-mile route follows an entirely off-road, undulating course across grass and stony tracks, including hazardous descents and the legendary climb up from the &#8216;Wash-Pool&#8217;.
+On a perfect end-of-spring evening, a group of CLC Striders headed up to Cleeve Hill for the annual Cleeve Cloud Cuckoo race. The views – and the hills! – were breath-taking. Starting out from Cleeve Common Golf Club, the five-mile route follows an entirely off-road, undulating course across grass and stony tracks, including hazardous descents and the legendary climb up from the &#8216;Wash-Pool'.
 
 Club strong man and accomplished hill-runner **Iain Porter** showed his mastery of the terrain to lead the Striders home, finishing in a brilliant second place overall in a time of 31:53. With another sterling performance, **Jon Howes** finished in 13th place overall in a time 35:22, with the evergreen **Charles Goodwin** hot on his heels in 14th place, taking first MV50 spot. **JJ Willson** ran well to take 38th place in 38:28 and next across the line was **Amelia Mullins**, seeing off some strong competition to finish fourth lady overall and first LV45 in a time of 39:18.
 

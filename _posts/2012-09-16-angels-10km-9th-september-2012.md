@@ -1,5 +1,5 @@
 ---
-id: 478
+
 title: 'Angels 10km &#8211; 9th September 2012'
 date: 2012-09-16T14:31:42+01:00
 excerpt: '<p>Dave Mayo and Amanda Steer went to the Glos series Angels 10k race last Sunday..</p>'

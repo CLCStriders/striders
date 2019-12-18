@@ -1,5 +1,5 @@
 ---
-id: 2974
+
 title: On the Road Again!
 date: 2017-10-23T22:31:02+01:00
 author: Paul Northup

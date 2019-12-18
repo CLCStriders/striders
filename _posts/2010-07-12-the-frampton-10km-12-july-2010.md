@@ -1,5 +1,5 @@
 ---
-id: 159
+
 title: The Frampton 10km 12 July 2010
 date: 2010-07-12T09:00:00+01:00
 author: Clark Lawson

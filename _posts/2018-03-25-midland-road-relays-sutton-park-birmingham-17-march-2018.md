@@ -1,5 +1,5 @@
 ---
-id: 3087
+
 title: Midland Road Relays, Sutton Park, Birmingham, 17 March 2018
 date: 2018-03-25T11:31:44+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 3439
+
 title: Summer routes for Mondays
 date: 2019-03-31T20:30:49+01:00
 author: Paul Northup
@@ -7,7 +7,7 @@ layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=3439
 permalink: /2019/03/summer-routes-for-mondays/
 categories:
-  - Uncategorised
+
 ---
  
 

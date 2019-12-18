@@ -1,15 +1,13 @@
 ---
-id: 3461
-title: 'Will Ferguson&#8217;s debut marathon – London 2019'
-date: 2019-04-29T13:45:29+01:00
+
+title: Will Ferguson's debut marathon – London 2019
 author: Paul Northup
 layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=3461
-permalink: /2019/04/will-fergusons-debut-marathon-london-2019/
 categories:
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 tags:
   - London Marathon
 ---

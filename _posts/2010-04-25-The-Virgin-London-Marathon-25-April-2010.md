@@ -1,5 +1,5 @@
 ---
-id: 180
+
 title: The Virgin London Marathon 25 April 2010.
 date: 2010-04-25T09:00:00+01:00
 excerpt: '<p>Liza Barry Outstanding 2.57.54 Click on the links to find out how all the CLC Striders got on at the Virgin London Marathon, Brendan Ward (Club Chairman) The London Marathon 25 April 2010 Photos Report Results</p>'
@@ -12,14 +12,14 @@ permalink: /2010/04/The-Virgin-London-Marathon-25-April-2010./
 
 **Report**
 
-Liza Barry Led CLC Striders home and produced an outstanding run in the Virgin London Marathon to smash her own personal best time by a staggering 19min&#8217;s 03 secs to finish 28th in her category and record a fantastic 2.57.54 to set a new Women&#8217;s Club Record. Barry ran virtual even splits all the way and maintained a strong pace which was the key to this superb performance. Her first half was 1.28.32, and the second half was 1.29.22, She only slowed in the second part of the race by 50 seconds. Next home for the Striders was  
+Liza Barry Led CLC Striders home and produced an outstanding run in the Virgin London Marathon to smash her own personal best time by a staggering 19min's 03 secs to finish 28th in her category and record a fantastic 2.57.54 to set a new Women's Club Record. Barry ran virtual even splits all the way and maintained a strong pace which was the key to this superb performance. Her first half was 1.28.32, and the second half was 1.29.22, She only slowed in the second part of the race by 50 seconds. Next home for the Striders was  
 Dave Billingham who ran a solid race to record 3.05.40, and set a M45 Club Record, Bethan Miles was just behind Billingham and recorded an excellent 3.08.26, Matt Eggelton followed with a fine 3.20.41 (PB), Tom Thorneycroft was next and did well to record a time of 3.27.06 PB, Veteran Ian Daniels followed and ran well to set a new PB time of 3.42.13, Alexa Phoenix was next and ran an excellent PB of 3.45.59, John Howes had a good run and recorded 3.48.42 to set a PB, Heather Eggelton followed to record a very respectable 4.05.29, Final Strider was Becky Bolton who recorded 5.05.59 which was a grand effort.  
 Well done to all of you!  
 Brendan 
 
 <a name="Report"></a>**Results**
 
-919 Liza Barry 2.57.54 (Women&#8217;s Club Rec) &#8211; PB  
+919 Liza Barry 2.57.54 (Women's Club Rec) &#8211; PB  
 1482 Dave Billingham 3.05.40 (M45 Club Rec) &#8211; PB  
 1719 Bethan Miles 3.08.26  
 3016 Overall Matt Eggelton 3.20.41 &#8211; PB  

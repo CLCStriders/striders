@@ -1,5 +1,5 @@
 ---
-id: 204
+
 title: The Linda Franks 4.2m and 2.2m 24 January 2010
 date: 2010-01-24T09:00:00+00:00
 excerpt: '<p>Thank You Very much for putting on a great show today at the Linda Franks Run. I am so Very happy and proud to be be associated with all of you wonderful people, you keep me motivated and inspired with your effort and commitment to the Striders, Brendan Ward (Club Chairman). Linda Franks 24 January 2010 Photos Report Results</p>'
@@ -16,7 +16,7 @@ Other great runs were had by Phil Jowett who finished in a fine 9th position, Ch
 
 The Ladies were led home by the fast improving Liza Barry who was 2nd Female and finished 22nd overall, next Female finisher for the Club was Rachel Vines who ran a very solid race to finish 47th overall, she was followed by Sarah Papworth who did well to finish in 80th Position overall.
 
-Charlotte Kinder, Claire Salter and Louise Kinder did very well to finish 13th, 20th and 24th overall in the 2.2 mile run. Keep it up girls as it&#8217;s gonna be the 4.2 next year in 2011!!
+Charlotte Kinder, Claire Salter and Louise Kinder did very well to finish 13th, 20th and 24th overall in the 2.2 mile run. Keep it up girls as it's gonna be the 4.2 next year in 2011!!
 
 Thanks for all your efforts, and many thanks to Tony Stanton and Neil Stanton for there Photo and Video work
 
@@ -879,7 +879,7 @@ Brendan
   
   <tr>
     <td>
-      Georgia e&#8217;Esterre
+      Georgia e'Esterre
     </td>
     
     <td>

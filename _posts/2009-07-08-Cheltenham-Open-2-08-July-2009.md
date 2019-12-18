@@ -1,5 +1,5 @@
 ---
-id: 245
+
 title: 'Cheltenham Open #2 08 July 2009'
 date: 2009-07-08T09:00:00+01:00
 excerpt: "<p>The CLC Striders produced some excellent results at the second mid summer open held at the Prince of Wales stadium. Six athletes took part in the 1500 metres (5 set new PB's), 3 Athletes took part in the 600 metres (setting 2 new club records) and one Athlete competed in both the 100 metres and 200 metres (and set a new 200m club record). Brendan Ward, Club Chairman Cheltenham open #2 08 July 2009 Photos Report Results</p>"

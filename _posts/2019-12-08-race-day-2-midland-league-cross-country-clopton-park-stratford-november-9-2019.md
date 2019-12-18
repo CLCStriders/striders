@@ -1,5 +1,5 @@
 ---
-id: 3656
+
 title: 'Race Day 2, Midland League Cross Country  Clopton Park, Stratford November 9 2019'
 date: 2019-12-08T19:58:14+00:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/12/race-day-2-midland-league-cross-country-clopton-park-stratfo
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Clopton Park
   - Stratford

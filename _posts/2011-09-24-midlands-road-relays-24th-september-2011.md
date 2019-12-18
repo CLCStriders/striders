@@ -1,5 +1,5 @@
 ---
-id: 369
+
 title: Midlands Road Relays 24th September 2011
 date: 2011-09-24T20:51:33+01:00
 author: Clark Lawson
@@ -55,7 +55,7 @@ Leg 1 &#8211; Laura Finucane &#8211; 22:52
 
 Leg 2 &#8211; Harpreet Chawla &#8211; 25:10
 
-Men&#8217;s Team &#8211; 52nd place (02:14:40):
+Men's Team &#8211; 52nd place (02:14:40):
 
 Leg 1 &#8211; Chris Driskell &#8211; 21:31
 
@@ -69,4 +69,4 @@ Leg 5 &#8211; Jon Howes &#8211; 23:56
 
 Leg 6 &#8211; Jamie Paterson &#8211; 21:37
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men&#8217;s Results</a>
+<a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>

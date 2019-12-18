@@ -1,5 +1,5 @@
 ---
-id: 2698
+
 title: 'Chedworth Roman Trail, Old Down, Tipton Athletics &#8211; 8th and 9th of April 2017'
 date: 2017-04-11T08:05:47+01:00
 author: Chris Driskell

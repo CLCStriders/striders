@@ -1,5 +1,5 @@
 ---
-id: 302
+
 title: The Gloucester 20 13 March 2011
 date: 2011-03-13T00:00:00+00:00
 excerpt: '<p>There were 4 clc Striders competing in the Gloucester 20 mile road race on Sunday 13 March 2011. The fresh and bright conditions were perfect. Click on the links to see how they got on!!", Rachel Vines </p>'

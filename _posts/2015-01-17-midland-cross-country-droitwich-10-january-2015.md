@@ -1,5 +1,5 @@
 ---
-id: 515
+
 title: 'Midland Cross Country &#8211; Droitwich &#8211; 10 January 2015'
 date: 2015-01-17T16:18:54+00:00
 author: Clark Lawson

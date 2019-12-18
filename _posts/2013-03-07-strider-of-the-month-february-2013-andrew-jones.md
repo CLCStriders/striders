@@ -1,5 +1,5 @@
 ---
-id: 520
+
 title: 'Strider of the Month February 2013: Andrew Jones'
 date: 2013-03-07T21:18:53+00:00
 author: Clark Lawson

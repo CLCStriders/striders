@@ -1,5 +1,5 @@
 ---
-id: 663
+
 title: 'Cotswold Way Relay &#8211; 27 June 2015'
 date: 2015-06-27T16:47:55+01:00
 author: Clark Lawson

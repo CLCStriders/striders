@@ -1,5 +1,5 @@
 ---
-id: 68
+
 title: Tewkesbury Half Marathon 22 May 2011
 date: 2011-05-22T19:46:48+01:00
 excerpt: '<p>Striders take on the wind at Tewkesbury Half Marathon</p>'
@@ -8,7 +8,7 @@ permalink: /2011/05/tewkesbury-half-marathon-22-may-2011/
 ---
 </p> 
 
-Eight CLC striders travelled to Tewkesbury to compete in the half marathon. Although the windy conditions made the course a tough one, there were plenty of PB&#8217;s and prizes to celebrate.
+Eight CLC striders travelled to Tewkesbury to compete in the half marathon. Although the windy conditions made the course a tough one, there were plenty of PB's and prizes to celebrate.
 
 The first Strider to cross the line was Jamie Paterson. Jamie maintained a blistering pace setting himself up for a new PB time of 1:25:04 (gun time) and 28th place overall. John Bird followed, with a fast paced finish, setting another PB time of 1:29:58 (61st place).
 

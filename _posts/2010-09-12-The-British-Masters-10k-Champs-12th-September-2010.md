@@ -1,5 +1,5 @@
 ---
-id: 140
+
 title: The British Masters 10k Champs 12th September 2010
 date: 2010-09-12T09:00:00+01:00
 excerpt: '<p>JP takes the Silver Medal at the British Masters 10k Road Championships held at Goodrich, near Wolverhampton - Sunday 12th September, Brendan Ward (Club Chairman) Goodrich 10km Photos Report Results</p>'

@@ -1,5 +1,5 @@
 ---
-id: 633
+
 title: 'Glos XC County Championships &#8211; Coleford &#8211; 3 Jan 2015'
 date: 2015-01-04T19:33:21+00:00
 author: Clark Lawson

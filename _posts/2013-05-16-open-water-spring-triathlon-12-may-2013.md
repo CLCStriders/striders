@@ -1,5 +1,5 @@
 ---
-id: 536
+
 title: 'Open Water Spring Triathlon &#8211; 12 May 2013'
 date: 2013-05-16T18:16:31+01:00
 excerpt: '<p>Jo Wilkie took to the water.......and the bike........and did some running, in her 1st open water sprint triathlon.</p>'

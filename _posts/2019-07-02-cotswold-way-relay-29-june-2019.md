@@ -1,5 +1,5 @@
 ---
-id: 3519
+
 title: Cotswold Way Relay – 29 June 2019
 date: 2019-07-02T08:35:33+01:00
 author: Paul Northup

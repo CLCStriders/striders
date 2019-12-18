@@ -1,5 +1,5 @@
 ---
-id: 612
+
 title: 'Strider of the Month &#8211; July 2014 &#8211; George Parker'
 date: 2014-08-03T19:46:51+01:00
 author: Clark Lawson

@@ -6,7 +6,7 @@ categories:
   - Announcements
   - Training
 ---
-With the arrival of darker evenings, we&#8217;re back to running the winter routes on Mondays and training on the Honeybourne Line on Wednesdays. 
+With the arrival of darker evenings, we're back to running the winter routes on Mondays and training on the Honeybourne Line on Wednesdays. 
 
 Monday 4 mile route: <a rel="noreferrer noopener" href="http://www.gmap-pedometer.com/?r=6085072&fbclid=IwAR2Pi0xMkFReB66GW3ETFhSVl7aoFrcbW26ksnHiFRe0QUfUjbABc8bfgz4" target="_blank">http://www.gmap-pedometer.com/?r=6085072</a>
 

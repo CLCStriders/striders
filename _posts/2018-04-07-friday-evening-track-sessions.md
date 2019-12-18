@@ -1,5 +1,5 @@
 ---
-id: 3111
+
 title: Friday Evening Track Sessions
 date: 2018-04-07T20:48:24+01:00
 author: Clark Lawson
@@ -29,6 +29,6 @@ This gives an opportunity either for members who cannot attend on Wednesdays to 
 
 **What do I need?** Your own timing device as you will time your own recoveries (a simple digital watch is fine and a drink.
 
-Please note that these sessions may occasionally be subject to change; keep an eye on our Members&#8217; Facebook page.
+Please note that these sessions may occasionally be subject to change; keep an eye on our Members' Facebook page.
 
 Current dates booked: April 13, 20, 27, May 4, 25.

@@ -1,5 +1,5 @@
 ---
-id: 482
+
 title: 'Strider of the Month September 2012: Dave Mayo'
 date: 2012-10-07T20:40:12+01:00
 author: Clark Lawson

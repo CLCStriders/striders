@@ -1,5 +1,5 @@
 ---
-id: 562
+
 title: 'Strider of the Month &#8211; September 2013 &#8211; Hilary Mott'
 date: 2013-10-09T20:19:32+01:00
 author: Clark Lawson

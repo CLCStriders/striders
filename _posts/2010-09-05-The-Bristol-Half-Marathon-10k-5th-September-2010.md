@@ -1,5 +1,5 @@
 ---
-id: 143
+
 title: The Bristol Half Marathon 10k 5th September 2010
 date: 2010-09-05T09:00:00+01:00
 excerpt: "<p>Nine Striders braved the rain to compete in the Bristol Half Marathon. Another club record beaten and a selection of PB's - excellent efforts by all, well done. Many thanks to Jon and Helen for writing the race report. Click on the links to see the report, Brendan Ward (Club Chairman) The Bristol Half Marathon Report Results</p>"
@@ -22,9 +22,9 @@ permalink: /2010/09/The-Bristol-Half-Marathon-10k-5th-September-2010/
 
 **<a name="Results"><a name="Report"></a>Report</a>**
 
-The rain didn&#8217;t dampen the spirits of the 9 Striders who took to the streets of Bristol for the Bristol Half Marathon.Roared on by an enthusiastic crowd and amongst some high class international talent there were some spritely performances.
+The rain didn't dampen the spirits of the 9 Striders who took to the streets of Bristol for the Bristol Half Marathon.Roared on by an enthusiastic crowd and amongst some high class international talent there were some spritely performances.
 
-Jon Howes was first across the line in a pb of 1.32, followed shortly by the trio of Nikki Smith, Rob Lynch and John Adekambi in 1.38. Next home was Paula Lipscombe who ran very well to record 1.52, followed by Paul Jenkins who, despite a slight &#8216;accident&#8217;only 24 hours earlier, still managed to record a great time of 1.53. Helen Howes smashed 8 minutes off her pb to record 1.56 and she was followed by Nicola Christian in 1.58. Anna Gould then accomplished a very good 2.23, completing a great race in a fantastic atmosphere. 
+Jon Howes was first across the line in a pb of 1.32, followed shortly by the trio of Nikki Smith, Rob Lynch and John Adekambi in 1.38. Next home was Paula Lipscombe who ran very well to record 1.52, followed by Paul Jenkins who, despite a slight &#8216;accident'only 24 hours earlier, still managed to record a great time of 1.53. Helen Howes smashed 8 minutes off her pb to record 1.56 and she was followed by Nicola Christian in 1.58. Anna Gould then accomplished a very good 2.23, completing a great race in a fantastic atmosphere. 
 
 Well done to all those involved!
 

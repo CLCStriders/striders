@@ -1,5 +1,5 @@
 ---
-id: 3000
+
 title: 'Race Report for Sunday 26 November 2107: Gloucester 10K and Howling Bull Run'
 date: 2017-11-27T13:34:01+00:00
 author: Paul Northup

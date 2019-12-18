@@ -1,5 +1,5 @@
 ---
-id: 1973
+
 title: 'Glos XC League Warwick University &#8211; 20/02/2016'
 date: 2016-02-21T12:46:46+00:00
 author: Chris Driskell
@@ -10,7 +10,7 @@ categories:
   - Cross Country Reports
   - News
   - Race Reports
-  - Uncategorised
+
 ---
 CLC Striders made the long trip to Warwick University worthwhile as they came home with medals galore following the fourth and final fixture in the Gloucestershire Cross Country League.
 

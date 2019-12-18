@@ -1,5 +1,5 @@
 ---
-id: 637
+
 title: 'Strider of the Month &#8211; January 2015 &#8211; Liza Barry'
 date: 2015-02-09T21:08:42+00:00
 author: Clark Lawson

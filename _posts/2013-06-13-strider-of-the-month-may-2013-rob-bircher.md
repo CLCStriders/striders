@@ -1,5 +1,5 @@
 ---
-id: 544
+
 title: 'Strider of the Month &#8211; May 2013 &#8211; Rob Bircher'
 date: 2013-06-13T18:21:32+01:00
 author: Clark Lawson

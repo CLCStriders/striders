@@ -1,5 +1,5 @@
 ---
-id: 178
+
 title: The BUCS Track Championships 02 May 2010
 date: 2010-05-02T09:00:00+01:00
 excerpt: '<p>Super Will ran a great race in very windy and blustery conditions to finish 2nd in the BUCS 10K Track B Race Final Held at Bedford International Stadium on Sunday 2nd May 2010, Brendan Ward (Club Chairman) BUCS Track 10000m 02 May 2010 Photos Report Results</p>'
@@ -10,7 +10,7 @@ permalink: /2010/05/The-BUCS-Track-Championships-02-May-2010-/
 
 **Report**
 
-Super Will led to half way which was reached in 16.40, and was over taken and had to work hard to hang on to eventual winner Mike Kallenburg from UWIC who ran 32.46.62 to Ferguson&#8217;s 32.57.14. Both Athletes ran massive neggative splits for the second half of the race where they lapped almost all the field of Runners.  
+Super Will led to half way which was reached in 16.40, and was over taken and had to work hard to hang on to eventual winner Mike Kallenburg from UWIC who ran 32.46.62 to Ferguson's 32.57.14. Both Athletes ran massive neggative splits for the second half of the race where they lapped almost all the field of Runners.  
 Will set a new lifetime PB and also set a New Club Track 10K Record to boot.  
 Well Done Super!!
 

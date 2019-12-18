@@ -1,5 +1,5 @@
 ---
-id: 212
+
 title: Gloucestershire XC League 12 Dec 09
 date: 2009-12-12T09:00:00+00:00
 excerpt: '<p>23 CLC Striders battled hard in the 3rd race of the Gloucestershire Cross Country League. Despite problems with his PC, Brendan managed to send the following message; You all mean so much to me and I feel very proud of you all for taking the time out from your Christmas shopping to run for this special club, Brendan Ward (Club Chairman) Glos XC League #3 12 Dec 2009 Photos + Video Report Results</p>'
@@ -50,7 +50,7 @@ CLC B Team Finished 3rd = 611 Points
 72. Sylvia Koster 40.27 LV60  
 76. Jill Harsent 40.55 LV50  
 94. Sal Drummond 48.26  
-96. Georgia D&#8217;Esterre 54.10
+96. Georgia D'Esterre 54.10
 
 Team Competition &#8211; 24 Teams Entered
 

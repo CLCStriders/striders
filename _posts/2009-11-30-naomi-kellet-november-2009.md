@@ -1,5 +1,5 @@
 ---
-id: 324
+
 title: 'Naomi Kellet: November 2009'
 date: 2009-11-30T00:00:00+00:00
 author: Clark Lawson

@@ -1,5 +1,5 @@
 ---
-id: 2168
+
 title: 'Paul Northup &#8211; VLM 2016 Race Day'
 date: 2016-05-07T20:32:17+01:00
 author: Clark Lawson
@@ -7,9 +7,9 @@ layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=2168
 permalink: /2016/05/paul-northup-vlm-2016-race-day/
 categories:
-  - Uncategorised
+
 ---
-CLC Striders&#8217; official club place ballot winner, Paul Northup, shares his race day thoughts.<!--more-->
+CLC Striders' official club place ballot winner, Paul Northup, shares his race day thoughts.<!--more-->
 
 My race day turned out to be two days long in the end! I was so hyped and full of gels and lucozade sport (both of which I’m not that used to) after the marathon that I didn’t sleep a wink on the night after the marathon and was still buzzing the whole day after. 
 
@@ -45,14 +45,14 @@ But, again on reflection, I should to be kinder to myself. Because at the time, 
 
 A few takeaways: 
 
-• I enjoyed it, I didn&#8217;t just endure it.  
+• I enjoyed it, I didn't just endure it.  
 • The miles in the bank paid off. I didn’t tire dramatically and my legs weren’t shot after.  
 • The thought of CLC Striders tracking me and rooting for me from home was a real boost all the way round.  
 • I’ve never run all the way in a marathon before. This time, the thought of a little walk didn’t even cross my mind!  
 • This was the first marathon where I felt like I began to do myself some justice at the distance.  
 • I feel like there’s more to come.  
 • I’ve made a mental breakthrough with the marathon distance now. I know I can run it. This counts for a lot. As much as the physical prep, almost.  
-• I got my &#8216;Good For Age&#8217; time and so plan to enter again next year and to build on this year’s training and prep and lessons learned to try and run it better next time around.
+• I got my &#8216;Good For Age' time and so plan to enter again next year and to build on this year’s training and prep and lessons learned to try and run it better next time around.
 
 I’ve run only twice since the marathon and have come down with a post-race virus which has made me feel like a zombie. But I plan to run the 10k at Berkeley on Monday and then in the Tewkesbury Half a week on Sunday. We’ll see how it goes. (Guess which one I feel best prepared for!)
 

@@ -1,5 +1,5 @@
 ---
-id: 616
+
 title: 'Gloucestershire County Championships &#8211; 27/08/2014'
 date: 2014-09-02T13:23:17+01:00
 excerpt: '<p>Eighteen CLC Striders took to the Prince of Wales Stadium track to compete in the Mile and 10,000m events in Part 3 of the Gloucestershire County Championships.</p>'

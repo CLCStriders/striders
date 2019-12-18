@@ -1,5 +1,5 @@
 ---
-id: 479
+
 title: 'Cirencester 10km &#8211; 23rd September 2012'
 date: 2012-10-01T16:38:38+01:00
 excerpt: '<p>11 Striders competed in the Cirencester 10km last Sunday..</p>'

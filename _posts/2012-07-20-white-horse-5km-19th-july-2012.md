@@ -1,5 +1,5 @@
 ---
-id: 464
+
 title: 'White Horse 5km &#8211; 19th July 2012'
 date: 2012-07-20T06:40:49+01:00
 excerpt: '<p>16 Striders ran in the White Horse 5km on Thursday</p>'

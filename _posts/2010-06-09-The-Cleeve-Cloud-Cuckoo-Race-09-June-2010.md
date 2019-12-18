@@ -1,5 +1,5 @@
 ---
-id: 166
+
 title: The Cleeve Cloud Cuckoo Race 09 June 2010
 date: 2010-06-09T09:00:00+01:00
 excerpt: '<p>Smeath goes cuckcoo on the hill! Click on the links to look at the photos and read all about the great club performances in this tough local off-road race, Brendan Ward (Club Chairman) Cleeve Cuckoo 09 June 2010 Photos Report Results</p>'
@@ -10,11 +10,11 @@ permalink: /2010/06/The-Cleeve-Cloud-Cuckoo-Race-09-June-2010-/
 
 **Report**
 
-Dave Smeath led the Striders Team home in an excellent 12th place, Dave Billingham followed in 16th, with Mark Harper just behind in 17th which gave CLC Men&#8217;s A Team a very respectable 3rd place overall in the Team competition.
+Dave Smeath led the Striders Team home in an excellent 12th place, Dave Billingham followed in 16th, with Mark Harper just behind in 17th which gave CLC Men's A Team a very respectable 3rd place overall in the Team competition.
 
-The Striders B Team were led home by Ewan Dunlop who ran well to clinch 20th place, Lee Burge was next home in 23rd place, V50 Glyn Bagnall on the comeback trail, did well to finish 26th place overall. Bagnall also won the Men&#8217;s V50 prize. CLC Men&#8217;s B Team finished 7th overall.
+The Striders B Team were led home by Ewan Dunlop who ran well to clinch 20th place, Lee Burge was next home in 23rd place, V50 Glyn Bagnall on the comeback trail, did well to finish 26th place overall. Bagnall also won the Men's V50 prize. CLC Men's B Team finished 7th overall.
 
-The Striders Women&#8217;s Team were led in by Jo Wilkie who ran very well to finish 57th overall and 2nd Lady to finish, Sian Holley was next in 60th spot and was 3rd Lady to finish, Nikki Smith was the final A Team scorer in 80th place overall and first L45 to finish. The Striders Women&#8217;s Team finished in 2nd place.
+The Striders Women's Team were led in by Jo Wilkie who ran very well to finish 57th overall and 2nd Lady to finish, Sian Holley was next in 60th spot and was 3rd Lady to finish, Nikki Smith was the final A Team scorer in 80th place overall and first L45 to finish. The Striders Women's Team finished in 2nd place.
 
 Other notable performances werer had by V45 Charles Goodwin who finished 31st overall, Nicola Christian (L45) who did very well to finish 92nd overall, and Dawn Addinall L60 who also acquitted herself well on this very tough multi terrain course finishing in 100th spot.
 

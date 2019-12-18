@@ -1,5 +1,5 @@
 ---
-id: 248
+
 title: '100m &amp; 1mile Club Champs 24 June 2009'
 date: 2009-06-24T09:00:00+01:00
 excerpt: "<p>We had a fabulous turnout for the final club championship series Races on Wednesday 24th June 2009. Thanks for supporting these events it's been a lot of fun!!Brendan Ward, Club Chairman 100m &amp; 1mile Club Champs 24 June 2009 Photos Report Results</p>"
@@ -12,11 +12,11 @@ permalink: '/2009/06/100m-&amp;-1mile-Club-Champs-24-June-2009/'
 
 We had a fabulous turnout for the final club championship series Races on Wednesday 24th June 2009.
 
-The first race was the 100 metres where we had five heats, the men&#8217;s title was won by Nick the bolt O&#8217;Neil, and the woman&#8217;s was won by Emma Loveridge both running very respectable times considering wind was against and it was on grass and slightly up hill.
+The first race was the 100 metres where we had five heats, the men's title was won by Nick the bolt O'Neil, and the woman's was won by Emma Loveridge both running very respectable times considering wind was against and it was on grass and slightly up hill.
 
-The mile race had 20 runners taking part which was great for the spectators, the men&#8217;s title was won by Will Ferguson and the woman&#8217;s was won by Nina Oates. It was also great to watch our President Chris White taking part in the mile &#8211; well done Sir!!
+The mile race had 20 runners taking part which was great for the spectators, the men's title was won by Will Ferguson and the woman's was won by Nina Oates. It was also great to watch our President Chris White taking part in the mile &#8211; well done Sir!!
 
-Thanks for supporting these events it&#8217;s been a lot of fun!!
+Thanks for supporting these events it's been a lot of fun!!
 
 Bren
 

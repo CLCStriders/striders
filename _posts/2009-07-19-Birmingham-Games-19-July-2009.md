@@ -1,5 +1,5 @@
 ---
-id: 238
+
 title: Birmingham Games 19 July 2009
 date: 2009-07-19T09:00:00+01:00
 excerpt: '<p>CLC Striders competed in the Birmingham Games held at the Alexander stadium Birmingham. This is an open athletics meeting which also incorporates the midlands 3000 metre championships men and women!!This was a great experience for us all, and saw every CLC Strider set a personal best time for there respective distances Brendan Ward, Club Chairman Birmingham Games 19 July 2009 Photos Report Results</p>'
@@ -12,11 +12,11 @@ permalink: /2009/07/Birmingham-Games-19-July-2009/
 
 CLC Striders competed in the Birmingham Games held at the Alexander stadium Birmingham. This is an open athletics meeting which also incorporates the midlands 3000 metre championships men and women.
 
-The Striders had 3 men in the 800 metres, all performed well running personal best times with Phil Jowetts 2.10.98 breaking his own club V40 Record, and also put him high up in the British Vet Rankings. Ashley Bishop and Tom Boyd also set pb&#8217;s for the distance.
+The Striders had 3 men in the 800 metres, all performed well running personal best times with Phil Jowetts 2.10.98 breaking his own club V40 Record, and also put him high up in the British Vet Rankings. Ashley Bishop and Tom Boyd also set pb's for the distance.
 
-The 3000 metre womens race saw Rachel Vines running out of her skin to smash her own pb and set a women&#8217;s club record to boot, with Lisa Boyd also having a fine run to set a new lifetime best. Nina Oates unfortunately had to retire through injury. 
+The 3000 metre womens race saw Rachel Vines running out of her skin to smash her own pb and set a women's club record to boot, with Lisa Boyd also having a fine run to set a new lifetime best. Nina Oates unfortunately had to retire through injury. 
 
-In the men&#8217;s 3000 metres Will ferguson ran well to set a new men&#8217;s club record running just outside nine minutes, in the same race both Rich Dare and Lee Burge also set new personal best times.
+In the men's 3000 metres Will ferguson ran well to set a new men's club record running just outside nine minutes, in the same race both Rich Dare and Lee Burge also set new personal best times.
 
 This was a great experience for us all, and saw every CLC Strider set a personal best time for there respective distances.
 

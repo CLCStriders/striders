@@ -198,11 +198,11 @@ been in the fitness Industry for over 20yrs now. I am an active triathlete and r
 completed 2 Ironman events in Germany and Spain.<br />
 Last year May 2015 I completed 5 Ultras in 5 days, The Forces March. A week never to forget.<br />
 I know how demanding sport and exercise can be from 1st time events to the big stuff. I was there<br />
-once and have learned many good things along the way. My motto is &#8216;Believe to Achieve&#8217;<br />
+once and have learned many good things along the way. My motto is &#8216;Believe to Achieve'<br />
 Running for many is a way of life. Fantastic while you can run and horrendous when you are<br />
 injured.<br />
 I love what I do and hope to inspire and help people get back to what they love doing when a<br />
-niggle comes their way and won&#8217;t go away.<br />
+niggle comes their way and won't go away.<br />
 I now have a clinic from my home address in Gloucester. A beautiful cedar built cabin room at the<br />
 end of my garden. I can now offer more evening appointments throughout the week between<br />
 Cheltenham and Gloucester.</td>

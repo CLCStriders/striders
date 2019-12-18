@@ -1,5 +1,5 @@
 ---
-id: 687
+
 title: 'Cheltenham Half Marathon &#8211; 27 September 2015'
 date: 2015-09-27T16:57:30+01:00
 author: Clark Lawson
@@ -9,7 +9,7 @@ permalink: /2015/09/cheltenham-half-marathon-27-september-2015/
 categories:
   - Road Reports
 ---
-There were personal bests galore for CLC Striders as for the second year running the club claimed the Team Prize at Cheltenham’s Half Marathon whilst also being the events &#8216;Club of the Year&#8217;. The four Brendan Ward coached athletes comprising the winning team were Will Ferguson (72:16 &#8211; PB) Iain Porter (78:55) Liza Barry (87:11) and Katie Truslove (88:23 &#8211; PB).<!--more-->
+There were personal bests galore for CLC Striders as for the second year running the club claimed the Team Prize at Cheltenham’s Half Marathon whilst also being the events &#8216;Club of the Year'. The four Brendan Ward coached athletes comprising the winning team were Will Ferguson (72:16 &#8211; PB) Iain Porter (78:55) Liza Barry (87:11) and Katie Truslove (88:23 &#8211; PB).<!--more-->
 
 As the event’s official &#8216;Club Of The Year’ CLC Striders had a strong showing of 50 members running, with the aforementioned Will Ferguson leading the striders contingent to finish in fourth place overall, just 12 seconds behind the third place finisher. The next Strider over the line was Iain Porter who was 19th overall. Running in his first ever half marathon, Sam Baylis ran a superb race to finish in 81:19 closely followed by Charles Goodwin who demolished his personal best to finish in 82:02, a performance which puts Goodwin in the top 100 Vet50 runners over the half marathon distance in the UK this year. Another notable performance came from the ever improving Jon Howes who took over 3 minutes off of his PB to complete the race in 82:44. James Oram made a strong start to the race but found the pace hard going and faded in the latter stages still however finishing in a very respectable 83:24.
 

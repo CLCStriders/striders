@@ -1,5 +1,5 @@
 ---
-id: 3592
+
 title: 'Glos Cross Country League: Race Day 1, Wooton, 13.10.19'
 date: 2019-10-15T08:35:20+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/10/glos-cross-country-league-race-day-one-wooton-13-10-19/
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Wooton Park
 ---

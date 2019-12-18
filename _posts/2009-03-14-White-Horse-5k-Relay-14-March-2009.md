@@ -1,5 +1,5 @@
 ---
-id: 279
+
 title: White Horse 5k Relay 14 March 2009
 date: 2009-03-14T09:00:00+00:00
 excerpt: "<p>We had a great turnout today, fielding 4 men's teams, and two women's teams. The highlights of the day were CLC Striders ladies A-team finishing third, winning Bronze medals. Nathan Jones (the special one) running the fastest leg for the men. Thanks again for your efforts and support Brendan Ward, Club Chairman White Horse 3.25 mile Relay 14 March 2009 Photos Report Results</p>"

@@ -1,5 +1,5 @@
 ---
-id: 570
+
 title: 'Strider of the Month &#8211; December 2013 &#8211; Vicky Veness'
 date: 2014-01-05T22:26:10+00:00
 author: Clark Lawson

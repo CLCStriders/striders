@@ -1,5 +1,5 @@
 ---
-id: 2644
+
 title: CLC Striders Race report for 18 and 19 March 2017 Gloucester 20, Reading Half Marathon and the ‘Mad Dog’ Forest of Dean Canicross Half Marathon
 date: 2017-03-23T11:02:41+00:00
 author: Chris Driskell

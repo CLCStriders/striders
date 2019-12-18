@@ -1,5 +1,5 @@
 ---
-id: 317
+
 title: 'Chris Hale (GPS): May 2010'
 date: 2010-05-31T00:00:00+01:00
 author: Clark Lawson

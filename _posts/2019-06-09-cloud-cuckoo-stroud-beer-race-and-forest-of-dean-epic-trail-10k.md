@@ -1,5 +1,5 @@
 ---
-id: 3496
+
 title: Cloud Cuckoo, Stroud Beer Race and Forest of Dean Epic Trail 10k
 date: 2019-06-09T19:14:14+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/06/cloud-cuckoo-stroud-beer-race-and-forest-of-dean-epic-trail-
 categories:
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 tags:
   - Cloud Cuckoo
   - Forest of Dean Epic Trail 10k

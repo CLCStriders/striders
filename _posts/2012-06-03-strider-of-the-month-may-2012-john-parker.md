@@ -1,5 +1,5 @@
 ---
-id: 451
+
 title: 'Strider of the Month May 2012: John Parker'
 date: 2012-06-03T13:48:14+01:00
 author: Clark Lawson

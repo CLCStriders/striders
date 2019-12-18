@@ -1,5 +1,5 @@
 ---
-id: 3252
+
 title: Gloucestershire Cross Country League – Race 1 (16 Oct 2018)
 date: 2018-10-16T14:33:29+01:00
 author: Paul Northup

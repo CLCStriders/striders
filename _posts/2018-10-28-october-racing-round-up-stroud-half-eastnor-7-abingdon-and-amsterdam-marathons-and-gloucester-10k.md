@@ -1,5 +1,5 @@
 ---
-id: 3256
+
 title: 'October racing: Stroud Half, Eastnor 7, Abingdon &#038; Amsterdam marathons, Gloucester 10k'
 date: 2018-10-28T16:25:48+00:00
 author: Paul Northup

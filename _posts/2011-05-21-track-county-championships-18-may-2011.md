@@ -1,5 +1,5 @@
 ---
-id: 67
+
 title: Track county championships 18 May 2011
 date: 2011-05-21T13:53:07+01:00
 excerpt: '<p>A squad of six CLC striders took part in part 1 of the track county championships at the Prince of Wales stadium.</p>'

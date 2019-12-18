@@ -1,5 +1,5 @@
 ---
-id: 113
+
 title: The Glos XC League 11 December 2010
 date: 2010-12-11T09:00:00+00:00
 excerpt: "<p>Some very close racing between the Striders, resulted in the Ladys'team extending thier impressive lead in the league and the men running their socks off to come home with a cracking 4th place. Well done, I'm so proud, you're the best!, Brendan Ward (Club Chairman) Glos XC League Photos Report Results</p>"

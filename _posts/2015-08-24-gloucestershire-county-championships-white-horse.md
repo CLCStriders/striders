@@ -1,5 +1,5 @@
 ---
-id: 677
+
 title: 'Gloucestershire County Championships &#8211; White Horse'
 date: 2015-08-24T16:52:44+01:00
 author: Clark Lawson

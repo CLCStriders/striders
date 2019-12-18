@@ -1,5 +1,5 @@
 ---
-id: 563
+
 title: 'Cotswold Farm Park &#8211; Cross Country &#8211; 11 October 2014'
 date: 2014-10-13T20:08:29+01:00
 author: Clark Lawson
@@ -9,9 +9,9 @@ permalink: /2014/10/cotswold-farm-park-cross-country-11-october-2014/
 categories:
   - Awards
 ---
-The Striders ladies race was first to start. CLC are the county&#8217;s leading ladies cross country team, winning four county league titles over the past five years and the club didn&#8217;t disappoint; they finished second team on the day, and were first Gloucestershire club. The Striders ladies were led home by their bright new signing Katie Trustlove who, in her first ever cross country ,race led the ladies A team home in an excellent 8th place. Jo Wilkie ran well in 11th, and Liza Barry ran an excellent comeback race finishing in 14th place. With several months of racing ahead it certainly looks like the striders ladies are in a good place. Meanwhile, Rachel Vines led the B team to 5th place overall. Vines was backed up well by Vicky Veness who was 22nd with Amelia Mullins finishing in a solid 24th place. Other notable performances were had by Amanda Steer, Rachel Burdick, Beckie Boulton, Emma Abbey, Nikki Smith, Dawn Addinall and Amanda Pill.
+The Striders ladies race was first to start. CLC are the county's leading ladies cross country team, winning four county league titles over the past five years and the club didn't disappoint; they finished second team on the day, and were first Gloucestershire club. The Striders ladies were led home by their bright new signing Katie Trustlove who, in her first ever cross country ,race led the ladies A team home in an excellent 8th place. Jo Wilkie ran well in 11th, and Liza Barry ran an excellent comeback race finishing in 14th place. With several months of racing ahead it certainly looks like the striders ladies are in a good place. Meanwhile, Rachel Vines led the B team to 5th place overall. Vines was backed up well by Vicky Veness who was 22nd with Amelia Mullins finishing in a solid 24th place. Other notable performances were had by Amanda Steer, Rachel Burdick, Beckie Boulton, Emma Abbey, Nikki Smith, Dawn Addinall and Amanda Pill.
 
-The men&#8217;s race saw Will Ferguson run well to finish 6th. Following Ferguson was Mark Langman who had a great run in 28th. Juan Moreno followed in 31st with Jon Howes doing well to finish in 64th place. New signing Neil Broadbent ran an excellent race to finish 75th. Final Strider A team member to finish was veteran Rich Shardlow who was 84th. The A team, considering they were missing four of their faster runners, did well to finish 7th on the day.
+The men's race saw Will Ferguson run well to finish 6th. Following Ferguson was Mark Langman who had a great run in 28th. Juan Moreno followed in 31st with Jon Howes doing well to finish in 64th place. New signing Neil Broadbent ran an excellent race to finish 75th. Final Strider A team member to finish was veteran Rich Shardlow who was 84th. The A team, considering they were missing four of their faster runners, did well to finish 7th on the day.
 
 Other notable performances were had by Jo Maddocks. Paul Harsent, JJ Willson, Billy Bradshaw, Stuart Barr, Phil Jowett, Dave Mayo, Clark Lawson, Gavin Jermin, George Parker, Rich Haslam, Gordon Bendall, Martin Bick & Rob Gladwin.
 

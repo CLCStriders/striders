@@ -1,5 +1,5 @@
 ---
-id: 179
+
 title: The Sheffield Half Marathon 25 April 2010
 date: 2010-04-25T09:00:00+01:00
 excerpt: '<p>Well done to Chris Driskell who ran a great race to record a strong time at the very hilly Sheffield half marathon on 25 April 2010. Chris recorded a chip time of 1:23.35. Well done! , Brendan Ward (Club Chairman) Sheffield Half Marathon 25 April 2010 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2010/04/The-Sheffield-Half-Marathon-25-April-2010-/
 
 **Report**
 
-The Sheffield half marathon is one of the biggest participation events in Sheffield?s sporting calendar, with city centre landmarks and roads lined with enthusiastic spectators, who were bathed in the warmer than usual weather. The warm weather didn&#8217;t prevent Chris from running a great race on this hilly course, and his strong performance gianed him a great time of 1:23:35 in 59th place. Well done Chris!  
+The Sheffield half marathon is one of the biggest participation events in Sheffield?s sporting calendar, with city centre landmarks and roads lined with enthusiastic spectators, who were bathed in the warmer than usual weather. The warm weather didn't prevent Chris from running a great race on this hilly course, and his strong performance gianed him a great time of 1:23:35 in 59th place. Well done Chris!  
 Brendan 
 
 <a name="Report"></a>**Results**</p> 

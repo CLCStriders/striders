@@ -1,5 +1,5 @@
 ---
-id: 3269
+
 title: Midland Cross Country Leagues, Race Day 1, Sat 10 November 2018
 date: 2018-11-12T10:07:56+00:00
 author: Paul Northup

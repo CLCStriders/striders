@@ -1,5 +1,5 @@
 ---
-id: 184
+
 title: The Birchfield Harriers Open 17 April 2010
 date: 2010-04-17T09:00:00+01:00
 excerpt: "<p>Seven CLC Striders launched there 2010 Track Season at the Birchfield Harriers Open Saturday 17th April 2010. Between them they Set Seven Club Records and Seven PB's to boot.Fabulous Effort - Well done!!, Brendan Ward (Club Chairman) Birchfield Harriers Open 17 April 2010 Photos Report Results</p>"

@@ -1,5 +1,5 @@
 ---
-id: 604
+
 title: 'Cheltenham parkrun &#8211; 14 June 2014'
 date: 2014-06-15T14:03:31+01:00
 excerpt: '<p>The club were welcomed to fill all volunteer positions at the 69th Cheltenham parkrun on Saturday 14th June and the army of Striders came out in force with us being able to organise the first "pacing day" at Cheltenham parkrun.</p>'
@@ -8,7 +8,7 @@ permalink: /2014/06/cheltenham-parkrun-14-june-2014/
 ---
 The local parkrun is held every Saturday at 9am to run 5km around Pittville park and is a regular event for a number of Striders. The event attracted 350 runners from a wide range of running abilities and even attracted &#8220;parkrun tourists&#8221; from Southampton and London.
 
-The club were invited to fill all volunteer positions at the event and due to so many Striders offering their support for the event it meant that we were able to offer the parkrun&#8217;s first ever &#8220;pacing day&#8221; with pacers from 19 minutes through to 30 minutes.
+The club were invited to fill all volunteer positions at the event and due to so many Striders offering their support for the event it meant that we were able to offer the parkrun's first ever &#8220;pacing day&#8221; with pacers from 19 minutes through to 30 minutes.
 
 Thanks to the following Striders who took up non-running roles:
 

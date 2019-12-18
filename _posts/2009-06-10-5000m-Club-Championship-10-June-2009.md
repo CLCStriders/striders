@@ -1,5 +1,5 @@
 ---
-id: 251
+
 title: 5000m Club Championship 10 June 2009
 date: 2009-06-10T09:00:00+01:00
 excerpt: '<p>Ten runners took part in the club 5k Track championships held on a very wet evening on the college grass track at CLC Sports Centre. Well done to you all for running in the wet, it was a lot of fun!! Brendan Ward, Club Chairman 5000m Club Championship 10 June 2009 Photos Report Results</p>'
@@ -12,9 +12,9 @@ permalink: /2009/06/5000m-Club-Championship-10-June-2009/
 
 Ten runners took part in the club 5k Track Championships held on a very wet evening on the college grass Track at CLC Sports centre.
 
-Will Ferguson dominated the race from start to finish to record an excellent 16.22.64 to set a new men&#8217;s club record clipping almost four seconds of his previous mark.
+Will Ferguson dominated the race from start to finish to record an excellent 16.22.64 to set a new men's club record clipping almost four seconds of his previous mark.
 
-Nina Oates won the women&#8217;s 5k running very well to record a time of 20.58.57 to set a ladies club record.
+Nina Oates won the women's 5k running very well to record a time of 20.58.57 to set a ladies club record.
 
 Well done to you all for running in the wet it was a lot of fun!!
 

@@ -1,5 +1,5 @@
 ---
-id: 615
+
 title: 'Strider of the Month &#8211; August 2014 &#8211; Iain Porter'
 date: 2014-09-01T19:40:38+01:00
 author: Clark Lawson
@@ -9,4 +9,4 @@ permalink: /2014/09/strider-of-the-month-august-2014-iain-porter/
 categories:
   - Awards
 ---
-Iain has run Personal bests over 5k and 10k distances, and has proved to be an athlete of great potential. Iain wins this month&#8217;s Gloucester Sports voucher. Well done Iain.
+Iain has run Personal bests over 5k and 10k distances, and has proved to be an athlete of great potential. Iain wins this month's Gloucester Sports voucher. Well done Iain.

@@ -1,5 +1,5 @@
 ---
-id: 417
+
 title: 'Bath Half Marathon &#8211; 11th March 2012'
 date: 2012-03-14T21:24:53+00:00
 excerpt: '<p>Well done to the five Striders who ran in the Bath Half Marathon on Sunday...</p>'

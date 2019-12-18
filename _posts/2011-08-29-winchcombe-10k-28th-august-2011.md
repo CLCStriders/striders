@@ -1,5 +1,5 @@
 ---
-id: 357
+
 title: Winchcombe 10K 28th August 2011
 date: 2011-08-29T20:40:32+01:00
 excerpt: '<p>Striders compete in the Winchcombe 10K Hill Climb</p>'

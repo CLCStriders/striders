@@ -1,5 +1,5 @@
 ---
-id: 3141
+
 title: 'Canicross: May 2018 races'
 date: 2018-05-14T09:37:12+01:00
 author: Paul Northup

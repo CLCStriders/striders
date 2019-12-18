@@ -1,5 +1,5 @@
 ---
-id: 488
+
 title: 'Strider of the Month October 2012: Vicky Lewis'
 date: 2012-11-01T13:02:54+00:00
 author: Clark Lawson
@@ -11,7 +11,7 @@ categories:
 ---
 </p> 
 
-Vicky Lewis is the winner of October&#8217;s Strider of the Month award. Vicky has been improving race by race, and ran superbly in the last Glos X Country at Cotswold Farm Park where she finished 17th.  
+Vicky Lewis is the winner of October's Strider of the Month award. Vicky has been improving race by race, and ran superbly in the last Glos X Country at Cotswold Farm Park where she finished 17th.  
 Well done Vicky!  
 Bren
 

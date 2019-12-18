@@ -1,5 +1,5 @@
 ---
-id: 685
+
 title: 'Strider of the Month &#8211; August 2015 &#8211; JJ Willson'
 date: 2015-08-31T16:57:01+01:00
 author: Clark Lawson

@@ -1,5 +1,5 @@
 ---
-id: 2490
+
 title: 'Red Bull Steeplechase, Exmoor &#8211; 09/10/2016'
 date: 2016-10-20T18:31:38+01:00
 author: Chris Driskell
@@ -13,8 +13,8 @@ categories:
 ---
 Well done and congratulations to William Allan Newton, Will Pearce and Liza Barry who competed in the Red Bull Steeplechase.
 
-Pearce and Newton had excellent runs in the men&#8217;s race finishing in 79th place and 84th place respectively in this 281 strong field with times of 2:50:17 and 2:54:00 at Steeple 3.
+Pearce and Newton had excellent runs in the men's race finishing in 79th place and 84th place respectively in this 281 strong field with times of 2:50:17 and 2:54:00 at Steeple 3.
 
-Performance of the day came from Liza Barry who finished in a fantastic 5th overall in the ladies&#8217; race in a time of 3:40:30.
+Performance of the day came from Liza Barry who finished in a fantastic 5th overall in the ladies' race in a time of 3:40:30.
 
 results

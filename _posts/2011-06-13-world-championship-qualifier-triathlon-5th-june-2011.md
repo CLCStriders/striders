@@ -1,5 +1,5 @@
 ---
-id: 77
+
 title: World Championship Qualifier Triathlon 5th June 2011
 date: 2011-06-13T16:44:33+01:00
 excerpt: '<p>Darren Milne took part in the World Championship Qualifier at Ellesmere Shropshire. Click on the link to find out how he got on...</p>'

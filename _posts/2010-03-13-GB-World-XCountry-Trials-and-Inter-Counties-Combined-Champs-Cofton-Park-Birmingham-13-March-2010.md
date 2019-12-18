@@ -1,5 +1,5 @@
 ---
-id: 196
+
 title: GB World XCountry Trials and Inter-Counties Combined Champs, Cofton Park, Birmingham, 13 March 2010
 date: 2010-03-13T09:00:00+00:00
 excerpt: '<p>CLC Striders had four Athletes competing in the World Cross Country Trials and Combined Inter Counties Championships held at Cofton Park Birmingham on Saturday 13th March. Representing Gloucestershire was Ben Pedley (Junior Man), Will Ferguson (Senior Man), Rachel Vines (Senior Women), Liza Barry (Senior Women), With he exception of Will Ferguson the other three Striders were making there debut in this Top Class Event. Please Click on Report to find out more, Brendan Ward (Club Chairman). Inter-counties XC 13 March 2010 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2010/03/GB-World-XCountry-Trials-and-Inter-Counties-Combined-Champs,
 
 **Report**
 
-CLC Striders Had Four Athletes Competing For Gloucestershire in the World Cross Country Trials and Inter Counties Combined Event held at Cofton Park Birmingham Saturday 13th March. Liza Barry and Rachel Vines made there Debut for Gloucestershire and acquitted themselves well with Barry finishing in 143rd place, and Vines in 198th Place. Ben Pedley Under 20 Man, also made his debut for the County and he did Very well to finish 123rd place in a high class field of Runners. The Final Strider Competing for Gloucestershire in the Senior Men&#8217;s Event was Will Ferguson who was up against GB&#8217;S World Class Athlete Mo Farrah. Ferguson improved on last years position by 60 places to finish in an excellent 141st place 
+CLC Striders Had Four Athletes Competing For Gloucestershire in the World Cross Country Trials and Inter Counties Combined Event held at Cofton Park Birmingham Saturday 13th March. Liza Barry and Rachel Vines made there Debut for Gloucestershire and acquitted themselves well with Barry finishing in 143rd place, and Vines in 198th Place. Ben Pedley Under 20 Man, also made his debut for the County and he did Very well to finish 123rd place in a high class field of Runners. The Final Strider Competing for Gloucestershire in the Senior Men's Event was Will Ferguson who was up against GB'S World Class Athlete Mo Farrah. Ferguson improved on last years position by 60 places to finish in an excellent 141st place 
 
 Kindest Regards
 

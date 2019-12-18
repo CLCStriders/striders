@@ -1,5 +1,5 @@
 ---
-id: 81
+
 title: Bourton Hilly Half 18th June 2011
 date: 2011-06-20T16:35:46+01:00
 excerpt: '<p>Nikki Smith flies the Striders Flag at the Bourton Hilly Half...</p>'

@@ -1,5 +1,5 @@
 ---
-id: 307
+
 title: 'Liza Barry : September 2009'
 date: 2009-09-30T00:00:00+01:00
 author: Clark Lawson

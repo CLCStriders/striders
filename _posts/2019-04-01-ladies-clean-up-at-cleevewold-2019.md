@@ -1,5 +1,5 @@
 ---
-id: 3446
+
 title: Ladies clean up at Cleevewold 2019
 date: 2019-04-01T11:53:43+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 2728
+
 title: 'CLC Striders Awards &#8211; 2016-2017'
 date: 2017-05-14T17:34:22+01:00
 author: Chris Driskell
@@ -10,7 +10,7 @@ categories:
   - Awards
   - News
 ---
-Well done and congratulations to all those who won awards for 2016-2017.  This year&#8217;s winners are:
+Well done and congratulations to all those who won awards for 2016-2017.  This year's winners are:
 
 Male Cross-Country Athlete:  Will Ferguson
 

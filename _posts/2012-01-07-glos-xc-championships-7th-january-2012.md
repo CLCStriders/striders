@@ -1,5 +1,5 @@
 ---
-id: 396
+
 title: 'Glos XC Championships &#8211; 7th January 2012'
 date: 2012-01-07T23:45:17+00:00
 excerpt: "<p>CLC Striders Men's and Women's Teams had excellent results at the County Cross Country Championships held at Plock Court, Gloucester Saturday 7th January. Both Teams finished in a Bronze medal position. </p>"
@@ -8,7 +8,7 @@ permalink: /2012/01/glos-xc-championships-7th-january-2012/
 ---
 </p> 
 
-The Women&#8217;s race started first, with Hilary Agate finishing an encouraging 8th, Agate out sprinted second scorer Laura Kent in the final 50 metres, the two athletes were separated by only two seconds. Sian Holley followed Kent and ran well for 15th place, and the very fast finishing Jo Wilkie was 16th place. The Striders A Team closed in 34 points. Other fine performances came from Pat Woods who was 17th, and Amanda Steer who was 20th and 3rd LV 40 overall. 
+The Women's race started first, with Hilary Agate finishing an encouraging 8th, Agate out sprinted second scorer Laura Kent in the final 50 metres, the two athletes were separated by only two seconds. Sian Holley followed Kent and ran well for 15th place, and the very fast finishing Jo Wilkie was 16th place. The Striders A Team closed in 34 points. Other fine performances came from Pat Woods who was 17th, and Amanda Steer who was 20th and 3rd LV 40 overall. 
 
 The Men meanwhile were led home by Rich Dare who is slowly finding form, Dare was 10th place, Rich Evershed followed in 15th, Chris Driskell was 20th, Wayne Usher making a rare appearance was 25th, Dave Smeath ran solidly in 29th, and final A Team Scorer Jon Gould was 31st. 
 

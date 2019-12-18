@@ -1,5 +1,5 @@
 ---
-id: 3149
+
 title: A tale of two 10ks – Northleach and Boddington
 date: 2018-05-27T13:39:38+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2018/05/a-tale-of-two-10ks-northleach-and-boddington/
 categories:
   - Race Reports
   - Road Reports
-  - Uncategorised
+
 tags:
   - Boddington
   - Northleach

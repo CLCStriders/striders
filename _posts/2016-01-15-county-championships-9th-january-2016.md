@@ -1,5 +1,5 @@
 ---
-id: 1830
+
 title: County Championships – 9th January 2016
 date: 2016-01-15T14:38:35+00:00
 author: Clark Lawson

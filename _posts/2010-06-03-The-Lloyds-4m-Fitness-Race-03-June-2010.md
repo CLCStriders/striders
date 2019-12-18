@@ -1,5 +1,5 @@
 ---
-id: 167
+
 title: The Lloyds 4m Fitness Race 03 June 2010
 excerpt: '<p>Lee Burge wins the Lloyds TSB 4m road race!! CLC had 8 runners in total, all of whom served up fantastic performances with some really great times. Well done everyone, keep it up!, Brendan Ward (Club Chairman) Lloyds 4m Fitness Race 03 June 2010 Photos Report Results</p>'
 layout: post

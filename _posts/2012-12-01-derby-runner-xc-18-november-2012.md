@@ -1,5 +1,5 @@
 ---
-id: 498
+
 title: 'Derby Runner XC &#8211; 18 November 2012'
 date: 2012-12-01T15:27:44+00:00
 excerpt: '<p>Jo Bryant was the first Strider home in the Derby Runner XC.</p>'

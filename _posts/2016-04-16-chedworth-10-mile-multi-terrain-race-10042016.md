@@ -1,5 +1,5 @@
 ---
-id: 2104
+
 title: 'Chedworth 10 Mile Multi-Terrain Race &#8211; 10/04/2016'
 date: 2016-04-16T16:31:33+01:00
 author: Chris Driskell

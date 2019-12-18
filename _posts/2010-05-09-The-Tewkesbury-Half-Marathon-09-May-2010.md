@@ -1,5 +1,5 @@
 ---
-id: 175
+
 title: The Tewkesbury Half Marathon 09 May 2010
 date: 2010-05-09T09:00:00+01:00
 excerpt: "<p>PB's and club records galore at the Tewkesbury half marathon! Click on the links to find out how the Striders got on. Well done everyone!, Brendan Ward (Club Chairman) Tewkesbury hm 09 May 2010 Photos Report Results</p>"

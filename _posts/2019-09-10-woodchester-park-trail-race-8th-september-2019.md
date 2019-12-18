@@ -1,5 +1,5 @@
 ---
-id: 3568
+
 title: Woodchester Park Trail Race 8th September 2019
 date: 2019-09-10T10:28:10+01:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/09/woodchester-park-trail-race-8th-september-2019/
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - trail
   - Woodchester Park
@@ -18,7 +18,7 @@ On a beautiful, early autumn Sunday morning, four Striders tested their mettle t
 
 The challenging eight-mile race followed paths weaving up and down the steep valley sides, culminating in a tough uphill finish.&nbsp;
 
-**Helen Knight** led the club home to finish as 3rd lady overall and first in her LV40 category in a time of 61:00. She was followed by **Gavin Jerman** in a time of 63:44. Both Helen and Gavin have completed all three races in Stroud AC&#8217;s &#8216;Roger Briers&#8217; series this year.
+**Helen Knight** led the club home to finish as 3rd lady overall and first in her LV40 category in a time of 61:00. She was followed by **Gavin Jerman** in a time of 63:44. Both Helen and Gavin have completed all three races in Stroud AC's &#8216;Roger Briers' series this year.
 
 **Amelia Mullins** finished as 6th lady overall and 1st in her LV45 category in a time of 65:00 and **Nicola Weager**, continuing her return to form, in a time of 70:40.
 

@@ -1,14 +1,14 @@
 ---
-id: 457
+
 title: 'White Horse 5km &#8211; 21st June 2012'
 date: 2012-06-23T08:03:07+01:00
 excerpt: '<p>Striders braved the Monsoon and turned out in force at the White Horse on Thursday...</p>'
 layout: post
 permalink: /2012/06/white-horse-5km-21st-june-2012/
 ---
-Back in a Striders&#8217;vest after nearly two years away, Nick Barry led the club home in 5th place with an excellent 16:20 and he was closely followed by Rich Dare who claimed 8th place with 16:43. Both went home with packets of biscuits.
+Back in a Striders'vest after nearly two years away, Nick Barry led the club home in 5th place with an excellent 16:20 and he was closely followed by Rich Dare who claimed 8th place with 16:43. Both went home with packets of biscuits.
 
-In the ladies&#8217;race meanwhile, there were biscuits for Laura Kent who finished 5th lady and 31st overall and for Dawn Addinall who finished first LV60 in 72md place.
+In the ladies'race meanwhile, there were biscuits for Laura Kent who finished 5th lady and 31st overall and for Dawn Addinall who finished first LV60 in 72md place.
 
 Another notable performance came from Jon Howes who smashed his previous PB to set a new best of 18:44.
 

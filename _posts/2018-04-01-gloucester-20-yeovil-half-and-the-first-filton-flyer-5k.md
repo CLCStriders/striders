@@ -1,5 +1,5 @@
 ---
-id: 3096
+
 title: Gloucester 20, Yeovil Half and the first Filton Flyer 5k
 date: 2018-04-01T16:00:42+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 2760
+
 title: CLC Striders Race report for 20 – 21 May 2017
 date: 2017-05-23T08:38:44+01:00
 author: Paul Northup

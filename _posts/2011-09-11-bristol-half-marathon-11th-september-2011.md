@@ -1,5 +1,5 @@
 ---
-id: 364
+
 title: Bristol Half Marathon 11th September 2011
 excerpt: '<p>Well done to those that ran in what turned out to be a rather warm and windy Bristol Half Marathon!!!</p>'
 layout: post

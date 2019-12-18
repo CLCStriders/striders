@@ -1,5 +1,5 @@
 ---
-id: 1866
+
 title: 'Linda Franks 5 Mile Race &#8211; 24th January 2016'
 date: 2016-01-24T10:36:05+00:00
 author: Chris Driskell
@@ -9,11 +9,11 @@ permalink: /2016/01/linda-franks-5-mile-race-24th-january-2016/
 categories:
   - News
   - Race Reports
-  - Uncategorised
+
 ---
 &nbsp;
 
-Photos from today&#8217;s Linda Franks 5 Mile Race.
+Photos from today's Linda Franks 5 Mile Race.
 
 &nbsp;
 

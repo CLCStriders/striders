@@ -1,5 +1,5 @@
 ---
-id: 99
+
 title: The QX Short Course Duathlon 20 February 2011
 date: 2011-02-20T09:00:00+00:00
 excerpt: '<p>Jon Gould runs a strong race to come home in second place in the QX short course Duathlon near Reading. Another excellent result, well done! Brendan Ward (Club Chairman) The QX Short Course Duathlon Report</p>'

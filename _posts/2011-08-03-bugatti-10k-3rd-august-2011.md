@@ -1,5 +1,5 @@
 ---
-id: 350
+
 title: Bugatti 10k 3rd August 2011
 date: 2011-08-03T23:16:01+01:00
 excerpt: '<p>Great turnout and excellent performances for Striders at the Bugatti 10K</p>'
@@ -14,6 +14,6 @@ Leading the way was John Parker who led from the start and beat his nearest comp
 
 Also in the individual prizes was Amanda Steer who continued her run of excellent form to take the prize for 5th lady.
 
-In the team races, Striders&#8217;womens&#8217;team took 3rd prize whilst the men&#8217;s team beat Cheltenham Harriers to take the prize for first team, repeating their success in the Cloud Cuckooland race in June.
+In the team races, Striders'womens'team took 3rd prize whilst the men's team beat Cheltenham Harriers to take the prize for first team, repeating their success in the Cloud Cuckooland race in June.
 
 Full results will be shown on <a href="http://athleticprowess.co.uk" target="_blank" rel="nofollow">Cheltenham Harriersâ€™</a>website when available.</p>

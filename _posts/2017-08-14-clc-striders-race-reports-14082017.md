@@ -1,5 +1,5 @@
 ---
-id: 2918
+
 title: 'CLC Striders Race Reports &#8211; 14/08/2017'
 date: 2017-08-14T19:11:39+01:00
 author: Chris Driskell
@@ -26,7 +26,7 @@ Meanwhile, on the same day but 6000 miles away, Sophie Longmore left behind the 
 
 An unconventional start time of 3pm left plenty of time for a hearty breakfast, whilst a smaller field provided shorter queues for pre-race bathroom breaks, a lot of space during the run, quick baggage collection at the end of the race and no chance of the 15 refreshment stations running out.
 
-However large periods of the &#8216;undulating&#8217; course (a hilly 20th mile is never appreciated!) were empty of both other runners and spectators, which made parts of the two-lap road course, which also included park paths, bridges and cobbles, lonely at times.
+However large periods of the &#8216;undulating' course (a hilly 20th mile is never appreciated!) were empty of both other runners and spectators, which made parts of the two-lap road course, which also included park paths, bridges and cobbles, lonely at times.
 
 Four years on from her last marathon, Sophie finished 5th lady, 2nd in her category and 66th overall in a PB time of 3 hours, 18 minutes and 30 seconds, so all in all very much worth the trip!
 

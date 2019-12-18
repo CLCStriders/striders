@@ -1,5 +1,5 @@
 ---
-id: 632
+
 title: 'Gloucestershire Cross Country League &#8211; Pittville Park &#8211; 13 December 2014'
 date: 2014-12-14T11:29:32+00:00
 author: Clark Lawson

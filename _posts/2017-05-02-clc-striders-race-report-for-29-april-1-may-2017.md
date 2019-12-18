@@ -1,5 +1,5 @@
 ---
-id: 2718
+
 title: CLC Striders Race report for 29 April – 1 May 2017
 date: 2017-05-02T22:46:34+01:00
 author: Chris Driskell

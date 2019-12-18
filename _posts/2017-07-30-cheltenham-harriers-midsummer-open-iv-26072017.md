@@ -1,5 +1,5 @@
 ---
-id: 2906
+
 title: 'Cheltenham Harriers Midsummer Open IV &#8211; 26/07/2017'
 date: 2017-07-30T20:15:48+01:00
 author: Chris Driskell

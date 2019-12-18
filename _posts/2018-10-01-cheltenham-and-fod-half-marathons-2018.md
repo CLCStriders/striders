@@ -1,5 +1,5 @@
 ---
-id: 3238
+
 title: Cheltenham and FoD Half Marathons – 2018
 date: 2018-10-01T12:30:15+01:00
 author: Paul Northup

@@ -1,5 +1,5 @@
 ---
-id: 368
+
 title: 'Rich Evershed: November 2011'
 date: 2011-12-06T22:27:18+00:00
 author: Clark Lawson

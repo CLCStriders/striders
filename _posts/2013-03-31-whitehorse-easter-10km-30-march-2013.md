@@ -1,5 +1,5 @@
 ---
-id: 524
+
 title: 'Whitehorse Easter 10km &#8211; 30 March 2013'
 date: 2013-03-31T18:17:39+01:00
 excerpt: '<p>Seven CLC striders competed in the annual Easter 10km race at the White Horse in Sandhurst.</p>'

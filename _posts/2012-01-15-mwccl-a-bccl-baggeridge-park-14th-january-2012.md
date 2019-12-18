@@ -1,5 +1,5 @@
 ---
-id: 389
+
 title: 'MWCCL &#038; BCCL Baggeridge Park &#8211; 14th January 2012'
 date: 2012-01-15T13:20:10+00:00
 excerpt: '<p>Striders battle it out in the Black Country...</p>'
@@ -8,7 +8,7 @@ permalink: /2012/01/mwccl-a-bccl-baggeridge-park-14th-january-2012/
 ---
 </p> 
 
-Both the men&#8217;s and the women&#8217;s teams travelled to Baggeridge Park in Dudley to compete in the 3rd fixture of the season in their respective leagues. Despite the cold winterâ€™s air, the bright sun made conditions perfect for the day of racing ahead. The course featured varying terrain, ranging from grassy parkland, stony tracks, sections of paths and red sand! 
+Both the men's and the women's teams travelled to Baggeridge Park in Dudley to compete in the 3rd fixture of the season in their respective leagues. Despite the cold winterâ€™s air, the bright sun made conditions perfect for the day of racing ahead. The course featured varying terrain, ranging from grassy parkland, stony tracks, sections of paths and red sand! 
 
 The girls started by climbing a steep bank. As they came charging down the other side they were lead straight into an uphill section which soon found out those who had gone off too hard. Jo Wilkie and Trish Woods got into an early lead whilst Rachel and Amanda attempted to work their way through the field. After a short downhill section there was yet another short climb where Steer and Vines battled their way through. This was followed by a section of flat path, Steer used this section of tarmac to open up the gap on Vines. The extended 6.5km course featured a section of out and back. By this point Wilkie had opened up a good lead on the rest of the Striders. The final mile was a incline which got steeper and steeper as the ladies approached the final turn to the finish where the boys were there to give shouts of encouragement in the final stretch.
 
@@ -26,7 +26,7 @@ With their strongest turnout to date, the men were also able to field a B Team. 
 
 The result leaves Striders in 3rd place in the league overall, 410 points clear of 4th placed Black Country Triathletes with one race to go.
 
-Men&#8217;s Results:
+Men's Results:
 
 1) Matt Amos (Nuneaton Harriers) â€“ 36:26
 

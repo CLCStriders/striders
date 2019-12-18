@@ -1,5 +1,5 @@
 ---
-id: 374
+
 title: Eden Project Half Marathon 9 October 2011
 date: 2011-10-11T22:10:46+01:00
 excerpt: '<p>Eight CLC Striders travelled to Cornwall to take part in the Third Eden Project half marathon</p>'

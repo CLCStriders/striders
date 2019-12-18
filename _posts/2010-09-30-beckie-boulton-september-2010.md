@@ -1,5 +1,5 @@
 ---
-id: 313
+
 title: 'Beckie Boulton: September 2010'
 date: 2010-09-30T00:00:00+01:00
 author: Clark Lawson

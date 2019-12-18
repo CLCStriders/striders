@@ -1,5 +1,5 @@
 ---
-id: 348
+
 title: Bourton Road Mile 23rd July 2011
 date: 2011-07-25T21:39:15+01:00
 excerpt: '<p>John Parker claims silver in the Bourton Road Mile. </p>'

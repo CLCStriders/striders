@@ -1,5 +1,5 @@
 ---
-id: 3144
+
 title: 'On the road again: Bristol and Berkeley 10k races'
 date: 2018-05-15T09:38:32+01:00
 author: Paul Northup

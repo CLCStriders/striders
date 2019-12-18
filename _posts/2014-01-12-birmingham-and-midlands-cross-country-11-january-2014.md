@@ -1,5 +1,5 @@
 ---
-id: 572
+
 title: 'Birmingham and Midlands Cross Country &#8211; 11 January 2014'
 date: 2014-01-12T17:43:52+00:00
 excerpt: '<p>Striders men were sent to Coventry for the penultimate Birmingham League fixture of the season, while the women headed to Droitwich in the Midland League......</p>'
@@ -10,7 +10,7 @@ Will Ferguson (pictured) led CLC Striders men home finishing 24th. He was backed
 
 Other notable performances for the B team were Dave Smeath in 142nd, Jamie Patterson 200th, Andrew Patterson 222nd, David James 232nd with the final strider, Gordon Bendall, completing the line-up in 263rd place
 
-Meanwhile the ladies competed in the Midlands Women&#8217;s Cross Country League held at Droitwich. Jo Wilkie continued her excellent form finishing 48th with ladies captain Rachel Vines following in an excellent 59th. Veteran Amanda Steer ran well to clinch 72nd place with Vicky Veness following in 77th place, 
+Meanwhile the ladies competed in the Midlands Women's Cross Country League held at Droitwich. Jo Wilkie continued her excellent form finishing 48th with ladies captain Rachel Vines following in an excellent 59th. Veteran Amanda Steer ran well to clinch 72nd place with Vicky Veness following in 77th place, 
 
 Vicky Lewis returned to action to finish 92nd with Amanda Pill completing the line-up in 242nd. The ladies are currently just outside the top 10 of this very competitive league.
 

@@ -1,5 +1,5 @@
 ---
-id: 2949
+
 title: 'CLC Striders Race report: Sutton Park Road Relays 2017'
 date: 2017-09-27T17:06:15+01:00
 author: Paul Northup
@@ -14,7 +14,7 @@ tags:
   - Midland Counties Road Relay
   - Sutton Park
 ---
-A warm and sunny Saturday 23 September 2017 saw two ladies&#8217; and three men’s teams from the CLC Striders club compete in the annual Midland Counties Road Relay Championships at Sutton Park.
+A warm and sunny Saturday 23 September 2017 saw two ladies' and three men’s teams from the CLC Striders club compete in the annual Midland Counties Road Relay Championships at Sutton Park.
 
 [<img class="alignnone wp-image-2950 size-full" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg" alt="Ladies-Sutton-Park-23-Sept-2017" width="960" height="720" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg 960w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/Ladies-Sutton-Park-23-Sept-2017-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/Ladies-Sutton-Park-23-Sept-2017-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg)
 

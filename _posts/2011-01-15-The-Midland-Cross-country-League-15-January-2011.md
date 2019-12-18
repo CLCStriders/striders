@@ -1,5 +1,5 @@
 ---
-id: 109
+
 title: The Midland Cross country League 15 January 2011
 date: 2011-01-15T09:00:00+00:00
 excerpt: '<p>The CLC women?s team travelled to Wyken Park in Coventry for the 3rd fixture of the Midland Cross country league. The course was undulating and sticky, and the windy conditions only added to the challenge. Rachel Vines lead the team home in 59th place, Naomi Kellet followed swiftly in 78th. Final scorer was Helen Howes who has improved dramatically since the last fixture. Helen fought past 3 other competitors in the home straight, finishing in 139th place. Rebecca Boulton, in her debut in the league put in a fine performance to finish in 162nd place. She was closely followed by her rival Tracey Densham who finished in 167th. The team were 22nd placed overall, with the veteran team finishing 8th. Results: Rachel Vines 59 (28min30sec), Naomi Kellett 78 (29min10secs), Helen Howes 139 (33min 9 secs), Rebecca Boulton 162 (35min13secs), Tracey Densham 167 (35min34secs)</p>'

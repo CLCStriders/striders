@@ -1,5 +1,5 @@
 ---
-id: 405
+
 title: 'Strider of the Month February 2012: Jon Bird'
 date: 2012-03-02T20:35:37+00:00
 author: Clark Lawson

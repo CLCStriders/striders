@@ -1,5 +1,5 @@
 ---
-id: 2172
+
 title: 'Juan Moreno &#8211; VLM 2016 Race Day'
 date: 2016-05-07T20:36:46+01:00
 author: Clark Lawson
@@ -7,15 +7,15 @@ layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=2172
 permalink: /2016/05/juan-moreno-vlm-2016-race-day/
 categories:
-  - Uncategorised
+
 ---
-CLC Striders&#8217; Jesus lookalike, Juan Moreno, shares his race day thoughts.<!--more-->
+CLC Striders' Jesus lookalike, Juan Moreno, shares his race day thoughts.<!--more-->
 
 A huge congratulation to all Striders that ran the London Marathon and did a great run: Rich, Paul, Laura, Neil and Will. Well done guys!
 
 I couldn´t run the London Marathon in 2015 due to knee injury so I had to withdraw sadly. Last year I promised I´d run this marathon well in 2016.
 
-A few days before the VLM Brendan asked me what time I am aiming for? I told him under 2.50, My PB in Berlin was 2h53 and last 2 weeks before VLM I was worried because of a HR higher than usual so I´d be happy to do 3 or 4 min off. But He said: &#8220;If you&#8217;ve run 1.17 HM than around 2.44-2.47 should be possible&#8221; I remembered in September 2014, 3 days before the Cheltenham Half when Bren asked me the same, I said 1h21 (my PB was 1h22), he told me:&#8221;No way, you are doing 1.18-1.19 on Sunday&#8221; and I did it. He was right.
+A few days before the VLM Brendan asked me what time I am aiming for? I told him under 2.50, My PB in Berlin was 2h53 and last 2 weeks before VLM I was worried because of a HR higher than usual so I´d be happy to do 3 or 4 min off. But He said: &#8220;If you've run 1.17 HM than around 2.44-2.47 should be possible&#8221; I remembered in September 2014, 3 days before the Cheltenham Half when Bren asked me the same, I said 1h21 (my PB was 1h22), he told me:&#8221;No way, you are doing 1.18-1.19 on Sunday&#8221; and I did it. He was right.
 
 I spent Saturday around London with Rich, David and Paul who was very kind offered to take on my race pack and bring that down to London (Thanks Paul).
 

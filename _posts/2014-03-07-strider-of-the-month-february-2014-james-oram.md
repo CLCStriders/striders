@@ -1,5 +1,5 @@
 ---
-id: 579
+
 title: 'Strider of the Month &#8211; February 2014 &#8211; James Oram'
 date: 2014-03-07T19:06:44+00:00
 author: Clark Lawson

@@ -1,5 +1,5 @@
 ---
-id: 555
+
 title: 'Strider of the Month &#8211; August 2013 &#8211; Rachel Vines'
 date: 2013-09-11T08:23:34+01:00
 author: Clark Lawson

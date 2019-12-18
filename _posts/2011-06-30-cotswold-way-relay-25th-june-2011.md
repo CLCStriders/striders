@@ -1,5 +1,5 @@
 ---
-id: 87
+
 title: Cotswold Way Relay 25th June 2011
 date: 2011-06-30T22:36:59+01:00
 excerpt: '<p>19 Striders ran over 197 miles across the Cotswolds on Saturday. See how they got on below...</p>'
@@ -63,7 +63,7 @@ CLC Striders had a great run in their first ever Cotswold Way Relay on Saturday 
 
 **Dave Smeath**
 
-It was not even 7 am when the runners for the lead off leg of the 2011 Cotswold Way Relay gathered around the start at the Church of St James in the picturesque village of Chipping Campden. The weather was cloudy and breezy (though lightning bolts might have been expected given the number of runners using the bushes in the church graveyard for their &#8216;morning prayers&#8217;!) Dave Smeath (for the green team) and Dawn Addinall (for the black team) were flying the flag for the Striders. 
+It was not even 7 am when the runners for the lead off leg of the 2011 Cotswold Way Relay gathered around the start at the Church of St James in the picturesque village of Chipping Campden. The weather was cloudy and breezy (though lightning bolts might have been expected given the number of runners using the bushes in the church graveyard for their &#8216;morning prayers'!) Dave Smeath (for the green team) and Dawn Addinall (for the black team) were flying the flag for the Striders. 
 
 The race started promptly and the field headed off down the High Street, the first of 103 miles to be covered by the teams during the day. Friend of the Striders, Dave Roper of Cheltenham Harriers immediately stamped his class on the the rest of the field, with Smeath settling into 4th place at the head of a group of three who would spend the first 5 miles of the stage together climbing towards Broadway Tower. Heavy overnight rain had left several deep puddles to avoid as well as some stretches of sticky mud. Early efforts by Smeath to put the other 2 runners from Chepstow Harriers and Great Western Runners under pressure were foiled by a complete inability to work out the gate opening mechanisms. As the group reached Broadway Tower, Smeath was beginning to flag. 
 

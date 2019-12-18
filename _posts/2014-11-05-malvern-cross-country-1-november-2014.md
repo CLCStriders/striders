@@ -1,5 +1,5 @@
 ---
-id: 624
+
 title: 'Malvern Cross Country &#8211; 1 November 2014'
 date: 2014-11-05T22:25:03+00:00
 author: Clark Lawson

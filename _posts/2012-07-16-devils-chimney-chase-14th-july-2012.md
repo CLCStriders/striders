@@ -1,5 +1,5 @@
 ---
-id: 463
+
 title: 'Devils Chimney Chase &#8211; 14th July 2012'
 date: 2012-07-16T20:23:43+01:00
 excerpt: '<p>A small group of Striders turned out at the Devils Chimney Chase on Saturday for a run in the mud...</p>'
@@ -10,7 +10,7 @@ permalink: /2012/07/devils-chimney-chase-14th-july-2012/
 
 With the start area swamp-like and worse conditions on the course promised by the race organizers, conditions were anything but favourable for quick times and the field felt smaller than previous years. 
 
-Striders&#8217;Chris Driskell quickly took the lead and was joined by Andy Kaighin from Cheltenham Harriers. 
+Striders'Chris Driskell quickly took the lead and was joined by Andy Kaighin from Cheltenham Harriers. 
 
 Driskell and Kaighin battled for the lead over the top of the hill before Kaighin broke away on the descent. 
 

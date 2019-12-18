@@ -1,5 +1,5 @@
 ---
-id: 342
+
 title: Yate track open meeting 3rd April 2011
 date: 2011-04-03T21:05:18+01:00
 excerpt: '<p>Will ferguson, Rich dare and Joel freeland opened their track season at Yate on Sunday 3rd April 2011.</p>'

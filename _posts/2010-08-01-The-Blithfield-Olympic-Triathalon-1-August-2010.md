@@ -1,5 +1,5 @@
 ---
-id: 151
+
 title: The Blithfield Olympic Triathalon 1 August 2010
 date: 2010-08-01T09:00:00+01:00
 excerpt: '<p>Darren Milne competed in Blithfield Olympic Triathalon...see the links for report &amp; result, Brendan Ward (Club Chairman) Blithfield Olympic Triathalon 1st Aug 2010 Report Results</p>'

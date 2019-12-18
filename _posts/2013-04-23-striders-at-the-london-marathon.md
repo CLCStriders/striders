@@ -1,5 +1,5 @@
 ---
-id: 529
+
 title: 'Striders at the London Marathon &#8211; 21 April 2013'
 date: 2013-04-23T19:26:32+01:00
 excerpt: '<p>Congratulations to the Striders contingent who successfully completed the London Marathon on Sunday.</p>'

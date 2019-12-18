@@ -1,5 +1,5 @@
 ---
-id: 2154
+
 title: 'Spotlight On: Javid Norat'
 date: 2016-05-01T15:28:42+01:00
 author: Chris Driskell
@@ -9,7 +9,7 @@ permalink: /2016/05/spotlight-on-javid-norat/
 categories:
   - Blog
   - News
-  - Uncategorised
+
 ---
 In a new feature for the CLC Striders website, Javid Norat answers a few choice questions about his experience of training and racing with CLC Striders&#8230;
 

@@ -1,5 +1,5 @@
 ---
-id: 225
+
 title: 'The Midlands 4 &amp; 6 stage relays 19 Sept 2009'
 date: 2009-09-19T09:00:00+01:00
 excerpt: "<p>CLC Striders competed for the first time in the Midlands 6 Stage men's, and 4 stage Women's Road Relays held at Sutton Park Birmingham. Find out how they got on by clicking on Report and Results Brendan Ward, Club Chairman The midlands relays 19 Sept 2009 Photos Report Results</p>"
@@ -14,7 +14,7 @@ permalink: '/2009/09/The-Midlands-4-&amp;-6-stage-relays-19-Sept-2009/'
 
 CLC Striders Men and Women Competed in the Midland Road Relay Championships held at Sutton Park, Birmingham on Saturday 19th September 2009, this was the clubs first appearance in the event.
 
-The Men&#8217;s team got off to a cracking start with Will Ferguson running a blistering 18.34 for his 5.847K leg, handing over in 11th place. The men&#8217;s Team ended up finishing 42nd out of 84 Teams which considering they had a depleted Team was a good effort.
+The Men's team got off to a cracking start with Will Ferguson running a blistering 18.34 for his 5.847K leg, handing over in 11th place. The men's Team ended up finishing 42nd out of 84 Teams which considering they had a depleted Team was a good effort.
 
 The Women however did much better finishing in 26th out of 53 Teams with Liza Barry running the Teams fastest leg of 17.22 for the demanding 4.315K course 
 

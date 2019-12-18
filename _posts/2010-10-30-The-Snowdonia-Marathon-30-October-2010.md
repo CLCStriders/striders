@@ -1,5 +1,5 @@
 ---
-id: 124
+
 title: The Snowdonia Marathon 30 October 2010
 date: 2010-10-30T09:00:00+01:00
 excerpt: '<p>James Gibbs and Barney Bamford completed the famous Snowdonia marathon in fine style. James completed the very tough race in 3:33.04 and Barney finished in a strong 4:19.47. Fabulous results and great efforts, keep it up!, Brendan Ward (Club Chairman) Snowdon Marathon Photos Report Results</p>'

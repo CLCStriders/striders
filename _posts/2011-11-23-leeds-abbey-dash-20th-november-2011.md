@@ -1,5 +1,5 @@
 ---
-id: 383
+
 title: 'Leeds Abbey Dash &#8211; 20th November 2011'
 date: 2011-11-23T17:09:10+00:00
 excerpt: '<p>Foul Leeds fails to stop Wilkie smashing PB...</p>'

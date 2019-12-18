@@ -1,5 +1,5 @@
 ---
-id: 3069
+
 title: Race Three of the Glos Cross Country League – Pittville Park, 17.2.18
 date: 2018-02-19T08:50:07+00:00
 author: Paul Northup

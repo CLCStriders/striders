@@ -1,5 +1,5 @@
 ---
-id: 549
+
 title: 'Striders get on their bikes&#8230;.and make a splash'
 date: 2013-07-16T17:16:11+01:00
 excerpt: "<p>Jo Wilkie, Alice Johnstone and Beckie Boulton have been putting themselves to the test in water and on bikes. Here's what they've been up to:</p>"

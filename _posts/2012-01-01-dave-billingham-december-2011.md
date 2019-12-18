@@ -1,5 +1,5 @@
 ---
-id: 394
+
 title: 'Dave Billingham: December 2011'
 date: 2012-01-01T21:08:28+00:00
 author: Clark Lawson

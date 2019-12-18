@@ -1,5 +1,5 @@
 ---
-id: 158
+
 title: The Mid-Summer Track Open 14 July 2010
 date: 2010-07-14T09:00:00+01:00
 excerpt: '<p>The Club had two athletes taking part in the Midsummer league. Click on the link to see how they got on!, Brendan Ward (Club Chairman) Mid-Summer Open 14 July 2010 Photos Report Results</p>'
@@ -12,7 +12,7 @@ permalink: /2010/07/The-Mid-Summer-Track-Open-14-July-2010-/
 
 The Club had only two athletes taking part in the Midsummer open track event at the POWS on Wednesday 14th July although a handful of colleagues turned up to support them which was nice.
 
-Phil Jowett (Jowster) had a nasty fall during his 200 metre debut and unfortunately broke his shoulder which was an awful outcome for Phil to endure. Please get well soon mate we miss you already. Meanwhile in the Women&#8217;s 1500 metres Rachel Vines (DJ), ran very well to finish in 4th spot and record a new lifetime Personal best time of 5.22.1. Brendan Ward (Club Chairman)
+Phil Jowett (Jowster) had a nasty fall during his 200 metre debut and unfortunately broke his shoulder which was an awful outcome for Phil to endure. Please get well soon mate we miss you already. Meanwhile in the Women's 1500 metres Rachel Vines (DJ), ran very well to finish in 4th spot and record a new lifetime Personal best time of 5.22.1. Brendan Ward (Club Chairman)
 
 <a name="Results"></a>**Results**Phil Jowett, 200m, DNF Rachel Vines, 1500m, 5.22.1<a name="Results"></a>
 

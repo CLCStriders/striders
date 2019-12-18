@@ -1,5 +1,5 @@
 ---
-id: 84
+
 title: European Triathlon Champs 26th june 2011
 date: 2011-06-29T09:49:11+01:00
 excerpt: '<p>Success for Darren Milne at the European Triathlon Championships </p>'

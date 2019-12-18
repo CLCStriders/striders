@@ -1,5 +1,5 @@
 ---
-id: 386
+
 title: 'Glos XC League 3, Pitville Park &#8211; 10th December 2011'
 date: 2011-12-11T16:37:42+00:00
 excerpt: "<p>Strider's women 3rd and men 6th in Pitville Park Cross Country</p>"
@@ -94,7 +94,7 @@ Masters Ladies Teams:
 
 186) Duncan Kay &#8211; 51:17
 
-Senior Men&#8217;s Teams
+Senior Men's Teams
 
 6th &#8211; CLC A = 289
 

@@ -1,5 +1,5 @@
 ---
-id: 246
+
 title: Aero 5 Mile Race 02 July 2009
 date: 2009-07-02T09:00:00+01:00
 excerpt: '<p>The CLC Striders had 18 Athletes taking part in the Annual Aero 5 mile road race held at Bishops Cleeve on Thursday 2nd July 2009 which was promoted by Cheltenham Harriers. The club ended up packing eight runners in the top twenty of the race which was a great overall Team effort!! Brendan Ward, Club Chairman Aero 5 mile 02 July 2009 Photos Report Results</p>'
@@ -24,9 +24,9 @@ permalink: /2009/07/Aero-5-Mile-Race-02-July-2009/
 
 CLC Striders had 18 Athletes taking part in the Annual Aero 5 mile road race held at Bishops Cleeve on Thursday 2nd July 2009 which was promoted by Cheltenham Harriers.
 
-Will Ferguson who is rapidly developing in to one of the County&#8217;s Top Athletes won the race for the Striders in very hot and humid conditions in a time of 27.25, he was followed home by Nathan jones who ran a superb race to finish 3rd in 28.28, next home was Wayne usher who secured the Striders Team Victory to finish 6th in 29.09.This gave the Striders a points total of 10. The club ended up packing eight runners in the top twenty of the race which was a great overall Team effort!!
+Will Ferguson who is rapidly developing in to one of the County's Top Athletes won the race for the Striders in very hot and humid conditions in a time of 27.25, he was followed home by Nathan jones who ran a superb race to finish 3rd in 28.28, next home was Wayne usher who secured the Striders Team Victory to finish 6th in 29.09.This gave the Striders a points total of 10. The club ended up packing eight runners in the top twenty of the race which was a great overall Team effort!!
 
-The Women&#8217;s Team was led home by Laura Kent who took the V35 prize finishing 15th overall, running 31.04 to set a new club FV35 record, she was followed home by Liza barry in 40th place recording a very respectable 34.09, and the final scorer was Ladies Club Captain Lisa Boyd who ran well to finish 51st running a pb time of 35.30.The Women&#8217;s Team finished 2nd behind Bourton Road Runners
+The Women's Team was led home by Laura Kent who took the V35 prize finishing 15th overall, running 31.04 to set a new club FV35 record, she was followed home by Liza barry in 40th place recording a very respectable 34.09, and the final scorer was Ladies Club Captain Lisa Boyd who ran well to finish 51st running a pb time of 35.30.The Women's Team finished 2nd behind Bourton Road Runners
 
 **<a name="Theresults"></a>Results**</p> 
 

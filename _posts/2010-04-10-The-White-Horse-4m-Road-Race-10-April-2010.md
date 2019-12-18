@@ -1,5 +1,5 @@
 ---
-id: 186
+
 title: The White Horse 4m Road Race 10 April 2010
 date: 2010-04-10T09:00:00+01:00
 excerpt: '<p>John Parker (JP) and Phil Jowett (Jowster) in Record Breaking form at Sandhurst. Sian Holly comes home 1st placed Lady and CLC Striders win the Team Prize, Biscuits Galore..........Find out more by clicking on full race report, Brendan Ward (Club Chairman) The White Horse 4m 10 April 2010 Photos Report Results</p>'

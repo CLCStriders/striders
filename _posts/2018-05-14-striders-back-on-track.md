@@ -1,5 +1,5 @@
 ---
-id: 3134
+
 title: 'Striders: back on track'
 date: 2018-05-14T08:00:17+01:00
 author: Paul Northup
@@ -26,7 +26,9 @@ On a scorching sunny day, a crop of Striders entered a variety events at the sta
 
 **Gareth Harries **enjoyed a club record-breaking day in his V45 category with 28.5 seconds for the 200m and 2:27.2 for the 800m.
 
-Over the longer distances, **Clark Lawson **maintained his very fine form this year by finishing well under his five-minute target time for the 1,500m in 4:52.8 . While, in the 3,000m, **Joel Freeland **smashed his PB with a time of 10:45.4, with **Helen Knight **clocking 11:59.1, **Amelia Mullins **12:30.0 and **Nicola Weager **13:54.9 .
+Over the longer distances, **Clark Lawson **maintained his very fine form this year by finishing well under his five-minute target time for the 1,500m in 4:52.8
+. While, in the 3,000m, **Joel Freeland **smashed his PB with a time of 10:45.4, with **Helen Knight **clocking 11:59.1, **Amelia Mullins **12:30.0 and **Nicola Weager **13:54.9
+.
 
 [<img class="alignnone wp-image-3138" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Joel-Freeland-3k-Brewer-Games.jpg" alt="Joel-Freeland-3k-Brewer-Games" width="800" height="533" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Joel-Freeland-3k-Brewer-Games.jpg 960w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Joel-Freeland-3k-Brewer-Games-300x200.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Joel-Freeland-3k-Brewer-Games-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Joel-Freeland-3k-Brewer-Games.jpg)
 

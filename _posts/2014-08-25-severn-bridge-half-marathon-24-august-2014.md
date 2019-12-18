@@ -1,5 +1,5 @@
 ---
-id: 614
+
 title: 'Severn Bridge Half Marathon &#8211; 24 August 2014'
 date: 2014-08-25T13:46:02+01:00
 author: Clark Lawson

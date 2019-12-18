@@ -1,5 +1,5 @@
 ---
-id: 588
+
 title: 'Strider of the Month &#8211; March 2014 &#8211; Amanda Steer'
 date: 2014-04-08T17:53:58+01:00
 author: Clark Lawson

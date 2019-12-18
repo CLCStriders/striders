@@ -1,5 +1,5 @@
 ---
-id: 422
+
 title: 'Cleevewold Multi-Terrain Race &#8211; 25th March 2012'
 date: 2012-03-26T20:54:00+01:00
 excerpt: '<p>A trio of Striders took on the notorious Cleevewold...</p>'

@@ -1,5 +1,5 @@
 ---
-id: 1818
+
 title: 'Paul Northup &#8211; VLM Update'
 date: 2016-01-10T09:07:24+00:00
 author: Clark Lawson
@@ -9,7 +9,7 @@ permalink: /2016/01/paul-northup-vlm-update/
 categories:
   - Blog
 ---
-In his first journal entry, CLC Striders&#8217; representative at the Virgin London Marathon 2016 Paul Northup shares his experience and expectations for this year&#8217;s race.<!--more-->
+In his first journal entry, CLC Striders' representative at the Virgin London Marathon 2016 Paul Northup shares his experience and expectations for this year's race.<!--more-->
 
 &#8220;I found out I could run (far, but not very fast) when I was 16. Having played football and basketball for the school, the idea of middle-distance running (cross country, track and road) was something awakened in me when a new boy arrived in our sixth form who actually took running seriously and was very good at it. He even trained and belonged to a club. Our friendship grew. And so did my love of running. I even started doing a bit of training, too.
 

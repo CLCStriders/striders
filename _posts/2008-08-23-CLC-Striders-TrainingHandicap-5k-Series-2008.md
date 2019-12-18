@@ -1,5 +1,5 @@
 ---
-id: 297
+
 title: CLC Striders Training/Handicap 5k Series 2008
 excerpt: "<p>A special well done goes out to Sue Arkell and Rob 'The Riz'Shute, who ran all 5Ks in the series. Thanks for all your support in making this club successful and fulfilling. Let's look forward to lots more competitions in the future Brendan Ward, Club Chairman 5k July-August 2008 Photos Report Results Series Winners Men Women 1st Rob Shute Michaela Addinall 2nd Will Ferguson Dawn Addinall 3rd Simon Elkin Lisa Boyd </p>"
 layout: post

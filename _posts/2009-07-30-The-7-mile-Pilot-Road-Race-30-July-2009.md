@@ -1,5 +1,5 @@
 ---
-id: 235
+
 title: The 7 mile Pilot Road Race 30 July 2009
 date: 2009-07-30T09:00:00+01:00
 excerpt: '<p>Seven CLC striders took part in the Gloucester Festival 7M on a breezy but sunny Thursday evening. Liza, Alexa and Louise secured the team prize for the women. With individual prizes for Nathan, Wayne and Liza and the women?s team prize it was a bit of a Striders biscuit fest! Nath, Liza, Rob , Billy and Louise all set new club records and everyone who raced ran a PB for the distance. Fantastic results, well done everyone Liza Barry The 7 mile Pilot 30 July 2009 Photos Report Results</p>'

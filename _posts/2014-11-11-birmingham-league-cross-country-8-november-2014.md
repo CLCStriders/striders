@@ -1,5 +1,5 @@
 ---
-id: 626
+
 title: 'Birmingham League Cross Country &#8211; 8 November 2014'
 date: 2014-11-11T12:08:46+00:00
 author: Clark Lawson

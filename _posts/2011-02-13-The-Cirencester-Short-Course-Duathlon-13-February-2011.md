@@ -1,5 +1,5 @@
 ---
-id: 101
+
 title: The Cirencester Short Course Duathlon 13 February 2011
 date: 2011-02-13T09:00:00+00:00
 excerpt: '<p>Jon Gould wins the Cirencester Short Course Duathlon. Excellent result, well done! Brendan Ward (Club Chairman) The Cirencester short course Duathlon Report</p>'

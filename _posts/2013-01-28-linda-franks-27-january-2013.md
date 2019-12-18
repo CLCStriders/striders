@@ -1,5 +1,5 @@
 ---
-id: 513
+
 title: 'Linda Franks &#8211; 27 January 2013'
 date: 2013-01-28T22:02:25+00:00
 excerpt: '<p>A group of six Striders got up early on Sunday to compete in the Linda Franks 5 mile race.</p>'

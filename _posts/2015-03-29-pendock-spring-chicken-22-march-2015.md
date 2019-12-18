@@ -1,5 +1,5 @@
 ---
-id: 643
+
 title: 'Pendock Spring Chicken &#8211; 22 March 2015'
 date: 2015-03-29T19:57:29+01:00
 author: Clark Lawson

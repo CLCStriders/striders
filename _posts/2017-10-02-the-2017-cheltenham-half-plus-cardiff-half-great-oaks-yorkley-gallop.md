@@ -1,5 +1,5 @@
 ---
-id: 2955
+
 title: 'The 2017 Cheltenham Half (plus Cardiff Half &#038; Great Oaks Yorkley Gallop)'
 date: 2017-10-02T20:30:25+01:00
 author: Paul Northup

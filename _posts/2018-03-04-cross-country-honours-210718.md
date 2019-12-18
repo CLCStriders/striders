@@ -1,5 +1,5 @@
 ---
-id: 3077
+
 title: Cross Country honours (2017/18)
 date: 2018-03-04T11:44:22+00:00
 author: Paul Northup

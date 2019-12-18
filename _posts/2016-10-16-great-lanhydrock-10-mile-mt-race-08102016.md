@@ -1,5 +1,5 @@
 ---
-id: 2485
+
 title: 'Great Lanhydrock 10 Mile MT Race &#8211; 08/10/2016'
 date: 2016-10-16T11:12:41+01:00
 author: Chris Driskell

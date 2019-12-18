@@ -1,6 +1,6 @@
 ---
-id: 2042
-title: 'Paul Northup&#8217;s VLM Update &#8211; Oh No! Injury!'
+
+title: 'Paul Northup's VLM Update &#8211; Oh No! Injury!'
 date: 2016-02-29T21:15:11+00:00
 author: Clark Lawson
 layout: post

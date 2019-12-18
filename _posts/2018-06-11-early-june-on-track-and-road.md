@@ -1,5 +1,5 @@
 ---
-id: 3158
+
 title: Early June – on track and road
 date: 2018-06-11T10:02:51+01:00
 author: Paul Northup

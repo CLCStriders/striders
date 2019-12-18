@@ -1,5 +1,5 @@
 ---
-id: 601
+
 title: 'Cleeve Cloud Cuckoo &#8211; 4 June 2014'
 date: 2014-06-05T16:49:37+01:00
 author: Clark Lawson

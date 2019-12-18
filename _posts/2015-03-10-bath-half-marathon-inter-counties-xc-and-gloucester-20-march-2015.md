@@ -1,5 +1,5 @@
 ---
-id: 641
+
 title: 'Bath Half Marathon, Inter-Counties XC and Gloucester 20 &#8211; March 2015'
 date: 2015-03-10T19:05:09+00:00
 author: Clark Lawson

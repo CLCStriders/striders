@@ -1,5 +1,5 @@
 ---
-id: 650
+
 title: 'Strider of the Month &#8211; April 2015 &#8211; Laura Gush'
 date: 2015-05-07T20:06:05+01:00
 author: Clark Lawson

@@ -1,5 +1,5 @@
 ---
-id: 3636
+
 title: Race Day 1, Midland League Cross-Country
 date: 2019-11-11T09:13:14+00:00
 author: Paul Northup
@@ -9,7 +9,7 @@ permalink: /2019/11/race-day-1-midland-league-cross-country/
 categories:
   - Cross Country Reports
   - Race Reports
-  - Uncategorised
+
 tags:
   - Burton Dassett
 ---

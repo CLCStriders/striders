@@ -1,5 +1,5 @@
 ---
-id: 1860
+
 title: 'Paul Northup &#8211; VLM Training'
 date: 2016-01-19T19:49:29+00:00
 author: Clark Lawson
@@ -9,7 +9,7 @@ permalink: /2016/01/paul-northup-vlm-training/
 categories:
   - Blog
 ---
-In his second blog, Paul Northup, CLC Striders&#8217; Virgin London Marathon representative, shares his training plans.<!--more-->
+In his second blog, Paul Northup, CLC Striders' Virgin London Marathon representative, shares his training plans.<!--more-->
 
 **What type of training plans have worked well in the past?**
 
@@ -17,7 +17,7 @@ None of my plans have worked out all that well before. Probably because I was do
 
 **What did you learn about training for marathons previously?**
 
-Overall, I&#8217;ve learnt three key things:
+Overall, I've learnt three key things:
 
   1. That you can peak too early. With the past three marathons I’ve run, I’ve felt in the right sort of shape a bit too early. And then I’ve usually picked up a mildly nagging injury to boot which has meant running a little cagily on the day. This time, despite doing more training than I’ve done before and running longer earlier, I want to feel like I’m getting stronger and stronger right up until the few weeks before the race.
   2. That you can run your best race as part of the preparation, rather than in the marathon itself. Last year, just under three weeks before the Bethlehem marathon, I ran the Gloucester 20. Sage advice from Chris Hale and others was to take it really easy. To hold back. Just to enjoy it. And so I set off planning to run the first half marathon section (the first 13 miles) at 7:30min/mile pace. Which is what I did. Ish. But I felt really fresh and relaxed at 13 miles and so I started to pick things up. Just to see. Just to test myself. I ran each of the last seven miles successively faster, finishing with a 6:35 mile and feeling really strong. Everything felt right. I only wished I’d pushed harder in the early part of the race and clocked a better overall time.
@@ -34,7 +34,7 @@ What I’m committed to are some guiding principles, more than a detailed, day-b
 The principles of my plan include:
 
   * To keep doing speed sessions as and when I can. I’m usually away in London with work on a Wednesday night but am trying to arrange my meetings so I can make it back for every other week. It’s those efforts which I am convinced will make all the difference. I know I need them in the mix.
-  * To run up at least one serious hill each week. Since I’ve been getting back into running, I’ve avoided hills at all costs. Silly, really. But then, after the Malvern cross-country last autumn, I realised what a big mistake that was. I set myself the challenge of running up Aggs Hill each week. I’ve been true to that, but, if I’m honest, I don’t always manage to run all the way up it each week. Some weeks it gets the better of me and I have to walk a small section. Overall, though, I think I’m coping with it better over time and I no longer pause for breath and rest at the top but I push straight on over towards Whittington. This isn’t very sophisticated and it isn’t Kenyan Hill Reps (which I’ve read about and watched Mo doing). It’s just me. It&#8217;s what I want to do. And I do think it’s building strength – both physical and mental.
+  * To run up at least one serious hill each week. Since I’ve been getting back into running, I’ve avoided hills at all costs. Silly, really. But then, after the Malvern cross-country last autumn, I realised what a big mistake that was. I set myself the challenge of running up Aggs Hill each week. I’ve been true to that, but, if I’m honest, I don’t always manage to run all the way up it each week. Some weeks it gets the better of me and I have to walk a small section. Overall, though, I think I’m coping with it better over time and I no longer pause for breath and rest at the top but I push straight on over towards Whittington. This isn’t very sophisticated and it isn’t Kenyan Hill Reps (which I’ve read about and watched Mo doing). It’s just me. It's what I want to do. And I do think it’s building strength – both physical and mental.
   * To do one long run each and every week (no matter what other races I have on). I was already running a half marathon distance run most weeks in the autumn, so it’s been relatively easy to step those runs up to 14, 16 and then 18 miles already by mid-Jan. No matter what the rhythm of the week holds (cross-country included) I want to run one long run each week.
   * To do one tempo and / or one mid-range run at tempo each week. For this I have Chris Hale to thank. I try to latch on to every offer he puts out of a midweek run as I know that he can push me. A perfect week would involve a Monday night six miles with the club, averaging seven minute-miling (or faster if Mr Charles Goodwin is around!) and then a second tempo run with Chris and others later in the week. Because I lack the sort of burner speed the best guys in the club have, I find I can use Monday as an effective tempo (or threshold) run more often than not! And it’s great to belong to a club now and have the chance to meet up with others to run in the week. (Thank you!)
   * But my last principle is perhaps the most important. It’s that whatever plans I have, they must be flexible. Running is not my life. It’s something that helps me live life and enjoy it better. I have four boys and a job that takes me to London for at least two days a week. Plus, I am supposed to be training for the World Series Olympic distance Tri in Leeds in June (which means I should be in the pool at least twice a week – I’m slacking badly on that front right now). So, while I want to do my best to be as disciplined in my training as possible, some things are just more important.

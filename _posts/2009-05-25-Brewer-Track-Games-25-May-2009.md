@@ -1,5 +1,5 @@
 ---
-id: 258
+
 title: Brewer Track Games 25 May 2009
 date: 2009-05-25T09:00:00+01:00
 excerpt: '<p>The Brewer games held at the Prince of Wales stadium produced some great results . Super Will Ferguson won the 800 metres, followed by Jowster in fourth. 15 year old Ben Hodges ran an excellent 200m race to record a new club under 17 recordBrendan Ward, Club Chairman Brewer Games 25 May 2009 Photos Report Results</p>'

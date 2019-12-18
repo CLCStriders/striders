@@ -1,5 +1,5 @@
 ---
-id: 395
+
 title: 'Boxing Day Challenge &#8211; 26th December 2011'
 date: 2012-01-07T23:24:30+00:00
 excerpt: '<p>Several Striders ran in the Boxing Day Challenge</p>'

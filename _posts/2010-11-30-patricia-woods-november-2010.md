@@ -1,5 +1,5 @@
 ---
-id: 311
+
 title: 'Patricia Woods : November 2010'
 date: 2010-11-30T00:00:00+00:00
 author: Clark Lawson

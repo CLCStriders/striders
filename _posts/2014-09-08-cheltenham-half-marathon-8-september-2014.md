@@ -1,5 +1,5 @@
 ---
-id: 617
+
 title: 'Cheltenham Half Marathon &#8211; 8 September 2014'
 date: 2014-09-08T20:12:29+01:00
 excerpt: "<p>Juan's the Man at the Cheltenham Half Marathon! A huge group of 38 CLC Striders took to the streets of Cheltenham to take on the second running of Cheltenham's Half Marathon. </p>"
@@ -8,9 +8,9 @@ permalink: /2014/09/cheltenham-half-marathon-8-september-2014/
 ---
 The star of the show for the Striders was Juan Moreno, the Spaniard had been holding pace with fellow Strider James Oram for a large part of the race before breaking away to finish in 1:19:17 smashing his PB by over 3 minutes and finishing 13th overall in a field of 2944 runners. James Oram was close behind an also bagged himself a PB, ducking under the 80 minute mark in 1:19:52. Mark Langman was the next Strider over the line with another superb half marathon time of 1:20:01, Langman had bravely led the charge for Team Striders for well over half of the race before being passed by the duo of Moreno and Oram in the latter stages
 
-The evergreen Charles Goodwin made an emphatic return to road racing to finish 2nd Vet 50 in a PB time of 1:25:38, breaking the CLC Striders M50 Club Record in the process. Super coach Chris &#8216;GPS&#8217;Hale was on pacemaking duties to see Rachael Cary show her strength over distance to finish 4th lady overall in a fantastic 1:27:14. Hot on Cary&#8217;s heels was Richard Shardlow in 1:27:57. Jo Wilkie continued her fine form by smashing herPB and finishing in 1:28:39
+The evergreen Charles Goodwin made an emphatic return to road racing to finish 2nd Vet 50 in a PB time of 1:25:38, breaking the CLC Striders M50 Club Record in the process. Super coach Chris &#8216;GPS'Hale was on pacemaking duties to see Rachael Cary show her strength over distance to finish 4th lady overall in a fantastic 1:27:14. Hot on Cary's heels was Richard Shardlow in 1:27:57. Jo Wilkie continued her fine form by smashing herPB and finishing in 1:28:39
 
-Recent addition to the strong Striders ladies team Karlien Heyrman ran well to finish in 1:34:28. Marathon training partners Vicky Veness and Charlotte Sugden went stride for stride over the 13.1 miles and both recorded PB&#8217;sin 1:35:51 and 1:35:52 respectively, showing great potential for their upcoming challenge over the full marathon distance. Other notable perfomances came from Emma Houldey 1:38:26, Steph Parker 1:41:06 and Gordon Bendall 1:48:05
+Recent addition to the strong Striders ladies team Karlien Heyrman ran well to finish in 1:34:28. Marathon training partners Vicky Veness and Charlotte Sugden went stride for stride over the 13.1 miles and both recorded PB'sin 1:35:51 and 1:35:52 respectively, showing great potential for their upcoming challenge over the full marathon distance. Other notable perfomances came from Emma Houldey 1:38:26, Steph Parker 1:41:06 and Gordon Bendall 1:48:05
 
 CLC Striders won first place in the combined team award for the performances of Juan Moreno, James Oram, Rachael Elkins and Jo Wilkie
 

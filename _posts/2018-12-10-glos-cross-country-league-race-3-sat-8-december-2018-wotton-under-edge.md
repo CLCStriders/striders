@@ -1,5 +1,5 @@
 ---
-id: 3280
+
 title: Glos Cross Country League Race 3, Sat 8 December 2018, Wotton Under Edge
 date: 2018-12-10T09:15:36+00:00
 author: Paul Northup

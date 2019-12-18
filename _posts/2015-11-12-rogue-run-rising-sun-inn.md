@@ -1,5 +1,5 @@
 ---
-id: 1686
+
 title: Rogue Run – Rising Sun Inn
 date: 2015-11-12T19:18:11+00:00
 author: Clark Lawson

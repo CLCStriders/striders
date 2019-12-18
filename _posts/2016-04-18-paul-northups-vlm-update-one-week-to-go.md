@@ -1,5 +1,5 @@
 ---
-id: 2112
+
 title: Paul Northup’s VLM Update – One Week to Go!
 date: 2016-04-18T07:51:15+01:00
 author: Clark Lawson
@@ -7,7 +7,7 @@ layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=2112
 permalink: /2016/04/paul-northups-vlm-update-one-week-to-go/
 categories:
-  - Uncategorised
+
 ---
 A week today it will all be over. After the months of training – dark mornings and gale force winds seem to have characterised my preparation – I will have completed the London Marathon. I’m conscious that my blogging has fallen away in recent weeks (I tapered early on the writing front). So here’s a round-up of where I’m at and how I’m feeling about the Big Day.
 
@@ -36,7 +36,7 @@ Those miles in the bank are what I’m trusting will carry me through next Sunda
 
 **My plan for the day**
 
-I’m going up on Saturday. On my own. I’m kipping in the familiar surroundings of the little office I work in on my London days. Apart from meeting up with Juan to give him his race pack, it’s &#8216;me time&#8217;. I can do my own thing. I can get into the zone. I’m being completely selfish about the 24 hours before the event. My family will track me from home.
+I’m going up on Saturday. On my own. I’m kipping in the familiar surroundings of the little office I work in on my London days. Apart from meeting up with Juan to give him his race pack, it’s &#8216;me time'. I can do my own thing. I can get into the zone. I’m being completely selfish about the 24 hours before the event. My family will track me from home.
 
 Once on the starting line, I’m aiming to set off at just behind 7-min/mile pace. My plan is to run the first half at that even pace. The hope is that I feel strong and fresh enough then to push on and do the same again. Or, if my dreams come true, to put in a few sub 7-min miles in the second half and to run a negative split. We’ll see. It’s a long way and all sorts of things can happen. Especially in terms of the way I manage to stay fuelled and hydrated.
 

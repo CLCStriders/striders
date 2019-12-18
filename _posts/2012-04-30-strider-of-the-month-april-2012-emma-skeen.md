@@ -1,5 +1,5 @@
 ---
-id: 438
+
 title: 'Strider of the Month April 2012: Emma Skeen'
 date: 2012-04-30T17:02:14+01:00
 author: Clark Lawson

@@ -1,6 +1,6 @@
 ---
-id: 391
-title: 'Rudolph&#8217;s Rampage &#8211; 18th December 2011'
+
+title: 'Rudolph's Rampage &#8211; 18th December 2011'
 date: 2011-12-21T23:12:13+00:00
 excerpt: '<p>Striders go on the rampage in Painswick...</p>'
 layout: post

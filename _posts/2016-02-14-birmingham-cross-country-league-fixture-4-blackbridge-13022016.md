@@ -1,6 +1,6 @@
 ---
-id: 1957
-title: 'Birmingham Cross Country League/Midland Women&#8217;s Cross Country League &#8211; 13/02/2016'
+
+title: 'Birmingham Cross Country League/Midland Women's Cross Country League &#8211; 13/02/2016'
 date: 2016-02-14T11:42:28+00:00
 author: Chris Driskell
 layout: post
@@ -15,7 +15,7 @@ CLC striders men put in an excellent performance in the final Birmingham cross c
 
 <div id="eyeDivInject">
   <p>
-    The men&#8217;s A team finished seventh overall in the league, and were fifth team on the day in this very strong Division Two competition.
+    The men's A team finished seventh overall in the league, and were fifth team on the day in this very strong Division Two competition.
   </p>
   
   <p>
@@ -34,7 +34,7 @@ CLC striders men put in an excellent performance in the final Birmingham cross c
   </div>
   
   <p>
-    Meanwhile CLC ladies competed in Wolverhampton in the Midland Women&#8217;s Cross Country League where they finished 10th team in the league and unfortunateley were relegated to Division Two for next season.
+    Meanwhile CLC ladies competed in Wolverhampton in the Midland Women's Cross Country League where they finished 10th team in the league and unfortunateley were relegated to Division Two for next season.
   </p>
   
   <p>

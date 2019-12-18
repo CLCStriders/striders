@@ -1,5 +1,5 @@
 ---
-id: 370
+
 title: 'Cirencester 10K &#8211; 25th September 2011'
 date: 2011-09-25T15:33:56+01:00
 excerpt: '<p>CLC Striders had several athletes competing in the Cirencester 10k on Sunday 25th September. </p>'

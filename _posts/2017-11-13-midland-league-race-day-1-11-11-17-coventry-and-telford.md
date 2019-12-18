@@ -1,5 +1,5 @@
 ---
-id: 2990
+
 title: Midland League Race Day 1 (11.11.17) – Coventry and Telford
 date: 2017-11-13T08:59:52+00:00
 author: Paul Northup

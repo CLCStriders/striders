@@ -1,5 +1,5 @@
 ---
-id: 197
+
 title: The Bath Half Marathon and Gloucester 20-Mile 07 March 2010
 date: 2010-03-07T09:00:00+00:00
 author: Clark Lawson
@@ -17,7 +17,7 @@ categories:
 
 CLC Striders had several Athletes competing in the Bath Half Marathon Sunday 7th March. Al Raitt Ran well to lead the Club home with a PB time of 1.23.35, he was followed by Liza Barry who ran superb to Record a PB of 1.25.51, next in for the Striders was Rachel Vines who had a fablous Run to break through the Sub 1.30 Barrier Recording a Scintillating PB time of 1.29.37, Matt Eggelton followed with a PB time of 1.30.31, Richard Mann ran well to record 1.31.12, Heather Eggelton was next home in a PB time of 1.43.07, Nicola Christian finished her debut race for Striders in a fantastic 1.45.05 to set a new L45 club record, Vet Paul Jenkins followed in 1.52.12, Aline Imray in her first outing for the club completed it in 2.08.56 and Alex Evans completed the tough course in 2.28.49
 
-The Striders on the same day had athletes competing in the Gloucester 20 Mile Road Race which is an ideal build up for the London Marathon next month. Wayne Usher was first to finish for the Club in an Excellent 3rd place setting a New Club Record of 2.06.14 breaking his old mark of last year by several minutes. Usher was followed home by Vet Dave Billingham in 2.17.16, next was John Howes who did well to record 2.35.20, Vet Ian Daniels followed in 2.38.51, Emma Skeen was next in a fine 2.41.55, L35 Becky Boulton running her first 20 Mile road race did very well to record 3.53.40. The Striders Men&#8217;s Team Finished 7th
+The Striders on the same day had athletes competing in the Gloucester 20 Mile Road Race which is an ideal build up for the London Marathon next month. Wayne Usher was first to finish for the Club in an Excellent 3rd place setting a New Club Record of 2.06.14 breaking his old mark of last year by several minutes. Usher was followed home by Vet Dave Billingham in 2.17.16, next was John Howes who did well to record 2.35.20, Vet Ian Daniels followed in 2.38.51, Emma Skeen was next in a fine 2.41.55, L35 Becky Boulton running her first 20 Mile road race did very well to record 3.53.40. The Striders Men's Team Finished 7th
 
 Congratulations to all. 
 

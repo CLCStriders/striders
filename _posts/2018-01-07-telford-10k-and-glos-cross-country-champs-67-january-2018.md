@@ -1,5 +1,5 @@
 ---
-id: 3025
+
 title: Telford 10k and Glos Cross Country Champs – 6/7 January 2018
 date: 2018-01-07T22:13:24+00:00
 author: Paul Northup
