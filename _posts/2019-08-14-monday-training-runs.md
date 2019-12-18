@@ -1,15 +1,10 @@
 ---
-id: 3555
 title: Autumn/Winter Training
-date: 2019-08-14T15:55:50+01:00
 author: Charlie Haward
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3555
-permalink: /2019/08/monday-training-runs/
 categories:
-  - News
-  - pinned
-  - Training News
+  - Announcements
+  - Training
 ---
 With the arrival of darker evenings, we&#8217;re back to running the winter routes on Mondays and training on the Honeybourne Line on Wednesdays. 
 
