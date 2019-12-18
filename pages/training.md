@@ -29,6 +29,8 @@ All our routes are circular, starting and finishing at our base <a href="https:/
 * 6 mile route 1b: http://www.gmap-pedometer.com/?r=6085063
 * 4 mile route 1c: http://www.gmap-pedometer.com/?r=6085072
 * 6 mile route 1d: http://www.gmap-pedometer.com/?r=6085063
+* 4-mile route 1e: https://www.gmap-pedometer.com/?r=6584237  
+* 6-mile route 1f: https://www.gmap-pedometer.com/?r=6584229
 
 ### Speed Work – Wednesday 6.30pm CLC Sports Centre
 
