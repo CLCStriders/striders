@@ -8,9 +8,12 @@ categories:
 ---
 CLC Striders bagged a good haul of medals in the 2017/18 Gloucestershire League Cross Country:
 
-Lady Vet 35 - GOLD - Patricia Sturgêss  
-Lady Vet 35 - SILVER - Helen Knight  
-Male Vet 65 - SILVER - David James <span class="text_exposed_show"><br /> Senior Ladies - BRONZE - Karlien Heyrman<br /> Lady Vet 45 - BRONZE - Natalie Burfitt<br /> Male Vet 50 - BRONZE - Charles Goodwin </span>
+* Lady Vet 35 - GOLD - Patricia Sturgêss  
+* Lady Vet 35 - SILVER - Helen Knight  
+* Male Vet 65 - SILVER - David James
+* Senior Ladies - BRONZE - Karlien Heyrman
+* Lady Vet 45 - BRONZE - Natalie Burfitt
+* Male Vet 50 - BRONZE - Charles Goodwin
 
 In addition, the Lady Masters finished in 3rd Place (by just 1 point!).
 
