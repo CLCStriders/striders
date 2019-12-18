@@ -27,6 +27,9 @@ This will be clearly marshalled. Please note that road closures have not been ap
 - [Willans LLP Solicitors](https://willans.co.uk/)
 - [Pentons Performance Therapy](https://pentonsperformancetherapy.co.uk/)
 - [Acorns Children's Hospice](https://www.acorns.org.uk/)
+- [Brewin Dolphin](https://www.brewin.co.uk/our-offices/cheltenham)
+- [Libertine](https://thelibertinebarbers.co.uk/)
+- [Toe Jam Kicks](https://toejamkicks.co.uk/)
 
 ### Acknowledgements
 
