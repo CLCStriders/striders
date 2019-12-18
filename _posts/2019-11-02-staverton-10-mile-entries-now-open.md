@@ -2,7 +2,7 @@
 title: 'Staverton 10 Mile - Entries now open'
 author: Joel Freeland
 layout: post
-categories: races
+categories: Races
 
 ---
  
