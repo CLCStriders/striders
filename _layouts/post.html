@@ -22,6 +22,22 @@
             <span class="read-time" title="Estimated read time">| <em>{% assign words = content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
             <span class="categories">| <em>{% if post.category != empty %}{% for category in post.categories %}{{ category }}, {% endfor %}{% endif %}</em></span>
             </small>
+              
+              <div class="related">
+                <h3>Related Posts</h3>
+                {% assign firstCategory = page.categories | first %}
+                {% assign relatedCount = 0 %}
+                {% for related in site.categories[firstCategory] %}
+                    {% unless page.permalink == related.permalink %}
+                        {% assign relatedCount = relatedCount | plus: 1 %}
+                        <a href="{{related.permalink}}">{{ related.title }}</a>
+                    {% endunless %}
+
+                    {% if relatedCount == 3 %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+              </div>
           </div>
       {% include footer.html %}
     </div>
