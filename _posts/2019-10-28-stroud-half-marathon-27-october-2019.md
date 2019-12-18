@@ -3,12 +3,9 @@ title: Stroud Half Marathon, 27 October 2019
 author: Paul Northup
 layout: post
 categories:
-  - RaceReports
-  - RoadReports
-tags:
-  - Stroud
-  - Stroud Half Marathon
+  - Road Reports
 ---
+
 On a bright, crisp, chilly late October morning – and having enjoyed an extra hour in bed with the switch back to GMT – a crop of CLC Striders took their places among 2,000 or so starters for the popular annual Stroud Half Marathon.
 
 Tom Kabala led the way home with a solid top-50 finish in a time of 1:21:53. Next to finish for the club were Liza Barry, continuing her strong return to racing and finishing in 1:31:52, and Karlien Heyrman in 1:32:50.
