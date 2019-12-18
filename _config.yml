@@ -19,22 +19,10 @@ strava:         https://www.strava.com/clubs/clc-striders
 instagram:      https://instagram.com/CLCStriders
 encoding:       UTF-8
 future:         false
+toc:            true
 exclude:        ["README"]
 sass:
   style:        compressed
 gems:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-github-metadata
-
-# collections:
-#  category:
-#  output: true
-#  permalink: "/category/:name"
-#  defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "category"
-#     values:
-#       layout: category
