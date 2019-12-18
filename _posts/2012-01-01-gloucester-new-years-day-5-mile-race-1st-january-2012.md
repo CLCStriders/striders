@@ -1,12 +1,11 @@
 ---
 
-title: 'Gloucester New Year's Day 5 mile Race - 1st January 2012'
-date: 2012-01-01T17:38:42+00:00
-excerpt: '<p>Striders start new year in style at Gloucester 5 mile race</p>'
+title: 'Gloucester New Years Day 5 mile Race - 1st January 2012'
 layout: post
-permalink: /2012/01/gloucester-new-years-day-5-mile-race-1st-january-2012/
+
 ---
-</p> 
+<p>Striders start new year in style at Gloucester 5 mile race</p>
+
 
 There were some strong performances and an impressive clutch of chocolate biscuits for the seven Striders who competed in the Gloucester New Year's day 5 mile race at the Pilot Inn in Hardwicke today.
 
