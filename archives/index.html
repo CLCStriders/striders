@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: Archives
 ---
 
 <div id="blog-archives">
@@ -10,8 +10,11 @@ title: Archive
   {% assign year = this_year %}
   <h2>{{ year }}</h2>
 {% endunless %}
-<article>
-  {% include archive_post.html %}
-</article>
+<ul class="posts">
+  <li class="{{ post.popular }} {{ post.new }}">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+  </li>
+</ul>
 {% endfor %}
 </div>
