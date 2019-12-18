@@ -10,7 +10,7 @@ categories:
 
 ---
 <div style="float:right; padding: 20px 20px 20px 20px">
-  <img class="alignright size-medium wp-image-2055" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/03/JamesOram1-e1458074182855-225x300.jpg" alt="JamesOram" width="225" height="300" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/03/JamesOram1-e1458074182855-225x300.jpg 225w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/03/JamesOram1-e1458074182855.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />
+  <img class="alignright size-medium wp-image-2055" src="/Images/2016/03/JamesOram1-e1458074182855-225x300.jpg" alt="JamesOram" width="225" height="300" srcset="/Images/2016/03/JamesOram1-e1458074182855-225x300.jpg 225w, /Images/2016/03/JamesOram1-e1458074182855.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />
 </div>
 
 Congratulations to James Oram who has been awarded the &#8216;Strider of the Month' for February 2016.

@@ -25,7 +25,7 @@ The second half of the ultra trail was a whole lot tougher and hillier, but Rob 
 
 Rob was delighted just to complete the gruelling challenge, but to finish inside the top 50 and earn a gold buckle for his efforts made him doubly proud of his achievements. He couldn’t have done it without his running buddy Laura Kearney and Andrew Paterson, who provided race support throughout, including soup and tea in the middle of the night! <figure class="wp-block-image is-resized">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="" class="wp-image-3491" width="300" height="300" /> <figcaption>Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra</figcaption></figure> 
+<img src="/Images/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="" class="wp-image-3491" width="300" height="300" /> <figcaption>Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra</figcaption></figure> 
 
 **Edinburgh Marathon  
 Sunday 26th May 2019**

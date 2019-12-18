@@ -12,7 +12,7 @@ categories:
 ---
 <div style="float: right; padding: 20px 20px 20px 20px; width: 285px;">
   <p>
-    <img class="alignright size-medium wp-image-2115" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/CLC-Striders-Angels-10k-265x300.jpg 265w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/CLC-Striders-Angels-10k.jpg 848w" sizes="(max-width: 265px) 100vw, 265px" />
+    <img class="alignright size-medium wp-image-2115" src="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" srcset="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg 265w, /Images/2016/04/CLC-Striders-Angels-10k.jpg 848w" sizes="(max-width: 265px) 100vw, 265px" />
   </p>
 </div>
 

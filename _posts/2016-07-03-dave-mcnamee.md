@@ -19,6 +19,6 @@ Dave generously gave his advice to Brendan when the club was being set up 8 year
 
 Dave will be sadly missed by CLC Striders and his many other friends in the sport, and our thoughts go out to his friends and family at this difficult time.
 
-[<img class="alignnone size-medium wp-image-2354" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/07/IMG_0140-245x300.jpg 245w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/07/IMG_0140.jpg 501w" sizes="(max-width: 245px) 100vw, 245px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/07/IMG_0140.jpg)
+[<img class="alignnone size-medium wp-image-2354" src="/Images/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" srcset="/Images/2016/07/IMG_0140-245x300.jpg 245w, /Images/2016/07/IMG_0140.jpg 501w" sizes="(max-width: 245px) 100vw, 245px" />](/Images/2016/07/IMG_0140.jpg)
 
 &nbsp;

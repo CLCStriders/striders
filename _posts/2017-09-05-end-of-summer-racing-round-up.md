@@ -27,7 +27,7 @@ At the end of the evening Striders entered teams in the ladies and men’s 4 by 
 
 In the club’s internal summer track competition, Will Fergusson finished top of the tree overall after a fantastic season of PBs and club records and an average age grading of 83.34%.
 
-[<img class="alignnone wp-image-2932 size-full" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg" alt="IMG_3420" width="640" height="480" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg 640w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2017/09/IMG_3420.jpg)
+[<img class="alignnone wp-image-2932 size-full" src="/Images/2017/09/IMG_3420.jpg" alt="IMG_3420" width="640" height="480" srcset="/Images/2017/09/IMG_3420.jpg 640w, /Images/2017/09/IMG_3420-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](/Images/2017/09/IMG_3420.jpg)
 
 **Parkrun &#8216;take-over'**
 

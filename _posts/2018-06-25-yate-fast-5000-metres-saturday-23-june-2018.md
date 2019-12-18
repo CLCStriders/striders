@@ -15,7 +15,7 @@ tags:
 ---
 **Will Ferguson **of CLC Striders set a new personal best time and club record at the Yate fast Track 5,000 metres on Saturday 23rd June 2018.
 
-[<img class="alignnone wp-image-3165" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/06/IMG_5694.jpg" alt="IMG_5694" width="800" height="600" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/06/IMG_5694.jpg 640w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/06/IMG_5694-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/06/IMG_5694.jpg)
+[<img class="alignnone wp-image-3165" src="/Images/2018/06/IMG_5694.jpg" alt="IMG_5694" width="800" height="600" srcset="/Images/2018/06/IMG_5694.jpg 640w, /Images/2018/06/IMG_5694-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/06/IMG_5694.jpg)
 
 Ferguson ran in the final race of the evening and got stuck in right from the start, hitting each 400m of the twelve-and-a-half-lap race in 73-74 seconds. Reaching the bell in 14.08, Ferguson gave it his all on the final lap, running 67 seconds dead and stopping the clock in an excellent time of 15.15.09 to finish in sixth place in what was an elite field of runners.
 

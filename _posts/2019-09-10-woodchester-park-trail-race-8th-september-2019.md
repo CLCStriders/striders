@@ -24,4 +24,4 @@ The challenging eight-mile race followed paths weaving up and down the steep val
 
 Helen, Amelia and Nicola also won the ladies team competition on the day.<figure class="wp-block-image">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" class="wp-image-3571" /> <figcaption>Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins</figcaption></figure>
+<img src="/Images/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" class="wp-image-3571" /> <figcaption>Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins</figcaption></figure>

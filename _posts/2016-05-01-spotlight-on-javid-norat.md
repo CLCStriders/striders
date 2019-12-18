@@ -15,7 +15,7 @@ In a new feature for the CLC Striders website, Javid Norat answers a few choice 
 
 <!--more-->
 
-[<img class="alignnone size-medium wp-image-2156" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/05/IMG_0570-165x300.jpg" alt="IMG_0570" width="165" height="300" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/05/IMG_0570-165x300.jpg 165w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/05/IMG_0570.jpg 396w" sizes="(max-width: 165px) 100vw, 165px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/05/IMG_0570.jpg)
+[<img class="alignnone size-medium wp-image-2156" src="/Images/2016/05/IMG_0570-165x300.jpg" alt="IMG_0570" width="165" height="300" srcset="/Images/2016/05/IMG_0570-165x300.jpg 165w, /Images/2016/05/IMG_0570.jpg 396w" sizes="(max-width: 165px) 100vw, 165px" />](/Images/2016/05/IMG_0570.jpg)
 
 When did you join the club?
 

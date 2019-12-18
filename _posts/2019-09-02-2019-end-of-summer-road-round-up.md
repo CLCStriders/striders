@@ -15,7 +15,7 @@ Sunday, September 1st**
 
 Four Striders travlled south to race the annual 10-mile road race around Oldbury to mark the start of meteorological autumn. **Helen Knight** led he club home as the 3rd LV40 finisher in a new club record time of 1:09:12. Meanwhile, **Amanda Steer** finished 1st in her V45 category in 1:12:32, **Gary Smith** ran a solid 1:13:23 and **Mike Crossely** came home in 1:23:36.<figure class="wp-block-image is-resized">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Oldbury-10.jpg" alt="" class="wp-image-3559" width="800" height="540" /> <figcaption>_From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley_</figcaption></figure> 
+<img src="/Images/2019/09/Oldbury-10.jpg" alt="" class="wp-image-3559" width="800" height="540" /> <figcaption>_From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley_</figcaption></figure> 
 
 **Cotswold Trail Half  
 Sunday September 1st**
@@ -27,7 +27,7 @@ Saturday August 31st**
 
 The annual Meteor Mile was run on the runway at Staverton airport under a setting sun on a fine and dry end-of-August evening. Fast and flat, five Striders clocked good times on the night. **Amelia Mullins** was the first club finisher in a fast 6:15, **Mike Speke** ran a PB of 6:18, **Andrew Gage** clocked 6:25, **Nicola Weager** finished in 6:32, and **David James** set a new club MV65 record in 6:44. <figure class="wp-block-image">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1.jpg" alt="" class="wp-image-3566" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1.jpg 800w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/09/Meteor-Mile-1-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> <figcaption>_From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_</figcaption></figure> 
+<img src="/Images/2019/09/Meteor-Mile-1.jpg" alt="" class="wp-image-3566" srcset="/Images/2019/09/Meteor-Mile-1.jpg 800w, /Images/2019/09/Meteor-Mile-1-300x225.jpg 300w, /Images/2019/09/Meteor-Mile-1-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> <figcaption>_From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_</figcaption></figure> 
 
 ## &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
 

@@ -24,7 +24,7 @@ Fiona Brady- Miller made a strong cross country debut for the club in 79th place
 
 Thanks to strong performances across the board, the CLC ladies vets achieved first place in the team standings on the day, getting their cross-country season off to the best possible of starts.<figure class="wp-block-image">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" class="wp-image-3596" /> <figcaption>_CLC Ladies at Wooton, from left to right: Amelia Mullins, Karlien Heyrman, Liza Bradshaw, Amanda Steer, Helen Knight, Zoe Gough, Fiona Brady-Miller, Emma Abbey, Rachel Vines_</figcaption></figure> 
+<img src="/Images/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" class="wp-image-3596" /> <figcaption>_CLC Ladies at Wooton, from left to right: Amelia Mullins, Karlien Heyrman, Liza Bradshaw, Amanda Steer, Helen Knight, Zoe Gough, Fiona Brady-Miller, Emma Abbey, Rachel Vines_</figcaption></figure> 
 
 In the men’s race, Daniel Bazzard ran well to finish first for the club in 53rd place. New dad Alex Monro battled through for 84th place, with Paul Lockyer only just behind him in 89th position. Eoin McQuone was 112th, Gavin Jerman was 134th and Andrew Gage completed the first six finishers for the club in 162nd place.
 

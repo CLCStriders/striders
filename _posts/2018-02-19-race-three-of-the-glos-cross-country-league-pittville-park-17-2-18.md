@@ -15,8 +15,8 @@ tags:
 ---
 On a pleasantly mild February day, Cheltenham Harriers welcomed clubs in the Gloucestershire Cross Country League to race in the third fixture of the season across the undulating parkland of Pittville Park in Cheltenham.
 
-<p style="text-align: right;">
-  <a href="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Karlien-Liza-17.2.18.jpg"><img class="size-full wp-image-3070 alignleft" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Karlien-Liza-17.2.18.jpg" alt="Karlien-Liza-17.2.18" width="640" height="960" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Karlien-Liza-17.2.18.jpg 640w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Karlien-Liza-17.2.18-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></a><em>Pictured: Karlien Heyrman and Liza Barry cross the stream</em>
+
+ <img src="/Images/2018/02/Karlien-Liza-17.2.18.jpg" alt="Karlien-Liza-17.2.18" width="640" height="960" srcset="/Images/2018/02/Karlien-Liza-17.2.18.jpg 640w, /Images/2018/02/Karlien-Liza-17.2.18-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></a><em>Pictured: Karlien Heyrman and Liza Barry cross the stream</em>
 </p>
 
 Continuing to blaze a trail for the club, the CLC Ladies had another strong team performance. Once again led home by their lead lady this season **Karlien Heyrman**, 17<sup>th</sup> overall and 6<sup>th</sup> senior lady in a time of 28:59, the race saw a welcome return to competition from cross country specialist Liza Barry, out so far this winter with a foot injury. **Liza Barry** finished in 20<sup>th</sup> place overall as the 7<sup>th</sup> senior lady in a time 29:13. Third and fourth ladies home for CLC on the day were **Helen Knight**, 23<sup>rd</sup> overall and 4<sup>th</sup> LV35 in 29:24, and **Patricia Surgess**, 27<sup>th</sup> overall and 6<sup>th</sup> LV35 in 30:02.
@@ -29,7 +29,7 @@ On the day, the ladies finished in 5<sup>th</sup> place in both the Senior and M
 
 Next it was the turn of the men. With many runners unavailable, it was some of the club’s newer members who were able to shine.
 
-[<img class="alignnone size-full wp-image-3071" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Tom-Fletcher-2-17.2.18.jpg" alt="Tom-Fletcher-2-17.2.18" width="640" height="960" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Tom-Fletcher-2-17.2.18.jpg 640w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Tom-Fletcher-2-17.2.18-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/02/Tom-Fletcher-2-17.2.18.jpg)
+<img src="/Images/2018/02/Tom-Fletcher-2-17.2.18.jpg" alt="Tom-Fletcher-2-17.2.18" width="640" height="960" srcset="/Images/2018/02/Tom-Fletcher-2-17.2.18.jpg 640w, /Images/2018/02/Tom-Fletcher-2-17.2.18-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />
 
 <p style="text-align: right;">
   <em>Pictured: Tom Fletcher, the club’s leading male runner on the day.</em>

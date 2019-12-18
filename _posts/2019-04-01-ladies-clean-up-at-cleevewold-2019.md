@@ -20,6 +20,6 @@ In an amazing 1, 2, 3, CLC Striders ladies finished as follows …&nbsp;
 
 The CLC Striders men, meanwhile, achieved third team place overall with **Iain Porter**, **Tom Fletcher**, **Hedley Phillips** and **Gavin Jerman** running strongly.<figure class="wp-block-image is-resized">
 
-<img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/04/Cleevewold-ladies-31.3.19.jpg" alt="" class="wp-image-3447" width="720" height="540" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/04/Cleevewold-ladies-31.3.19.jpg 960w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/04/Cleevewold-ladies-31.3.19-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2019/04/Cleevewold-ladies-31.3.19-768x576.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>The ladies team from left to right: Amelia Mullins, Karlien Hayrman, Rachel Vines, Rachael Cary and Helen Knight.</figcaption></figure> 
+<img src="/Images/2019/04/Cleevewold-ladies-31.3.19.jpg" alt="" class="wp-image-3447" width="720" height="540" srcset="/Images/2019/04/Cleevewold-ladies-31.3.19.jpg 960w, /Images/2019/04/Cleevewold-ladies-31.3.19-300x225.jpg 300w, /Images/2019/04/Cleevewold-ladies-31.3.19-768x576.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>The ladies team from left to right: Amelia Mullins, Karlien Hayrman, Rachel Vines, Rachael Cary and Helen Knight.</figcaption></figure> 
 
 ****

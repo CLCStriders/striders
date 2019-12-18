@@ -10,7 +10,7 @@ categories:
   - News
 ---
 <div style="float:right">
-  <img src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/04/IMG_5749-e1523130403974-1024x768.jpg" alt="IMG_5749" width="330" class="alignright size-large wp-image-3116" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/04/IMG_5749-e1523130403974-1024x768.jpg 1024w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/04/IMG_5749-e1523130403974-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/04/IMG_5749-e1523130403974-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+  <img src="/Images/2018/04/IMG_5749-e1523130403974-1024x768.jpg" alt="IMG_5749" width="330" class="alignright size-large wp-image-3116" srcset="/Images/2018/04/IMG_5749-e1523130403974-1024x768.jpg 1024w, /Images/2018/04/IMG_5749-e1523130403974-300x225.jpg 300w, /Images/2018/04/IMG_5749-e1523130403974-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 </div>
 
 Following a successful trial period, Friday evening track speed sessions at the Prince of Wales Stadium are now a fixed club session.

@@ -29,7 +29,7 @@ Evergreen **JJ Willson **came home in 40:47.8 to claim 1<sup>st</sup>position i
 
 On the night, the Striders ladies also won top honours in the team competition.
 
-[<img class="alignnone wp-image-3145" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018" width="800" height="1067" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Ladies-Berkeley-10k-2018.jpg 720w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Ladies-Berkeley-10k-2018-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/05/Ladies-Berkeley-10k-2018.jpg)
+[<img class="alignnone wp-image-3145" src="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018" width="800" height="1067" srcset="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg 720w, /Images/2018/05/Ladies-Berkeley-10k-2018-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/05/Ladies-Berkeley-10k-2018.jpg)
 
 _Front row, left to right, Helen Knight and Nicola Weager. Second row, left to right, Patricia Sturgess, Amanda Steer and Karlien Heyrman. Top, Amelia Mullins._
 

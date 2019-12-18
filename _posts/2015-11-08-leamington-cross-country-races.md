@@ -21,4 +21,4 @@ CLC mens A Team finished 8th out of 17 Teams, and hope to improve on this positi
 
 CLC mens B Team was led home by Paul Lockyer in 142nd place, next was Paul Smith in 161st place, Rob Bircher was 177th, Dan Farrelly was 190th, Veteran David James 204th, and Final B Team scorer was Martin Bick in 209th place. CLC mens B Team finished in 9th place.
 
-&nbsp;[![](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/11/IMG_4318.jpg)](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2015/11/IMG_4318.jpg)&nbsp;
+&nbsp;[![](/Images/2015/11/IMG_4318.jpg)](/Images/2015/11/IMG_4318.jpg)&nbsp;

@@ -1,14 +1,11 @@
 ---
-
 title: The Linda Franks 4.2m and 2.2m 24 January 2010
-date: 2010-01-24T09:00:00+00:00
-excerpt: '<p>Thank You Very much for putting on a great show today at the Linda Franks Run. I am so Very happy and proud to be be associated with all of you wonderful people, you keep me motivated and inspired with your effort and commitment to the Striders, Brendan Ward (Club Chairman). Linda Franks 24 January 2010 Photos Report Results</p>'
+excerpt: ''
 layout: post
-permalink: /2010/01/The-Linda-Franks-4.2m-and-2.2m-24-January-2010-/
----
-**Linda Franks 24 January 2010**
 
-**<a name="Report"></a>Report**
+---
+
+<p>Thank You Very much for putting on a great show today at the Linda Franks Run. I am so Very happy and proud to be be associated with all of you wonderful people, you keep me motivated and inspired with your effort and commitment to the Striders, Brendan Ward (Club Chairman). Linda Franks 24 January 2010 Photos Report Results</p>
 
 Rich Dare moved up to another level today at the Linda Franks County Series 4.2 Mile Road Race starting at B&Q Cheltenham. Dare who was in the chasing pack until halfway round the first of two laps, managed to make a strong break to move closer to the leaders. He stayed strong throughout the the final lap and managed to finish in a superb 3rd Place recording a time of 22.55. 
 
@@ -22,7 +19,7 @@ Thanks for all your efforts, and many thanks to Tony Stanton and Neil Stanton fo
 
 Brendan
 
-<a name="Report"></a>**Results**</p> 
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col span="2"> <col> <col> <col> 

@@ -24,7 +24,7 @@ _A round up of end of summer racing on track and road&#8230;_
 
 The last track meeting of the season saw Striders having some fun and breaking club records and PBs in the process in the Gloucestershire County Track Championships at the Prince of Wales Stadium.
 
-[<img class="alignnone wp-image-3231" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg" alt="Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs" width="800" height="1067" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg 720w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg)
+[<img class="alignnone wp-image-3231" src="/Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg" alt="Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs" width="800" height="1067" srcset="/Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg 720w, /Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg)
 
 <p style="text-align: right;">
   <em>Amelia Mullins and Nicola Weager – winners in their age categories in The Mile</em>
@@ -36,7 +36,7 @@ Meanwhile the Striders men saw **Jon Howes **finish in a fast 5.16.6 in his V40
 
 Over the longer track distance of 10,000m, **Helen Knight **clocked 42.07.6 in her V35 category and **Amanda Steer **finished in 41.11.2 in her V45 category.
 
-[<img class="alignnone wp-image-3232" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Mens-Team-Sept-2018-4x100.jpg" alt="Mens-Team-Sept-2018-4x100" width="800" height="600" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Mens-Team-Sept-2018-4x100.jpg 960w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Mens-Team-Sept-2018-4x100-300x225.jpg 300w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Mens-Team-Sept-2018-4x100-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Mens-Team-Sept-2018-4x100.jpg)
+[<img class="alignnone wp-image-3232" src="/Images/2018/09/Mens-Team-Sept-2018-4x100.jpg" alt="Mens-Team-Sept-2018-4x100" width="800" height="600" srcset="/Images/2018/09/Mens-Team-Sept-2018-4x100.jpg 960w, /Images/2018/09/Mens-Team-Sept-2018-4x100-300x225.jpg 300w, /Images/2018/09/Mens-Team-Sept-2018-4x100-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/09/Mens-Team-Sept-2018-4x100.jpg)
 
 <p style="text-align: right;">
   <em>The men’s 4 x 100m relay team – left to right: Jon Howes, Eoin McQuone, Mike Speke, Paul Lockyer</em>
@@ -49,7 +49,7 @@ Later in the evening the CLC athletes entered the men’s and women’s 4 x 100m
 
 Flying the Striders flag at the Great North, Tom Kabala finished some way behind Sir Mo, but in a personal best time for the half marathon of 1:22:21.
 
-[<img class="alignnone wp-image-3233" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Tom-Kabala-Great-North-Run-2018.jpg" alt="Tom-Kabala-Great-North-Run-2018" width="800" height="1067" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Tom-Kabala-Great-North-Run-2018.jpg 720w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Tom-Kabala-Great-North-Run-2018-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2018/09/Tom-Kabala-Great-North-Run-2018.jpg)
+[<img class="alignnone wp-image-3233" src="/Images/2018/09/Tom-Kabala-Great-North-Run-2018.jpg" alt="Tom-Kabala-Great-North-Run-2018" width="800" height="1067" srcset="/Images/2018/09/Tom-Kabala-Great-North-Run-2018.jpg 720w, /Images/2018/09/Tom-Kabala-Great-North-Run-2018-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/09/Tom-Kabala-Great-North-Run-2018.jpg)
 
 <p style="text-align: right;">
   <em>Tom Kabala at The Great North Run</em>

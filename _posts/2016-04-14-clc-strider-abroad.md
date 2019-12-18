@@ -15,5 +15,5 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/20160407_0945461.jpg"><img class="alignnone size-medium wp-image-2102" src="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/20160407_0945461-225x300.jpg" alt="20160407_094546" width="225" height="300" srcset="http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/20160407_0945461-225x300.jpg 225w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/20160407_0945461-768x1024.jpg 768w, http://www.clcstriders-runningclub.co.uk/wplive/wp-content/uploads/2016/04/20160407_0945461.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="/Images/2016/04/20160407_0945461.jpg"><img class="alignnone size-medium wp-image-2102" src="/Images/2016/04/20160407_0945461-225x300.jpg" alt="20160407_094546" width="225" height="300" srcset="/Images/2016/04/20160407_0945461-225x300.jpg 225w, /Images/2016/04/20160407_0945461-768x1024.jpg 768w, /Images/2016/04/20160407_0945461.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 </p>
