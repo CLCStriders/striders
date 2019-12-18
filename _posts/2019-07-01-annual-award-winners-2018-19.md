@@ -1,16 +1,11 @@
 ---
-id: 3512
 title: Annual Award Winners 2018-19
-date: 2019-07-01T20:11:15+01:00
 author: Joel Freeland
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3512
-permalink: /2019/07/annual-award-winners-2018-19/
 categories:
   - Awards
-  - News
-  - pinned
 ---
+
 Well done to all of our fantastic award winners below for 2018/2019:
 
 **MALE STRIDER OF THE YEAR&nbsp; &#8211;&nbsp;**Gavin Jerman
