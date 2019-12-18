@@ -4,7 +4,7 @@ layout: post
 
 ---
 
-<p>A team of 3 CLC ladies travelled to Northampton to compete in the 2nd midlands league cross country fixture of the season. </p
+A team of 3 CLC ladies travelled to Northampton to compete in the 2nd midlands league cross country fixture of the season.
   
 Abington park is a beautiful venue with a varied and challenging course. 
 
