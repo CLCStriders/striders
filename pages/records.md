@@ -1,6 +1,6 @@
 ---
 title: Club Records
-source: _data/records.csv
+source: records.csv
 layout: data
 
 ---
