@@ -15,7 +15,8 @@ description: CLC Stiders Running Club in Cheltenham Spa, Gloucestershire
       <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
       <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
       <span class="read-time" title="Estimated read time">| <em>{% assign words = content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
-      <span class="categories">| <em>{% if post.category != empty %}{% for category in post.categories %}{{ category }}, {% endfor %}{% endif %}</em></span>
+      <br/>
+        <span class="categories">Categories: <em>{% if post.category != empty %}{% for category in post.categories %}{{ category }}, {% endfor %}{% endif %}</em></span>
       </small>
       </li>
   {% endfor %}
