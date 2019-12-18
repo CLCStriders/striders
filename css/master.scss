@@ -52,10 +52,11 @@ footer p {
 	margin-inline-start:0px;
 }
 
-.carousel-inner > .item >img{
-  min-height : 300px;
-  max-height : 300px;
-  width : 100%;
+.postHeader {
+	clear: both;
+	float:none;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #aaa;
 }
 	
 h1 a {
