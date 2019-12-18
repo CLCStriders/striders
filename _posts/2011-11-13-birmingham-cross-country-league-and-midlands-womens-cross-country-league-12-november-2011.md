@@ -1,12 +1,10 @@
 ---
 
-title: 'Birmingham Cross Country League and Midlands Women's Cross Country League - 12 November 2011'
-date: 2011-11-13T21:17:40+00:00
-excerpt: '<p>Striders men make their debut in the Birmingham League and women run in the Midlands League at Leamington...</p>'
+title: 'Birmingham Cross Country League and Midlands Womens Cross Country League - 12 November 2011'
 layout: post
-permalink: /2011/11/birmingham-cross-country-league-and-midlands-womens-cross-country-league-12-november-2011/
+
 ---
-</p> 
+<p>Striders men make their debut in the Birmingham League and women run in the Midlands League at Leamington...</p>
 
 CLC Striders Men made a fantastic debut in the Birmingham Cross Country League Division 3 held at Leamington. The team packed superbly well having six scorers in the top 40. Rich Evershed put in a fine performance to lead the men home in 2nd place, Men's club captain Rich Dare made a welcome return after injury to finish just behind Evershed in 3rd place, Tom Stone was next Strider and ran well to make the top 20; Stone finished in 19th place. 
 
@@ -16,4 +14,5 @@ Meanwhile the Women also had a good day with Jo Wilkie running well to lead the 
 
 We had a great day, and did ourselves proud.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/birmleague12thnov.pdf" target="_blank" rel="nofollow">Men's results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/mwccl12thnov.pdf" target="_blank" rel="nofollow">Women's results</a>
+* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/birmleague12thnov.pdf" target="_blank" rel="nofollow">Men's results</a>
+* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/mwccl12thnov.pdf" target="_blank" rel="nofollow">Women's results</a>
