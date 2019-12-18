@@ -1,4 +1,5 @@
 highlighter:    rouge
+markdown:       kramdown
 permalink:      ./:title
 name:           CLC Striders
 description:    "Cheltenham Running Club"
