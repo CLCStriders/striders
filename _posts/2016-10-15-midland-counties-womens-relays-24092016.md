@@ -1,14 +1,9 @@
 ---
 
-title: 'Midland Counties Women's Relays - 24/09/2016'
-date: 2016-10-15T10:26:14+01:00
+title: Midland Counties Women's Relays - 24/09/2016
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2474
-permalink: /2016/10/midland-counties-womens-relays-24092016/
 categories:
-  - News
-  - Race Reports
   - Road Reports
 ---
 Three Striders competed in the Midland Counties Women's Relays on 24th September.
