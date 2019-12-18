@@ -4,7 +4,7 @@ title: 'Severn Bridge Half Marathon - 24 August 2014'
 author: Clark Lawson
 layout: post
 categories:
-  - Awards
+  - Race Reports
 ---
 <p>For most of Britain, everyone was looking forward to a relaxing Bank Holiday weekend with it being the last public holiday before Christmas.</p><p>However, there was a â€œFantastic 5â€ who thought differently and decided to join the other 1991 runners to get up in the early hours of Saturday morning to head to the Severn Bridge (M48) for the popular Half Marathon.</p>
 
