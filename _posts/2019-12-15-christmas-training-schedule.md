@@ -7,8 +7,8 @@ layout: post
 guid: http://www.clcstriders-runningclub.co.uk/?p=3671
 permalink: /2019/12/christmas-training-schedule/
 categories:
-  - News
-  - pinned
+  - Announcements
+  - Training
 ---
  
 
