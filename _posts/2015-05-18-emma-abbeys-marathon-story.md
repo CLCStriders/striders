@@ -1,14 +1,13 @@
 ---
 
-title: 'Emma Abbey's Marathon Story'
-date: 2015-05-18T20:23:04+01:00
+title: 'Emma Abbeys Marathon Story'
 author: Clark Lawson
-excerpt: "<p>Emma shares her incredible Virgin London Marathon 2015 story with the CLC Striders'website.</p>"
 layout: post
-permalink: /2015/05/emma-abbeys-marathon-story/
 categories:
-  - Awards
+  - Blog
 ---
+Emma shares her incredible Virgin London Marathon 2015 story with the CLC Striders'website.
+
 The sequence of events which ultimately brought me to the streets of London on 26 April 2015 started on 1 December 2012 when I held my best friend in my arms and she told me she had an aggressive and incurable brain tumour, with an 18 month survival rate of 50%.
 
 A few weeks later she signed me up for the 5k Race for Life. I couldn't bear to let her down, so in May 2013 I put on a very pair of cheap trainers lurking in the back of the cupboard and tried running. We walked the 5k course, between her chemo sessions, and by then I had discovered parkrun and found that running gave my life some much needed calm.
