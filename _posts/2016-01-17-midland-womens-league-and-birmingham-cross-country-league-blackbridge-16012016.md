@@ -1,15 +1,10 @@
 ---
 
-title: 'Midland Women's League and Birmingham Cross Country League, Blackbridge - 16/01/2016'
-date: 2016-01-17T09:48:12+00:00
+title: Midland Womens League and Birmingham Cross Country League - Blackbridge - 16.01.2016
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1833
-permalink: /2016/01/midland-womens-league-and-birmingham-cross-country-league-blackbridge-16012016/
 categories:
   - Cross Country Reports
-  - Race Reports
-
 ---
 There were excellent performances for CLC Striders men and women in the 3rd Midland League/Birmingham League fixture at Crypt School, Blackbridge.
 
