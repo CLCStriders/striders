@@ -1,14 +1,12 @@
 ---
 
-title: 'Paul Northup's VLM Update - Oh No! Injury!'
-date: 2016-02-29T21:15:11+00:00
+title: Paul Northup's VLM Update - Oh No! Injury!
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2042
-permalink: /2016/02/paul-northups-vlm-update-oh-no-injury/
 categories:
   - Blog
 ---
+
 **Our weakness**
 
 Even before today, I was planning my next blog to be about trying to stay injury-free, and managing injury and recovery when they (inevitably) come.
