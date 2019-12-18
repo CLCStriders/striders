@@ -1,13 +1,10 @@
 ---
 
-title: 'Amelia's Marathon Story'
-date: 2015-11-05T20:22:31+00:00
+title: 'Amelias Marathon Story'
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1677
-permalink: /2015/11/amelias-marathon-story/
 categories:
-  - News
+  - Blog
 ---
 Amelia Mullins shares her marathon experience as she claimed a club record when running 26.2 miles for the first time. <!--more-->
 
