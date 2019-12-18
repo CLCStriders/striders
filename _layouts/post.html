@@ -16,6 +16,29 @@
             
             <hr/>
             <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
+            
+            
+            {% unless page.category == null %}
+              {% capture pageCategory %}{{ page.category }}{% endcapture %}
+              {% unless site.categories[pageCategory].size == 1 %}
+                <div class="row related-posts">
+                  <h2>More {{ page.category }} Posts!</h2>
+                  <ul class="medium-12 small-12 columns">
+                    {% for post in site.categories[pageCategory] limit:6 %}
+                      {% unless post.title == page.title %}
+
+                       <li>
+                        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+                          {{ post.title }}
+                        </a>
+                       </li>
+
+                      {% endunless %}
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endunless %}
+            {% endunless %}
           </div>
       {% include footer.html %}
     </div>
