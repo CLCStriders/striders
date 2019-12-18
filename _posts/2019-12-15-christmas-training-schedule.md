@@ -1,6 +1,5 @@
 ---
 title: Christmas Training Schedule
-author: Mat Benfield
 layout: post
 categories:
   - Announcements
