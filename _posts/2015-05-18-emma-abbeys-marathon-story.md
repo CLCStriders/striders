@@ -6,6 +6,7 @@ layout: post
 categories:
   - Blog
 ---
+
 Emma shares her incredible Virgin London Marathon 2015 story with the CLC Striders'website.
 
 The sequence of events which ultimately brought me to the streets of London on 26 April 2015 started on 1 December 2012 when I held my best friend in my arms and she told me she had an aggressive and incurable brain tumour, with an 18 month survival rate of 50%.
