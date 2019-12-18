@@ -27,14 +27,14 @@ gems:
   - jekyll-paginate
   - jekyll-github-metadata
 
-collections:
- category:
- output: true
- permalink: "/category/:name"
- defaults:
-  -
-    scope:
-      path: ""
-      type: "category"
-    values:
-      layout: category
+# collections:
+#  category:
+#  output: true
+#  permalink: "/category/:name"
+#  defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "category"
+#     values:
+#       layout: category
