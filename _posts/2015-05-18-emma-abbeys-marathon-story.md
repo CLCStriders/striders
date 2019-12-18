@@ -1,5 +1,4 @@
 ---
-
 title: 'Emma Abbeys Marathon Story'
 author: Clark Lawson
 layout: post
