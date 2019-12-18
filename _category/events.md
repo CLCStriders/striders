@@ -1,5 +1,5 @@
 ---
 tag: Events
-permalink: "/categories/events"
+permalink: "pages/categories/events"
 
 ---
