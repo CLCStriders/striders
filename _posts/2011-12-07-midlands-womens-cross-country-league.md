@@ -1,11 +1,11 @@
 ---
-
-title: 'Midlands Women's Cross Country League - 3rd December 2011'
-date: 2011-12-07T22:59:35+00:00
-excerpt: '<p>A team of 3 CLC ladies travelled to Northampton to compete in the 2nd midlands league cross country fixture of the season. </p>'
+title: 'Midlands Womens Cross Country League - 3rd December 2011'
 layout: post
-permalink: /2011/12/midlands-womens-cross-country-league/
+
 ---
+
+<p>A team of 3 CLC ladies travelled to Northampton to compete in the 2nd midlands league cross country fixture of the season. </p
+  
 Abington park is a beautiful venue with a varied and challenging course. 
 
 Jo Wilkie ran well to claim 68th place, her best position in the league to date. Jo even managed to find a sprint finish in the home straight gaining an extra position.
