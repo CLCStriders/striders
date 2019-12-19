@@ -29,11 +29,11 @@
             {{ content }}
 
             {% if page.related != false %}
-            <aside>
-                {% assign maxRelated = 3 %}
-                {% assign minCommonTags =  1 %}
-                {% assign maxRelatedCounter = 0 %}
-
+        <aside>
+            {% assign maxRelated = 3 %}
+            {% assign minCommonTags =  1 %}
+            {% assign maxRelatedCounter = 0 %}
+            <ul>
                 {% for post in site.posts %}
 
                 {% assign sameTagCount = 0 %}
@@ -43,24 +43,31 @@
                 {% if post.url != page.url %}
                 {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                {% capture tagmarkup %} {{ category }} {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
                 {% endif %}
                 {% endif %}
                 {% endfor %}
 
                 {% if sameTagCount >= minCommonTags %}
-                <div>
-                    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-                </div>
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <br />
+                    <small>
+                        <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
+                        <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
+                        <span class="read-time" title="Estimated read time">| <em>{% assign words = post.content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
+                        <span class="categories">| <em>{% if post.category != empty %}{% for category in post.categories %}{{ category }}, {% endfor %}{% endif %}</em></span>
+                    </small>
+                </li>
                 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
                 {% if maxRelatedCounter >= maxRelated %}
                 {% break %}
                 {% endif %}
                 {% endif %}
-
-                {% endfor %}
-            </aside>
+            {% endfor %}
+            </ul>
+        </aside>
             {% endif %}
  
         </div>
