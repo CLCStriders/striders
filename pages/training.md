@@ -23,14 +23,16 @@ All our routes are circular, starting and finishing at our base <a href="https:/
 
 <a href="/assets/clc-striders-training-etiquette.pdf">CLC STRIDERS TRAINING ETIQUETTE</a>
 
-### Currently, our routes vary every few weeks but are
+### Currently, our routes vary every few weeks and more generally between seasons, but are chosen from
 
-* 4 mile route 1a: http://www.gmap-pedometer.com/?r=6085072
-* 6 mile route 1b: http://www.gmap-pedometer.com/?r=6085063
-* 4 mile route 1c: http://www.gmap-pedometer.com/?r=6085072
-* 6 mile route 1d: http://www.gmap-pedometer.com/?r=6085063
-* 4-mile route 1e: https://www.gmap-pedometer.com/?r=6584237  
-* 6-mile route 1f: https://www.gmap-pedometer.com/?r=6584229
+* [4 mile route 1a](http://www.gmap-pedometer.com/?r=6085072)
+* [6 mile route 1b](http://www.gmap-pedometer.com/?r=6085063)
+* [4 mile route 2a](http://www.gmap-pedometer.com/?r=6085072)
+* [6 mile route 2b](http://www.gmap-pedometer.com/?r=6085063)
+* [4-mile route 3a](https://www.gmap-pedometer.com/?r=6584237)
+* [6-mile route 3b](https://www.gmap-pedometer.com/?r=6584229)
+* [4-mile route 4a](https://www.gmap-pedometer.com/?r=7304693)
+* [6-mile route 4b](https://www.gmap-pedometer.com/?r=7305262)
 
 ### Speed Work – Wednesday 6.30pm CLC Sports Centre
 
