@@ -16,7 +16,7 @@ tags:
 ---
 On a cold and grey Saturday afternoon, CLC Striders Ladies and Men’s teams made the journey north to compete in the third race of the Midland League Two Cross Country Competition for this season. Held in the beautiful, rolling grounds of Cofton Park in the south-west of Birmingham, the race saw the ladies race over two full laps of the park and the men over three.
 
-[<img class="alignnone wp-image-3032" src="/Images/2018/01/Karlien-Cofton.jpg" alt="Karlien-Cofton" width="800" height="1200" srcset="/Images/2018/01/Karlien-Cofton.jpg 1365w, /Images/2018/01/Karlien-Cofton-200x300.jpg 200w, /Images/2018/01/Karlien-Cofton-768x1152.jpg 768w, /Images/2018/01/Karlien-Cofton-683x1024.jpg 683w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/01/Karlien-Cofton.jpg)
+<img  src="/Images/2018/01/Karlien-Cofton.jpg" alt="Karlien-Cofton" width="800" height="1200" srcset="/Images/2018/01/Karlien-Cofton.jpg 1365w, /Images/2018/01/Karlien-Cofton-200x300.jpg 200w, /Images/2018/01/Karlien-Cofton-768x1152.jpg 768w, /Images/2018/01/Karlien-Cofton-683x1024.jpg 683w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/01/Karlien-Cofton.jpg)
 
 <p style="text-align: right;">
   <em>Pictured: Karlien Heyrman</em>
@@ -29,7 +29,7 @@ On the day the ladies seniors team was 5<sup>th</sup> and the masters finished i
 
 After cheering on their team-mates, it was then the turn of the men, who had turned out in great numbers, with almost three complete teams on the day.
 
-[<img class="alignnone wp-image-3033" src="/Images/2018/01/Men-at-Cofton-2.jpg" alt="Men-at-Cofton-2" width="800" height="600" srcset="/Images/2018/01/Men-at-Cofton-2.jpg 960w, /Images/2018/01/Men-at-Cofton-2-300x225.jpg 300w, /Images/2018/01/Men-at-Cofton-2-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/01/Men-at-Cofton-2.jpg)
+<img  src="/Images/2018/01/Men-at-Cofton-2.jpg" alt="Men-at-Cofton-2" width="800" height="600" srcset="/Images/2018/01/Men-at-Cofton-2.jpg 960w, /Images/2018/01/Men-at-Cofton-2-300x225.jpg 300w, /Images/2018/01/Men-at-Cofton-2-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/01/Men-at-Cofton-2.jpg)
 
 <p style="text-align: right;">
   <em>Pictured, back row, left to right: Iain Porter, Joel Freeland, Will Ferguson, Will Pearce, James Gibbs, JJ Willson, Chris Tomas, Paul Northup, Paul Lockyer, Tom Vickers, Javid Norat. Front row, left to right: Adam Fisher, Martin Bick, Coach Brendon Ward, Tom Kabala, Andrew Gage, Mark Fuller, Tom Fletcher</em>

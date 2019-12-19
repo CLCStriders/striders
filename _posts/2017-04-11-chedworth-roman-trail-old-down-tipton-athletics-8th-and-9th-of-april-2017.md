@@ -15,7 +15,7 @@ categories:
 
 Up in sun-bathed Tipton in the Midlands on Sunday 9 April, two Brendan Ward-coached Striders began their 2017 track seasons in earnest. Ladies captain, Rachel Vines continued her strong form by winning the 3,000m race in a time of 11.13.5 and, less than two hours later, the 1,500m in time 5.34.3. While, in the men’s 1,500m Will Ferguson led out from the start to stride to an excellent winning time of 4.18.5. Both performances bode well for strong track seasons for both athletes.
 
-[<img class="alignnone size-medium wp-image-2699" src="/Images/2017/04/IMG_2277-e1491894310322-225x300.jpg" alt="IMG_2277" width="225" height="300" srcset="/Images/2017/04/IMG_2277-e1491894310322-225x300.jpg 225w, /Images/2017/04/IMG_2277-e1491894310322.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/04/IMG_2277-e1491894310322.jpg)
+<img  2699" src="/Images/2017/04/IMG_2277-e1491894310322-225x300.jpg" alt="IMG_2277" width="225" height="300" srcset="/Images/2017/04/IMG_2277-e1491894310322-225x300.jpg 225w, /Images/2017/04/IMG_2277-e1491894310322.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/04/IMG_2277-e1491894310322.jpg)
 
 Closer to home and on a warm and gloriously sunny Sunday morning, four Striders gathered for the Chedworth Roman Trail 10-mile race. The race was as much about running in the quintessentially Cotswold countryside as it was about times, following an undulating to hilly course on tracks, roads, grassy fields and through a stream – with a few testing climbs thrown in for good measure.
 

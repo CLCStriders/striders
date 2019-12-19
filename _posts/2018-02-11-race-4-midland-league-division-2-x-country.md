@@ -22,7 +22,7 @@ The ladies journeyed north to compete in Wolverhampton, while the men welcomed c
 
 Outstanding team achievement of the day and season belonged to the women, earning promotion from Division Two to One with yet another stellar performance across testing terrain around Aldersley Stadium in Wolverhampton.
 
-[<img class="alignnone wp-image-3050" src="/Images/2018/02/Ladies-Wolverhampton-2.jpg" alt="Ladies-Wolverhampton-2" width="800" height="600" srcset="/Images/2018/02/Ladies-Wolverhampton-2.jpg 960w, /Images/2018/02/Ladies-Wolverhampton-2-300x225.jpg 300w, /Images/2018/02/Ladies-Wolverhampton-2-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/02/Ladies-Wolverhampton-2.jpg)
+<img  src="/Images/2018/02/Ladies-Wolverhampton-2.jpg" alt="Ladies-Wolverhampton-2" width="800" height="600" srcset="/Images/2018/02/Ladies-Wolverhampton-2.jpg 960w, /Images/2018/02/Ladies-Wolverhampton-2-300x225.jpg 300w, /Images/2018/02/Ladies-Wolverhampton-2-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/02/Ladies-Wolverhampton-2.jpg)
 
 <p style="text-align: right;">
   <em>CLC Ladies. Pictured, left to right: Amelia Mullins, Nicola Weager, Cerys Jones, Laura Fletcher, Jill Hooper, Amanda Steer, Helen Knight and Karlien Heyrman.</em>
@@ -38,7 +38,7 @@ On the day, the ladies teams finished 2<sup>nd</sup> in the masters and 5<sup>th
 
 Meanwhile, closer to home, the men battled it out in their own race, held at Ullenwood. Once again, the men turned out in force, with three full teams competing on the day.
 
-[<img class="alignnone wp-image-3051" src="/Images/2018/02/Men-Ullenwood.jpg" alt="Men-Ullenwood" width="800" height="600" srcset="/Images/2018/02/Men-Ullenwood.jpg 960w, /Images/2018/02/Men-Ullenwood-300x225.jpg 300w, /Images/2018/02/Men-Ullenwood-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/02/Men-Ullenwood.jpg)
+<img  src="/Images/2018/02/Men-Ullenwood.jpg" alt="Men-Ullenwood" width="800" height="600" srcset="/Images/2018/02/Men-Ullenwood.jpg 960w, /Images/2018/02/Men-Ullenwood-300x225.jpg 300w, /Images/2018/02/Men-Ullenwood-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/02/Men-Ullenwood.jpg)
 
 <p style="text-align: right;">
   <em>CLC Men. Back row left to right: Ton Fletcher, Jon Howes, Kyle Sollars, Chris Thomas, Eoin McQuone, Neil Broadbent, Mike Crossley, Will Ferguson, Andrew Gage, John Willson, Andrew Paterson, Tom Vickers. Front row, left to right: Tom Kabala, Ben Akif, coach Brendan Ward, Martin Bick, Gareth Harries and Joel Freeland</em>

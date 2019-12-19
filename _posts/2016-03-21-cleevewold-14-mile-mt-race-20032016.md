@@ -28,7 +28,7 @@ The race was won by Wyclef Forbes of Cirencester AC in a time of 1:37:27, and th
 
 [Results](http://cheltenhamharriers.co.uk/public/inc/doc/cleevewold/results/cleevewold_2016_results.pdf)
 
-[<img class="alignnone size-medium wp-image-2066" src="/Images/2016/03/IMG_2674-300x225.jpg" alt="IMG_2674" width="300" height="225" srcset="/Images/2016/03/IMG_2674-300x225.jpg 300w, /Images/2016/03/IMG_2674-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2016/03/IMG_2674.jpg)
+<img  2066" src="/Images/2016/03/IMG_2674-300x225.jpg" alt="IMG_2674"  srcset="/Images/2016/03/IMG_2674-300x225.jpg 300w, /Images/2016/03/IMG_2674-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2016/03/IMG_2674.jpg)
 
 &nbsp;
 

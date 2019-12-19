@@ -1,18 +1,12 @@
 ---
 
 title: 'CLC Striders Race Reports - 14/08/2017'
-date: 2017-08-14T19:11:39+01:00
 author: Chris Driskell
 layout: post
-guid: 2918
-permalink: /2017/08/clc-striders-race-reports-14082017/
 categories:
   - Cross Country Reports
-
-  - Race Reports
   - Road Reports
 ---
-&nbsp;
 
 It has been a busy week for CLC Striders with club members running in events at home and overseas.
 
@@ -30,6 +24,9 @@ However large periods of the &#8216;undulating' course (a hilly 20th mile is nev
 
 Four years on from her last marathon, Sophie finished 5th lady, 2nd in her category and 66th overall in a PB time of 3 hours, 18 minutes and 30 seconds, so all in all very much worth the trip!
 
-Finally on Sunday in the Standish Woodland Chase, Alex Monro again led the club home in 11<sup>th</sup> place in a time of 1:09:13; Helen Knight was 34<sup>th</sup> in a time of 1:18:14, and Hannah Monro was 98<sup>th</sup> in 1:34:04.<figure id="attachment_2919" aria-describedby="caption-attachment-2919" style="width: 225px" class="wp-caption alignnone">
+Finally on Sunday in the Standish Woodland Chase, Alex Monro again led the club home in 11<sup>th</sup> place in a time of 1:09:13; Helen Knight was 34<sup>th</sup> in a time of 1:18:14, and Hannah Monro was 98<sup>th</sup> in 1:34:04.
 
-[<img class="wp-image-2919 size-medium" src="/Images/2017/08/IMG-20170812-WA0002-225x300.jpg" alt="IMG-20170812-WA0002" width="225" height="300" srcset="/Images/2017/08/IMG-20170812-WA0002-225x300.jpg 225w, /Images/2017/08/IMG-20170812-WA0002-768x1024.jpg 768w, /Images/2017/08/IMG-20170812-WA0002.jpg 1200w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/08/IMG-20170812-WA0002.jpg)<figcaption id="caption-attachment-2919" class="wp-caption-text">Sophie Longmore at the Helsinki Marathon</figcaption></figure>
+
+<img src="/Images/2017/08/IMG-20170812-WA0002-225x300.jpg" alt="IMG-20170812-WA0002" />
+
+_Sophie Longmore at the Helsinki Marathon_

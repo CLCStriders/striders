@@ -20,9 +20,9 @@ The race consisted of four 4.33km (2.7 mile) laps on undulating tarmac paths thr
 
 The ladies &#8216;A' team comprised **Liza Barry**, **Sarah Richards**, **Helen Knight** and **Rachel Vines**. They all ran really well to finish in an excellent 28th position overall (out of more than 100 teams on the day!).
 
-Running for the ladies &#8216;B' team were **Fiona Brady-Miller**, **Sarah Wilson**, **Nicola Weager** and **Amelia Mullins**, who finished in a very creditable 59th place. **Zoe Gough** also ran the first leg, finishing 91st out of 121 runners on that leg.<figure class="wp-block-image">
+Running for the ladies &#8216;B' team were **Fiona Brady-Miller**, **Sarah Wilson**, **Nicola Weager** and **Amelia Mullins**, who finished in a very creditable 59th place. **Zoe Gough** also ran the first leg, finishing 91st out of 121 runners on that leg.
 
-<img src="/Images/2019/09/Sutton-Park-Sept-2019-e1569226803744.jpg" alt="" class="wp-image-3582" /> <figcaption>_The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Miller, Sarah Wilson, Helen Knight, Nicola Weager, Rachel Vines, Liza Barry and Amelia Mullins_</figcaption></figure> 
+<img src="/Images/2019/09/Sutton-Park-Sept-2019-e1569226803744.jpg" alt="" class="3582" /> <figcaption>_The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Miller, Sarah Wilson, Helen Knight, Nicola Weager, Rachel Vines, Liza Barry and Amelia Mullins__ 
 
 **Apperley Quarter Marathon**  
 **Sunday 22 September **

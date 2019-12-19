@@ -38,6 +38,6 @@ CLC results
 46 John Willson  
 53 David James
 
-&nbsp;[<img width="640" height="480" alt="" src="/Images/2016/01/img_4575.jpeg" title="" class="size-custom" />](/Images/2016/01/img_4575.jpeg)&nbsp;&nbsp;
+&nbsp;<img width="640" height="480" alt="" src="/Images/2016/01/img_4575.jpeg" title="" class="size-custom" />](/Images/2016/01/img_4575.jpeg)&nbsp;&nbsp;
 
 [![](/Images/2016/01/img_4576.jpeg)](/Images/2016/01/img_4576.jpeg)&nbsp;

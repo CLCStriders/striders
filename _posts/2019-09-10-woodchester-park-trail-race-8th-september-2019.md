@@ -22,6 +22,6 @@ The challenging eight-mile race followed paths weaving up and down the steep val
 
 **Amelia Mullins** finished as 6th lady overall and 1st in her LV45 category in a time of 65:00 and **Nicola Weager**, continuing her return to form, in a time of 70:40.
 
-Helen, Amelia and Nicola also won the ladies team competition on the day.<figure class="wp-block-image">
+Helen, Amelia and Nicola also won the ladies team competition on the day.
 
-<img src="/Images/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" class="wp-image-3571" /> <figcaption>Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins</figcaption></figure>
+<img src="/Images/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" class="3571" /> <figcaption>Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins_

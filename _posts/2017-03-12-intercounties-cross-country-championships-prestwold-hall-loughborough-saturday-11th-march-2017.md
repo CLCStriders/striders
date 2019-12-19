@@ -13,7 +13,7 @@ categories:
 ---
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-2630" src="/Images/2017/03/IMG_0210-e1489427490226-225x300.jpg" alt="IMG_0210" width="225" height="300" srcset="/Images/2017/03/IMG_0210-e1489427490226-225x300.jpg 225w, /Images/2017/03/IMG_0210-e1489427490226-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/03/IMG_0210.jpg)
+<img  2630" src="/Images/2017/03/IMG_0210-e1489427490226-225x300.jpg" alt="IMG_0210" width="225" height="300" srcset="/Images/2017/03/IMG_0210-e1489427490226-225x300.jpg 225w, /Images/2017/03/IMG_0210-e1489427490226-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/03/IMG_0210.jpg)
 
 A group of 3 Striders made the trip up to Loughborough as part of the Gloucestershire Team for the Inter-Counties Cross Country Championships at Loughborough on Saturday.
 

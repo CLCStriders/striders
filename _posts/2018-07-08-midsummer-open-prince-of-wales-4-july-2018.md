@@ -19,7 +19,7 @@ Cheltenham Harriers’ first Mid-Summer Open meet at The Prince Of Wales Stadium
 
 The main attraction of the evening was the iconic mile race and no fewer than 14 Striders lined up in the waves.
 
-[<img class="alignnone wp-image-3177" src="/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg" alt="36656002_10156360478412357_7233223503447588864_n" width="800" height="548" srcset="/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg 960w, /Images/2018/07/36656002_10156360478412357_7233223503447588864_n-300x206.jpg 300w, /Images/2018/07/36656002_10156360478412357_7233223503447588864_n-768x526.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg)
+<img  src="/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg" alt="36656002_10156360478412357_7233223503447588864_n" width="800" height="548" srcset="/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg 960w, /Images/2018/07/36656002_10156360478412357_7233223503447588864_n-300x206.jpg 300w, /Images/2018/07/36656002_10156360478412357_7233223503447588864_n-768x526.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/07/36656002_10156360478412357_7233223503447588864_n.jpg)
 
 **Will Ferguson **finished third fastest on the night in a stellar field in a time of 4:27.7, a new PB for him and a new club record for the senior men and M35 categories. Next home was **Sam Baylis **in 4:54.9, a solid sub-five-minute time after a winter of injury. **Clark Lawson **continued his electric form with yet another PB time of 5:00.3. **Tom Kabala **and **Daniel Bazzard **battled hard for 5:09.9 and 5:11.0 respectively.
 

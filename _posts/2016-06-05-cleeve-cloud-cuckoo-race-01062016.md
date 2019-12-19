@@ -37,7 +37,7 @@ categories:
 </div>
 
 <div>
-   <a href="/Images/2016/06/Attachment-1-e1464888459784.jpeg"><img class="alignnone size-medium wp-image-2302" src="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1" width="300" height="225" srcset="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg 300w, /Images/2016/06/Attachment-1-e1464888459784.jpeg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+   <a href="/Images/2016/06/Attachment-1-e1464888459784.jpeg"><img  2302" src="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1"  srcset="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg 300w, /Images/2016/06/Attachment-1-e1464888459784.jpeg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </div>
 
 <div>
@@ -47,5 +47,5 @@ categories:
 </div>
 
 <div>
-  <a href="/Images/2016/06/image2-e1465128477411.jpg"><img class="alignnone size-medium wp-image-2315" src="/Images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" srcset="/Images/2016/06/image2-e1465128477411-225x300.jpg 225w, /Images/2016/06/image2-e1465128477411-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="/Images/2016/06/image2-e1465128477411.jpg"><img  2315" src="/Images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" srcset="/Images/2016/06/image2-e1465128477411-225x300.jpg 225w, /Images/2016/06/image2-e1465128477411-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 </div>

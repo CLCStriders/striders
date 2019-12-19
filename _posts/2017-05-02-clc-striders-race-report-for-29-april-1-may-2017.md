@@ -29,7 +29,7 @@ On Bank Holiday Monday, veteran Strider Gavin Jerman surprised his team-mates by
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-2719" src="/Images/2017/05/IMG_2380-300x225.jpg" alt="IMG_2380" width="300" height="225" srcset="/Images/2017/05/IMG_2380-300x225.jpg 300w, /Images/2017/05/IMG_2380.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2017/05/IMG_2380.jpg)
+<img  2719" src="/Images/2017/05/IMG_2380-300x225.jpg" alt="IMG_2380"  srcset="/Images/2017/05/IMG_2380-300x225.jpg 300w, /Images/2017/05/IMG_2380.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2017/05/IMG_2380.jpg)
 
 Back in Cheltenham, a posse of Striders competed in various events at the Brewer Memorial Games, hosted by Cheltenham Harriers at the Prince of Wales Stadium on Bank Holiday Monday.
 

@@ -12,7 +12,7 @@ CLC Striders men didn’t manage to put a full team out on this occasion, but th
 
 First home in 12<sup>th</sup> place overall and as 1<sup>st</sup> LV35 was **Liza Bradshaw** in 33:34, cementing her autumn return to cross country in style. Only three places behind her in 15<sup>th</sup> was **Karlien Heyrman** in a time of 33:20. Three places behind her was **Helen Knight** in 18<sup>th</sup> place as 3<sup>rd</sup> LV40 in a time of 33:31. Making up the A-team scorers (all of whom finished in the top 50) on the day was **Amelia Mullins** in 45<sup>th</sup> place and a time of 36:36.
 
-**Fiona Brady-Miller** and **Emma Abbey** also ran strongly for the club. And **David James**, competing as a super-vet MV65 finished 3<sup>rd</sup> in his category in a time of 36:01.<figure class="wp-block-image size-large is-resized">
+**Fiona Brady-Miller** and **Emma Abbey** also ran strongly for the club. And **David James**, competing as a super-vet MV65 finished 3<sup>rd</sup> in his category in a time of 36:01.
 
 <img src="/Images/2019/12/Ladies-Old-Down-14.12.19.jpg" alt="Ladies-Old-Down 14.12.19"/>
 

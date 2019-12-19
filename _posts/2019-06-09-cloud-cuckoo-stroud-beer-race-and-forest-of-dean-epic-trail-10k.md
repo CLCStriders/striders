@@ -27,7 +27,7 @@ _Pictured from left to right: Nicola Weager, Rebecca Reynolds and Amelia Mullins
 **Sunday June 9<sup>th </sup>2019**  
 
 
-There were also strong performances from Striders athletes in the Forest of Dean Epic Trail 10k, with a first place for the most improved club runner of the year,&nbsp;**Tom Kabala**. Tom registered an amazing time&nbsp;– for a trail race – of just 37:39 for his first place finish. Meanwhile, the also-improving **Eoin McQuone** was eighth overall (and second M40) in a great time of 42:36.<figure class="wp-block-image is-resized">
+There were also strong performances from Striders athletes in the Forest of Dean Epic Trail 10k, with a first place for the most improved club runner of the year,&nbsp;**Tom Kabala**. Tom registered an amazing time&nbsp;– for a trail race – of just 37:39 for his first place finish. Meanwhile, the also-improving **Eoin McQuone** was eighth overall (and second M40) in a great time of 42:36.
 
 <img src="/Images/2019/06/Tom-Eoin-FOD-Trail-10k.jpg" alt="Pictured from left to right: Tom Kabala and Eoin McQuone" /> 
 

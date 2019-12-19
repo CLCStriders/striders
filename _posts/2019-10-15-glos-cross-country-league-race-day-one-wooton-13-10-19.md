@@ -13,9 +13,9 @@ Vets Amanda Steer and Amelia Mullins were next home in 52nd and 60th places and 
 
 Fiona Brady- Miller made a strong cross country debut for the club in 79th place and 9th LV40 finisher, with Zoe Gough finishing in 123rd place overall. Making a return to competition after long-term injury, Emma Abbey finished 138th, with Hannah Monro in 164th only a couple of months after becoming a first-time mum.
 
-Thanks to strong performances across the board, the CLC ladies vets achieved first place in the team standings on the day, getting their cross-country season off to the best possible of starts.<figure class="wp-block-image">
+Thanks to strong performances across the board, the CLC ladies vets achieved first place in the team standings on the day, getting their cross-country season off to the best possible of starts.
 
-<img src="/Images/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" class="wp-image-3596" /> 
+<img src="/Images/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" class="3596" /> 
 
 _CLC Ladies at Wooton, from left to right: Amelia Mullins, Karlien Heyrman, Liza Bradshaw, Amanda Steer, Helen Knight, Zoe Gough, Fiona Brady-Miller, Emma Abbey, Rachel Vines_ 
 

@@ -21,7 +21,7 @@ Once again the ladies race saw Helen Knight and Karlien Heyrman battle it out fo
 
 Sophie Longmore finished in 58<sup>th </sup>place, super vet David James in 61<sup>st</sup>, Laura Fletcher in 76<sup>th </sup>and super vet Jill Harsent in 128<sup>th</sup>. Overall, the senior ladies finished in 7<sup>th </sup>place on the day but the lady vets bagged a superb 2<sup>nd </sup>place overall.
 
-[<img class="alignnone wp-image-3282" src="/Images/2018/12/Men-Wotton-8.12.18.jpg" alt="Men-Wotton-8.12.18" width="800" height="583" srcset="/Images/2018/12/Men-Wotton-8.12.18.jpg 960w, /Images/2018/12/Men-Wotton-8.12.18-300x218.jpg 300w, /Images/2018/12/Men-Wotton-8.12.18-768x559.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/Men-Wotton-8.12.18.jpg)
+<img  src="/Images/2018/12/Men-Wotton-8.12.18.jpg" alt="Men-Wotton-8.12.18" width="800" height="583" srcset="/Images/2018/12/Men-Wotton-8.12.18.jpg 960w, /Images/2018/12/Men-Wotton-8.12.18-300x218.jpg 300w, /Images/2018/12/Men-Wotton-8.12.18-768x559.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/Men-Wotton-8.12.18.jpg)
 
 <p style="text-align: right;">
   <em>The CLC Men at Wotton, from left to right: Eoin McQuone, Clark Lawson, Juan Moreno-Elias, Paul Lockyer, Tom Fletcher, Tom Kabala and Hedley Phillips</em>
@@ -33,4 +33,4 @@ Eoin McQuone finished 125<sup>th</sup>, Hedley Phillips 148<sup>th</sup>, Mike S
 
 Elsewhere over the weekend, Will Ferguson broke his 10k PB and set a new club record when he went sub-32 minutes at the Telford 10k race in an astonishing time of 31:39.
 
-[<img class="alignnone wp-image-3281" src="/Images/2018/12/Will-Telford-10k-9.12.18.jpg" alt="Will-Telford-10k-9.12.18" width="800" height="600" srcset="/Images/2018/12/Will-Telford-10k-9.12.18.jpg 960w, /Images/2018/12/Will-Telford-10k-9.12.18-300x225.jpg 300w, /Images/2018/12/Will-Telford-10k-9.12.18-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/Will-Telford-10k-9.12.18.jpg)
+<img  src="/Images/2018/12/Will-Telford-10k-9.12.18.jpg" alt="Will-Telford-10k-9.12.18" width="800" height="600" srcset="/Images/2018/12/Will-Telford-10k-9.12.18.jpg 960w, /Images/2018/12/Will-Telford-10k-9.12.18-300x225.jpg 300w, /Images/2018/12/Will-Telford-10k-9.12.18-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/Will-Telford-10k-9.12.18.jpg)

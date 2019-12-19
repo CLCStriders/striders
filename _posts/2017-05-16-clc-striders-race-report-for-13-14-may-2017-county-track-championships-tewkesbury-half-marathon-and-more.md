@@ -24,7 +24,7 @@ A busy weekend of racing saw CLC Striders racing on the track, road and country.
 
 In the Gloucestershire County Track and Field Championships held at the Prince of Wales Stadium on Saturday and Sunday (13 and 14 May), Striders focussed their attention on the 5,000m to good effect. In the first race, Sam Baylis acquitted himself well once again, finishing in a strong sixth place with a fast time of 17:12.5. In the same race, Chris Driskell, who has struggled for form in recent weeks, posted a time of 18:13.5.
 
-** [<img class="alignnone size-medium wp-image-2731" src="/Images/2017/05/IMG_2611-e1494967629600-225x300.jpg" alt="IMG_2611" width="225" height="300" srcset="/Images/2017/05/IMG_2611-e1494967629600-225x300.jpg 225w, /Images/2017/05/IMG_2611-e1494967629600.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/05/IMG_2611-e1494967629600.jpg)**
+** <img  2731" src="/Images/2017/05/IMG_2611-e1494967629600-225x300.jpg" alt="IMG_2611" width="225" height="300" srcset="/Images/2017/05/IMG_2611-e1494967629600-225x300.jpg 225w, /Images/2017/05/IMG_2611-e1494967629600.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" />](/Images/2017/05/IMG_2611-e1494967629600.jpg)**
 
 In the second 5,000m race, Rachel Vines continued her solid early season form on the track with a second place finish in 19:03.5. Clark Lawson finished in fifth place in 19:48.6, his first ever sub-20-minute time for the distance. While Amelia Mullins continued her rich vein of form by finishing sixth, just pipping Cheltenham Harrier Jo Wilkie to the post in a time of 20:26.9. Gradually returning to full fitness, Amanda Steer clocked 20:51.9 and Helen Knight, making her track debut for the club, bagged 21:00.3.
 

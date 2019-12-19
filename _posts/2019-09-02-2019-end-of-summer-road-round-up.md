@@ -13,9 +13,9 @@ categories:
 **Oldbury 10-mile  
 Sunday, September 1st**
 
-Four Striders travlled south to race the annual 10-mile road race around Oldbury to mark the start of meteorological autumn. **Helen Knight** led he club home as the 3rd LV40 finisher in a new club record time of 1:09:12. Meanwhile, **Amanda Steer** finished 1st in her V45 category in 1:12:32, **Gary Smith** ran a solid 1:13:23 and **Mike Crossely** came home in 1:23:36.<figure class="wp-block-image is-resized">
+Four Striders travlled south to race the annual 10-mile road race around Oldbury to mark the start of meteorological autumn. **Helen Knight** led he club home as the 3rd LV40 finisher in a new club record time of 1:09:12. Meanwhile, **Amanda Steer** finished 1st in her V45 category in 1:12:32, **Gary Smith** ran a solid 1:13:23 and **Mike Crossely** came home in 1:23:36.
 
-<img src="/Images/2019/09/Oldbury-10.jpg" alt="" class="wp-image-3559" width="800" height="540" /> <figcaption>_From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley_</figcaption></figure> 
+<img src="/Images/2019/09/Oldbury-10.jpg" alt="" class="3559" width="800" height="540" /> <figcaption>_From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley__ 
 
 **Cotswold Trail Half  
 Sunday September 1st**

@@ -15,6 +15,6 @@ Super Vet Charles Goodwin shone as brightly as the hot summer sun to achieve an 
 
 David Smeath was 28th in 2h09, whilst Ed Thompson ran impressively to 62nd in 2h25.
 
-[<img class="alignnone size-medium wp-image-2229" src="/Images/2016/05/image1-199x300.jpg" alt="image1" width="199" height="300" srcset="/Images/2016/05/image1-199x300.jpg 199w, /Images/2016/05/image1-678x1024.jpg 678w, /Images/2016/05/image1.jpg 816w" sizes="(max-width: 199px) 100vw, 199px" />](/Images/2016/05/image1.jpg)
+<img  2229" src="/Images/2016/05/image1-199x300.jpg" alt="image1" width="199" height="300" srcset="/Images/2016/05/image1-199x300.jpg 199w, /Images/2016/05/image1-678x1024.jpg 678w, /Images/2016/05/image1.jpg 816w" sizes="(max-width: 199px) 100vw, 199px" />](/Images/2016/05/image1.jpg)
 
 &nbsp;

@@ -16,7 +16,7 @@ tags:
 ---
 In their first fixture in Division 1 of the Midland League, after securing promotion last season, the CLC ladies team travelled to Counden Park in Coventry.  They did themselves and the club proud in their first appearance in this tough league, with three top 100 finishers.
 
-[<img class="alignnone wp-image-3271" src="/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg" alt="Ladies-Counden-Park-Coventry-10.11.18" width="800" height="600" srcset="/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg 960w, /Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18-300x225.jpg 300w, /Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg)
+<img  src="/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg" alt="Ladies-Counden-Park-Coventry-10.11.18" width="800" height="600" srcset="/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg 960w, /Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18-300x225.jpg 300w, /Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg)
 
 <p style="text-align: right;">
   <em>The ladies, left L to R: Laura Fletcher, Nicola Weager, Rachel Vines, Helen Knight, Karlien Heyrman, Amelia Mullins and Cerys Jones</em>
@@ -30,7 +30,7 @@ A mark of just how competitive the Division 1 League is, is that the ladies fini
 
 Meanwhile, in Division 2, the CLC men travelled to Worcester to compete across a classic cross country course at Cob House Country Park. A great turnout saw the men enter three teams on the day. With a few of the club’s best cross country competitors absent, the men really stepped up and turned in some stellar performances on the day.
 
-[<img class="alignnone wp-image-3272" src="/Images/2018/11/Tom-Kabala-10.11.18.jpg" alt="Tom-Kabala-10.11.18" width="800" height="535" srcset="/Images/2018/11/Tom-Kabala-10.11.18.jpg 640w, /Images/2018/11/Tom-Kabala-10.11.18-300x201.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/11/Tom-Kabala-10.11.18.jpg)
+<img  src="/Images/2018/11/Tom-Kabala-10.11.18.jpg" alt="Tom-Kabala-10.11.18" width="800" height="535" srcset="/Images/2018/11/Tom-Kabala-10.11.18.jpg 640w, /Images/2018/11/Tom-Kabala-10.11.18-300x201.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/11/Tom-Kabala-10.11.18.jpg)
 
 The ground-breaking **Tom Kabala** bagged a brilliant top 50 finish in 36<sup>th </sup>place and a time of just 37:09. Next home was the gutsy **Tom Fletcher** in 65<sup>th </sup>place and a time of 38:46. **Sam Baylis** was 68<sup>th </sup>in a solid time of 38:54 and new arrival **Louis Fievet** ran a great race to finish 92<sup>nd </sup>in 40:19. Only just behind him was **Alex Monro** in 100<sup>th </sup>place and a time of 40:29. 6<sup>th </sup>finisher for the A-Team was **Clark Lawson** in 125<sup>th </sup>place and a time of 41:24.
 
