@@ -4,11 +4,9 @@ title: Sheer Will Power
 date: 2019-01-15T08:43:29+00:00
 author: Paul Northup
 layout: post
-
-permalink: /2019/01/sheer-will-power/
 categories:
   - Cross Country Reports
-  - Race Reports
+
 
 tags:
   - Burton Dassett
@@ -21,7 +19,7 @@ tags:
 
 On a balmy January afternoon CLC Striders ladies and men’s team travelled up to Warwickshire to compete across the hilly terrain of Burton Dassett Hills Country Park in a meeting hosted by Spa Striders on Race Day 3 of the Midland Cross Country League in their respective divisions. It was to prove quite an occasion for the club.
 
-<img src="/Images/2019/01/Will-F-12-1-19.jpg" alt="Will-F-12-1-19"  />](/Images/2019/01/Will-F-12-1-19.jpg)
+<img src="/Images/2019/01/Will-F-12-1-19.jpg" alt="Will-F-12-1-19"/>
 
 <p style="text-align: right;">
   <em>Pictured – <strong>Will Ferguson</strong>, powering his way home to a first-place finish in the men’s Division 2 Race.</em>
@@ -33,7 +31,7 @@ Besides Ferguson’s superlative 1<sup>st </sup>place, **Tom Kabala** continued
 
 The other CLC men’s finishers were **Paul Lockyer** in 113<sup>th </sup>place, **Eoine McQuone** in 123<sup>rd</sup>, **John Willson** in 139<sup>th</sup>, **Hedley Phillips** in 164<sup>th</sup>, **Tim Brock** in 180<sup>th</sup>, Kyle Sollars in 184<sup>th</sup>, **Mike Speke** in 194<sup>th </sup>and **Chris Thomas** in 195<sup>th</sup>. The men remain in 10<sup>th </sup>place overall in Division 2.
 
-<img src="/Images/2019/01/Ladies-Race-Day-3-12.01.19.jpg" alt="Ladies-Race-Day-3-12.01.19"/>](/Images/2019/01/Ladies-Race-Day-3-12.01.19.jpg)
+<img src="/Images/2019/01/Ladies-Race-Day-3-12.01.19.jpg" alt="Ladies-Race-Day-3-12.01.19"/>
 
 <p style="text-align: right;">
   <em>Pictured (from left to right) – <strong>Karlien Heyrman, Rachel Vines</strong> and <strong>Helen Knight</strong> – the first three lady finishers for CLC Striders on the day.</em>
