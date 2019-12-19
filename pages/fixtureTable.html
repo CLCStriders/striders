@@ -1,0 +1,12 @@
+---
+title: Fixtures
+source: site.data.fixtures
+layout: dataTable
+---
+
+
+<div id="output_table_div">
+  <script>
+    $(document).ready(function(){ $('#output_table_div').dataTable( { "data": [ {{ site.data.fixtures }} ]; };
+ </script>
+</div>
