@@ -1,45 +1,46 @@
 
 <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} 
-			     {% if site.copyright %}
-				 {{ site.copyright }}
-				 {% else %} 
-			     {% endif %}  
-				| <a name="CLC Striders Privacy Notice" href="/pages/privacy">Privacy</a>
-				| <a name="CLC Striders Terms and Conditions" href="/pages/terms">Terms</a>
-				| <a name="CLC Striders directory of local businesses" href="/pages/directory">Directory</a>
-				| <a name="CLC Striders Committee members" href="/pages/committee">Committee</a>
-				| <a name="CLC Striders post categories" href="/pages/categories">Categories</a>
-				| <a name="CLC Striders post archives" href="/pages/archives">Archives</a>
-               			| <a name="CLC Striders Contact us" href="/pages/contact">Contact</a> 
-				| <a name="CLC Striders xml sitemap" href="/sitemap.xml">SiteMap</a>
-				| <a name="CLC Striders RSS feed" href="/feed.xml">RSS</a>
-				| Please {% github_edit_link "help improve this page" %}
-			    | Follow us on: 
-			    {% if site.twitter %}
-			      <a name="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter"></i></a>
-			    {% else %} 
-			    {% endif %}
+    <p>
+        &copy; {{ site.time | date: '%Y' }}
+        {% if site.copyright %}
+        {{ site.copyright }}
+        {% else %}
+        {% endif %}
+        | <a name="CLC Striders Privacy Notice" href="/pages/privacy">Privacy</a>
+        | <a name="CLC Striders Terms and Conditions" href="/pages/terms">Terms</a>
+        | <a name="CLC Striders directory of local businesses" href="/pages/directory">Directory</a>
+        | <a name="CLC Striders Committee members" href="/pages/committee">Committee</a>
+        | <a name="CLC Striders post categories" href="/pages/categories">Categories</a>
+        | <a name="CLC Striders post archives" href="/pages/archives">Archives</a>
+        | <a name="CLC Striders Contact us" href="/pages/contact">Contact</a>
+        | <a name="CLC Striders xml sitemap" href="/sitemap.xml">SiteMap</a>
+        | <a name="CLC Striders RSS feed" href="/feed.xml">RSS</a>
+        | {% github_edit_link "<i class="icon-github"></i>" %}
+        | Follow us on:
+        {% if site.twitter %}
+        <a name="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter"></i></a>
+        {% else %}
+        {% endif %}
 
-			    {% if site.facebook %}
-			      <a  name="CLC Striders Facebook group" href="{{ site.facebook }}"><i class="icon-facebook"></i></a>
-			    {% else %} 
-			    {% endif %}
+        {% if site.facebook %}
+        <a name="CLC Striders Facebook group" href="{{ site.facebook }}"><i class="icon-facebook"></i></a>
+        {% else %}
+        {% endif %}
 
-			    {% if site.instagram %}
-			      <a  name="CLC Striders Instagram page" href="{{ site.instagram }}"><i class="icon-instagram"></i></a>
-			    {% else %} 
-			    {% endif %}
+        {% if site.instagram %}
+        <a name="CLC Striders Instagram page" href="{{ site.instagram }}"><i class="icon-instagram"></i></a>
+        {% else %}
+        {% endif %}
 
-			    {% if site.strava %}
-			      <a  name="CLC Striders Strave Group" href="{{ site.strava }}"><i class="icon-strava"></i></a>
-			    {% else %} 
-			    {% endif %}
-			   
-			    {% if site.youtube %}
-			      <a  name="CLC Striders Youtube channel" href="{{ site.youtube }}"><i class="icon-youtube"></i></a>
-			    {% else %} 
-			    {% endif %}
-			</p>
+        {% if site.strava %}
+        <a name="CLC Striders Strave Group" href="{{ site.strava }}"><i class="icon-strava"></i></a>
+        {% else %}
+        {% endif %}
+
+        {% if site.youtube %}
+        <a name="CLC Striders Youtube channel" href="{{ site.youtube }}"><i class="icon-youtube"></i></a>
+        {% else %}
+        {% endif %}
+    </p>
 </footer>
 <script src="/js/master.js?v={{ site.cache }}"></script>

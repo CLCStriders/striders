@@ -152,6 +152,10 @@ a.skip-main:focus, a.skip-main:active {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-github:before {
+    content: "\e905";
+}
+
 .icon-youtube:before {
     content: "\e900";
     color: #f00;
