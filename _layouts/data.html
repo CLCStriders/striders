@@ -9,6 +9,11 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
             {{ page.content }}
+          
+            <div id="example">
+            <script>$(document).ready(function(){ $('#example').dataTable( { "data": [ {{ site.data.fixtures }} ]; };</script>
+            </div>
+          
             <div id="output_table_div">
                 <script>
 $(document).ready(function(){
