@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
 <p>all posts in the {{page.tag}} category</p>
     <ul class="posts">
     {% for post in site.categories[page.tag] %}
