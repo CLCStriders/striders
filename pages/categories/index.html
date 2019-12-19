@@ -3,9 +3,9 @@ layout: default
 title: Categories
 toc: true
 ---
-
+{% capture foo %}
 {% for category in site.categories %}
-<h2>{{ category[0] }}</h2>
+##{{ category[0] }}
   <ul>
     {% for post in category[1] %}
       <li class="{{ post.popular }} {{ post.new }}">
@@ -21,4 +21,6 @@ toc: true
     {% endfor %}
   </ul>
 {% endfor %}
+{% endcapture %}
+{{ foo | markdownify }}
 
