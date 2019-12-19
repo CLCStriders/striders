@@ -33,6 +33,14 @@ body {
     padding: 0 1rem 0 0;
 }
 
+aside {
+    border: 1px solid $accent_two;
+    padding: 1.5rem;
+    list-style: decimal;
+    display: inline-block;
+    font-size: 10px;
+}
+
 footer {
     margin: $margins;
     border-top: 1px solid $accent_one;
