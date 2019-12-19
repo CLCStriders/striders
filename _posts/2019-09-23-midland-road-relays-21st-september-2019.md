@@ -29,4 +29,5 @@ _The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Mill
 **Apperley Quarter Marathon**  
 **Sunday 22 September **
 
-Closer to home, three male Striders competed in the multi-terrain Apperley Quarter Marathon, with **Tim Brock** leading home in 33<sup>rd</sup>place overall as 5<sup>th</sup>in his V50 age category in a time of 45:50 (just a week after setting a new 10K PB time in Worcester of 42:27). Next home were Ga**vin Jerman i**n 46:56 and then **Ed Collier**, 4<sup>th </sup>in his V60 category in a time of 48:52.**u**
+Closer to home, three male Striders competed in the multi-terrain Apperley Quarter Marathon, with **Tim Brock** leading home in 33<sup>rd</sup>place overall as 5<sup>th</sup>in his V50 age category in a time of 45:50 (just a week after setting a new 10K PB time in Worcester of 42:27). Next home were **Gavin Jerman i**n 46:56 and then **Ed Collier**, 4<sup>th </sup>in his V60 category in a time of 48:52.
+
