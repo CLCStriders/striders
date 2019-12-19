@@ -3,7 +3,6 @@ title: Club Speed Training
 author: Joel Freeland
 layout: post
 categories:
-  - Announcements
   - Training
 ---
  
