@@ -2,7 +2,6 @@
 title: Christmas Training Schedule
 layout: post
 categories:
-  - Announcements
   - Training
 ---
  
