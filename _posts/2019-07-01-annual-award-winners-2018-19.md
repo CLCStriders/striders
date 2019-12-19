@@ -30,6 +30,8 @@ Well done to all of our fantastic award winners below for 2018/2019:
 
 **THE DAVE MOORCROFT AWARD FOR OUTSTANDING CONTRIBUTION -&nbsp;**&nbsp;Martin Bick&nbsp;
 
-**SPECIAL ACHIEVEMENT -&nbsp;**&nbsp;Rob Bircher - For his 100 mile Ultra Marathon in May (With special thanks to Andrew Paterson for his support)!<figure class="wp-block-image is-resized">
+**SPECIAL ACHIEVEMENT -&nbsp;**&nbsp;Rob Bircher - For his 100 mile Ultra Marathon in May (With special thanks to Andrew Paterson for his support)!
 
-<img src="/Images/2019/07/65823609_10102887805686661_142917283042295808_n.jpg" alt="" class="wp-image-3513" width="720" height="540" srcset="/Images/2019/07/65823609_10102887805686661_142917283042295808_n.jpg 960w, /Images/2019/07/65823609_10102887805686661_142917283042295808_n-300x225.jpg 300w, /Images/2019/07/65823609_10102887805686661_142917283042295808_n-768x576.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>2018-19 Award winners (L-R) Eoin McQuone, Louis Fievet, Gavin Jerman, Will Ferguson, Tom Kabala, Martin Bick, Hedley Phillips, Amelia Mullins, Nicola Weager, Rachel Vines</figcaption></figure>
+<img src="/Images/2019/07/65823609_10102887805686661_142917283042295808_n.jpg" alt="2018-19 Award winners (L-R) Eoin McQuone, Louis Fievet, Gavin Jerman, Will Ferguson, Tom Kabala, Martin Bick, Hedley Phillips, Amelia Mullins, Nicola Weager, Rachel Vines" /> 
+
+_2018-19 Award winners (L-R) Eoin McQuone, Louis Fievet, Gavin Jerman, Will Ferguson, Tom Kabala, Martin Bick, Hedley Phillips, Amelia Mullins, Nicola Weager, Rachel Vines_
