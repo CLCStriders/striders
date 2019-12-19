@@ -23,11 +23,6 @@ Thomas Fletcher was 60<sup>th</sup>, Paul Lockyer 89<sup>th</sup>, Eoin McQuone 
 
 In the team standings, the Striders men finished 7<sup>th </sup>in the senior category on the day and 9<sup>th </sup>in the vet standings.
 
-<div>
-  <strong>A special mention must go to David James who, although he didn't compete in the fourth race in Pittville Park, earned County Gold in the MV65 category in January's Cross Country County Championships and was also crowned overall MV65 champion this season in the Gloucestershire League Cross Country League, amongst some tough competition.</strong>
-</div>
+<strong>A special mention must go to David James who, although he didn't compete in the fourth race in Pittville Park, earned County Gold in the MV65 category in January's Cross Country County Championships and was also crowned overall MV65 champion this season in the Gloucestershire League Cross Country League, amongst some tough competition.</strong>
 
 <img src="/Images/2019/02/David-James-Feb-2019.jpg" alt="David-James-Feb-2019"/>
-</div>
-
-&nbsp;
