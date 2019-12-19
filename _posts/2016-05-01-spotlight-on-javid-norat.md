@@ -1,19 +1,14 @@
 ---
 
 title: 'Spotlight On: Javid Norat'
-date: 2016-05-01T15:28:42+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2154
-permalink: /2016/05/spotlight-on-javid-norat/
 categories:
   - Blog
-  - News
 
 ---
 In a new feature for the CLC Striders website, Javid Norat answers a few choice questions about his experience of training and racing with CLC Striders&#8230;
 
-<!--more-->
 
 [<img class="alignnone size-medium wp-image-2156" src="/Images/2016/05/IMG_0570-165x300.jpg" alt="IMG_0570" width="165" height="300" srcset="/Images/2016/05/IMG_0570-165x300.jpg 165w, /Images/2016/05/IMG_0570.jpg 396w" sizes="(max-width: 165px) 100vw, 165px" />](/Images/2016/05/IMG_0570.jpg)
 
