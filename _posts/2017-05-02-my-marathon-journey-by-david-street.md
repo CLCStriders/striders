@@ -1,14 +1,10 @@
 ---
 
 title: My Marathon Journey – by David Street
-date: 2017-05-02T22:40:26+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2715
-permalink: /2017/05/my-marathon-journey-by-david-street/
 categories:
   - Blog
-  - News
 ---
 &nbsp;
 
