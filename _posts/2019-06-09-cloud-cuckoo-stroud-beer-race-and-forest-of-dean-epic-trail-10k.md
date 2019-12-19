@@ -19,9 +19,12 @@ tags:
 
 Cleeve Hill Common was the windswept setting for the annial Cleeve Cloud Cuckoo race on Wednesday 29 May. Five CLC Striders athletes competed on the night. The challenging and undulating course covers 5.5 miles on grass and gravel paths and includes the notoriously steep ascent from the Washpool.&nbsp;
 
-A solid run by veteran **Amelia Mullins** saw her finish as second lady in 45:45, followed by a strong finish from **Ed Collier** as third MV60 in 47:30. The trio of **Nicola Weager**, **Rebecca Reynolds** and **Chris Thomas** ran the early miles together before finishing in 53:56, 54:48 and 55:13 respectively.<figure class="wp-block-image">
+A solid run by veteran **Amelia Mullins** saw her finish as second lady in 45:45, followed by a strong finish from **Ed Collier** as third MV60 in 47:30. The trio of **Nicola Weager**, **Rebecca Reynolds** and **Chris Thomas** ran the early miles together before finishing in 53:56, 54:48 and 55:13 respectively.
 
-<img src="/Images/2019/06/Cloud-Cuckoo.jpg" alt="" class="wp-image-3497" /> <figcaption>Pictured from left to right: Nicola Weager, Rebecca Reynolds and Amelia Mullins</figcaption></figure> 
+
+<img src="/Images/2019/06/Cloud-Cuckoo.jpg" alt="Pictured from left to right: Nicola Weager, Rebecca Reynolds and Amelia Mullins" /> 
+
+_Pictured from left to right: Nicola Weager, Rebecca Reynolds and Amelia Mullins_
 
 **Stroud Beer Race**  
 **Monday 3<sup>rd</sup>June**
@@ -34,4 +37,6 @@ A solid run by veteran **Amelia Mullins** saw her finish as second lady in 45:45
 
 There were also strong performances from Striders athletes in the Forest of Dean Epic Trail 10k, with a first place for the most improved club runner of the year,&nbsp;**Tom Kabala**. Tom registered an amazing time&nbsp;– for a trail race – of just 37:39 for his first place finish. Meanwhile, the also-improving **Eoin McQuone** was eighth overall (and second M40) in a great time of 42:36.<figure class="wp-block-image is-resized">
 
-<img src="/Images/2019/06/Tom-Eoin-FOD-Trail-10k.jpg" alt="" class="wp-image-3498" width="800" srcset="/Images/2019/06/Tom-Eoin-FOD-Trail-10k.jpg 960w, /Images/2019/06/Tom-Eoin-FOD-Trail-10k-300x225.jpg 300w, /Images/2019/06/Tom-Eoin-FOD-Trail-10k-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /> <figcaption>Pictured from left to right: Tom Kabala and Eoin McQuone</figcaption></figure>
+<img src="/Images/2019/06/Tom-Eoin-FOD-Trail-10k.jpg" alt="Pictured from left to right: Tom Kabala and Eoin McQuone" /> 
+
+_Pictured from left to right: Tom Kabala and Eoin McQuone_
