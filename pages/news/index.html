@@ -5,7 +5,7 @@ description: CLC Stiders Running Club in Cheltenham Spa, Gloucestershire
 ---
 
 <ul class="posts">
-{% for post in paginator.posts | limit: site.postLimit %}
+{% for post in site.posts | limit: site.postLimit %}
   <li class="{{ post.popular }} {{ post.new }}">
       <a href="{{ post.url }}">{{ post.title }}</a> 
       <br/>
