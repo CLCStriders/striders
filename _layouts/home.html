@@ -6,9 +6,26 @@
   </head>
   <body>
       <div>
+        <a class="skip-main" href="#main">Skip to main content</a>
         {% include header.html %}
         <div class="container">
             {% include callout.html %}
+          <h2 id="main">Latest News</h2>        
+           <ul class="posts">
+            {% for post in site.posts | limit: 1 %}
+              <li class="{{ post.popular }} {{ post.new }}">
+                  <a href="{{ post.url }}">{{ post.title }}</a> 
+                  <br/>
+                  <small>
+                  <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
+                  <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
+                  <span class="read-time" title="Estimated read time">| <em>{% assign words = post.content | number_of_words %}approx {% if words < 360 %} 1 min read. {% else %}{{ words | divided_by:180 }} mins read. {% endif %}</em></span>
+                  <span class="categories">| Categories: <em>{% if post.category != empty %}{% for category in post.categories %}<a href="{{ post_url }}/pages/categories/{{ category | slugify }}">{{ category }}</a>, {% endfor %}{% endif %}</em></span>
+                  </small>
+                  </li>
+              {% endfor %}
+            </ul>
+            <p><small><a href="/pages/news/">Read more</a></small></p>
             {% include footer.html %}
        </div>
     </div>
