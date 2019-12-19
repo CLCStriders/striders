@@ -1,5 +1,5 @@
 ---
-title: 'CLC STRIDERS STAVERTON 10 - 31.01.2016'
+title: 'Staverton 10 - 31.01.2016'
 author: Chris Driskell
 layout: post
 categories:
