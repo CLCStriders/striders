@@ -21,4 +21,6 @@ Will’s London marathon time marked the culmination of a superb last 12 months 
 
 Other club runners competing in the London Marathon on the day were: **Mark Fuller**, who clocked a solid PB time off metronomic pacing to finish in a sub-3-hour 2:58:06; **Sarah Wilson**, who knocked 40 minutes off her previous best to finish in 4:17:42; and distance debutante **Chris Thomas**, who had battled through illness in the latter part of his training period, to achieve 4:48:04 on the day.
 
-<img src="/Images/2019/04/Will-London-Marathon-e1556541729859.jpg" alt="" width="800" />_Will Ferguson strides to a new club record in his debut marathon, wearing his trade-mark lucky shorts_
+<img src="/Images/2019/04/Will-London-Marathon-e1556541729859.jpg" alt="" />
+
+_Will Ferguson strides to a new club record in his debut marathon, wearing his trade-mark lucky shorts_
