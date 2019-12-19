@@ -15,11 +15,12 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 | Gavin Jerman| Membership Secretary| 
 | Eoin McQuone| Treasurer| 
 | Amelia Mullins| Coach| 
+| Martin Bick | Coach |
 | Rachel Vines| Race Coordinator|
 | Karlien Heyrman| Women’s Captain| 
 | Sophie Longmore| Women’s Vice Captain|
 | Will Pearce| Men’s Captain|
-| Joel Freeland| Men’s Vice Captain|
+| Joel Freeland| Men’s Vice Captain, Coach|
 | Mat Benfield| Webmaster|
 | Paul Northup| Press Officer|
 | Hedley Phillips| Kit Coordinator|
