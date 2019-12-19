@@ -14,6 +14,8 @@ $margins: 2rem auto;
   box-sizing: $property;
 }
 
+html { scroll-behavior: smooth; } 
+
 body {
     font-size: 16px;
     display: block;
