@@ -1,14 +1,10 @@
 ---
 
 title: 'CLC Striders Awards - 2016-2017'
-date: 2017-05-14T17:34:22+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2728
-permalink: /2017/05/clc-striders-awards-2016-2017/
 categories:
   - Awards
-  - News
 ---
 Well done and congratulations to all those who won awards for 2016-2017.  This year's winners are:
 
