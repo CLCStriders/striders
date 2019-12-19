@@ -4,11 +4,11 @@ title: 'CLC Striders Race Reports - 14/08/2017'
 date: 2017-08-14T19:11:39+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2918
+guid: 2918
 permalink: /2017/08/clc-striders-race-reports-14082017/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
   - Road Reports
 ---

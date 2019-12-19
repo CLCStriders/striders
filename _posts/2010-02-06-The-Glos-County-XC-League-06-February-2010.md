@@ -6,9 +6,9 @@ excerpt: "<p>I am the Proudest Person around at the moment. The CLC Women's Team
 layout: post
 permalink: /2010/02/The-Glos-County-XC-League-06-February-2010-/
 ---
-**Glos County XC League at Pitville Park 06 Feb 2010** **The Course****The Races****More Photo's of the race**
+**Glos County XC League at Pitville Park 06 Feb 2010** **The Course The Races More Photo's of the race**
 
-**<a name="report"></a>Report**
+**Report**
 
 CLC Striders had a very successful day at Pitville Park, which was the final fixture in the Gloucestershire XC league, the County XC Championships, and the first race CLC Striders have hosted (joint with Cheltenham Harriers and Almost Athletes). We had a brilliant turn out, fielding 13 women and 15 men.
 
@@ -20,7 +20,7 @@ Overall this has to be one of the most successful days in the club?s short histo
 
 Finally, but most importantly of all, many Striders and their family and friends gave up their Saturday to help marshall/process results/set up the course. On behalf of the club and everyone who ran thank you very much ? the day simply wouldn?t have happened without you and given how cold it was running was definitely the easy job! Thanks also for the brilliant support on the course.
 
-**<a name="results"></a>Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> 

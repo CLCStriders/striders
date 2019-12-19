@@ -4,7 +4,7 @@ title: Linda Franks Five-Mile Race, Sunday 21 January 2018
 date: 2018-01-22T16:14:22+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3037
+guid: 3037
 permalink: /2018/01/linda-franks-five-mile-race-sunday-21-january-2018/
 categories:
   - Race Reports

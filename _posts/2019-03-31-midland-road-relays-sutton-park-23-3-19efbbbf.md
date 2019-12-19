@@ -4,7 +4,7 @@ title: Midland Road Relays, Sutton Park, 23.3.19﻿
 date: 2019-03-31T11:45:11+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3429
+guid: 3429
 permalink: '/2019/03/midland-road-relays-sutton-park-23-3-19%ef%bb%bf/'
 categories:
   - Race Reports

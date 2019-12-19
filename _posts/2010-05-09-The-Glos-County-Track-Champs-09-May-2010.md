@@ -13,7 +13,7 @@ permalink: /2010/05/The-Glos-County-Track-Champs-09-May-2010-/
 **800m**Rich Dare ran a fantastic 800 metres to take the County Senior Men's Gold Medal at the Prince of Wales Stadium Sunday 9th May. Dare who had raced the 5K Track Championships only two days before knocked two seconds off his PB time to record 2 min's dead. Rich Cannock who was in the same race did very well to run a sub 2.20 for the distance and also record a PB time.  
 **1500m**Ben Pedley ran an aggressive race to record a lifetime best in the 1500 metres to win Silver in the Junior Mens race and record 4.23.1 for the distance.
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

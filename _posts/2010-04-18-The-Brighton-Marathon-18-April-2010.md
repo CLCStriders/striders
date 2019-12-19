@@ -13,7 +13,7 @@ permalink: /2010/04/The-Brighton-Marathon-18-April-2010/
 A Big Congratulations goes out to Emma Skeen who ran her socks off to record a fantastic personal best time at the Brighton Marathon on April 18th 2010. Emma recorded a chip time of 3.27.50. Well done!!  
 Brendan 
 
-<a name="Report"></a>**Results**
+**Results**
 
 Click <a href="http://www.sportsystems.co.uk/ss/resultsEvent.htm?eventId=334" target="_blank" rel="nofollow">here</a>for the official results
 

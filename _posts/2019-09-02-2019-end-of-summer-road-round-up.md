@@ -4,7 +4,7 @@ title: 2019 end of summer road round-up
 date: 2019-09-02T09:57:53+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3558
+guid: 3558
 permalink: /2019/09/2019-end-of-summer-road-round-up/
 categories:
   - Race Reports

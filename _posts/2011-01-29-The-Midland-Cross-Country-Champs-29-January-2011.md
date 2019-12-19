@@ -10,7 +10,7 @@ permalink: /2011/01/The-Midland-Cross-Country-Champs-29-January-2011/
 
 
 
-**<a name="report"></a>**</p> 
+ </p> 
 
 **Report**
 

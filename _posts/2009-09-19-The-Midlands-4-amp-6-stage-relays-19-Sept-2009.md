@@ -6,9 +6,9 @@ excerpt: "<p>CLC Striders competed for the first time in the Midlands 6 Stage me
 layout: post
 permalink: '/2009/09/The-Midlands-4-&amp;-6-stage-relays-19-Sept-2009/'
 ---
-**The Midland 4 & 6 Stage Road Relays****19 September 2009**
+**The Midland 4 & 6 Stage Road Relays 19 September 2009**
 
-**<a name="Report"></a>**
+ 
 
 **Report**</p> 
 
@@ -18,7 +18,7 @@ The Men's team got off to a cracking start with Will Ferguson running a blisteri
 
 The Women however did much better finishing in 26th out of 53 Teams with Liza Barry running the Teams fastest leg of 17.22 for the demanding 4.315K course 
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

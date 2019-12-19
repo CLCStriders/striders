@@ -4,7 +4,7 @@ title: Sheer Will Power
 date: 2019-01-15T08:43:29+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3293
+guid: 3293
 permalink: /2019/01/sheer-will-power/
 categories:
   - Cross Country Reports

@@ -14,7 +14,7 @@ Wilkie, Dare and Parker in Record Breaking Form at the POWS - 7th July 2010.
 
 Eight CLC Striders had a lot of fun at the POWS in the Midsummer Open Meeting and between them they managed to set four Club Records with Rich Dare setting a 400m record, John Parker a 400m and an 800m M35 Club Record and Jo Wilkie an 800m Women's Club Record.
 
-**<a name="Results"></a>Results<a name="Results"></a>**  
+**Results**  
 **Men 800m Race 1  
 ** 7th Rich Dare 2.00.9  
 **Men 800m Race 2  

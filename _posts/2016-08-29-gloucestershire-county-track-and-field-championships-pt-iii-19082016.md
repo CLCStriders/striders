@@ -4,10 +4,10 @@ title: 'Gloucestershire County Track and Field Championships Pt III - 19/08/2016
 date: 2016-08-29T11:34:31+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2446
+guid: 2446
 permalink: /2016/08/gloucestershire-county-track-and-field-championships-pt-iii-19082016/
 categories:
-  - News
+
   - Race Reports
   - Track Reports
 ---

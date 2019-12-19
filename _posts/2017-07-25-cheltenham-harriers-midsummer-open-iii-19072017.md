@@ -4,10 +4,10 @@ title: 'Cheltenham Harriers Midsummer Open III - 19/07/2017'
 date: 2017-07-25T19:05:40+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2887
+guid: 2887
 permalink: /2017/07/cheltenham-harriers-midsummer-open-iii-19072017/
 categories:
-  - News
+
   - Race Reports
   - Track Reports
 ---

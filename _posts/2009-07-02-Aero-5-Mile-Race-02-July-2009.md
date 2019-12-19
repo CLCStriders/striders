@@ -20,7 +20,7 @@ permalink: /2009/07/Aero-5-Mile-Race-02-July-2009/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**
+**<a name="Results">Report</a>**
 
 CLC Striders had 18 Athletes taking part in the Annual Aero 5 mile road race held at Bishops Cleeve on Thursday 2nd July 2009 which was promoted by Cheltenham Harriers.
 

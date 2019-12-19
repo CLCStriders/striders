@@ -21,7 +21,7 @@ Bren
 
 
 
-<a name="Report"></a>**Results**
+**Results**
 
 5. John Parker 15.43  
 7. Rich Dare 16.19  

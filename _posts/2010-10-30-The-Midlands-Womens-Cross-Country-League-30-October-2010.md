@@ -20,7 +20,7 @@ permalink: /2010/10/The-Midlands-Womens-Cross-Country-League-30-October-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 Liza Doc Barry lead the ladies Team home in an excellent 35th place in the Midlands Woman's Cross Country League, Barry was chased hard by Laura Kent (LK) who is slowly returning to form after a long lay off.The final A team scorer was Rachel DJ Vines who finished in a solid 71st place giving the team a 145 points total.
 

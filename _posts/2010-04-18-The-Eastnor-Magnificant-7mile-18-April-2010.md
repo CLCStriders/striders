@@ -16,7 +16,7 @@ James gibbs also ran for the Striders and proved he is returning to form, Gibbs 
 Well done to you both.  
 Brendan 
 
-<a name="Report"></a>**Results**
+**Results**
 
 Click <a href="http://www.ledburyharriers.org.uk/info/eastnor7/2010/eastnor-2010-results.pdf" target="_blank" rel="nofollow">here</a>for the official results
 

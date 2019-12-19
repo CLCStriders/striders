@@ -4,10 +4,10 @@ title: 'CLC Striders Race report for 13 – 14 May 2017  County Track Championsh
 date: 2017-05-16T21:47:21+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2730
+guid: 2730
 permalink: /2017/05/clc-striders-race-report-for-13-14-may-2017-county-track-championships-tewkesbury-half-marathon-and-more/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
   - Track Reports

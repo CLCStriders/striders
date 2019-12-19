@@ -6,9 +6,9 @@ excerpt: '<p>On Sunday Laura and family were in Sheffield for Laura to compete i
 layout: post
 permalink: /2011/01/The-Tigger-Tor-Fell-Race-30-January-2011/
 ---
-**The****Tigger Tor Fell Run 30 January 2011**
+**The Tigger Tor Fell Run 30 January 2011**
 
-**<a name="report"></a>**
+ 
 
 **Report**
 

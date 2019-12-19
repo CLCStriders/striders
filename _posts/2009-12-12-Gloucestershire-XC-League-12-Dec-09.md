@@ -8,7 +8,7 @@ permalink: /2009/12/Gloucestershire-XC-League-12-Dec-09-----/
 ---
 **The Gloucestershire Cross Country League at Tewkesbury - 12 December 2009**
 
-**<a name="Report"></a><a name="Report"></a>**
+ 
 
 **Report**
 

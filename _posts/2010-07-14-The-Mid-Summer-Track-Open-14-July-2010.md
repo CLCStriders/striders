@@ -14,7 +14,7 @@ The Club had only two athletes taking part in the Midsummer open track event at 
 
 Phil Jowett (Jowster) had a nasty fall during his 200 metre debut and unfortunately broke his shoulder which was an awful outcome for Phil to endure. Please get well soon mate we miss you already. Meanwhile in the Women's 1500 metres Rachel Vines (DJ), ran very well to finish in 4th spot and record a new lifetime Personal best time of 5.22.1. Brendan Ward (Club Chairman)
 
-<a name="Results"></a>**Results**Phil Jowett, 200m, DNF Rachel Vines, 1500m, 5.22.1<a name="Results"></a>
+**Results**Phil Jowett, 200m, DNF Rachel Vines, 1500m, 5.22.1
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

@@ -10,4 +10,4 @@ There were 4 CLC Striders competing in the Gloucester 20 mile road race on Sunda
 
 Rachel vines followed in 60th place in a time of 2.28.30, Paula Lipscombe completed the undulating course in a very respectable 222th place in a time of 3.04.26, Carla Quirighetti demonstrated her dedication to marathon training, acheiving 254th place in 3.15.25.
 
-**<a name="Results"></a>Results**
+**Results**

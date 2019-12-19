@@ -4,10 +4,10 @@ title: 'CLC Striders Race Reports for 25th - 26th March 2017'
 date: 2017-03-30T20:44:03+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2648
+guid: 2648
 permalink: /2017/03/clc-striders-race-reports-for-25th-26th-march-2017/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
 ---

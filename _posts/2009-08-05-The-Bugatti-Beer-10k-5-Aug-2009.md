@@ -7,7 +7,7 @@ permalink: /0000/00/The-Bugatti-Beer-10k--5-Aug-2009/
 ---
 **The Bugatti Beer 10km Road Race 05 Aug 2009**
 
-**<a name="Report"><a name="Report"></a>Report</a>**</p> 
+**<a name="Report">Report</a>**</p> 
 
 The CLC Striders had 20 runners at the Bugatti road race which featured 10km of relentless hills followed by the reward of a beer and burger at the finish line. 
 

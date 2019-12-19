@@ -4,11 +4,11 @@ title: 'Birmingham Cross Country League, Lilleshall - 14/01/2017'
 date: 2017-01-15T16:14:59+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2562
+guid: 2562
 permalink: /2017/01/birmingham-cross-country-league-lilleshall-14012017/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 CLC Striders men performed superbly in the penultimate Birmingham XC League Division 2 fixture of the season held on a boggy  and very slippery course at Telford. The Men's A team finished 9th on the day, and have moved up to 8th place in the team series.  

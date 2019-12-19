@@ -4,7 +4,7 @@ title: Cheltenham Half Marathon, 29th September 2019
 date: 2019-10-01T19:02:05+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3585
+guid: 3585
 permalink: /2019/10/cheltenham-half-marathon-29th-september-2019/
 categories:
   - Race Reports

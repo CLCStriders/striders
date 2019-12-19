@@ -4,10 +4,10 @@ title: 'Virgin London Marathon - 24/04/2016'
 date: 2016-04-24T20:14:32+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2132
+guid: 2132
 permalink: /2016/04/virgin-london-marathon-shakespeare-half-marathon-southampton-half-marathon-24042016/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
 

@@ -4,11 +4,11 @@ title: 'Great Lanhydrock 10 Mile MT Race - 08/10/2016'
 date: 2016-10-16T11:12:41+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2485
+guid: 2485
 permalink: /2016/10/great-lanhydrock-10-mile-mt-race-08102016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 Rachel Vines had an excellent race in the Lanhydrock 10 mile race  near Bodmin in Cornwall.

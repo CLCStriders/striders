@@ -4,7 +4,7 @@ title: Gloucestershire Cross Country League – Race 1 (16 Oct 2018)
 date: 2018-10-16T14:33:29+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3252
+guid: 3252
 permalink: /2018/10/gloucestershire-cross-country-league-race-1-16-oct-2018/
 categories:
   - Cross Country Reports

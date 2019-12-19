@@ -4,7 +4,7 @@ title: Gloucester League Cross Country Race 2, Charlton Park, 4 November 2017
 date: 2017-11-06T10:53:04+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2982
+guid: 2982
 permalink: /2017/11/gloucester-league-cross-country-race-2-charlton-park-4-november-2017/
 categories:
   - Cross Country Reports

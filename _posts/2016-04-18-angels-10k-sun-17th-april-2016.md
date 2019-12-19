@@ -4,7 +4,7 @@ title: 'Angels 10k - Sun 17th April 2016'
 date: 2016-04-18T07:59:18+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2114
+guid: 2114
 permalink: /2016/04/angels-10k-sun-17th-april-2016/
 categories:
   - Race Reports

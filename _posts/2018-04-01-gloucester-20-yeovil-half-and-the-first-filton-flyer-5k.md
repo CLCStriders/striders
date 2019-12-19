@@ -4,7 +4,7 @@ title: Gloucester 20, Yeovil Half and the first Filton Flyer 5k
 date: 2018-04-01T16:00:42+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3096
+guid: 3096
 permalink: /2018/04/gloucester-20-yeovil-half-and-the-first-filton-flyer-5k/
 categories:
   - Race Reports

@@ -20,7 +20,7 @@ Bren
 
 
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

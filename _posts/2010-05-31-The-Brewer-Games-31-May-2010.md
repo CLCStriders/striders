@@ -14,7 +14,7 @@ Rich Dare and Phil Jowett were off first in the 800m. Rich Dare ran in the A-hea
 Well done everyone, with special thanks to Mike, Lesley, Rachel, Chris and Simon for the outstanding support, which I know really helps and makes the day extra special. Well done everyone!  
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

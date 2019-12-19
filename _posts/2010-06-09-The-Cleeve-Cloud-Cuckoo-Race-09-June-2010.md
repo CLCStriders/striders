@@ -24,7 +24,7 @@ Well done as always Team you never dissapoint.
 
 Bren
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 12 Dave Smeath 35.51  
 16 Dave Billingham 36.37 (M45)  

@@ -14,7 +14,7 @@ Will Ferguson ran very well in the senior men's race finishing in 125th place wh
 Well done to you all!!
 
 Brendan  
-**<a name="Results"></a>Results  
+**Results  
 **  
 Women  
 151 Laura Kent 33.12  

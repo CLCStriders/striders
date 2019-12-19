@@ -4,7 +4,7 @@ title: Gloucestershire X Country League, Race Day 2
 date: 2018-11-07T11:13:44+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3265
+guid: 3265
 permalink: /2018/11/gloucestershire-x-country-league-race-day-2/
 categories:
   - Cross Country Reports

@@ -16,7 +16,7 @@ Great runs were had by Nathan Jones, Chris Hale, Paul Smith, Liza Barry and capt
 
 Times below in order of fastest, handicap positions are also shown. Well done to Liza and Lisa for beating all the boys!!
 
-<a name="Report"></a><a name="Results"></a>
+
 
 **Results**
 

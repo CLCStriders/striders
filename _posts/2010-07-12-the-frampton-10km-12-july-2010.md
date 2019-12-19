@@ -17,7 +17,7 @@ On a lovely evening in a picturesque village, JP notched up an other victory wit
 
 The evening was rounded off with a cider for every finisher and a barbecue on the village green?what?s not to like? We really ought to get a few more of us doing this one next year!</p> 
 
-**<a name="Results"></a>Results<a name="Results"></a>**  
+**Results**  
 **</p> 
 
 <table>

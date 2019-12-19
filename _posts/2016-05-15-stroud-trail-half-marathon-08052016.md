@@ -4,11 +4,11 @@ title: 'Stroud Trail Half Marathon - 08/05/2016'
 date: 2016-05-15T20:42:05+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2228
+guid: 2228
 permalink: /2016/05/stroud-trail-half-marathon-08052016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 Super Vet Charles Goodwin shone as brightly as the hot summer sun to achieve an impressive podium finish in the Stroud Trail Half marathon. Goodwin, also known as &#8216;The Postman' because he always delivers, set off at a brisk pace with the leaders and was running strongly on the scenic but challenging course. However some navigational difficulties as the course went out into the country led to an unintended diversion. He showed customary determination to shrug off the mishap and finished in 3rd place in 1h51.

@@ -4,7 +4,7 @@ title: Midland Cross Country Leagues, Race Day 1, Sat 10 November 2018
 date: 2018-11-12T10:07:56+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3269
+guid: 3269
 permalink: /2018/11/midland-cross-country-leagues-race-day-1-sat-10-november-2018/
 categories:
   - Cross Country Reports

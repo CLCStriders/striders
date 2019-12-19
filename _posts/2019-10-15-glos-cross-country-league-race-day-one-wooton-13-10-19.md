@@ -4,7 +4,7 @@ title: 'Glos Cross Country League: Race Day 1, Wooton, 13.10.19'
 date: 2019-10-15T08:35:20+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3592
+guid: 3592
 permalink: /2019/10/glos-cross-country-league-race-day-one-wooton-13-10-19/
 categories:
   - Cross Country Reports

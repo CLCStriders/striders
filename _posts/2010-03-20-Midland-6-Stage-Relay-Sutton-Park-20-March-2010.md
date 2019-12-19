@@ -8,13 +8,13 @@ permalink: /2010/03/Midland-6-Stage-Relay-Sutton-Park,-20-March-2010-/
 ---
 **Midland 6 Stage Relay Sutton Park 20 March 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
 Women's captain Rachel Vines set off on leg one for the Club and finished in an excellent 21st place, she handed over to Super Vet Dawn Addinall who ran well to finish 32nd, Hillary Agate took over and ran a storming leg for the club to gain 14 places, she handed over to amelia Mullins who did well to gain another place for the Club, Naomi Kellet on leg five pushed hard to gain two more places, Final leg runner Liza Barry ran a very brisk leg to overtake two more runners and bring the Club home in a very credible 13th position overall 
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

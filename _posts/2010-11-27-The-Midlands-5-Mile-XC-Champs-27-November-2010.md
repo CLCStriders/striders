@@ -8,7 +8,7 @@ permalink: /2010/11/The-Midlands-5-Mile-XC-Champs-27-November-2010/
 ---
 **Midlands 5 mile Cross Country Championships (27 November 2010)**
 
-**<a name="report"></a>**
+ 
 
 **Report**
 

@@ -4,7 +4,7 @@ title: End of summer racing round-up
 date: 2017-09-05T09:49:36+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2930
+guid: 2930
 permalink: /2017/09/end-of-summer-racing-round-up/
 categories:
   - Race Reports

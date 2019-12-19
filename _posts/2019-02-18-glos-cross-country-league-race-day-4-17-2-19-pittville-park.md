@@ -4,7 +4,7 @@ title: Glos Cross-Country League, Race Day 4, 17.2.19 – Pittville Park
 date: 2019-02-18T09:57:47+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3324
+guid: 3324
 permalink: /2019/02/glos-cross-country-league-race-day-4-17-2-19-pittville-park/
 categories:
   - Cross Country Reports

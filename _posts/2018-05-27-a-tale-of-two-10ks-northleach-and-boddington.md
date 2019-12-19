@@ -4,7 +4,7 @@ title: A tale of two 10ks – Northleach and Boddington
 date: 2018-05-27T13:39:38+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3149
+guid: 3149
 permalink: /2018/05/a-tale-of-two-10ks-northleach-and-boddington/
 categories:
   - Race Reports

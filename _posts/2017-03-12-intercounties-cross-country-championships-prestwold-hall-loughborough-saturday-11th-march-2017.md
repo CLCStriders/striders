@@ -4,11 +4,11 @@ title: Inter-Counties Cross Country Championships – Prestwold Hall Loughboroug
 date: 2017-03-12T21:17:59+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2629
+guid: 2629
 permalink: /2017/03/intercounties-cross-country-championships-prestwold-hall-loughborough-saturday-11th-march-2017/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 &nbsp;

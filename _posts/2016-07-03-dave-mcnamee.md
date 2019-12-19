@@ -4,10 +4,10 @@ title: Dave McNamee
 date: 2016-07-03T10:34:07+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2353
+guid: 2353
 permalink: /2016/07/dave-mcnamee/
 categories:
-  - News
+
 ---
 CLC Striders were sad to hear of the passing of Dave McNamee last week.
 

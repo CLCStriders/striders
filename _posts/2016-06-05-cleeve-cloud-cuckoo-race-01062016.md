@@ -4,7 +4,7 @@ title: 'Cleeve Cloud Cuckoo Race - 01/06/2016'
 date: 2016-06-05T13:05:24+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2313
+guid: 2313
 permalink: /2016/06/cleeve-cloud-cuckoo-race-01062016/
 categories:
   - Cross Country Reports

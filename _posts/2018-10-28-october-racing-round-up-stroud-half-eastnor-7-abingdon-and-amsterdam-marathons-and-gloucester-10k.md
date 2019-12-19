@@ -4,7 +4,7 @@ title: 'October racing: Stroud Half, Eastnor 7, Abingdon &#038; Amsterdam marath
 date: 2018-10-28T16:25:48+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3256
+guid: 3256
 permalink: /2018/10/october-racing-round-up-stroud-half-eastnor-7-abingdon-and-amsterdam-marathons-and-gloucester-10k/
 categories:
   - Race Reports

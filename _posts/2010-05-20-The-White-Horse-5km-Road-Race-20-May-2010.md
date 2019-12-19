@@ -17,7 +17,7 @@ Front Runner for the Women's team was Liza Barry who was 71st overall in a time 
 Well done everyone!  
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

@@ -8,7 +8,7 @@ permalink: /2009/01/Gloucester-10m-04-January-2009/
 ---
 **Gloucester New Year 10mile 04 January 2009**
 
-**<a name="Report"></a>Report**
+**Report**
 
 Will Ferguson men's club captain left it until the final 400 metres to record his first win in a CLC Striders vest in the Gloucester 10 mile road race.
 
@@ -22,7 +22,7 @@ Kindest Regards
 
 Bren
 
-**<a name="Results"></a>**
+ 
 
 **Results**
 
@@ -30,7 +30,7 @@ Bren
 
 
 
-**<a name="Results"></a>**</p> 
+ </p> 
 
 <map name="040109.jpg">
   <area shape="RECT" coords="650,31,664,44" alt="Will Ferguson" />

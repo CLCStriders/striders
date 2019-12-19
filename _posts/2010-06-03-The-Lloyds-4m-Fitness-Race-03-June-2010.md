@@ -17,7 +17,7 @@ Other notable performances were Richard Cannock (26 mins 1 sec, 12<sup>th</sup>)
 
 Rachel Vines
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

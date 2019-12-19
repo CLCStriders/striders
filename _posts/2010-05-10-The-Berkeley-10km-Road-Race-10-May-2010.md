@@ -16,7 +16,7 @@ Well done chaps I am so glad that I took the night off to witness these great pe
 Keep it up.  
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

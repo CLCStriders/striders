@@ -13,7 +13,7 @@ permalink: /2010/07/The-Mid-Summer-Track-Open-21-July-2010-/
 Jo Wilkie ran well to record a solid 2.37.2 and finish 6th in the Women's 800 metres - meanwhile John Parker (JP), Rich Dare (Dare Devil) and Rich Cannock all recorded PBS'in the 1500 metres with JP also breaking his own Club Record and become the first Strider under 4.10 for the distance. Final Strider competing was Nick the bolt O'neil who ran a superb race to win the 150 metres sprint setting a new Club Record of 18.2 for this seldom run distance.  
 Brendan Ward (Club Chairman)
 
-<a name="Results"></a>**Results**  
+**Results**  
 800m Women  
 6th Jo Wilkie 2.37.2
 

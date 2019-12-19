@@ -4,7 +4,7 @@ title: 'Striders: back on track'
 date: 2018-05-14T08:00:17+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3134
+guid: 3134
 permalink: /2018/05/striders-back-on-track/
 categories:
   - Race Reports
@@ -20,7 +20,7 @@ After a long, cold, snowy winter of cross country and road competition, May has 
 
 On a scorching sunny day, a crop of Striders entered a variety events at the start of the track and field season.
 
-**Paul Lockyer **clocked a club age category-equalling 13.0 seconds dead in the 100m, with **Nicola Weager **registering 15.1 seconds. **Paul ****Lockyer** also raced the 400m, in a strong time of 62.1 seconds.
+**Paul Lockyer **clocked a club age category-equalling 13.0 seconds dead in the 100m, with **Nicola Weager **registering 15.1 seconds. **Paul  Lockyer** also raced the 400m, in a strong time of 62.1 seconds.
 
 [<img class="alignnone wp-image-3139" src="/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg" alt="PAul-Lockyer-400m_brewer-games" width="800" height="533" srcset="/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg 960w, /Images/2018/05/PAul-Lockyer-400m_brewer-games-300x200.jpg 300w, /Images/2018/05/PAul-Lockyer-400m_brewer-games-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg)
 

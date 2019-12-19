@@ -20,7 +20,7 @@ permalink: '/2009/07/Cheltenham-Open-#1-01-July-2009/'
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**
+**<a name="Results">Report</a>**
 
 CLC Striders had some very encouraging results at the Prince of Wales Stadium on Wednesday 1st July with 6 Athletes taking part in the 800 metres and one Athlete competing in the 100 metres.
 

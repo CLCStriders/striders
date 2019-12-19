@@ -20,7 +20,7 @@ permalink: /2010/08/The-10,000m-County-Champs-and-open-1-mile-25-August-2010-/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 The 10,000m county championships saw 5 CLC striders taking part. Dispite the rainy conditions, the striders did themselves proud and came away with 3 county medals.</p> 
 

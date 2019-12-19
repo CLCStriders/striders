@@ -4,7 +4,7 @@ title: 'The 2017 Cheltenham Half (plus Cardiff Half &#038; Great Oaks Yorkley Ga
 date: 2017-10-02T20:30:25+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2955
+guid: 2955
 permalink: /2017/10/the-2017-cheltenham-half-plus-cardiff-half-great-oaks-yorkley-gallop/
 categories:
   - Race Reports

@@ -4,7 +4,7 @@ title: Midsummer Open – Prince of Wales – 18 July
 date: 2018-07-22T22:51:58+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3198
+guid: 3198
 permalink: /2018/07/midsummer-open-prince-of-wales-18-july/
 categories:
   - Race Reports

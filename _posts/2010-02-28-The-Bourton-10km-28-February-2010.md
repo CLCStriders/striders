@@ -8,11 +8,11 @@ permalink: /2010/02/The-Bourton-10km-28-February-2010-/
 ---
 **The Bourton 10K 28 February 2010**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 CLC Striders Performed superbly at the Bourton 10K on Sunday 28th February 2010 with new signing John Parker and Will Ferguson having a Furiously competitive Battle for 2nd spot, Parker was the winner on this occasion, both Athletes were timed at 32.58. This was the first time Ferguson had bean defeated by a Fellow Team member, and was a great performance by both Athletes as they were also the first Two Gloucestershire Runners to finish in this high class field of nearly 500 Runners. Nathan Jones was next in for the Club running well in 15th, Rich Dare ran a pb time for 20th, Ben Pedley 26th in another pb, and Vet Phil Jowett followed with a Superb pb in 44th place. Other notable performances were achieved Chris Driskell in 45th,and by V40 Chris hale who finally smashed through the 38 minute barrier in 50th spot.The Men's Team finished in 2nd place overall. The Women were led home by Laura Kent who ran an excellent race to achieve a pb and finish 47th overall, next was Liza Barry who finished 89th overall and ran a sub 40min pb, Rachel Vines ran a fine race for a big pb and 103rd overall. Other notable performances were achieved by L40 Naomi Kellett who ran a big pb, and Alexa Phoenix who also ran her fastest ever 10K time.The Striders Women's Team Finished First overall. 
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col span="2"> <col> <col> <col> <col> 

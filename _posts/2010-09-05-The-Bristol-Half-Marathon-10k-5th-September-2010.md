@@ -20,7 +20,7 @@ permalink: /2010/09/The-Bristol-Half-Marathon-10k-5th-September-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**
+**<a name="Results">Report</a>**
 
 The rain didn't dampen the spirits of the 9 Striders who took to the streets of Bristol for the Bristol Half Marathon.Roared on by an enthusiastic crowd and amongst some high class international talent there were some spritely performances.
 

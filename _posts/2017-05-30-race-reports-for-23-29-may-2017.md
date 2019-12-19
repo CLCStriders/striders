@@ -4,7 +4,7 @@ title: Race reports for 23 – 29 May 2017
 date: 2017-05-30T08:52:04+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2789
+guid: 2789
 permalink: /2017/05/race-reports-for-23-29-may-2017/
 categories:
   - Race Reports

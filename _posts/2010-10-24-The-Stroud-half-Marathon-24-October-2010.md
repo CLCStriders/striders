@@ -20,7 +20,7 @@ permalink: /2010/10/The-Stroud-half-Marathon-24-October-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 There were 24 CLC Striders who took part in Stroud Half marathon on Sunday 24 October 2010. Conditions couldn?t have been more perfect leading to personal bests for many of the squad.
 

@@ -8,7 +8,7 @@ permalink: /2009/02/White-Horse-5-mile-28-February-2009/
 ---
 **The White Horse Winter 5-mile 28 February 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 Rich Dare led the CLC Striders home with a superb 28.55 finishing 17th overall in this high class field. Phil Jowett and Chris Slade had a great tussle to see who would follow Rich home, on this occasion Phil won the battle, however both ran well inside Billy Bradshaw's V40 club record. 
 
@@ -20,7 +20,7 @@ Kindest Regards.
 
 Bren
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 **Route**</p> 
 

@@ -8,7 +8,7 @@ permalink: /2009/09/The-Bristol-Half-Marathon-06-Sept-2009/
 ---
 **The Bristol Half Marathon 06 Sept 2009**
 
-**<a name="Report"><a name="Report"></a>Report</a>**</p> 
+**<a name="Report">Report</a>**</p> 
 
 There were four CLC Striders who ventured out to take part in the Bristol Half Marathon on Sunday 6 September 2009. 
 

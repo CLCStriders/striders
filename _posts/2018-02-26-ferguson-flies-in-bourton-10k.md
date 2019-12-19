@@ -4,7 +4,7 @@ title: Ferguson flies in Bourton 10k
 date: 2018-02-26T12:09:58+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3073
+guid: 3073
 permalink: /2018/02/ferguson-flies-in-bourton-10k/
 categories:
   - Race Reports

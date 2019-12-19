@@ -4,7 +4,7 @@ title: The Stratford Big 10k (Sunday 10 September 2017)
 date: 2017-09-11T17:19:45+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2938
+guid: 2938
 permalink: /2017/09/the-stratford-big-10k-sunday-10-september-2017/
 categories:
   - Race Reports

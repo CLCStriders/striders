@@ -20,7 +20,7 @@ permalink: /2010/08/Winchcombe-Multi-Terrain-10k-29th-August-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 _&#8220;A massive well done to the fab four (John Parker, Jon Gould, Natasha Poole and Justine Hale) who completed a very challenging 10k Hillclimbe today, as well as the fab 2 (Evan and John P's son) who ran the 1km race._
 

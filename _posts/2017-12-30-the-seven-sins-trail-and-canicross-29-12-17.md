@@ -4,7 +4,7 @@ title: The Seven Sins Trail and Canicross (29.12.17)
 date: 2017-12-30T10:24:27+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3022
+guid: 3022
 permalink: /2017/12/the-seven-sins-trail-and-canicross-29-12-17/
 categories:
   - Cross Country Reports

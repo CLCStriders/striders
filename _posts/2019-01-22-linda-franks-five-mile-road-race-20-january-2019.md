@@ -4,7 +4,7 @@ title: 'Linda Franks  five-mile road race, 20 January 2019'
 date: 2019-01-22T09:16:17+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3298
+guid: 3298
 permalink: /2019/01/linda-franks-five-mile-road-race-20-january-2019/
 categories:
   - Race Reports

@@ -4,10 +4,10 @@ title: 'BMC Regional Races Tipton - 27/08/2016'
 date: 2016-08-29T14:36:55+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2449
+guid: 2449
 permalink: /2016/08/bmc-regional-races-tipton-27082016/
 categories:
-  - News
+
   - Race Reports
   - Track Reports
 ---

@@ -8,7 +8,7 @@ permalink: /2011/01/The-Glos-XC-County-Champs-08-January-2011/
 ---
 **Gloucestershire Cross Country County Champs - January 8th 2011**
 
-**<a name="report"></a>**
+ 
 
 **Report**
 

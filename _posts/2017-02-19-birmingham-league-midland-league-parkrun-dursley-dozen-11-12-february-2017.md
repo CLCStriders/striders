@@ -4,11 +4,11 @@ title: 'Birmingham League, Midland League, Parkrun, Dursley Dozen - 11-12 Februa
 date: 2017-02-19T11:11:22+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2593
+guid: 2593
 permalink: /2017/02/birmingham-league-midland-league-parkrun-dursley-dozen-11-12-february-2017/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
   - Road Reports
 ---

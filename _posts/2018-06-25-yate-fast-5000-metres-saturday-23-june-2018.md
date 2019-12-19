@@ -4,7 +4,7 @@ title: Yate Fast 5,000 metres – Saturday 23 June 2018
 date: 2018-06-25T06:19:32+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3164
+guid: 3164
 permalink: /2018/06/yate-fast-5000-metres-saturday-23-june-2018/
 categories:
   - Race Reports

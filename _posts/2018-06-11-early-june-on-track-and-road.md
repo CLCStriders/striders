@@ -4,7 +4,7 @@ title: Early June – on track and road
 date: 2018-06-11T10:02:51+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3158
+guid: 3158
 permalink: /2018/06/early-june-on-track-and-road/
 categories:
   - Race Reports

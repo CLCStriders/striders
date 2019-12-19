@@ -21,7 +21,7 @@ Thanks to the following Striders who took up non-running roles:
 
 In addition to those, we were able to have some running roles (some with the pressure of pacing):
 
-  * Our tail runner was Dave **MAYO****.**
+  * Our tail runner was Dave **MAYO .**
   * Alice **JOHNSTON** guided a blind runner around the course.
   * Juan **MORENO**, Chris **HALE**, Jon **BIRD**, Rachel **VINES**, Andrew **PATERSON**, Amanda **STEER**, George **PARKER**, Rob **GLADWIN**, David **SMEATH**, Rob **BIRCHER**, Nat **LOVEKIN** & Trish **WOODS** were our pacing team guiding runners to new PBs.
 

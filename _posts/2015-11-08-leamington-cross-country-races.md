@@ -4,7 +4,7 @@ title: Leamington Cross Country Races
 date: 2015-11-08T10:19:39+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1680
+guid: 1680
 permalink: /2015/11/leamington-cross-country-races/
 categories:
   - Cross Country Reports

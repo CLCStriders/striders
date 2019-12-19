@@ -13,7 +13,7 @@ permalink: /2010/07/The-Mid-Summer-Track-Open-28-July-2010-/
 Ten CLC Striders took part in the final Midsummer League Track Meeting of the 2010 season and came away with three Club records and loads of Pb's to boot. John Parker (JP) smashed the current Men's Club Mile record to run an impressive 4.35.1, Rich Dare (Dare Devil) chased JP all the way home to finish 3rd and smash his current pb and run 4.38.6. Rich Cannock finished in 5th place and ran superb to dip under 5.10 and record a fine pb, Ewan Dunlop followed in 6th place out sprinting Dave Smeath in the home straight to record a new pb time of 5.14.1, Smeath finished in 8th place recording a pb time of 5.15.1, Final Strider was Charles Goodwin who ran well to set an M45 Club Record of 5.34.2. The Women's Mile saw Rachel Vines (DJ) tripped-up and a heavy fall after almost two laps, however DJ managed to rise again and go on to finish in 4th place and set a new Women's record of 5.54.2 meanwhile Sian Holly who was in the same race put in a strong performance to record a time of 6.09.5. Jo wilkie put in another consistance performance to finish 4th in the 800m running a time of 2.40.6, and Nick O'neil ran well to finish 4th in the 100m running 12 seconds flat.  
 Brendan Ward (Club Chairman)
 
-<a name="Results"></a>**Results**  
+**Results**  
 Mile Men  
 1. John Parker (M35) 4.35.1 (Club Rec)  
 3. Rich Dare 4.38.6 (PB)  

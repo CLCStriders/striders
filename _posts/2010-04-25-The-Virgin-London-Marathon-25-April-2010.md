@@ -8,7 +8,7 @@ permalink: /2010/04/The-Virgin-London-Marathon-25-April-2010./
 ---
 **The Virgin London Marathon 25 April 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
@@ -17,7 +17,7 @@ Dave Billingham who ran a solid race to record 3.05.40, and set a M45 Club Recor
 Well done to all of you!  
 Brendan 
 
-<a name="Report"></a>**Results**
+**Results**
 
 919 Liza Barry 2.57.54 (Women's Club Rec) - PB  
 1482 Dave Billingham 3.05.40 (M45 Club Rec) - PB  

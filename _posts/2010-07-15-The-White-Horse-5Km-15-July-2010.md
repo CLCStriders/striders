@@ -12,7 +12,7 @@ permalink: /2010/07/The-White-Horse-5Km-15-July-2010-/
 
 15 athletes represented the club at the white horse 5k on Thursday 15th July 2010. The conditions we're not conducive to fast times due to the wind and rain. Charles Goodwin led the men's team home having a fine run to record 18.55, and Rachel Vines led the Women's team home stopping the clock at 19.48. Age group wins we're had by L40 Trudy Jones who ran an excellent race to record a big pb time of 23.19, and Dawn Addinall who won the L60 age group recording a new pb time of 24.13 to break her own club record. Brendan Ward (Club Chairman)
 
-<a name="Results"></a>**Results**26. Charles Goodwin M45 18.55 27. Simon Dee M45 19.08 30. Jamie Patterson 19.21 32. Rich Cannock 19.40 34. Rachel Vines 19.48 39. John Howes 20.28 40. Rob Lynch 20.30 48. Chris Bentley 21.41 56. Louise inchley L35 23.15 57. Trudy Jones L40 23.19 58. Helen Howes 23.39 60. Fiona Watts 24.10 61. Dawn Addinall L60 24.13 (Club Rec) 62. Tracey densham L40 24.14 63. Becky Boulton L35 25.51 
+**Results**26. Charles Goodwin M45 18.55 27. Simon Dee M45 19.08 30. Jamie Patterson 19.21 32. Rich Cannock 19.40 34. Rachel Vines 19.48 39. John Howes 20.28 40. Rob Lynch 20.30 48. Chris Bentley 21.41 56. Louise inchley L35 23.15 57. Trudy Jones L40 23.19 58. Helen Howes 23.39 60. Fiona Watts 24.10 61. Dawn Addinall L60 24.13 (Club Rec) 62. Tracey densham L40 24.14 63. Becky Boulton L35 25.51 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

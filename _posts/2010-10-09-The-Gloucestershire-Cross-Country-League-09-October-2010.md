@@ -20,7 +20,7 @@ permalink: /2010/10/The-Gloucestershire-Cross-Country-League-09-October-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 The first Glos Cross Country League race of the season kicked off on Saturday 9th October at Cotswold Farm Park.
 

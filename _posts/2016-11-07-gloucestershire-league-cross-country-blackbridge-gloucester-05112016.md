@@ -4,7 +4,7 @@ title: 'Gloucestershire League Cross Country - Blackbridge, Gloucester  - 05/11/
 date: 2016-11-07T16:49:40+00:00
 author: Joel Freeland
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2503
+guid: 2503
 permalink: /2016/11/gloucestershire-league-cross-country-blackbridge-gloucester-05112016/
 categories:
   - Cross Country Reports

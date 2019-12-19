@@ -4,7 +4,7 @@ title: Race report for early June 2017
 date: 2017-06-20T08:11:53+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2799
+guid: 2799
 permalink: /2017/06/race-report-for-early-june-2017/
 categories:
   - Race Reports

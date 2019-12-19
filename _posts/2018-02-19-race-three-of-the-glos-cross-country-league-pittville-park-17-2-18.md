@@ -4,7 +4,7 @@ title: Race Three of the Glos Cross Country League – Pittville Park, 17.2.18
 date: 2018-02-19T08:50:07+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3069
+guid: 3069
 permalink: /2018/02/race-three-of-the-glos-cross-country-league-pittville-park-17-2-18/
 categories:
   - Cross Country Reports

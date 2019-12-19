@@ -4,10 +4,10 @@ title: 'Stroud Half Marathon - 23/10/2016'
 date: 2016-10-23T16:59:48+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2495
+guid: 2495
 permalink: /2016/10/stroud-half-marathon-23102016/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
 ---

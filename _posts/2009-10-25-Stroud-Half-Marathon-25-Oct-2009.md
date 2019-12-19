@@ -8,7 +8,7 @@ permalink: /2009/10/-Stroud-Half-Marathon-25-Oct-2009/
 ---
 **The Stroud Half Marathon 25 October 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 17 CLC Striders competed in the Stroud Half Marathon today, in a field of 1738 runners. The sunshine quickly deteriorated into wind and rain, but in true Striders style they didn?t let the weather impair their performances. 
 
@@ -18,4 +18,4 @@ Well done all, some very impressive performances
 
 Liza Barry
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**

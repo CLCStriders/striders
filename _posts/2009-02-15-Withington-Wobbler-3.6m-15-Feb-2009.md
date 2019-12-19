@@ -8,7 +8,7 @@ permalink: /2009/02/Withington-Wobbler-3.6m-15-Feb-2009/
 ---
 **The Withington Wobbler 3.6m 15 February 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 19 CLC Striders headed off to Withington to test a 3.6 mile road course out as the club may be holding a race in the village later on this year.
 
@@ -24,7 +24,7 @@ Kindest regards.
 
 Bren
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 Position on actual time, with handicap time and position in brackets distance:
 

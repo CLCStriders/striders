@@ -8,7 +8,7 @@ permalink: /2011/01/-The-Pilot-5-Mile-01-January-2011/
 ---
 **The Pilot 5-Mile Road Race (01 January 2011)**
 
-**<a name="report"></a>**
+ 
 
 **Report**
 

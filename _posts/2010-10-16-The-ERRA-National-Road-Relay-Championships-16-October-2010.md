@@ -20,7 +20,7 @@ permalink: /2010/10/The-ERRA-National-Road-Relay-Championships-16-October-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 The Fab Four did themselves Proud at the ERRA National Road Relay Championships at Sutton Park.
 

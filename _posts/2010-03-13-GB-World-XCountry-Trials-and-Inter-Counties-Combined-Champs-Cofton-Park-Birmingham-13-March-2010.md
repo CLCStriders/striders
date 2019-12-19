@@ -8,7 +8,7 @@ permalink: /2010/03/GB-World-XCountry-Trials-and-Inter-Counties-Combined-Champs,
 ---
 **World Cross Country Trials and Inter Counties Combined Event 13 March 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
@@ -18,7 +18,7 @@ Kindest Regards
 
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

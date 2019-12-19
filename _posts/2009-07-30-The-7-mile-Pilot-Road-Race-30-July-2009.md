@@ -8,7 +8,7 @@ permalink: /2009/07/The-7-mile-Pilot-Road-Race-30-July-2009/
 ---
 **The Gloucester Festival 7 Mile Pilot Road Race 30 July 2009**
 
-**<a name="Report"><a name="Report"></a>Report</a>**
+**<a name="Report">Report</a>**
 
 Seven CLC striders took part in the Gloucester Festival 7M on a breezy but sunny Thursday evening. 
 

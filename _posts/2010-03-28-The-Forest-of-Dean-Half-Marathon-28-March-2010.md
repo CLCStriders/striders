@@ -8,9 +8,9 @@ permalink: /2010/03/The-Forest-of-Dean-Half-Marathon-28-March-2010-/
 ---
 **The Forest Of Dean Half Marathon 28 March 2010** </p> 
 
-<a name="Report"></a>
 
-<a name="Report"></a>**Results**
+
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

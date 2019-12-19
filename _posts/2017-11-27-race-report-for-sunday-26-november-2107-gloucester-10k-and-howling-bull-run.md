@@ -4,7 +4,7 @@ title: 'Race Report for Sunday 26 November 2107: Gloucester 10K and Howling Bull
 date: 2017-11-27T13:34:01+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3000
+guid: 3000
 permalink: /2017/11/race-report-for-sunday-26-november-2107-gloucester-10k-and-howling-bull-run/
 categories:
   - Race Reports

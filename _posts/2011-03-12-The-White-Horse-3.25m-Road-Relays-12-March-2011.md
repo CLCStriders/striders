@@ -22,7 +22,7 @@ A big thankyou also to Phil ?Calf is on the mend? Jowett who did a great job of 
 
 Rich Dare
 
-**<a name="Results"></a>Results**
+**Results**
 
 Women's teams got silver and bronze in the county champs and men took silver. In the open race, women were second and men were 3rd. Amanda took fastest W40.  
 **Men**

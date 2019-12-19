@@ -8,7 +8,7 @@ permalink: /2010/11/The-Pitville-Park-Cross-Country-20-Nov-2010/
 ---
 **Pitville Park Cross Country (20 November 2010)**
 
-**<a name="report"></a>Report**
+**Report**
 
 CLC Striders staged fixture Two of the Glos County Cross Country League on there home course at Pitville Park Saturday 20th November.
 

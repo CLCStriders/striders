@@ -4,7 +4,7 @@ title: Midsummer Open (5.7.17) and Evesham 10k
 date: 2017-07-11T07:40:39+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2828
+guid: 2828
 permalink: /2017/07/midsummer-open-5-7-17-and-evesham-10k/
 categories:
   - Race Reports

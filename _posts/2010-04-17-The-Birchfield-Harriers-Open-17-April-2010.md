@@ -8,7 +8,7 @@ permalink: /2010/04/The-Birchfield-Harriers-Open-17-April-2010-/
 ---
 **The Birchfield Open 17 April 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
@@ -20,7 +20,7 @@ I was very proud to watch all these Athletes compete today and hope that there e
 
 Brendan 
 
-<a name="Report"></a>**Results**
+**Results**
 
 **800 metres - Men  
 ** 2. Rich Dare - 2.02.09 (Club Rec/PB)  

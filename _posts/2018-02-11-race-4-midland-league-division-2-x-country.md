@@ -4,7 +4,7 @@ title: 'Gutsy and generous: Race 4, Midland League, Division 2 X-Country'
 date: 2018-02-11T11:04:28+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3048
+guid: 3048
 permalink: /2018/02/race-4-midland-league-division-2-x-country/
 categories:
   - Cross Country Reports

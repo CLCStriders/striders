@@ -4,7 +4,7 @@ title: 'Strider of the Month - February 2016'
 date: 2016-03-15T20:39:21+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2053
+guid: 2053
 permalink: /2016/03/strider-of-the-month-february-2016/
 categories:
 

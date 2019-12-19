@@ -4,7 +4,7 @@ title: Midland Road Relays, Sutton Park, Birmingham, 17 March 2018
 date: 2018-03-25T11:31:44+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3087
+guid: 3087
 permalink: /2018/03/midland-road-relays-sutton-park-birmingham-17-march-2018/
 categories:
   - Race Reports

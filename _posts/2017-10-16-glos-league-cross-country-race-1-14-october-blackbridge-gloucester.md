@@ -4,7 +4,7 @@ title: Glos League cross country, Race 1, 14 October, Blackbridge, Gloucester
 date: 2017-10-16T17:18:19+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2962
+guid: 2962
 permalink: /2017/10/glos-league-cross-country-race-1-14-october-blackbridge-gloucester/
 categories:
   - Cross Country Reports

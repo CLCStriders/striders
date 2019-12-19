@@ -4,7 +4,7 @@ title: 'CLC Striders Race report: Sutton Park Road Relays 2017'
 date: 2017-09-27T17:06:15+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2949
+guid: 2949
 permalink: /2017/09/clc-striders-race-report-sutton-park-road-relays-2017/
 categories:
   - Race Reports

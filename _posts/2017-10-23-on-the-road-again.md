@@ -4,7 +4,7 @@ title: On the Road Again!
 date: 2017-10-23T22:31:02+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2974
+guid: 2974
 permalink: /2017/10/on-the-road-again/
 categories:
   - Race Reports
@@ -13,7 +13,7 @@ tags:
   - Abingdon Marathon
   - Stroud Half Marathon
 ---
-**Stroud Half Marathon and Abingdon Marathon – ****22 October 2017**
+**Stroud Half Marathon and Abingdon Marathon –  22 October 2017**
 
 With Storm Brian all-but blown out, CLC Strider athletes got back to the roads on Sunday 22 October to tackle the Abingdon Marathon and the ever-popular Stroud Half Marathon.
 

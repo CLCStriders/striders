@@ -8,7 +8,7 @@ permalink: /2010/04/The-White-Horse-4m-Road-Race-10-April-2010-/
 ---
 **The White Horse 4m Road Race 10 April 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
@@ -16,7 +16,7 @@ John Parker (JP) put on a solo performance to record his third win in three week
 
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

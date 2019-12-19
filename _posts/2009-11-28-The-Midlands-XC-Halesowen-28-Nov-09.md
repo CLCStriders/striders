@@ -8,7 +8,7 @@ permalink: /2009/11/--The-Midlands-XC-Halesowen-28-Nov-09/
 ---
 **The Midlands Cross Country at Halesowen - 28 November 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 Four CLC Striders took part in the Midland 5, and Midland 7 Mile Cross Country Races held at Halesowen on Saturday 28th November 2009. The course was extremely tough with lots of mud/Hills to attack, and had a Very Difficult Stream to Cross on Every lap .Welcome to an old Style Cross Country Course.
 

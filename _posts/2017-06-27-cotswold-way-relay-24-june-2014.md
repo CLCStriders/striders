@@ -4,7 +4,7 @@ title: Cotswold Way Relay – 24 June, 2014
 date: 2017-06-27T08:38:57+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2805
+guid: 2805
 permalink: /2017/06/cotswold-way-relay-24-june-2014/
 categories:
   - Cross Country Reports

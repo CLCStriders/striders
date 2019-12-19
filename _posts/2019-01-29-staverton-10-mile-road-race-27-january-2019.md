@@ -4,7 +4,7 @@ title: Staverton 10-mile road race, 27 January 2019
 date: 2019-01-29T08:16:50+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3314
+guid: 3314
 permalink: /2019/01/staverton-10-mile-road-race-27-january-2019/
 categories:
   - Race Reports

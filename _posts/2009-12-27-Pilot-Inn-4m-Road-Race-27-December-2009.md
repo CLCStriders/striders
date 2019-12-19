@@ -6,7 +6,7 @@ excerpt: '<p>Six Striders made a fantastic impression at the Pilot Inn 4m road r
 layout: post
 permalink: /2009/12/Pilot-Inn-4m-Road-Race-27-December-2009/
 ---
-**<a name="Results"></a>Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col span="2"> <col> <col> <col> <col> 

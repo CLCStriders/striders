@@ -4,7 +4,7 @@ title: 'Shakespeare Half Marathon &#038; Southampton Half Marathon - 24/04/2016'
 date: 2016-04-24T22:46:14+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2134
+guid: 2134
 permalink: /2016/04/shakespeare-half-marathon-24042016/
 categories:
   - Race Reports

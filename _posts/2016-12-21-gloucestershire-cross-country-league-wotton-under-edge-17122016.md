@@ -4,11 +4,11 @@ title: 'Gloucestershire Cross Country League - Wotton-under-Edge - 17/12/2016'
 date: 2016-12-21T19:30:53+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2545
+guid: 2545
 permalink: /2016/12/gloucestershire-cross-country-league-wotton-under-edge-17122016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 CLC Striders Liza Barry led the ladies' A team to third place in the team race in the third Gloucestershire Cross Country League race held near Wotton-Under-Edge. Barry finished 10th, and was followed by Helen Hucker in 13th place; final A team scorer was Rachel Vines in 19th place.

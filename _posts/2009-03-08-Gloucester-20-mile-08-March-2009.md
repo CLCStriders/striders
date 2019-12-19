@@ -1,15 +1,13 @@
 ---
-
 title: Gloucester 20 mile 08 March 2009
-excerpt: '<p>Well done to all of you who braved the wind and rain to compete in the Gloucester 20 mile road race. I do hope that this has given you a big confidence boost for the London marathon next month. Congratulations Brendan Ward, Club Chairman Gloucester 20 mile 08 March 2009 Report Results</p>'
 layout: post
-permalink: /0000/00/Gloucester-20-mile--08-March-2009/
 ---
+
+<p>Well done to all of you who braved the wind and rain to compete in the Gloucester 20 mile road race. I do hope that this has given you a big confidence boost for the London marathon next month. Congratulations Brendan Ward, Club Chairman Gloucester 20 mile 08 March 2009 Report Results</p>
+
 **Gloucester 20mile 08 March2009**
 
-**<a name="Report"></a>**
-
-**Report**</p> 
+**Report**
 
 Well done to all of you who braved the wind and rain to compete in the Gloucester 20 mile road race. I do hope that this has given you a big confidence boost for the London marathon next month.
 
@@ -17,7 +15,7 @@ Congratulations. Kindest Regards
 
 Bren
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

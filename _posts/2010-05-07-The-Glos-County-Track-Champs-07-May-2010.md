@@ -14,7 +14,7 @@ Natasha Poole and John Parker we're the stars at the county Track Part 1 Champio
 Poole ran a strong race just missing out on a County Gold to take the Silver Medal and set a new Club record and finish just 20 metres ahead of Team mate and arch rival Rachel Vines who took the Bronze Medal in the women's 3k. Both Athletes recorded lifetime bests. Sian Holley making her Track Debut ran an excellent race to smash the 12 minute barrier and finish in 5th place, Jo Wilkie followed and ran well for 6th in her first 3k for a long while.  
 John Parker (JP) made a remarable Track Debut to finish in Third place in the Men's 5K and set a new Club record recording an astonishing 15.22.8, Rich Dare followed in 4th Place and smashed his previous 5K Track PB by over 70 seconds, Chris Driskell followed in 8th place and ran an impressive PB time, next for the Men was Jamie Patterson who made a fine debut to finish 14th and go well under 19 minutes for the distance.
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

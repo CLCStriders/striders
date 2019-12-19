@@ -6,9 +6,9 @@ excerpt: '<p>CLC Striders had 21 Athletes competing at the Cirencester 10k on 27
 layout: post
 permalink: /2009/09/The-Cirencester-10k-27-Sept-2009/
 ---
-**The Cirencester 10K 27****September 2009**
+**The Cirencester 10K 27 September 2009**
 
-**<a name="Report"></a>**
+ 
 
 **Report**</p> 
 
@@ -18,7 +18,7 @@ The Women were led home by the very consistent Liza Barry who ran 42.07, next in
 
 The Club in total had 21 competitors which is an excellent turn out indeed.
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

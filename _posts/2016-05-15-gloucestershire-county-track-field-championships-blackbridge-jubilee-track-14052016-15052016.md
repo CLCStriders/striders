@@ -4,10 +4,10 @@ title: 'Glos County Track &#038; Field Championships, Blackbridge Jubilee Track 
 date: 2016-05-15T17:59:08+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2203
+guid: 2203
 permalink: /2016/05/gloucestershire-county-track-field-championships-blackbridge-jubilee-track-14052016-15052016/
 categories:
-  - News
+
   - Race Reports
   - Track Reports
 ---

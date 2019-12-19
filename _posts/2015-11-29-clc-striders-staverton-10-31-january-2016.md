@@ -4,7 +4,7 @@ title: 'CLC Striders Staverton 10 - 31 January 2016'
 date: 2015-11-29T16:35:39+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1689
+guid: 1689
 permalink: /2015/11/clc-striders-staverton-10-31-january-2016/
 categories:
   - Events

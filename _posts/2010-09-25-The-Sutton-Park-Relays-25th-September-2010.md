@@ -20,7 +20,7 @@ permalink: /2010/09/The-Sutton-Park-Relays-25th-September-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 The women demonstrated their class with the A team placing 10th, the highest scoring Gloucestershire team. Laura Kent got off to a strong start completing the first 4.315km leg in 17:17. Natasha Poole put all her hard training into play and gained 11 places in a time of 17:05. Speedy Liza Barry continued to increase the tempo by completing the third leg in 16:46. Finally, Hillary Agate gave it her all and completed the team?s fastest leg of the day in 15:53.
 

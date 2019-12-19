@@ -8,7 +8,7 @@ permalink: '/2009/07/Cheltenham-Open-#4-22-July-2009/'
 ---
 **The Cheltenham Harriers Mid Summer Open #4 22 July 2009**</p> 
 
-**<a name="Results"><a name="Report"></a>Report</a>**
+**<a name="Results">Report</a>**
 
 Eight CLC Striders took part in the final Chelt Harriers Mid-summer Open at the Prince of Wales Stadium.
 

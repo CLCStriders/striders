@@ -4,7 +4,7 @@ title: 'Gloucestershire XC League - Crypt School Blackbridge 12/12/2015'
 date: 2015-12-12T18:30:23+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1778
+guid: 1778
 permalink: /2015/12/gloucestershire-xc-league-crypt-school-blackbridge-12122015/
 categories:
   - Cross Country Reports

@@ -4,7 +4,7 @@ title: The Longer the Better
 date: 2017-09-19T08:53:56+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2944
+guid: 2944
 permalink: /2017/09/the-longer-the-better/
 categories:
   - Race Reports

@@ -12,7 +12,7 @@ permalink: /2010/05/The-Tewkesbury-Half-Marathon-09-May-2010-/
 
 The weather remained dry but it was raining PB?s and club records for the Striders taking part in Tewkesbury Half Marathon. Leading the team home was men?s vice captain Chris Hale in 1.21.04 followed by men?s captain Dave Smeath in 1.23.03. Both achieved PB?s which were 2 ? mins faster than their previous bests and both achieved club records for their respective age groups. Billy Bradshaw was next home in his first half marathon in approximately 20 years (!) in another PB and V45 club record time of 1.27.04. Thomas Evans also had an excellent run and ducked below the 1h30 barrier. Nicola Christian was first lady Strider home in an excellent 1.43.56. There were other club records for Nicholas Von Benzon (v55) in 1.39.33, Dawn Addinall (V55) in 1.53.36 and Mary Hatton (V50) in 2.12.52 as well as several other PB?s. Tremendous effort by all. However the most amazing performance was by Louise Inchley who managed to record a time 1hr 38 despite the fact that she was spending the weekend in Henley on Thames! So much for chip technology!!
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

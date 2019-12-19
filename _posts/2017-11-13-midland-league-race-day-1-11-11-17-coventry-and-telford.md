@@ -4,7 +4,7 @@ title: Midland League Race Day 1 (11.11.17) – Coventry and Telford
 date: 2017-11-13T08:59:52+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2990
+guid: 2990
 permalink: /2017/11/midland-league-race-day-1-11-11-17-coventry-and-telford/
 categories:
   - Cross Country Reports

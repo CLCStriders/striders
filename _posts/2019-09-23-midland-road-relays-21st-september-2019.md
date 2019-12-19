@@ -4,7 +4,7 @@ title: Midland Road Relays, 21st September 2019
 date: 2019-09-23T09:22:59+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3581
+guid: 3581
 permalink: /2019/09/midland-road-relays-21st-september-2019/
 categories:
   - Race Reports

@@ -4,11 +4,11 @@ title: 'Gloucestershire XC League I, Little Rissington - 15/10/2016'
 date: 2016-10-20T18:38:16+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2487
+guid: 2487
 permalink: /2016/10/gloucestershire-xc-league-i-little-rissington-15102016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 
 ---

@@ -4,7 +4,7 @@ title: 'Midland League Country Cross Country Race 3,  Cofton Park, 13.1.18'
 date: 2018-01-14T17:38:52+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3031
+guid: 3031
 permalink: /2018/01/midland-league-country-cross-country-race-3-cofton-park-13-1-18/
 categories:
   - Cross Country Reports

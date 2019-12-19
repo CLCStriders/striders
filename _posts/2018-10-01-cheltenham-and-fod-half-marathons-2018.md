@@ -4,7 +4,7 @@ title: Cheltenham and FoD Half Marathons – 2018
 date: 2018-10-01T12:30:15+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3238
+guid: 3238
 permalink: /2018/10/cheltenham-and-fod-half-marathons-2018/
 categories:
   - Road Reports

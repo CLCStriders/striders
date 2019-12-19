@@ -8,7 +8,7 @@ permalink: /2011/02/The-Gloucsetershire-XC-League-5-February-2011/
 ---
 **Glos Cross Country League 05 February 2011**
 
-**<a name="report"></a>**</p> 
+ </p> 
 
 **Report**
 

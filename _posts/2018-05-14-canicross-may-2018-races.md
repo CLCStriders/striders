@@ -4,7 +4,7 @@ title: 'Canicross: May 2018 races'
 date: 2018-05-14T09:37:12+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3141
+guid: 3141
 permalink: /2018/05/canicross-may-2018-races/
 categories:
   - Race Reports

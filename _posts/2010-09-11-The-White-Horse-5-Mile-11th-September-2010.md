@@ -20,7 +20,7 @@ permalink: /2010/09/The-White-Horse-5-Mile-11th-September-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 Chris Hale aka GPS smashed the 30 mins barrier, beating the club V40 record, completing the race in 29:40. Chris was the first V40 home, in 4th place overall at the Whitehorse 5 mile race.
 

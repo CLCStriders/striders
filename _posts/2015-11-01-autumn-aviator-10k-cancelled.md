@@ -4,7 +4,7 @@ title: Autumn Aviator 10k Cancelled
 date: 2015-11-01T20:00:27+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1666
+guid: 1666
 permalink: /2015/11/autumn-aviator-10k-cancelled/
 categories:
   - Events

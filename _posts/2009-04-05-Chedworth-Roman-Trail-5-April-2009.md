@@ -14,7 +14,7 @@ Darren Milne ran the 10-mile Chedworth Roman Trail on Sunday 5th April. Conditio
 
 It really is a good (but challening) run and Darren suggests we run it with club team next year!
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 Click <a href="http://www.cirencester-ac.org.uk/pdf/results/chedworth2009results.pdf " target="_blank" rel="nofollow">here</a>for the results
 

@@ -8,7 +8,7 @@ permalink: /2009/03/4K-Cross-Country-Champs-28-March-2009/
 ---
 **County 4k Cross Country Championships 28 March2009**
 
-**<a name="Report"></a>**
+ 
 
 **Report**</p> 
 
@@ -20,7 +20,7 @@ Congratulations. Kindest Regards
 
 Bren
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

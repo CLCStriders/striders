@@ -4,7 +4,7 @@ title: 'Cordoba Half Marathon - 29/11/2015'
 date: 2015-12-06T19:30:17+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1719
+guid: 1719
 permalink: /2015/12/cordoba-half-marathon-29th-november-2015/
 categories:
   - Race Reports

@@ -8,7 +8,7 @@ permalink: /2009/03/White-Horse-4-mile-21-March-2009/
 ---
 **The White Horse 4 Mile Grocery Run 21 March 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 CLC Striders had a very successful day at the Gloucester Grocery 4 mile road race held at Sandhurst village near Gloucester.
 
@@ -22,7 +22,7 @@ Kindest Regards.
 
 Bren
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 **Route**</p> 
 

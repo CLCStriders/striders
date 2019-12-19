@@ -4,7 +4,7 @@ title: Midland Cross Country Leagues, Race Day 2, Sat 1 December 2018
 date: 2018-12-03T10:14:53+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3276
+guid: 3276
 permalink: /2018/12/midland-cross-country-leagues-race-day-2-sat-1-december-2018/
 categories:
   - Cross Country Reports

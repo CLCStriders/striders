@@ -4,7 +4,7 @@ title: County Championships – 9th January 2016
 date: 2016-01-15T14:38:35+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1830
+guid: 1830
 permalink: /2016/01/county-championships-9th-january-2016/
 categories:
   - Cross Country Reports

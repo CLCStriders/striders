@@ -20,7 +20,7 @@ permalink: /2009/05/Brewer-Track-Games-25-May-2009/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 The Brewer games held at the prince of wales stadium produced some great results for the three CLC striders who took part. Will Ferguson won the 800 metres in a club record time of 2.09.5, closely followed by Phil Jowett in 4th place running a superb 2.14.3, to smash his previous v40 personal best by over 3 seconds, and he also set a new club V40 record to boot. 
 

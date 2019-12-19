@@ -8,14 +8,14 @@ permalink: /2010/04/The-Sheffield-Half-Marathon-25-April-2010-/
 ---
 **The Sheffield Half Marathon 25 April 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
 The Sheffield half marathon is one of the biggest participation events in Sheffield?s sporting calendar, with city centre landmarks and roads lined with enthusiastic spectators, who were bathed in the warmer than usual weather. The warm weather didn't prevent Chris from running a great race on this hilly course, and his strong performance gianed him a great time of 1:23:35 in 59th place. Well done Chris!  
 Brendan 
 
-<a name="Report"></a>**Results**</p> 
+**Results**</p> 
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

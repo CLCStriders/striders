@@ -1,13 +1,9 @@
 ---
-
 title: 'Wilmslow Half Marathon - 03/04/2016'
-date: 2016-04-10T17:54:46+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2082
-permalink: /2016/04/wilmslow-half-marathon-03042016/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
 ---

@@ -4,7 +4,7 @@ title: 'Staverton 10 - Residents Info'
 date: 2017-01-19T12:56:55+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1862
+guid: 1862
 permalink: /2017/01/staverton-10-residents-info/
 categories:
   - Events

@@ -18,7 +18,7 @@ Bren, Club Chairman
 
 _&#8220;Bren ran a strong and relaxed race to come home in 5th place against an impressive field - setting a very good standard for the V45 10k club record on a hilly 10K course. Good to see Dodgy has still got what it takes - welcome back to competitive racing&#8221;_ Jowster, Dodgy's web master
 
-<a name="Report"></a><a name="Results"></a>
+
 
 **Results**
 

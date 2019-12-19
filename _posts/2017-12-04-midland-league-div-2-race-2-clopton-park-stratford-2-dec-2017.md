@@ -4,7 +4,7 @@ title: Midland League Div 2 Race 2, Clopton Park, Stratford, 2 Dec 2017
 date: 2017-12-04T09:40:19+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3015
+guid: 3015
 permalink: /2017/12/midland-league-div-2-race-2-clopton-park-stratford-2-dec-2017/
 categories:
   - Cross Country Reports

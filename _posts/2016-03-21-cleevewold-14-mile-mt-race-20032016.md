@@ -4,7 +4,7 @@ title: 'Cleevewold 14 Mile MT Race - 20/03/2016'
 date: 2016-03-21T17:00:34+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2064
+guid: 2064
 permalink: /2016/03/cleevewold-14-mile-mt-race-20032016/
 categories:
   - Race Reports

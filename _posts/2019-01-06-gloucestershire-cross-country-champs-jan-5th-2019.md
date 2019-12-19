@@ -4,7 +4,7 @@ title: Gloucestershire Cross Country Champs, Jan 5th, 2019
 date: 2019-01-06T20:32:23+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3287
+guid: 3287
 permalink: /2019/01/gloucestershire-cross-country-champs-jan-5th-2019/
 categories:
   - Cross Country Reports

@@ -20,7 +20,7 @@ permalink: /2010/10/The-Snowdonia-Marathon-30-October-2010/
   </tr>
 </table>
 
-**<a name="Results"><a name="Report"></a>Report</a>**</p> 
+**<a name="Results">Report</a>**</p> 
 
 <a name="_GoBack"></a>Torrential rain and hail storms greeted the 1600 competitors of the 28<sup>th</sup>Snowdonia Marathon which follows a demanding and spectacular route encirclingSnowdon. 2 CLC Striders lined up to take part in this notoriously tough road marathon (and both making their marathon debut!).</p> 
 
@@ -28,7 +28,7 @@ Having been plagued with injury throughout his training Barney Bamford ran an ex
 
 This is a fantastic event, with a cracking atmosphere and local support along the route and comes highly recommended. 
 
-<a name="Results"><a name="Report"></a><a name="Results"></a><b>Results</b></p> 
+<a name="Results"><b>Results</b></p> 
 
 <p>
   </a>

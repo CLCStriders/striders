@@ -4,7 +4,7 @@ title: June into July – inc. Aztec 5k and Frampton 10k
 date: 2017-07-04T08:09:01+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2813
+guid: 2813
 permalink: /2017/07/june-into-july-inc-aztec-5k-and-frampton-10k/
 categories:
   - Race Reports

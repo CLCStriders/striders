@@ -4,11 +4,11 @@ title: 'Gloucestershire County Cross Country Championships - Old Down 07/01/2017
 date: 2017-01-15T16:06:59+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2558
+guid: 2558
 permalink: /2017/01/gloucestershire-county-cross-country-championships-old-down-07012016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 A small group of Striders competed in the County Championships last Saturday.   This year the event moved to a hilly and challenging course  at Old Down Park near Bristol, having previously been held for two consecutive years in the Forest of Dean,

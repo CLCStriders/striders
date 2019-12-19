@@ -4,7 +4,7 @@ title: Second Midsummer Open; last Cheltenham Parkrun on current course; and Chi
 date: 2017-07-17T21:11:48+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2855
+guid: 2855
 permalink: /2017/07/second-midsummer-open-12-7-17-last-cheltenham-parkrun-on-its-current-course-and-the-chiltern-challenge-ultra/
 categories:
   - Cross Country Reports

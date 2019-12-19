@@ -6,13 +6,13 @@ excerpt: '<p>Nathan and Rich Dare had a great race in the Bridge Inn 5k at Brist
 layout: post
 permalink: /2009/09/The-Bridge-Inn-5k-29-Sept-2009/
 ---
-**The Bristol Bridge Inn 5k 29****September 2009**
+**The Bristol Bridge Inn 5k 29 September 2009**
 
 <!-- 
 
 <p>-->
 
-**<a name="Report"></a>**
+ 
 
 **Report**</p> 
 
@@ -24,7 +24,7 @@ At the final 1k Dare began to fight back and slowly reeled in the gap Nathan had
 
 It had been a tough battle but he?d won this one, yet the war is far from over and we look forward to the next installment.
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col span="2"> <col> <col> <col> 

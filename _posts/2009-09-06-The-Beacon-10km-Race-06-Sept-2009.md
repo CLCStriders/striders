@@ -8,7 +8,7 @@ permalink: /2009/09/The-Beacon-10km-Race-06-Sept-2009/
 ---
 **The Beacon 10k Race 06 Sept 2009**
 
-**<a name="Report"><a name="Report"></a>Report</a>**</p> 
+**<a name="Report">Report</a>**</p> 
 
 CLC Striders had 7 Runners Competing in the Beacon 10k on Sunday 6th September 2009. This is an undulating course held over a very scenic route and is one single loop.
 

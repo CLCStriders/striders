@@ -13,6 +13,6 @@ In in their first fun run Evan Hale(junior GPS) and Justine Hale had a magnifice
 A great run AGAIN by all the Striders,  
 Chris Hale
 
-**<a name="Results"></a>Results  
+**Results  
 **  
 Chris Hale 1hr 19.34 Jon Howes 1hr 28.50 Rich mann 1hr 30.10 Paul Smith 1hr 40.03 Mark Smith 1hr 43.32 Nikki Smith 1hr 42.55 Helen Howes 1hr 48.48 Jo Bryant 1hr 51.19 Dawn Addinall 2hr 03.42

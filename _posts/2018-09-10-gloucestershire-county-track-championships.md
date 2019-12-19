@@ -4,7 +4,7 @@ title: Gloucestershire County Track Championships
 date: 2018-09-10T08:39:21+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3229
+guid: 3229
 permalink: /2018/09/gloucestershire-county-track-championships/
 categories:
   - Road Reports

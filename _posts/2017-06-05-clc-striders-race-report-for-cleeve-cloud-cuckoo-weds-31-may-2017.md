@@ -4,7 +4,7 @@ title: CLC Striders Race report for Cleeve Cloud Cuckoo – Weds 31 May 2017
 date: 2017-06-05T16:33:20+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2795
+guid: 2795
 permalink: /2017/06/clc-striders-race-report-for-cleeve-cloud-cuckoo-weds-31-may-2017/
 categories:
   - Cross Country Reports

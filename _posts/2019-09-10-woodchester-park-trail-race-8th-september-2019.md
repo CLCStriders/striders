@@ -4,7 +4,7 @@ title: Woodchester Park Trail Race 8th September 2019
 date: 2019-09-10T10:28:10+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3568
+guid: 3568
 permalink: /2019/09/woodchester-park-trail-race-8th-september-2019/
 categories:
   - Cross Country Reports

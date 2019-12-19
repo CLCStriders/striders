@@ -7,13 +7,13 @@ permalink: /0000/00/Unofficial-Boddington-10K--5-April-2009/
 ---
 **The Unofficial Boddington 10k Time Trial 05 April 2009**
 
-**<a name="Report"></a>**
+ 
 
 **Report**</p> 
 
 Bren and Riz did a 10k time trial today Sunday 5th April at Boddington village. Dodgy Bren ran 36.36, and Riz ran 40.40 Conditions were very good to run in, and the course is totally flat and accurate 🙂
 
-<a name="Report"></a>**Results**
+**Results**
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

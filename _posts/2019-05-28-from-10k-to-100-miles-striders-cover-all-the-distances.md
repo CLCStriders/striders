@@ -4,7 +4,7 @@ title: From 10k to 100 miles, Striders cover all the distances
 date: 2019-05-28T09:49:08+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3488
+guid: 3488
 permalink: /2019/05/from-10k-to-100-miles-striders-cover-all-the-distances/
 categories:
   - Race Reports

@@ -4,7 +4,7 @@ title: 'On the road again: Bristol and Berkeley 10k races'
 date: 2018-05-15T09:38:32+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3144
+guid: 3144
 permalink: /2018/05/on-the-road-again-bristol-and-berkeley-10k-races/
 categories:
   - Race Reports

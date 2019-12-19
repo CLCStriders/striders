@@ -4,7 +4,7 @@ title: CLC Striders Race report for 20 – 21 May 2017
 date: 2017-05-23T08:38:44+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2760
+guid: 2760
 permalink: /2017/05/clc-striders-race-report-for-20-21-may-2017/
 categories:
   - Race Reports

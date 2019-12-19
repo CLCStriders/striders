@@ -6,7 +6,7 @@ excerpt: '<p>On Sunday 6 February Laura Kent (photo), Nicholas Von Benzon and Ji
 layout: post
 permalink: /2011/02/The-Mayhill-Massacre-6-February-2011/
 ---
-**The****Mayhill Massacre 6 February 2011**
+**The Mayhill Massacre 6 February 2011**
 
 **Report**
 

@@ -4,11 +4,11 @@ title: CLC Striders Race report for 29 April – 1 May 2017
 date: 2017-05-02T22:46:34+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2718
+guid: 2718
 permalink: /2017/05/clc-striders-race-report-for-29-april-1-may-2017/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
   - Road Reports
   - Track Reports

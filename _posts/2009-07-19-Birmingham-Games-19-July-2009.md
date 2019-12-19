@@ -8,7 +8,7 @@ permalink: /2009/07/Birmingham-Games-19-July-2009/
 ---
 **The Birmingham Games 19 July 2009**</p> 
 
-**<a name="Results"><a name="Report"></a>Report</a>**
+**<a name="Results">Report</a>**
 
 CLC Striders competed in the Birmingham Games held at the Alexander stadium Birmingham. This is an open athletics meeting which also incorporates the midlands 3000 metre championships men and women.
 

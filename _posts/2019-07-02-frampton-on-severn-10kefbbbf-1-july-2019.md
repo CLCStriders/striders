@@ -4,7 +4,7 @@ title: Frampton on Severn 10k﻿ – 1 July 2019
 date: 2019-07-02T08:38:46+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3521
+guid: 3521
 permalink: '/2019/07/frampton-on-severn-10k%ef%bb%bf-1-july-2019/'
 categories:
   - Race Reports

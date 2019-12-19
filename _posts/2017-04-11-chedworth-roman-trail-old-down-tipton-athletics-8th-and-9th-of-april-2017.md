@@ -4,10 +4,10 @@ title: 'Chedworth Roman Trail, Old Down, Tipton Athletics - 8th and 9th of April
 date: 2017-04-11T08:05:47+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2698
+guid: 2698
 permalink: /2017/04/chedworth-roman-trail-old-down-tipton-athletics-8th-and-9th-of-april-2017/
 categories:
-  - News
+
   - Race Reports
   - Track Reports
 ---

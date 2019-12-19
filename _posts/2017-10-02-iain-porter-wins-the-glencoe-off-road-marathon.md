@@ -4,11 +4,11 @@ title: Iain Porter wins the Glencoe off-road Marathon
 date: 2017-10-02T20:24:39+01:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2952
+guid: 2952
 permalink: /2017/10/iain-porter-wins-the-glencoe-off-road-marathon/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 tags:
   - Glen Coe Marathon

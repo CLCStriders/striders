@@ -4,10 +4,10 @@ title: 'Tribute to former Member Ben Pedley 1991 - 2017'
 date: 2017-04-02T21:13:06+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2689
+guid: 2689
 permalink: /2017/04/tribute-to-former-member-ben-pedley-1991-2017/
 categories:
-  - News
+
 ---
 CLC Striders were saddened to hear that former member, Ben Pedley, had passed away last week.
 

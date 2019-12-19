@@ -4,7 +4,7 @@ title: 'Paul Northup - VLM Update'
 date: 2016-01-10T09:07:24+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=1818
+guid: 1818
 permalink: /2016/01/paul-northup-vlm-update/
 categories:
   - Blog

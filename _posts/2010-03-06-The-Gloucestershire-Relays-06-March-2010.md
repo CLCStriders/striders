@@ -8,7 +8,7 @@ permalink: /2010/03/The-Gloucestershire-Relays-06-March-2010-/
 ---
 **The Gloucestershire County Relays at White Horse 06 March 2010**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 What a great day it was for the Club at the Gloucester Road Relays! The Men did very well to Win the Bronze Medal, and the Women Vets Team did superb to clinch the County Gold Medal.
 
@@ -20,7 +20,7 @@ Special Thanks to Will Joyce who was a guest for the Striders C Team. Well done 
 
 Brendan 
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 Please note that the following pace and speed calculations are based on a 3.15 miles course as this was measured by GPS devices worn during the race (the same measurement as last year);
 

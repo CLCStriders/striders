@@ -4,11 +4,11 @@ title: 'MWCCL and BCCL, Stratford-upon-Avon - 03/12/2016'
 date: 2016-12-04T17:53:47+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2525
+guid: 2525
 permalink: /2016/12/mwccl-and-bccl-stratford-upon-avon-03122016/
 categories:
   - Cross Country Reports
-  - News
+
   - Race Reports
 ---
 CLC Striders ladies (pictured ) performed superbly at Stratford on Saturday in the second of four Midland Cross Country League Division 2 fixtures  on a very hilly and testing course.

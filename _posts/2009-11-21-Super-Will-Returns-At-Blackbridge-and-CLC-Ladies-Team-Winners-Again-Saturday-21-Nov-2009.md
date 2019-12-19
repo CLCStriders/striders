@@ -7,7 +7,7 @@ permalink: /0000/00/Super-Will-Returns-At-Blackbridge-and-CLC--Ladies-Team-Winne
 ---
 **The Gloucestershire Cross Country League at Blackbridge - 11 November 2009**
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 Will Ferguson finished an excellent 4th place in the 2nd Gloucestershire Cross Country League Fixture of the season held at Crypt School, Gloucester. Ferguson who is Studying at Imperial College London had a break from his studies to support his Club. Ben Pedley followed Ferguson Home with a fine 32nd Place, Rich Dare was next in 36th, Wayne Usher 54th, Dave Billingham 60th and the Clubs final A Team Scorer was Chris Hale in a solid 62nd place. CLC Striders Men's A Team Finished in 7th Place overall.
 

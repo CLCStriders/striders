@@ -8,7 +8,7 @@ permalink: /2010/04/The-White-Horse-10km-Road-Race-03-April-2010-/
 ---
 **The White Horse 10km Road Race 03 April 2010** </p> 
 
-<a name="Report"></a>
+
 
 **Report**
 
@@ -20,7 +20,7 @@ Thanks again for always giving me memorable moments. Please keep it up!!
 
 Brendan
 
-<a name="Report"></a>**Results**
+**Results**
 
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 

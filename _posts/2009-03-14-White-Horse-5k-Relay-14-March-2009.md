@@ -8,7 +8,7 @@ permalink: /2009/03/White-Horse-5k-Relay-14-March-2009/
 ---
 **The White Horse 3.25 Mile Relay 14 March 2009**< 
 
-**<a name="Report"></a><a name="Report"></a>Report**
+**Report**
 
 Lisa Boyd Ladies club captain, continued her improvement recording a brisk 21.18 leading the team to an impressive third place to take the Bronze medals in the Gloucestershire team relay championships 
 
@@ -22,7 +22,7 @@ Kindest Regards.
 
 Bren
 
-<a name="Report"></a>**<a name="Results"></a>Results**
+**Results**
 
 **Route**</p> 
 

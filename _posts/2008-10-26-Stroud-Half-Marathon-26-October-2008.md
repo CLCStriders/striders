@@ -8,4 +8,4 @@ permalink: /2008/10/Stroud-Half-Marathon-26-October-2008/
 ---
 **Stroud Half Marathon (26 October 2008)**
 
-**<a name="report"></a>Report**
+**Report**

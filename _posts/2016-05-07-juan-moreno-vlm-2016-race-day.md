@@ -4,7 +4,7 @@ title: 'Juan Moreno - VLM 2016 Race Day'
 date: 2016-05-07T20:36:46+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2172
+guid: 2172
 permalink: /2016/05/juan-moreno-vlm-2016-race-day/
 categories:
 

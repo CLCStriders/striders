@@ -4,10 +4,10 @@ title: 'Forest of Dean Parkrun - 09/07/2016'
 date: 2016-07-11T17:58:34+01:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2362
+guid: 2362
 permalink: /2016/07/forest-of-dean-parkrun-09072016/
 categories:
-  - News
+
   - Race Reports
   - Road Reports
 ---

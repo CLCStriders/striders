@@ -4,7 +4,7 @@ title: Glos Cross Country League Race 3, Sat 8 December 2018, Wotton Under Edge
 date: 2018-12-10T09:15:36+00:00
 author: Paul Northup
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=3280
+guid: 3280
 permalink: /2018/12/glos-cross-country-league-race-3-sat-8-december-2018-wotton-under-edge/
 categories:
   - Cross Country Reports
