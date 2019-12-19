@@ -1,20 +1,11 @@
 ---
-
 title: From 10k to 100 miles, Striders cover all the distances
-date: 2019-05-28T09:49:08+01:00
 author: Paul Northup
 layout: post
-guid: 3488
-permalink: /2019/05/from-10k-to-100-miles-striders-cover-all-the-distances/
 categories:
-  - Race Reports
   - Road Reports
-tags:
-  - Birmingham 10k
-  - Edinburgh Marathon
-  - London Vitality 10k
 ---
-Here's a late May race round-up &#8230;
+Here's a late May race round-up
 
 **Chester 100-mile trail ultra-marathon**  
 **Saturday 18 May 2019**
@@ -23,9 +14,11 @@ Tackling an event that was double the distance of anything he'd done before, CLC
 
 The second half of the ultra trail was a whole lot tougher and hillier, but Rob continued to make all the checkpoints within the cut-offs. And then the rain came down as it got darker. This was Rob’s first experience of going through the night, and the fact he was absolutely soaked added an added challenge, especially for his feet. The final 15 to 20 miles back along the river Dee through soaked grass and stinging nettles were extremely tough before coming back onto canal tow-paths for the final stretch. 
 
-Rob was delighted just to complete the gruelling challenge, but to finish inside the top 50 and earn a gold buckle for his efforts made him doubly proud of his achievements. He couldn’t have done it without his running buddy Laura Kearney and Andrew Paterson, who provided race support throughout, including soup and tea in the middle of the night! <figure class="wp-block-image is-resized">
+Rob was delighted just to complete the gruelling challenge, but to finish inside the top 50 and earn a gold buckle for his efforts made him doubly proud of his achievements. He couldn’t have done it without his running buddy Laura Kearney and Andrew Paterson, who provided race support throughout, including soup and tea in the middle of the night!
 
-<img src="/Images/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="" class="wp-image-3491" width="300" height="300" /> <figcaption>Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra</figcaption></figure> 
+<img src="/Images/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra" />
+
+_Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra_
 
 **Edinburgh Marathon  
 Sunday 26th May 2019**
