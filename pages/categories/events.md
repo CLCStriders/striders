@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category
 title: Events Category
 tag: events
 ---
