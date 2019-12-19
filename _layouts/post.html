@@ -29,7 +29,7 @@
             {{ content }}
 
             {% if page.related != false %}
-            <aside>
+            <div class="related-posts">
                 <strong>Related Posts</strong>
                 {% assign maxRelated = 3 %}
                 {% assign minCommonTags = 1 %}
@@ -68,7 +68,7 @@
                     {% endif %}
                     {% endfor %}
                 </ul>
-            </aside>
+            </div>
             {% endif %}
  
         </div>
