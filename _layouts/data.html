@@ -9,17 +9,12 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
             {{ page.content }}
-          
-            <div id="example">
-            <script>$(document).ready(function(){ $('#example').dataTable( { "data": [ {{ site.data.fixtures }} ]; };</script>
-            </div>
-          
+            
             <div id="output_table_div">
                 <script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
-    // {{ site.data.fixtures }}
    url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/{{ page.source }}?v={{ site.cache }}",
    dataType:"text",
    success:function(data)
