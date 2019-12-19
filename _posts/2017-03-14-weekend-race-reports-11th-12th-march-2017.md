@@ -1,14 +1,9 @@
 ---
-
 title: 'Weekend Race Reports: 11th - 12th March 2017'
-date: 2017-03-14T07:52:46+00:00
 author: Chris Driskell
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/?p=2637
-permalink: /2017/03/weekend-race-reports-11th-12th-march-2017/
 categories:
   - Cross Country Reports
-  - News
   - Race Reports
   - Road Reports
 ---
