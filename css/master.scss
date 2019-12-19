@@ -43,10 +43,10 @@ aside {
     font-size: 12px;
 }
 
-header {
-    margin: $margins;
+nav {
     border-bottom: 1px solid $accent_one;
 }
+
 footer {
     margin: $margins;
     border-top: 1px solid $accent_one;
@@ -72,7 +72,6 @@ footer p {
     float: none;
     padding-bottom: 2rem;
     margin-bottom: 1rem;
-    border-top: 1px solid $accent_one;
 }
 	
 h1 a {

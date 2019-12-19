@@ -9,9 +9,9 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
                    {% if page.toc %}
-                      <aside class="float-right">
+                      <aside>
                         <nav class="toc">
-                          <header><strong class="nav__title"> {{ page.toc_label | default: "Contents" }}</strong></header>
+                          <strong class="nav_title"> {{ page.toc_label | default: "Contents" }}</strong>
                           {% include toc.html sanitize=true html=content h_min=2 h_max=5 class="toc__menu" %}
                         </nav>
                       </aside>
