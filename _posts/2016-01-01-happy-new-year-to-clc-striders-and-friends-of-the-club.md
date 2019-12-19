@@ -3,7 +3,6 @@ title: 'Happy New Year to CLC Striders and friends of the club'
 author: Chris Driskell
 layout: post
 categories:
-  - Announcements
   - Training
 ---
 Normal club training sessions will resume on Monday 4th January 2016.
