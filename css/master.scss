@@ -36,12 +36,17 @@ body {
 }
 
 aside {
-    border: 1px solid $accent_two;
+    float: right;
+    border: 1px solid $accent_one;
     padding: 1rem;
     display: inline-block;
     font-size: 12px;
 }
 
+header {
+    margin: $margins;
+    border-bottom: 1px solid $accent_one;
+}
 footer {
     margin: $margins;
     border-top: 1px solid $accent_one;
@@ -117,4 +122,10 @@ a.skip-main:focus, a.skip-main:active {
 		margin-inline-end:0px;
 		margin-inline-start:0px;
 	 }	
+
+    aside {
+        float:none;
+        clear:both;
+        width:100%;
+    }
 }

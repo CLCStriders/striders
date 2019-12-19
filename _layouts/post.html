@@ -7,11 +7,10 @@
   <body>
       <div class="container">
         {% include header.html %}
-          <div class="container">
-             
+        <div class="container">
             <div class="postHeader">
                 <span class="float-left">
-                     <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
+                    <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
                 </span> 
                 <span class="post-date float-right">
                     <em>{{ page.date | date: "%-d %B %Y" }}</em>  
@@ -20,31 +19,33 @@
                 <h2>{{ page.title }}</h2>
                 <span class="read-time" title="Estimated read time"><small>
                     <em>{% assign words = content | number_of_words %}
-                       approx {% if words < 360 %} 1 min read. 
-                              {% else %} {{ words | divided_by:180 }} mins read. 
-                              {% endif %} 
+                        approx {% if words < 360 %} 1 min read. 
+                        {% else %} {{ words | divided_by:180 }} mins read. 
+                        {% endif %} 
                     </em> 
-                 </small></span>
-           </div>
+                </small></span>
+            </div>
            
             {{ content }}
             
-            {% unless page.category == null %}
-              {% capture pageCategory %}{{ page.category }}{% endcapture %}
-              {% unless site.categories[pageCategory].size == 1 %}
+            <aside>
+                {% unless page.category == null %}
+                {% capture pageCategory %}{{ page.category }}{% endcapture %}
+                {% unless site.categories[pageCategory].size == 1 %}
                 <div class="row related-posts">
-                  <h2>More {{ page.category }} Posts!</h2>
-                  <ul class="medium-12 small-12 columns">
-                    {% for post in site.categories[pageCategory] limit:6 %}
-                      {% unless post.title == page.title %}
-                       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
-                      {% endunless %}
-                    {% endfor %}
-                  </ul>
+                    <h2>More {{ page.category }} Posts!</h2>
+                    <ul class="medium-12 small-12 columns">
+                        {% for post in site.categories[pageCategory] limit:6 %}
+                        {% unless post.title == page.title %}
+                        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></li>
+                        {% endunless %}
+                        {% endfor %}
+                    </ul>
                 </div>
-              {% endunless %}
-            {% endunless %}
-          </div>
+                {% endunless %}
+                {% endunless %}
+            </aside>
+        </div>
       {% include footer.html %}
     </div>
   </body>
