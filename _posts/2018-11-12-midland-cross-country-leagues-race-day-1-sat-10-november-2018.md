@@ -18,7 +18,7 @@ In their first fixture in Division 1 of the Midland League, after securing promo
 
 <img src="/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg" alt="Ladies-Counden-Park-Coventry-10.11.18"/>](/Images/2018/11/Ladies-Counden-Park-Coventry-10.11.18.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>The ladies, left L to R: Laura Fletcher, Nicola Weager, Rachel Vines, Helen Knight, Karlien Heyrman, Amelia Mullins and Cerys Jones</em>
 </p>
 

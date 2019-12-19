@@ -25,6 +25,6 @@ Meanwhile, **Betty** the border terrier and her owner **Andrew Paterson** were i
 
 <img src="/Images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg" alt="26055902_10156468766895656_1733296786069970179_n" width="800" height="800" />](/Images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured: Andrew Paterson carrying Betty through one of the tunnels on the Seven Sins course as part of the Canicross event.</em>
 </p>

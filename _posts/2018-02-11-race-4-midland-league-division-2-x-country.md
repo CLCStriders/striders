@@ -24,7 +24,7 @@ Outstanding team achievement of the day and season belonged to the women, earnin
 
 <img src="/Images/2018/02/Ladies-Wolverhampton-2.jpg" alt="Ladies-Wolverhampton-2"/>](/Images/2018/02/Ladies-Wolverhampton-2.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>CLC Ladies. Pictured, left to right: Amelia Mullins, Nicola Weager, Cerys Jones, Laura Fletcher, Jill Hooper, Amanda Steer, Helen Knight and Karlien Heyrman.</em>
 </p>
 
@@ -40,7 +40,7 @@ Meanwhile, closer to home, the men battled it out in their own race, held at Ull
 
 <img src="/Images/2018/02/Men-Ullenwood.jpg" alt="Men-Ullenwood"/>](/Images/2018/02/Men-Ullenwood.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>CLC Men. Back row left to right: Ton Fletcher, Jon Howes, Kyle Sollars, Chris Thomas, Eoin McQuone, Neil Broadbent, Mike Crossley, Will Ferguson, Andrew Gage, John Willson, Andrew Paterson, Tom Vickers. Front row, left to right: Tom Kabala, Ben Akif, coach Brendan Ward, Martin Bick, Gareth Harries and Joel Freeland</em>
 </p>
 

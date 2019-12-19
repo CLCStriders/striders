@@ -14,7 +14,7 @@ Cheltenham Harriers’ third Mid-Summer Open meet at The Prince Of Wales Stadium
 
 <img src="/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg" alt="37390386_10216743281878592_243792574333059072_n"/>](/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em><span lang="EN-US">From left to right: Gareth Harries, Paul Lockyer, Andrew Gage, Nicola Weager and Mike Speke</span></em>
 </p>
 

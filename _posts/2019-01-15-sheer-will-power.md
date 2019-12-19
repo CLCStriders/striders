@@ -21,7 +21,7 @@ On a balmy January afternoon CLC Striders ladies and men’s team travelled up t
 
 <img src="/Images/2019/01/Will-F-12-1-19.jpg" alt="Will-F-12-1-19"/>
 
-<p style="text-align: right;">
+<p>
   <em>Pictured – <strong>Will Ferguson</strong>, powering his way home to a first-place finish in the men’s Division 2 Race.</em>
 </p>
 
@@ -33,7 +33,7 @@ The other CLC men’s finishers were **Paul Lockyer** in 113<sup>th </sup>place,
 
 <img src="/Images/2019/01/Ladies-Race-Day-3-12.01.19.jpg" alt="Ladies-Race-Day-3-12.01.19"/>
 
-<p style="text-align: right;">
+<p>
   <em>Pictured (from left to right) – <strong>Karlien Heyrman, Rachel Vines</strong> and <strong>Helen Knight</strong> – the first three lady finishers for CLC Striders on the day.</em>
 </p>
 

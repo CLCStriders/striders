@@ -18,7 +18,7 @@ On a cold and grey Saturday afternoon, CLC Striders Ladies and Men’s teams mad
 
 <img src="/Images/2018/01/Karlien-Cofton.jpg" alt="Karlien-Cofton" width="800" height="1200" />](/Images/2018/01/Karlien-Cofton.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured: Karlien Heyrman</em>
 </p>
 
@@ -31,7 +31,7 @@ After cheering on their team-mates, it was then the turn of the men, who had tur
 
 <img src="/Images/2018/01/Men-at-Cofton-2.jpg" alt="Men-at-Cofton-2"/>](/Images/2018/01/Men-at-Cofton-2.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured, back row, left to right: Iain Porter, Joel Freeland, Will Ferguson, Will Pearce, James Gibbs, JJ Willson, Chris Tomas, Paul Northup, Paul Lockyer, Tom Vickers, Javid Norat. Front row, left to right: Adam Fisher, Martin Bick, Coach Brendon Ward, Tom Kabala, Andrew Gage, Mark Fuller, Tom Fletcher</em>
 </p>
 

@@ -40,7 +40,7 @@ On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford
 
 <img src="/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n"/>](/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Left to right: Janet Mustoe, Helen Knight, Nicola Weager, Gordon Bendall, Martin Bick, Kyle Sollars, Andrew Gage</em>
 </p>
 

@@ -23,7 +23,7 @@ Sophie Longmore finished in 58<sup>th </sup>place, super vet David James in 61<
 
 <img src="/Images/2018/12/Men-Wotton-8.12.18.jpg" alt="Men-Wotton-8.12.18" width="800" height="583" />](/Images/2018/12/Men-Wotton-8.12.18.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>The CLC Men at Wotton, from left to right: Eoin McQuone, Clark Lawson, Juan Moreno-Elias, Paul Lockyer, Tom Fletcher, Tom Kabala and Hedley Phillips</em>
 </p>
 

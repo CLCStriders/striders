@@ -31,7 +31,7 @@ Next it was the turn of the men. With many runners unavailable, it was some of t
 
 <img src="/Images/2018/02/Tom-Fletcher-2-17.2.18.jpg" alt="Tom-Fletcher-2-17.2.18" width="640" height="960" />
 
-<p style="text-align: right;">
+<p>
   <em>Pictured: Tom Fletcher, the club’s leading male runner on the day.</em>
 </p>
 

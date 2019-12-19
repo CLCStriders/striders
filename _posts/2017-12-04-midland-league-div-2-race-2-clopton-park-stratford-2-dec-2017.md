@@ -22,7 +22,7 @@ On a grey, drizzly and misty afternoon, both teams battled hard to win some hard
 
 <img src="/Images/2017/12/Ladies-Clopton-better-resolution.jpg" alt="Ladies-Clopton-better resolution" width="800" height="550" />](/Images/2017/12/Ladies-Clopton-better-resolution.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured, left to right: Cerys Jones, Jill Hooper, Laura Fletcher, Helen Knight, Amelia Mullins, Patricia Sturgess, Nicola Weager, Amanda Steer, Emma Abbey, Karlien Heyrman.</em>
 </p>
 
@@ -34,7 +34,7 @@ Overall, the CLC Ladies maintained their impressive 3<sup>rd</sup> position in t
 
 <img src="/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg" alt="Mens-Team-better-resolution-Clopton" width="800" height="576" />](/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured, left to right: Back row – Paul Northup, Will Ferguson, Iain Porter, Bradley Coates, Paul Lockyer, Charles Goodwin, Tom Vickers, Martin Bick, Andrew Gage; Front row – Kyle Sollars, Mark Fuller, JJ Willson, coach Brendon Ward, Tom Fletcher and Javid Norat.</em>
 </p>
 

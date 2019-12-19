@@ -32,6 +32,6 @@ The ladies finished 13<sup>th </sup>on the day and stay 13<sup>th </sup>overal
 
 <img src="/Images/2018/12/LAdies-1-dec-2018.jpg" alt="LAdies-1-dec-2018" width="800" height="533" />](/Images/2018/12/LAdies-1-dec-2018.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>The ladies top four finishers (left to right: Rachel Vines, Helen Knight, Karlien Heyrman and Amanda Steer), with club coach Brendan Ward</em>
 </p>

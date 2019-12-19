@@ -19,7 +19,7 @@ On a very cold January morning, with the hills around Cheltenham covered with sn
 
 The first three club runners home have all been training together for the London marathon and those miles paid dividends. **Jon Howes** turned in a stellar performance, finishing in 16<sup>th</sup> place as the 3<sup>rd</sup> MV40 in 29:36. He was followed home by **Mark Fuller** in 19<sup>th</sup> place in 29:50, and **Paul Northup** in 29<sup>th</sup> in 29:53 as the 3<sup>rd</sup> MV50 finisher (breaking his own club record for the distance). All three bagged PBs, finishing in under 30 minutes.
 
-<p style="text-align: right;">
+<p>
   <a href="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg"><img src="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg" alt="Jon-Howes-finishing-Linda-Franks" width="800" height="533" /></a><br /> <em>Pictured: Jon Howes finishes in 16<sup>th</sup> place as the 3<sup>rd</sup> MV40 in a time of 29:36.</em>
 </p>
 

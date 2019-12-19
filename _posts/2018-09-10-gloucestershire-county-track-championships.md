@@ -26,7 +26,7 @@ The last track meeting of the season saw Striders having some fun and breaking c
 
 <img src="/Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg" alt="Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs"  />](/Images/2018/09/Ameila-Mullins-Nicola-Weager-Glos-County-Track-Champs.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Amelia Mullins and Nicola Weager – winners in their age categories in The Mile</em>
 </p>
 
@@ -38,7 +38,7 @@ Over the longer track distance of 10,000m, **Helen Knight **clocked 42.07.6 in 
 
 <img src="/Images/2018/09/Mens-Team-Sept-2018-4x100.jpg" alt="Mens-Team-Sept-2018-4x100"/>](/Images/2018/09/Mens-Team-Sept-2018-4x100.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>The men’s 4 x 100m relay team – left to right: Jon Howes, Eoin McQuone, Mike Speke, Paul Lockyer</em>
 </p>
 
@@ -51,7 +51,7 @@ Flying the Striders flag at the Great North, Tom Kabala finished some way behind
 
 <img src="/Images/2018/09/Tom-Kabala-Great-North-Run-2018.jpg" alt="Tom-Kabala-Great-North-Run-2018"  />](/Images/2018/09/Tom-Kabala-Great-North-Run-2018.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Tom Kabala at The Great North Run</em>
 </p>
 

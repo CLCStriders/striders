@@ -17,7 +17,7 @@ On a bright and breezy afternoon last weekend, CLC athletes competed in the seco
 
 <img src="/Images/2017/11/23131781_1954877161195126_8209758349590114362_n.jpg" alt="23131781_1954877161195126_8209758349590114362_n" width="850" height="478" />](/Images/2017/11/23131781_1954877161195126_8209758349590114362_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Left to right: Sandy Benchetrit, Laura Fletcher, Helen Knight, Amy Underdown, Karlien Heyrman, Amanda Steer, Patricia Sturgess, Cerys Jones, Natalie Burfitt, Nicola Weager, Jill Harsent, Emma Abbey</em>
 </p>
 
@@ -31,7 +31,7 @@ Also running over the ladies distance, **David James** bagged a top three finish
 
 <img src="/Images/2017/11/23130535_10155730837847357_5049628059972155184_n.jpg" alt="23130535_10155730837847357_5049628059972155184_n" width="850" height="638" />](/Images/2017/11/23130535_10155730837847357_5049628059972155184_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Left to right: Stuart Barr, Charles Goodwin, Andrew Gage, Iain Porter, Joel Freeland, Martin Bick</em>
 </p>
 

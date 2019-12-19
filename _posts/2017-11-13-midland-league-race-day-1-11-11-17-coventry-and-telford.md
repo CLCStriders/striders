@@ -19,7 +19,7 @@ Armistice Day saw CLC Striders venturing further afield to compete in the first 
 
 <img src="/Images/2017/11/Ladies-Coventry.jpg" alt="Ladies-Coventry"/>](/Images/2017/11/Ladies-Coventry.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Left to right: Cerys Jones, Patricia Sturgess, Laura Fletcher, Jill Hooper, Nicola Weager, Amanda Steer, Helen Knight, Karlien Heyrman</em>
 </p>
 
@@ -31,7 +31,7 @@ Once again, the CLC ladies signalled a clear mark of intent for the season in th
 
 <img src="/Images/2017/11/Men-Telford.jpg" alt="Men-Telford"/>](/Images/2017/11/Men-Telford.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Back row, left to right: Gareth Harries, Jon Howes, Tom Kabala, Javid Norat, Greg Chilton, Will Ferguson, Iain Porter, Mark Fuller, John Willson, Paul Lockyer. Front row, left to right: Andrew Gage, Thomas Fletcher, Chris Thomas, coach Brendon Ward, Martin Bick, Kyle Sollars</em>
 </p>
 

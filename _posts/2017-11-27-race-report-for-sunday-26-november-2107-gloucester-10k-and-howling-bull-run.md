@@ -20,7 +20,7 @@ A bitterly cold last Sunday in November saw CLC Striders athletes competing in G
 
 <img src="/Images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg" alt="23915689_1979954408687401_1744811162915210988_n"/>](/Images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg)
 
-<p style="text-align: right;">
+<p>
   <em>Pictured from left to right: Mike Speke, Sarah Wilson, Kyle Sollars, Alex, Martin Bick and Andrew Gage. Missing from the photo but also representing CLC on the day was Bradley Coates.</em>
 </p>
 
