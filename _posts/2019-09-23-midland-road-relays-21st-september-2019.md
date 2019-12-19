@@ -1,19 +1,11 @@
 ---
-
 title: Midland Road Relays, 21st September 2019
-date: 2019-09-23T09:22:59+01:00
 author: Paul Northup
 layout: post
-
-permalink: /2019/09/midland-road-relays-21st-september-2019/
 categories:
-  - Race Reports
   - Road Reports
-tags:
-  - Midland Road Relays
----
+  ---
  
-
 On a gloriously sunny late September day, nine CLC Striders ladies travelled to Sutton Park in Birmingham for the Midland area autumn Road Relays. 
 
 The race consisted of four 4.33km (2.7 mile) laps on undulating tarmac paths through the park, providing a rare chance for the club's runners to test their mettle against some of the top athletes from across the country.&nbsp;
