@@ -9,7 +9,8 @@ As the tail-end of Storm Eric blew through, CLC athletes made their last trips a
 
 The ladies travelled south to Cattle Country to a Division One race hosted by Gloucester AC and made even more challenging by last-minute changes to the course in order to avoid the overnight flooding experienced in the south of the county.
 
-<img src="/Images/2019/02/Ladies-9.2.19.jpg" alt="Ladies-9.2.19"  >
+<img src="/Images/2019/02/Ladies-9.2.19.jpg" alt="Ladies-9.2.19"/>
+
 _The ladies at Cattle Country (complete with comedy signage), from left to right: Becky Reynolds, Rachel Vines, Helen Knight, Amanda Steer, Cerys Jones and Amelia Mullins._ 
 
 Across a very muddy course, the ladies were led home by the consistently strong **Helen Knight**, in 60<sup>th </sup>place overall as the 14<sup>th </sup>master in a time of 35:44. She was followed by **Rachel Vines **who has made incredible strides across the season, finishing in 67<sup>th </sup>overall as the 18<sup>th </sup>master in 36:19. Road specialist **Rachael Cary **came 72<sup>nd </sup>overall and 20<sup>th </sup>master in 36:40 and **Amelia Mullins **bagged 75<sup>th </sup>spot and 22<sup>nd </sup>master in 36:57.
