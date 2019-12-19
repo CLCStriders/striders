@@ -1,5 +1,5 @@
 ---
-title: Christmas Training Schedule
+title: Christmas Training Schedule - 2019
 layout: post
 categories:
   - Training
