@@ -3,7 +3,6 @@ title: Autumn/Winter Training
 author: Charlie Haward
 layout: post
 categories:
-  - Announcements
   - Training
 ---
 With the arrival of darker evenings, we're back to running the winter routes on Mondays and training on the Honeybourne Line on Wednesdays. 
