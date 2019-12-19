@@ -25,11 +25,12 @@ On the same first of September morning, three Striders travelled north to race i
 **Meteor Mile  
 Saturday August 31st**
 
-The annual Meteor Mile was run on the runway at Staverton airport under a setting sun on a fine and dry end-of-August evening. Fast and flat, five Striders clocked good times on the night. **Amelia Mullins** was the first club finisher in a fast 6:15, **Mike Speke** ran a PB of 6:18, **Andrew Gage** clocked 6:25, **Nicola Weager** finished in 6:32, and **David James** set a new club MV65 record in 6:44. <figure class="wp-block-image">
+The annual Meteor Mile was run on the runway at Staverton airport under a setting sun on a fine and dry end-of-August evening. Fast and flat, five Striders clocked good times on the night. **Amelia Mullins** was the first club finisher in a fast 6:15, **Mike Speke** ran a PB of 6:18, **Andrew Gage** clocked 6:25, **Nicola Weager** finished in 6:32, and **David James** set a new club MV65 record in 6:44. 
 
-<img src="/Images/2019/09/Meteor-Mile-1.jpg" alt="" class="wp-image-3566" srcset="/Images/2019/09/Meteor-Mile-1.jpg 800w, /Images/2019/09/Meteor-Mile-1-300x225.jpg 300w, /Images/2019/09/Meteor-Mile-1-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> <figcaption>_From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_</figcaption></figure> 
+<img src="/Images/2019/09/Meteor-Mile-1.jpg" alt="From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James"/>
 
-## &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
+_From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_
+
 
 **Summer road race retrospective** 
 
