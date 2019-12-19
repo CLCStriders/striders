@@ -4,7 +4,6 @@ author: Clark Lawson
 layout: post
 categories:
   - Training
-  - Announcements
 ---
 
 <p>Please note that training will be cancelled on the following dates over the Christmas period.</p>
