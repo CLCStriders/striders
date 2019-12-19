@@ -1,7 +1,9 @@
-cache:          Gggghfrscgdd
+cache:          bkbvgjvgvj
 
 highlighter:    rouge
 markdown:       kramdown
+kramdown:
+  parse_block_html: true
 permalink:      ./:title
 paginate:       10
 postLimit:      10

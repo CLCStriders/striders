@@ -1,20 +1,5 @@
 ---
 layout: default
 title: Events Category
+tag: events
 ---
-
-  <h4>{{ post.title }}</h4>
-  <ul>
-    {% for post in site.categories.events %}
-      <li class="{{ post.popular }} {{ post.new }}">
-        <a href="{{ post.url }}">{{ post.title }}</a> 
-        <br/>
-        <small>
-        <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
-        <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
-        <span class="read-time" title="Estimated read time">| <em>{% assign words = post.content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
-        <span class="categories">| Categories: <em>{% if post.category != empty %}{% for category in post.categories %}<a href="{{ post_url }}/pages/categories/{{  category | slugify }}">{{ category }}</a>, {% endfor %}{% endif %}</em></span>
-        </small>
-      </li>
-    {% endfor %}
-  </ul>

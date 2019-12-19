@@ -33,8 +33,9 @@ body {
     padding: 0 1rem 0 0;
 }
 
-footer { 
-	margin: $margins;
+footer {
+    margin: $margins;
+    border-top: 1px solid $accent_one;
 }
 footer p { 
 	font-size: 0.75em; letter-spacing:0.1em; line-height: 1.5em;
@@ -53,11 +54,11 @@ footer p {
 }
 
 .postHeader {
-	clear: both;
-	float:none;
-        padding-bottom: 2rem;
-    	margin-bottom: 1rem;
-    	border-top: 1px solid #555;
+    clear: both;
+    float: none;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid $accent_one;
 }
 	
 h1 a {

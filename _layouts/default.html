@@ -9,10 +9,10 @@
         <div class="container">
             <h2>{{ page.title }}</h2>
                    {% if page.toc %}
-                      <aside class="float-right-lg">
+                      <aside class="float-right">
                         <nav class="toc">
-                          <header><h4 class="nav__title"><i class="fa fa-{{ page.toc_icon | default: 'file-text' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
-                          {% include toc.html sanitize=true html=content h_min=2 h_max=3 class="toc__menu" %}
+                          <header><h4 class="nav__title"> {{ page.toc_label | default: "Table of Contents" }}</h4></header>
+                          {% include toc.html sanitize=true html=content h_min=2 h_max=5 class="toc__menu" %}
                         </nav>
                       </aside>
                     {% endif %}
