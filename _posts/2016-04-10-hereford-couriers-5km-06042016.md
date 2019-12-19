@@ -4,7 +4,7 @@ title: 'Hereford Couriers 5km - 06/04/2016'
 date: 2016-04-10T18:00:02+01:00
 author: Chris Driskell
 layout: post
-guid: 2084
+
 permalink: /2016/04/hereford-couriers-5km-06042016/
 categories:
 

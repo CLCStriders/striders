@@ -4,7 +4,7 @@ title: 'CLC Striders Race Reports for 25th - 26th March 2017'
 date: 2017-03-30T20:44:03+01:00
 author: Chris Driskell
 layout: post
-guid: 2648
+
 permalink: /2017/03/clc-striders-race-reports-for-25th-26th-march-2017/
 categories:
 

@@ -4,7 +4,7 @@ title: Race report for early June 2017
 date: 2017-06-20T08:11:53+01:00
 author: Paul Northup
 layout: post
-guid: 2799
+
 permalink: /2017/06/race-report-for-early-june-2017/
 categories:
   - Race Reports
@@ -12,7 +12,7 @@ categories:
 ---
 Early June has seen CLC Striders competing in a wide range of events – from Hull to California.
 
-**<img  2801" src="/Images/2017/06/Sophie-Longmore-Sgrewsbury-Half-235x300.jpg" alt="Sophie-Longmore-Sgrewsbury-Half" width="235" height="300" srcset="/Images/2017/06/Sophie-Longmore-Sgrewsbury-Half-235x300.jpg 235w, /Images/2017/06/Sophie-Longmore-Sgrewsbury-Half.jpg 639w" sizes="(max-width: 235px) 100vw, 235px" />](/Images/2017/06/Sophie-Longmore-Sgrewsbury-Half.jpg)**
+**<img src="/Images/2017/06/Sophie-Longmore-Sgrewsbury-Half-235x300.jpg" alt="Sophie-Longmore-Sgrewsbury-Half" width="235" height="300" />](/Images/2017/06/Sophie-Longmore-Sgrewsbury-Half.jpg)**
 
 **Sophie Longmore** has led the way with a couple of cracking performances – as seventh senior lady in the Clevedon Midsummer 10k in a time of 41:41 and then third lady (and second in her age category) on a hot and undulating Shrewsbury Half Marathon course on Sunday 18th June in a time of 1:33:47. On the same steamy day, **Clark Lawson** competed in his hometown 10k, completing the Hull City course in 47:05.
 

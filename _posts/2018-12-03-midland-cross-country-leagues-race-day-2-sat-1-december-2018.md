@@ -4,7 +4,7 @@ title: Midland Cross Country Leagues, Race Day 2, Sat 1 December 2018
 date: 2018-12-03T10:14:53+00:00
 author: Paul Northup
 layout: post
-guid: 3276
+
 permalink: /2018/12/midland-cross-country-leagues-race-day-2-sat-1-december-2018/
 categories:
   - Cross Country Reports
@@ -18,7 +18,7 @@ On a grey but unseasonably mild first day of December, the CLC ladies and men’
 
 In the men’s race in Division 2, the club registered one of its best performances for a long time, with four runners in the top 50 and all six of its A-team scorers well inside the top 100.
 
-<img  src="/Images/2018/12/men-stratford-1-12-18-e1543832042829.jpg" alt="men-stratford-1-12-18" width="800" height="600" srcset="/Images/2018/12/men-stratford-1-12-18-e1543832042829.jpg 640w, /Images/2018/12/men-stratford-1-12-18-e1543832042829-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/men-stratford-1-12-18-e1543832042829.jpg)
+<img src="/Images/2018/12/men-stratford-1-12-18-e1543832042829.jpg" alt="men-stratford-1-12-18"/>](/Images/2018/12/men-stratford-1-12-18-e1543832042829.jpg)
 
 Once again **Will Ferguson** turned in a stellar performance, finishing 2<sup>nd </sup>overall in an astonishing time of 36:32. He was followed home by the constantly improving **Tom Kabala** in 21<sup>st </sup>and a time of 39:26. **Iain Porter** was 32<sup>nd </sup>in 40:23 and **Sam Baylis** was 49<sup>th </sup>41:17. **Louise Fievet** bagged 71<sup>st </sup>place in a time of 42:41 and **Max Baylis** was 83<sup>rd </sup>in 43:14.
 
@@ -30,7 +30,7 @@ The ladies, meanwhile, made their second outing in their incredibly competitive 
 
 The ladies finished 13<sup>th </sup>on the day and stay 13<sup>th </sup>overall in the Division after two races.
 
-<img  src="/Images/2018/12/LAdies-1-dec-2018.jpg" alt="LAdies-1-dec-2018" width="800" height="533" srcset="/Images/2018/12/LAdies-1-dec-2018.jpg 960w, /Images/2018/12/LAdies-1-dec-2018-300x200.jpg 300w, /Images/2018/12/LAdies-1-dec-2018-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/12/LAdies-1-dec-2018.jpg)
+<img src="/Images/2018/12/LAdies-1-dec-2018.jpg" alt="LAdies-1-dec-2018" width="800" height="533" />](/Images/2018/12/LAdies-1-dec-2018.jpg)
 
 <p style="text-align: right;">
   <em>The ladies top four finishers (left to right: Rachel Vines, Helen Knight, Karlien Heyrman and Amanda Steer), with club coach Brendan Ward</em>

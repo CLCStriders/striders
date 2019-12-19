@@ -4,7 +4,7 @@ title: 'Gloucestershire XC League I, Little Rissington - 15/10/2016'
 date: 2016-10-20T18:38:16+01:00
 author: Chris Driskell
 layout: post
-guid: 2487
+
 permalink: /2016/10/gloucestershire-xc-league-i-little-rissington-15102016/
 categories:
   - Cross Country Reports
@@ -18,7 +18,7 @@ The ladies race was first to start, and new signing Emily Smith stormed to victo
 
 Meanwhile Will Ferguson led the men home in a closely fought race in 5th place, one of five athletes with a mile to go who were in with a chance of a win. Unfortunately Ferguson was the last of the bunch to finish, finding the hilly course not to his liking. Second home for the mens A team was Allan Newton in a fine 62nd place; Will Pearce followed going well for 72nd place; veteran John Willson followed in 113th; Andy Brookes was next in 143rd, and final A team scorer was Neil Broadbent in 158th place. CLC Striders men's A team finished in 15th place. The B team was led home by Clark Lawson in 164th place, Dave Billingham was 166th, Gavin Jerman 178th, men's captain Joel Freeland 190th, Simon Thomson in 191st, and final B team scorer was Dave Street in 213th place. CLC men's B team finished 24th place. Other notable performances were had by Gordon Bendall in 219th place, and David James in 230th place (3rd mv 65) CLC Striders masters team finished in 16th place.
 
-<img class="alignnone size-full 2492" src="/Images/2016/10/unknown.jpeg" alt="unknown" width="240" height="240" srcset="/Images/2016/10/unknown.jpeg 240w, /Images/2016/10/unknown-150x150.jpeg 150w" sizes="(max-width: 240px) 100vw, 240px" />](/Images/2016/10/unknown.jpeg)
+<img class="alignnone size-full 2492" src="/Images/2016/10/unknown.jpeg" alt="unknown" width="240" height="240" />](/Images/2016/10/unknown.jpeg)
 
 results
 

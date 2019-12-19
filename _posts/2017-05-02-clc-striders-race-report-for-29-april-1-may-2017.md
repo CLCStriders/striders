@@ -4,7 +4,7 @@ title: CLC Striders Race report for 29 April – 1 May 2017
 date: 2017-05-02T22:46:34+01:00
 author: Chris Driskell
 layout: post
-guid: 2718
+
 permalink: /2017/05/clc-striders-race-report-for-29-april-1-may-2017/
 categories:
   - Cross Country Reports
@@ -29,7 +29,7 @@ On Bank Holiday Monday, veteran Strider Gavin Jerman surprised his team-mates by
 
 &nbsp;
 
-<img  2719" src="/Images/2017/05/IMG_2380-300x225.jpg" alt="IMG_2380"  srcset="/Images/2017/05/IMG_2380-300x225.jpg 300w, /Images/2017/05/IMG_2380.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2017/05/IMG_2380.jpg)
+<img src="/Images/2017/05/IMG_2380-300x225.jpg" alt="IMG_2380"  />](/Images/2017/05/IMG_2380.jpg)
 
 Back in Cheltenham, a posse of Striders competed in various events at the Brewer Memorial Games, hosted by Cheltenham Harriers at the Prince of Wales Stadium on Bank Holiday Monday.
 

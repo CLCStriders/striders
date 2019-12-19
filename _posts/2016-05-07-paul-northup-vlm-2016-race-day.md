@@ -4,7 +4,7 @@ title: 'Paul Northup - VLM 2016 Race Day'
 date: 2016-05-07T20:32:17+01:00
 author: Clark Lawson
 layout: post
-guid: 2168
+
 permalink: /2016/05/paul-northup-vlm-2016-race-day/
 categories:
 

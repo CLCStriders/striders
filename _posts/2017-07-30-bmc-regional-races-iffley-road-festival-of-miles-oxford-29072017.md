@@ -4,7 +4,7 @@ title: 'BMC Regional Races / Iffley Road Festival of Miles, Oxford - 29/07/2017'
 date: 2017-07-30T20:20:11+01:00
 author: Chris Driskell
 layout: post
-guid: 2908
+
 permalink: /2017/07/bmc-regional-races-iffley-road-festival-of-miles-oxford-29072017/
 categories:
 

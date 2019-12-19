@@ -4,7 +4,7 @@ title: 'BMC Regional Races, Tipton - 21/06/2016'
 date: 2016-06-29T18:00:37+01:00
 author: Chris Driskell
 layout: post
-guid: 2346
+
 permalink: /2016/06/bmc-regional-races-tipton-21062016/
 categories:
 

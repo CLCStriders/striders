@@ -4,7 +4,7 @@ title: PBs galore as Striders hit the road again
 date: 2019-03-19T08:18:06+00:00
 author: Paul Northup
 layout: post
-guid: 3354
+
 permalink: /2019/03/pbs-galore-as-striders-hit-the-road-again/
 categories:
   - Race Reports

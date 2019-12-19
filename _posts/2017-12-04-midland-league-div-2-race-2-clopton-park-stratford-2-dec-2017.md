@@ -4,7 +4,7 @@ title: Midland League Div 2 Race 2, Clopton Park, Stratford, 2 Dec 2017
 date: 2017-12-04T09:40:19+00:00
 author: Paul Northup
 layout: post
-guid: 3015
+
 permalink: /2017/12/midland-league-div-2-race-2-clopton-park-stratford-2-dec-2017/
 categories:
   - Cross Country Reports
@@ -20,7 +20,7 @@ Saturday 2 December saw the Striders Men’s and Ladies teams make the short tri
 
 On a grey, drizzly and misty afternoon, both teams battled hard to win some hard-earned results over what is surely one of the best cross country courses around. Not only does the course boast some testing climbs and descents, but it is peppered with grassed over tree roots and ridge-and-furrow undulation, making it hard to get into a rhythm and requiring total concentration, grit and determination.
 
-<img  src="/Images/2017/12/Ladies-Clopton-better-resolution.jpg" alt="Ladies-Clopton-better resolution" width="800" height="550" srcset="/Images/2017/12/Ladies-Clopton-better-resolution.jpg 960w, /Images/2017/12/Ladies-Clopton-better-resolution-300x206.jpg 300w, /Images/2017/12/Ladies-Clopton-better-resolution-768x528.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2017/12/Ladies-Clopton-better-resolution.jpg)
+<img src="/Images/2017/12/Ladies-Clopton-better-resolution.jpg" alt="Ladies-Clopton-better resolution" width="800" height="550" />](/Images/2017/12/Ladies-Clopton-better-resolution.jpg)
 
 <p style="text-align: right;">
   <em>Pictured, left to right: Cerys Jones, Jill Hooper, Laura Fletcher, Helen Knight, Amelia Mullins, Patricia Sturgess, Nicola Weager, Amanda Steer, Emma Abbey, Karlien Heyrman.</em>
@@ -32,7 +32,7 @@ The B Team runners on the day finished as follows: **Laura Fletcher** was 58<sup
 
 Overall, the CLC Ladies maintained their impressive 3<sup>rd</sup> position in the division.
 
-<img  src="/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg" alt="Mens-Team-better-resolution-Clopton" width="800" height="576" srcset="/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg 960w, /Images/2017/12/Mens-Team-better-resolution-Clopton-300x216.jpg 300w, /Images/2017/12/Mens-Team-better-resolution-Clopton-768x553.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg)
+<img src="/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg" alt="Mens-Team-better-resolution-Clopton" width="800" height="576" />](/Images/2017/12/Mens-Team-better-resolution-Clopton.jpg)
 
 <p style="text-align: right;">
   <em>Pictured, left to right: Back row – Paul Northup, Will Ferguson, Iain Porter, Bradley Coates, Paul Lockyer, Charles Goodwin, Tom Vickers, Martin Bick, Andrew Gage; Front row – Kyle Sollars, Mark Fuller, JJ Willson, coach Brendon Ward, Tom Fletcher and Javid Norat.</em>

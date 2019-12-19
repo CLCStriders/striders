@@ -4,7 +4,7 @@ title: Gloucestershire Cross Country Race at Malvern
 date: 2015-11-01T20:00:56+00:00
 author: Clark Lawson
 layout: post
-guid: 1673
+
 permalink: /2015/11/gloucestershire-cross-country-race-at-malvern/
 categories:
   - Cross Country Reports

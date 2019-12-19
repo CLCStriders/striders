@@ -4,7 +4,7 @@ title: Iain Porter wins the Glencoe off-road Marathon
 date: 2017-10-02T20:24:39+01:00
 author: Paul Northup
 layout: post
-guid: 2952
+
 permalink: /2017/10/iain-porter-wins-the-glencoe-off-road-marathon/
 categories:
   - Cross Country Reports
@@ -17,7 +17,7 @@ On Sunday 1 October, club strongman (nicknamed the Mountain Goat) **Iain Porter*
 
 With almost even splits 1:54 and 1:53, **Iain** finished in a stunning first place in a time of 3 hours and 47 minutes, further demonstrating his incredible prowess over trail and country in an event boasting over a mile of ascent!
 
-<img class=" size-full" src="/Images/2017/10/Iain-Porter-Glencoe.jpg" alt="Iain-Porter-Glencoe" width="499" height="553" srcset="/Images/2017/10/Iain-Porter-Glencoe.jpg 499w, /Images/2017/10/Iain-Porter-Glencoe-271x300.jpg 271w" sizes="(max-width: 499px) 100vw, 499px" />](/Images/2017/10/Iain-Porter-Glencoe.jpg)
+<img class=" size-full" src="/Images/2017/10/Iain-Porter-Glencoe.jpg" alt="Iain-Porter-Glencoe" width="499" height="553" />](/Images/2017/10/Iain-Porter-Glencoe.jpg)
 
 With the first eight miles run across very boggy terrain and then the rest on the West Highland way (which is hard-packed but very rocky), there were also plenty of streams and small rivers to splash through.
 

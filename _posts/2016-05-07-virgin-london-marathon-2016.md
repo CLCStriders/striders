@@ -4,7 +4,7 @@ title: Virgin London Marathon 2016
 date: 2016-05-07T20:37:05+01:00
 author: Clark Lawson
 layout: post
-guid: 2166
+
 permalink: /2016/05/virgin-london-marathon-2016/
 categories:
   - Road Reports

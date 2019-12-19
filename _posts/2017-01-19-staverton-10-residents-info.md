@@ -4,7 +4,7 @@ title: 'Staverton 10 - Residents Info'
 date: 2017-01-19T12:56:55+00:00
 author: Clark Lawson
 layout: post
-guid: 1862
+
 permalink: /2017/01/staverton-10-residents-info/
 categories:
   - Events

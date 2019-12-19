@@ -4,7 +4,7 @@ title: Midsummer Open – Prince of Wales, 11 July
 date: 2018-07-14T20:25:07+01:00
 author: Paul Northup
 layout: post
-guid: 3180
+
 permalink: /2018/07/midsummer-open-prince-of-wales-11-july/
 categories:
   - Race Reports

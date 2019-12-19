@@ -4,7 +4,7 @@ title: 'October racing: Stroud Half, Eastnor 7, Abingdon &#038; Amsterdam marath
 date: 2018-10-28T16:25:48+00:00
 author: Paul Northup
 layout: post
-guid: 3256
+
 permalink: /2018/10/october-racing-round-up-stroud-half-eastnor-7-abingdon-and-amsterdam-marathons-and-gloucester-10k/
 categories:
   - Race Reports
@@ -21,7 +21,7 @@ tags:
 
 On a perfect morning for distance running, a crop of Striders assembled to race the annual Stroud Half Marathon. With the biggest field in its history, the event once again provided some great results for club athletes.
 
-<img class=" size-full" src="/Images/2018/10/Will-Ferguson-Stroud-2018.jpg" alt="Will-Ferguson-Stroud-2018" width="720" height="960" srcset="/Images/2018/10/Will-Ferguson-Stroud-2018.jpg 720w, /Images/2018/10/Will-Ferguson-Stroud-2018-225x300.jpg 225w" sizes="(max-width: 720px) 100vw, 720px" />](/Images/2018/10/Will-Ferguson-Stroud-2018.jpg)
+<img class=" size-full" src="/Images/2018/10/Will-Ferguson-Stroud-2018.jpg" alt="Will-Ferguson-Stroud-2018" width="720" height="960" />](/Images/2018/10/Will-Ferguson-Stroud-2018.jpg)
 
 First home for the Striders was **Will Ferguson**, continuing his fine form in his year of PB-setting by clocking a new club record and PB time of 1:11:00 dead, for sixth place overall. Next home, running his third half marathon in just a month, was **Will Pearce**, in a solid 1:22:43 and 39<sup>th</sup>place. He was followed home by **Jon Howes**, who surprised himself with a quick time of 1:24:15 and **Alex Monro **who ran a second PB in just a few weeks of 1:28:13.
 
@@ -37,7 +37,7 @@ Over the longer full marathon distance, two intrepid Striders faced the 26.2 mil
 **Eastnor 7  
 ** **Sunday 21 October** 
 
-<img class="alignnone size-full 3258" src="/Images/2018/10/Ameila-Eastnor-2018.jpg" alt="Ameila-Eastnor-2018" width="630" height="960" srcset="/Images/2018/10/Ameila-Eastnor-2018.jpg 630w, /Images/2018/10/Ameila-Eastnor-2018-197x300.jpg 197w" sizes="(max-width: 630px) 100vw, 630px" />](/Images/2018/10/Ameila-Eastnor-2018.jpg)
+<img class="alignnone size-full 3258" src="/Images/2018/10/Ameila-Eastnor-2018.jpg" alt="Ameila-Eastnor-2018" width="630" height="960" />](/Images/2018/10/Ameila-Eastnor-2018.jpg)
 
 Over in the beautiful parkland of Eastnor Castle, four Striders took on the challenging Eastnor 7, a trail run through some of the most beautiful countryside in the region. On the day, **Andrew Paterson **came home first for the club in 10<sup>th </sup>place in a best course time for him of 51:12. Next home for the Striders – and second lady overall in 20<sup>th </sup>place – was the evergreen **Amelia Mullins**, in a strong time of 56:30. **James Gibbs **came home in 29<sup>th </sup>place in 57:41 and **Charlie Haward **clocked 1:12:09 in 95<sup>th </sup>place.
 
@@ -46,6 +46,6 @@ Over in the beautiful parkland of Eastnor Castle, four Striders took on the chal
 
 On a surprisingly cold and windy Sunday morning, and only one week after setting his Half Marathon PB in Stroud, **Will Ferguson **finished 17<sup>th </sup>in a highly competitive 10k field, only just outside his 10k PB, in a superb time of 32:21. Next home for the club was the determined **Rachael Cary**, finishing just outside 40 minutes in 40:19. Also running for the club were **Nigel Bailey**, who clocked 45:25, and **Emily Pilkington**, who registered 56:52.
 
-<img class=" size-full" src="/Images/2018/10/Rachael-Cary-Glos-10k-2018.jpg" alt="Rachael-Cary-Glos-10k-2018" width="720" height="960" srcset="/Images/2018/10/Rachael-Cary-Glos-10k-2018.jpg 720w, /Images/2018/10/Rachael-Cary-Glos-10k-2018-225x300.jpg 225w" sizes="(max-width: 720px) 100vw, 720px" />](/Images/2018/10/Rachael-Cary-Glos-10k-2018.jpg)
+<img class=" size-full" src="/Images/2018/10/Rachael-Cary-Glos-10k-2018.jpg" alt="Rachael-Cary-Glos-10k-2018" width="720" height="960" />](/Images/2018/10/Rachael-Cary-Glos-10k-2018.jpg)
 
 &nbsp;

@@ -4,7 +4,7 @@ title: 'Great Lanhydrock 10 Mile MT Race - 08/10/2016'
 date: 2016-10-16T11:12:41+01:00
 author: Chris Driskell
 layout: post
-guid: 2485
+
 permalink: /2016/10/great-lanhydrock-10-mile-mt-race-08102016/
 categories:
   - Cross Country Reports

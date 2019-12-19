@@ -4,7 +4,7 @@ title: 'Standish Woodland Chase - 14/08/2016'
 date: 2016-08-14T21:26:41+01:00
 author: Chris Driskell
 layout: post
-guid: 2432
+
 permalink: /2016/08/standish-woodland-chase-14082016/
 categories:
   - Cross Country Reports

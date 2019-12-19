@@ -4,7 +4,7 @@ title: Paul Northup’s VLM Update – One Week to Go!
 date: 2016-04-18T07:51:15+01:00
 author: Clark Lawson
 layout: post
-guid: 2112
+
 permalink: /2016/04/paul-northups-vlm-update-one-week-to-go/
 categories:
 

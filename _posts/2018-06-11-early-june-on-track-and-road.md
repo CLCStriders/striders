@@ -4,7 +4,7 @@ title: Early June – on track and road
 date: 2018-06-11T10:02:51+01:00
 author: Paul Northup
 layout: post
-guid: 3158
+
 permalink: /2018/06/early-june-on-track-and-road/
 categories:
   - Race Reports
@@ -38,7 +38,7 @@ In Gloucester on Saturday 9 June, V40 **Paul Lockyer **ran a sub-19-minute 18:5
 
 On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford to run in the popular 10k there. On the day, **Helen Knight **continued her fine form – first home for the club in a time of 42:45.9 as the 2<sup>nd </sup>lady V35.
 
-<img  src="/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n" width="800" height="600" srcset="/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg 960w, /Images/2018/06/34214921_2117897361762505_7880078546394152960_n-300x225.jpg 300w, /Images/2018/06/34214921_2117897361762505_7880078546394152960_n-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
+<img src="/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n"/>](/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
 
 <p style="text-align: right;">
   <em>Left to right: Janet Mustoe, Helen Knight, Nicola Weager, Gordon Bendall, Martin Bick, Kyle Sollars, Andrew Gage</em>

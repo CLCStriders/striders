@@ -4,7 +4,7 @@ title: CLC Striders Race report for 31 March, 1 and 2 of April 2017
 date: 2017-04-06T18:01:37+01:00
 author: Chris Driskell
 layout: post
-guid: 2695
+
 permalink: /2017/04/clc-striders-race-report-for-31-march-1-and-2-of-april-2017/
 categories:
 

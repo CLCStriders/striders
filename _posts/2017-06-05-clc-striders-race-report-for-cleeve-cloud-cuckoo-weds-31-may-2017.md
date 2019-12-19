@@ -4,7 +4,7 @@ title: CLC Striders Race report for Cleeve Cloud Cuckoo – Weds 31 May 2017
 date: 2017-06-05T16:33:20+01:00
 author: Paul Northup
 layout: post
-guid: 2795
+
 permalink: /2017/06/clc-striders-race-report-for-cleeve-cloud-cuckoo-weds-31-may-2017/
 categories:
   - Cross Country Reports
@@ -18,6 +18,6 @@ There were also good performances from **Neil Reynolds** (50th in 39:54), **Gary
 
 The men’s team finished a superb second place and the ladies team finished in a strong fourth place. All-in-all, a great team performance in this iconic local event.
 
-<img  2797" src="/Images/2017/06/18870972_10154637303357919_1105167273_n-300x225.jpg" alt="18870972_10154637303357919_1105167273_n"  srcset="/Images/2017/06/18870972_10154637303357919_1105167273_n-300x225.jpg 300w, /Images/2017/06/18870972_10154637303357919_1105167273_n.jpg 720w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2017/06/18870972_10154637303357919_1105167273_n.jpg)
+<img src="/Images/2017/06/18870972_10154637303357919_1105167273_n-300x225.jpg" alt="18870972_10154637303357919_1105167273_n"  />](/Images/2017/06/18870972_10154637303357919_1105167273_n.jpg)
 
 _Striders at the Cleeve Cloud Cuckoo Left to right: Jon Howes, Iain Porter, JJ Willson, Charles Goodwin, Amelia Mullins, Gavin Jerman, Charlie Haward, Neil Reynolds, Helen Knight, Emma Abbey, Hill Hooper, Rebecca Reynolds, and Gary Smith._

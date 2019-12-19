@@ -4,7 +4,7 @@ title: 'Striders: back on track'
 date: 2018-05-14T08:00:17+01:00
 author: Paul Northup
 layout: post
-guid: 3134
+
 permalink: /2018/05/striders-back-on-track/
 categories:
   - Race Reports
@@ -22,7 +22,7 @@ On a scorching sunny day, a crop of Striders entered a variety events at the sta
 
 **Paul Lockyer **clocked a club age category-equalling 13.0 seconds dead in the 100m, with **Nicola Weager **registering 15.1 seconds. **Paul  Lockyer** also raced the 400m, in a strong time of 62.1 seconds.
 
-<img  src="/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg" alt="PAul-Lockyer-400m_brewer-games" width="800" height="533" srcset="/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg 960w, /Images/2018/05/PAul-Lockyer-400m_brewer-games-300x200.jpg 300w, /Images/2018/05/PAul-Lockyer-400m_brewer-games-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg)
+<img src="/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg" alt="PAul-Lockyer-400m_brewer-games" width="800" height="533" />](/Images/2018/05/PAul-Lockyer-400m_brewer-games.jpg)
 
 **Gareth Harries **enjoyed a club record-breaking day in his V45 category with 28.5 seconds for the 200m and 2:27.2 for the 800m.
 
@@ -30,7 +30,7 @@ Over the longer distances, **Clark Lawson **maintained his very fine form this
 . While, in the 3,000m, **Joel Freeland **smashed his PB with a time of 10:45.4, with **Helen Knight **clocking 11:59.1, **Amelia Mullins **12:30.0 and **Nicola Weager **13:54.9
 .
 
-<img  src="/Images/2018/05/Joel-Freeland-3k-Brewer-Games.jpg" alt="Joel-Freeland-3k-Brewer-Games" width="800" height="533" srcset="/Images/2018/05/Joel-Freeland-3k-Brewer-Games.jpg 960w, /Images/2018/05/Joel-Freeland-3k-Brewer-Games-300x200.jpg 300w, /Images/2018/05/Joel-Freeland-3k-Brewer-Games-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/05/Joel-Freeland-3k-Brewer-Games.jpg)
+<img src="/Images/2018/05/Joel-Freeland-3k-Brewer-Games.jpg" alt="Joel-Freeland-3k-Brewer-Games" width="800" height="533" />](/Images/2018/05/Joel-Freeland-3k-Brewer-Games.jpg)
 
 Out in the field, **Nicola Weager **also competed in the long jump, setting a new club record of 3.91m in the process.
 

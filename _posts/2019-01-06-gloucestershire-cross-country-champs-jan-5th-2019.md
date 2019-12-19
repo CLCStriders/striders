@@ -4,7 +4,7 @@ title: Gloucestershire Cross Country Champs, Jan 5th, 2019
 date: 2019-01-06T20:32:23+00:00
 author: Paul Northup
 layout: post
-guid: 3287
+
 permalink: /2019/01/gloucestershire-cross-country-champs-jan-5th-2019/
 categories:
   - Cross Country Reports
@@ -23,7 +23,7 @@ Overall, the ladies achieved a strong 4<sup>th </sup>placing in both the senior
 
 Next, it was the turn of the men to test themselves across the beautiful parkland terrain and they performed well too. In particular, **David James** finished 1<sup>st </sup>in his MV65 category and **John Willson** finished 2<sup>nd </sup>in his MV55 category. In addition, vets **Paul Lockyer** and **Eoine McQuone** were 47<sup>th </sup>and 64<sup>th </sup>overall. And in the team standings on the day, the men finished 8<sup>th </sup>in the vets competition.
 
-<img  src="/Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan.jpg" alt="Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan" width="800" height="1438" srcset="/Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan.jpg 534w, /Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan-167x300.jpg 167w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan.jpg)
+<img src="/Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan.jpg" alt="Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan" width="800" height="1438" />](/Images/2019/01/Helen-Knight-David-James-Glos-X-Country-Champs-5-Jan.jpg)
 
 _Pictured; David James (winner of the MV65 category) and Helen Knight, 3<sup>rd </sup>in the LV35 category on the day._
 

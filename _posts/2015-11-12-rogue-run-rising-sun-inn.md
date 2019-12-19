@@ -4,7 +4,7 @@ title: Rogue Run – Rising Sun Inn
 date: 2015-11-12T19:18:11+00:00
 author: Clark Lawson
 layout: post
-guid: 1686
+
 permalink: /2015/11/rogue-run-rising-sun-inn/
 categories:
   - Cross Country Reports

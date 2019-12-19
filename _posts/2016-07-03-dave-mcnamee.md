@@ -4,7 +4,7 @@ title: Dave McNamee
 date: 2016-07-03T10:34:07+01:00
 author: Chris Driskell
 layout: post
-guid: 2353
+
 permalink: /2016/07/dave-mcnamee/
 categories:
 
@@ -19,6 +19,6 @@ Dave generously gave his advice to Brendan when the club was being set up 8 year
 
 Dave will be sadly missed by CLC Striders and his many other friends in the sport, and our thoughts go out to his friends and family at this difficult time.
 
-<img  2354" src="/Images/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" srcset="/Images/2016/07/IMG_0140-245x300.jpg 245w, /Images/2016/07/IMG_0140.jpg 501w" sizes="(max-width: 245px) 100vw, 245px" />](/Images/2016/07/IMG_0140.jpg)
+<img src="/Images/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" />](/Images/2016/07/IMG_0140.jpg)
 
 &nbsp;

@@ -4,7 +4,7 @@ title: 'Oldbury Power Station 10 Mile Race - 11/09/2016'
 date: 2016-09-11T22:23:59+01:00
 author: Chris Driskell
 layout: post
-guid: 2452
+
 permalink: /2016/09/oldbury-power-station-10-mile-race-11092016/
 categories:
 
@@ -16,4 +16,4 @@ Leading the club home was Chris Driskell who ran at tempo pace and recorded  an
 
 [results](https://www.fullonsport.com/event/oldbury-10-miler/results)
 
-<img  2453" src="/Images/2016/09/IMG_0706-300x300.jpg" alt="img_0706" width="300" height="300" srcset="/Images/2016/09/IMG_0706-300x300.jpg 300w, /Images/2016/09/IMG_0706-150x150.jpg 150w, /Images/2016/09/IMG_0706.jpg 720w" sizes="(max-width: 300px) 100vw, 300px" />](/Images/2016/09/IMG_0706.jpg)
+<img src="/Images/2016/09/IMG_0706-300x300.jpg" alt="img_0706" width="300" height="300" />](/Images/2016/09/IMG_0706.jpg)

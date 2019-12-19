@@ -4,7 +4,7 @@ title: Linda Franks Five-Mile Race, Sunday 21 January 2018
 date: 2018-01-22T16:14:22+00:00
 author: Paul Northup
 layout: post
-guid: 3037
+
 permalink: /2018/01/linda-franks-five-mile-race-sunday-21-january-2018/
 categories:
   - Race Reports
@@ -20,7 +20,7 @@ On a very cold January morning, with the hills around Cheltenham covered with sn
 The first three club runners home have all been training together for the London marathon and those miles paid dividends. **Jon Howes** turned in a stellar performance, finishing in 16<sup>th</sup> place as the 3<sup>rd</sup> MV40 in 29:36. He was followed home by **Mark Fuller** in 19<sup>th</sup> place in 29:50, and **Paul Northup** in 29<sup>th</sup> in 29:53 as the 3<sup>rd</sup> MV50 finisher (breaking his own club record for the distance). All three bagged PBs, finishing in under 30 minutes.
 
 <p style="text-align: right;">
-  <a href="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg"><img  src="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg" alt="Jon-Howes-finishing-Linda-Franks" width="800" height="533" srcset="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg 960w, /Images/2018/01/Jon-Howes-finishing-Linda-Franks-300x200.jpg 300w, /Images/2018/01/Jon-Howes-finishing-Linda-Franks-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><br /> <em>Pictured: Jon Howes finishes in 16<sup>th</sup> place as the 3<sup>rd</sup> MV40 in a time of 29:36.</em>
+  <a href="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg"><img src="/Images/2018/01/Jon-Howes-finishing-Linda-Franks.jpg" alt="Jon-Howes-finishing-Linda-Franks" width="800" height="533" /></a><br /> <em>Pictured: Jon Howes finishes in 16<sup>th</sup> place as the 3<sup>rd</sup> MV40 in a time of 29:36.</em>
 </p>
 
 Next home, in identical times of 31:16 and 35<sup>th</sup> and 36<sup>th</sup> positions, were **Andy Brookes** and **Chris Hale**. Chris paced his fellow club member Andy to what was a much-faster-than-expected PB for him – and 6<sup>th</sup> MV50 finisher to boot.

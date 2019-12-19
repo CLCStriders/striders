@@ -4,7 +4,7 @@ title: 'Apocalypse Ultra-Marathon, Church Stretton - 14/05/2016'
 date: 2016-05-30T22:42:43+01:00
 author: Chris Driskell
 layout: post
-guid: 2294
+
 permalink: /2016/05/apocalypse-ultra-marathon-church-stretton-14052016/
 categories:
   - Cross Country Reports

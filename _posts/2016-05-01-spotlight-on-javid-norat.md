@@ -10,7 +10,7 @@ categories:
 In a new feature for the CLC Striders website, Javid Norat answers a few choice questions about his experience of training and racing with CLC Striders&#8230;
 
 
-<img  2156" src="/Images/2016/05/IMG_0570-165x300.jpg" alt="IMG_0570" width="165" height="300" srcset="/Images/2016/05/IMG_0570-165x300.jpg 165w, /Images/2016/05/IMG_0570.jpg 396w" sizes="(max-width: 165px) 100vw, 165px" />](/Images/2016/05/IMG_0570.jpg)
+<img src="/Images/2016/05/IMG_0570-165x300.jpg" alt="IMG_0570" />
 
 When did you join the club?
 

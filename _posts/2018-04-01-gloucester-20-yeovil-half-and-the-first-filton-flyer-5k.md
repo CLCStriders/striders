@@ -4,7 +4,7 @@ title: Gloucester 20, Yeovil Half and the first Filton Flyer 5k
 date: 2018-04-01T16:00:42+01:00
 author: Paul Northup
 layout: post
-guid: 3096
+
 permalink: /2018/04/gloucester-20-yeovil-half-and-the-first-filton-flyer-5k/
 categories:
   - Race Reports
@@ -23,7 +23,7 @@ Three of the competitors – **Will Pearce, Jon Howes, and Mark Fuller** – wer
 
 The marathon men ran together for the first 10 miles, before beginning to run according to their own plans for the second half of the race, all finishing within a few minutes of each other as follows: Will Pearce in 38<sup>th</sup> place overall and 20<sup>th</sup> SM in 2:14:15, Jon Howes in 43<sup>rd </sup>place overall as 10<sup>th</sup> MV40 in 2:15:42, and Mark Fuller in 54<sup>th</sup> place overall and 27<sup>th</sup> SM in 2:18:28. Gavin Jerman came home within a whisper of his 20-mile PB finishing in 119<sup>th</sup> place overall as MV50 9<sup>th</sup> in 2:35:23.
 
-<img class="3097" src="/Images/2018/04/three-in-glos-20-25.3.18.jpg" alt="three-in glos-20-25.3.18" width="800" height="533" srcset="/Images/2018/04/three-in-glos-20-25.3.18.jpg 960w, /Images/2018/04/three-in-glos-20-25.3.18-300x200.jpg 300w, /Images/2018/04/three-in-glos-20-25.3.18-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/04/three-in-glos-20-25.3.18.jpg)<figcaption id="caption-attachment-3097" >Three in a row. From left to right: Mark Fuller, Jon Howes, Will Pearce_ 
+<img src="/Images/2018/04/three-in-glos-20-25.3.18.jpg" alt="three-in glos-20-25.3.18" width="800" height="533" >Three in a row. From left to right: Mark Fuller, Jon Howes, Will Pearce_ 
 
 * * *
 

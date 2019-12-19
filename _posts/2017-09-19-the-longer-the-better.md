@@ -4,7 +4,7 @@ title: The Longer the Better
 date: 2017-09-19T08:53:56+01:00
 author: Paul Northup
 layout: post
-guid: 2944
+
 permalink: /2017/09/the-longer-the-better/
 categories:
   - Race Reports
@@ -20,7 +20,7 @@ On Sunday 17 September, three striders – **Rob Bircher,** **Andrew Paterson an
 
 In what was a very friendly and low-key event in stunning surroundings, Andrew and Betty the dog competed together over the 21-mile distance, finishing in an amazing time of 3.11.57 as the first canicross competitors. Meanwhile, testing himself over the longest distance he’s ever run, Rob ran three-and-a-bit times around the reservoirs, completing the grueling 51-mile course (yes, that’s 51 miles!) in a time of 9 hours and 13 minutes in a fantastic 13th place overall, smashing his target time of 10 and a half hours by some margin.
 
-<img class=" size-large" src="/Images/2017/09/21845362_1504055942994907_1357320626_o-576x1024.jpg" alt="21845362_1504055942994907_1357320626_o" width="576" height="1024" srcset="/Images/2017/09/21845362_1504055942994907_1357320626_o-576x1024.jpg 576w, /Images/2017/09/21845362_1504055942994907_1357320626_o-169x300.jpg 169w, /Images/2017/09/21845362_1504055942994907_1357320626_o-768x1365.jpg 768w, /Images/2017/09/21845362_1504055942994907_1357320626_o.jpg 1152w" sizes="(max-width: 576px) 100vw, 576px" />](/Images/2017/09/21845362_1504055942994907_1357320626_o.jpg)
+<img class=" size-large" src="/Images/2017/09/21845362_1504055942994907_1357320626_o-576x1024.jpg" alt="21845362_1504055942994907_1357320626_o" width="576" height="1024" />](/Images/2017/09/21845362_1504055942994907_1357320626_o.jpg)
 
 **Pictured: Rob Bircher at the end of his 51-mile Ultra**
 

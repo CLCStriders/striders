@@ -4,7 +4,7 @@ title: Leamington Cross Country Races
 date: 2015-11-08T10:19:39+00:00
 author: Clark Lawson
 layout: post
-guid: 1680
+
 permalink: /2015/11/leamington-cross-country-races/
 categories:
   - Cross Country Reports

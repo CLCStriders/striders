@@ -4,7 +4,7 @@ title: 'MWCCL and BCCL Race I Royal Leamington Spa - 12/11/2016'
 date: 2016-11-13T10:06:42+00:00
 author: Chris Driskell
 layout: post
-guid: 2518
+
 permalink: /2016/11/mwccl-and-bccl-race-i-royal-leamington-spa-12112016/
 categories:
   - Cross Country Reports

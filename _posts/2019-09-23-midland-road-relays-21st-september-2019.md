@@ -4,7 +4,7 @@ title: Midland Road Relays, 21st September 2019
 date: 2019-09-23T09:22:59+01:00
 author: Paul Northup
 layout: post
-guid: 3581
+
 permalink: /2019/09/midland-road-relays-21st-september-2019/
 categories:
   - Race Reports
@@ -22,7 +22,7 @@ The ladies &#8216;A' team comprised **Liza Barry**, **Sarah Richards**, **Helen 
 
 Running for the ladies &#8216;B' team were **Fiona Brady-Miller**, **Sarah Wilson**, **Nicola Weager** and **Amelia Mullins**, who finished in a very creditable 59th place. **Zoe Gough** also ran the first leg, finishing 91st out of 121 runners on that leg.
 
-<img src="/Images/2019/09/Sutton-Park-Sept-2019-e1569226803744.jpg" alt="" class="3582" /> <figcaption>_The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Miller, Sarah Wilson, Helen Knight, Nicola Weager, Rachel Vines, Liza Barry and Amelia Mullins__ 
+<img src="/Images/2019/09/Sutton-Park-Sept-2019-e1569226803744.jpg" alt="" />__The ladies at Sutton Park, from left to right: Sarah Richards, Fiona Brady-Miller, Sarah Wilson, Helen Knight, Nicola Weager, Rachel Vines, Liza Barry and Amelia Mullins__ 
 
 **Apperley Quarter Marathon**  
 **Sunday 22 September **

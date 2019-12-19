@@ -4,7 +4,7 @@ title: Woodchester Park Trail Race 8th September 2019
 date: 2019-09-10T10:28:10+01:00
 author: Paul Northup
 layout: post
-guid: 3568
+
 permalink: /2019/09/woodchester-park-trail-race-8th-september-2019/
 categories:
   - Cross Country Reports
@@ -24,4 +24,4 @@ The challenging eight-mile race followed paths weaving up and down the steep val
 
 Helen, Amelia and Nicola also won the ladies team competition on the day.
 
-<img src="/Images/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" class="3571" /> <figcaption>Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins_
+<img src="/Images/2019/09/Woodchester-2019-e1568107529508.jpg" alt="" />_Pictured from right to left: Nicola Weager, Helen Knight, Gavin Jerman, Amelia Mullins_

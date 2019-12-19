@@ -4,7 +4,7 @@ title: Ladies clean up at Cleevewold 2019
 date: 2019-04-01T11:53:43+01:00
 author: Paul Northup
 layout: post
-guid: 3446
+
 permalink: /2019/04/ladies-clean-up-at-cleevewold-2019/
 categories:
   - Cross Country Reports
@@ -20,6 +20,7 @@ In an amazing 1, 2, 3, CLC Striders ladies finished as follows …&nbsp;
 
 The CLC Striders men, meanwhile, achieved third team place overall with **Iain Porter**, **Tom Fletcher**, **Hedley Phillips** and **Gavin Jerman** running strongly.
 
-<img src="/Images/2019/04/Cleevewold-ladies-31.3.19.jpg" alt="" class="3447" width="720" height="540" srcset="/Images/2019/04/Cleevewold-ladies-31.3.19.jpg 960w, /Images/2019/04/Cleevewold-ladies-31.3.19-300x225.jpg 300w, /Images/2019/04/Cleevewold-ladies-31.3.19-768x576.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>The ladies team from left to right: Amelia Mullins, Karlien Hayrman, Rachel Vines, Rachael Cary and Helen Knight._ 
+<img src="/Images/2019/04/Cleevewold-ladies-31.3.19.jpg" alt="" />
+_The ladies team from left to right: Amelia Mullins, Karlien Hayrman, Rachel Vines, Rachael Cary and Helen Knight._ 
 
  

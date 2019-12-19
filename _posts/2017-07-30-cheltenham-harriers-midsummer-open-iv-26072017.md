@@ -4,7 +4,7 @@ title: 'Cheltenham Harriers Midsummer Open IV - 26/07/2017'
 date: 2017-07-30T20:15:48+01:00
 author: Chris Driskell
 layout: post
-guid: 2906
+
 permalink: /2017/07/cheltenham-harriers-midsummer-open-iv-26072017/
 categories:
 

@@ -4,7 +4,7 @@ title: Midsummer Open – Prince of Wales – 18 July
 date: 2018-07-22T22:51:58+01:00
 author: Paul Northup
 layout: post
-guid: 3198
+
 permalink: /2018/07/midsummer-open-prince-of-wales-18-july/
 categories:
   - Race Reports
@@ -12,7 +12,7 @@ categories:
 ---
 Cheltenham Harriers’ third Mid-Summer Open meet at The Prince Of Wales Stadium saw yet more top track and field performances from CLC Striders athletes in still-sweltering conditions.
 
-<img  src="/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg" alt="37390386_10216743281878592_243792574333059072_n" width="800" height="600" srcset="/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg 960w, /Images/2018/07/37390386_10216743281878592_243792574333059072_n-300x225.jpg 300w, /Images/2018/07/37390386_10216743281878592_243792574333059072_n-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg)
+<img src="/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg" alt="37390386_10216743281878592_243792574333059072_n"/>](/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg)
 
 <p style="text-align: right;">
   <em><span lang="EN-US">From left to right: Gareth Harries, Paul Lockyer, Andrew Gage, Nicola Weager and Mike Speke</span></em>

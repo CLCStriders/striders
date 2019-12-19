@@ -4,7 +4,7 @@ title: 'Strider of the Month - January 2016'
 date: 2016-02-04T19:31:57+00:00
 author: Clark Lawson
 layout: post
-guid: 1932
+
 permalink: /2016/02/strider-of-the-month-january-2016/
 categories:
   - Awards

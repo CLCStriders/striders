@@ -4,7 +4,7 @@ title: 'Paul Northup - VLM Training'
 date: 2016-02-05T09:00:21+00:00
 author: Clark Lawson
 layout: post
-guid: 1950
+
 permalink: /2016/02/paul-northup-vlm-training-2/
 categories:
   - Blog

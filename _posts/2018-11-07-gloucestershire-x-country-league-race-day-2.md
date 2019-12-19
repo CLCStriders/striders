@@ -4,7 +4,7 @@ title: Gloucestershire X Country League, Race Day 2
 date: 2018-11-07T11:13:44+00:00
 author: Paul Northup
 layout: post
-guid: 3265
+
 permalink: /2018/11/gloucestershire-x-country-league-race-day-2/
 categories:
   - Cross Country Reports
@@ -18,7 +18,7 @@ tags:
 
 On the second race day of the Gloucestershire Cross Country League, the CLC Ladies team did the club proud.
 
-<img  src="/Images/2018/11/Ladies-3.11.18.jpg" alt="Ladies-3.11.18" width="800" height="600" srcset="/Images/2018/11/Ladies-3.11.18.jpg 960w, /Images/2018/11/Ladies-3.11.18-300x225.jpg 300w, /Images/2018/11/Ladies-3.11.18-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/11/Ladies-3.11.18.jpg)
+<img src="/Images/2018/11/Ladies-3.11.18.jpg" alt="Ladies-3.11.18"/>](/Images/2018/11/Ladies-3.11.18.jpg)
 
 First home, in 23<sup>rd </sup>place overall and as 3<sup>rd </sup>LV35 was **Helen Knight **in a time of 28:39, with **Sarah Richards **not far behind in 27<sup>th </sup>position and a time of 29:07 and **Karlien Heyrman **in 30<sup>th </sup>in a time of 29:17.
 

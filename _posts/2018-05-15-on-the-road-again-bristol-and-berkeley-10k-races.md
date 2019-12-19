@@ -4,7 +4,7 @@ title: 'On the road again: Bristol and Berkeley 10k races'
 date: 2018-05-15T09:38:32+01:00
 author: Paul Northup
 layout: post
-guid: 3144
+
 permalink: /2018/05/on-the-road-again-bristol-and-berkeley-10k-races/
 categories:
   - Race Reports
@@ -29,7 +29,7 @@ Evergreen **JJ Willson **came home in 40:47.8 to claim 1<sup>st</sup>position i
 
 On the night, the Striders ladies also won top honours in the team competition.
 
-<img  src="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018" width="800" height="1067" srcset="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg 720w, /Images/2018/05/Ladies-Berkeley-10k-2018-225x300.jpg 225w" sizes="(max-width: 800px) 100vw, 800px" />](/Images/2018/05/Ladies-Berkeley-10k-2018.jpg)
+<img src="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018"  />](/Images/2018/05/Ladies-Berkeley-10k-2018.jpg)
 
 _Front row, left to right, Helen Knight and Nicola Weager. Second row, left to right, Patricia Sturgess, Amanda Steer and Karlien Heyrman. Top, Amelia Mullins._
 

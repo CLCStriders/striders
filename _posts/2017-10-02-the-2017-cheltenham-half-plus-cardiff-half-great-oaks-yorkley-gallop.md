@@ -4,7 +4,7 @@ title: 'The 2017 Cheltenham Half (plus Cardiff Half &#038; Great Oaks Yorkley Ga
 date: 2017-10-02T20:30:25+01:00
 author: Paul Northup
 layout: post
-guid: 2955
+
 permalink: /2017/10/the-2017-cheltenham-half-plus-cardiff-half-great-oaks-yorkley-gallop/
 categories:
   - Race Reports
@@ -18,7 +18,7 @@ The weather forecast had looked ominous all week as a large group of CLC Strider
 
 On the day, the standout performance from a CLC athlete came from **Charles Goodwin**, who came first in his Vet 50 category in a time of 1:22:36 and 33<sup>rd</sup> overall. A fantastic achievement.
 
-<img class="alignnone size-full 2957" src="/Images/2017/10/Charles-Goodwin-1.jpg" alt="Charles-Goodwin" width="594" height="611" srcset="/Images/2017/10/Charles-Goodwin-1.jpg 594w, /Images/2017/10/Charles-Goodwin-1-292x300.jpg 292w" sizes="(max-width: 594px) 100vw, 594px" />](/Images/2017/10/Charles-Goodwin-1.jpg)
+<img class="alignnone size-full 2957" src="/Images/2017/10/Charles-Goodwin-1.jpg" alt="Charles-Goodwin" width="594" height="611" />](/Images/2017/10/Charles-Goodwin-1.jpg)
 
 Next home for the club, making is debut in a CLC vest was **Mark Fuller**, who ran a perfectly judged race to duck in under his desired target time in a PB of 1:24:42. He was followed home by **Chris Driskell**, trying out over a longer distance than usual and running a well-paced race which saw him finish strongly in **1:27:13**. In sharp contrast, **Paul Northup** went out well but faded badly in the last five miles to finish as sixth male 50 Vet in a time of **1:27:56**. **Tom Vickers** also ran really well to come in under the one-hour-30-minute mark, in a time of 1:29:13.
 

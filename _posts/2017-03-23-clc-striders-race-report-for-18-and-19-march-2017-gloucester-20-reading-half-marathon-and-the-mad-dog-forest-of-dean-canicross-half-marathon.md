@@ -4,7 +4,7 @@ title: CLC Striders Race report for 18 and 19 March 2017 Gloucester 20, Reading 
 date: 2017-03-23T11:02:41+00:00
 author: Chris Driskell
 layout: post
-guid: 2644
+
 permalink: /2017/03/clc-striders-race-report-for-18-and-19-march-2017-gloucester-20-reading-half-marathon-and-the-mad-dog-forest-of-dean-canicross-half-marathon/
 categories:
 

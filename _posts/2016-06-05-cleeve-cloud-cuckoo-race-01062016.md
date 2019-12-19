@@ -4,7 +4,7 @@ title: 'Cleeve Cloud Cuckoo Race - 01/06/2016'
 date: 2016-06-05T13:05:24+01:00
 author: Chris Driskell
 layout: post
-guid: 2313
+
 permalink: /2016/06/cleeve-cloud-cuckoo-race-01062016/
 categories:
   - Cross Country Reports
@@ -37,7 +37,7 @@ categories:
 </div>
 
 <div>
-   <a href="/Images/2016/06/Attachment-1-e1464888459784.jpeg"><img  2302" src="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1"  srcset="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg 300w, /Images/2016/06/Attachment-1-e1464888459784.jpeg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+   <a href="/Images/2016/06/Attachment-1-e1464888459784.jpeg"><img src="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1"  /></a>
 </div>
 
 <div>
@@ -47,5 +47,5 @@ categories:
 </div>
 
 <div>
-  <a href="/Images/2016/06/image2-e1465128477411.jpg"><img  2315" src="/Images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" srcset="/Images/2016/06/image2-e1465128477411-225x300.jpg 225w, /Images/2016/06/image2-e1465128477411-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="/Images/2016/06/image2-e1465128477411.jpg"><img src="/Images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" /></a>
 </div>

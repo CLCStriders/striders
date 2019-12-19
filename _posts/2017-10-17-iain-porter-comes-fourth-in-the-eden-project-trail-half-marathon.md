@@ -4,7 +4,7 @@ title: Iain Porter comes fourth in the Eden Project Trail Half Marathon
 date: 2017-10-17T08:05:53+01:00
 author: Paul Northup
 layout: post
-guid: 2970
+
 permalink: /2017/10/iain-porter-comes-fourth-in-the-eden-project-trail-half-marathon/
 categories:
 

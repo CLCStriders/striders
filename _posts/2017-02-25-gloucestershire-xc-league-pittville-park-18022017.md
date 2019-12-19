@@ -4,7 +4,7 @@ title: 'Gloucestershire XC League, Pittville Park - 18/02/2017'
 date: 2017-02-25T11:18:35+00:00
 author: Chris Driskell
 layout: post
-guid: 2607
+
 permalink: /2017/02/gloucestershire-xc-league-pittville-park-18022017/
 categories:
   - Cross Country Reports

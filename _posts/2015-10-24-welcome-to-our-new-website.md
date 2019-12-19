@@ -4,7 +4,7 @@ title: Welcome to our New Website
 date: 2015-10-24T21:37:16+01:00
 author: Clark Lawson
 layout: post
-guid: 1654
+
 permalink: /2015/10/welcome-to-our-new-website/
 categories:
 

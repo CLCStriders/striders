@@ -4,7 +4,7 @@ title: 'GWR Towpath Multi-Terrain 10km - 28/07/2017'
 date: 2017-07-29T18:53:39+01:00
 author: Chris Driskell
 layout: post
-guid: 2904
+
 permalink: /2017/07/gwr-towpath-multi-terrain-10km-28072017/
 categories:
   - Cross Country Reports

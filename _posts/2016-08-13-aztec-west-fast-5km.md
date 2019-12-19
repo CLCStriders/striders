@@ -4,7 +4,7 @@ title: 'Aztec West Fast 5km - 26/07/2016'
 date: 2016-08-13T19:36:40+01:00
 author: Chris Driskell
 layout: post
-guid: 2411
+
 permalink: /2016/08/aztec-west-fast-5km/
 categories:
 

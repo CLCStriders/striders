@@ -1,18 +1,9 @@
 ---
-
 title: Midland Road Relays, Sutton Park, 23.3.19﻿
-date: 2019-03-31T11:45:11+01:00
 author: Paul Northup
 layout: post
-guid: 3429
-permalink: '/2019/03/midland-road-relays-sutton-park-23-3-19%ef%bb%bf/'
 categories:
-  - Race Reports
   - Road Reports
-
-tags:
-  - Midland Counties Road Relay
-  - Sutton Park
 ---
 Saturday 23 March 2019 saw a CLC Striders ladies team travelling north to compete in the beautiful setting of Sutton Park across its undulating parkland in the annual Midland Spring Road Relays.
 
@@ -24,4 +15,6 @@ On the day, CLC were one of only two ladies teams from Gloucestershire competing
 
 The remaining three 5k legs were run by **Nicola Weager**, **Becky Reynolds** and **Charlie Haward**. All ran amazingly consistent and similar times of 25:28, 25:27 and 25:52 respectively, ensuring that the team finished in 35<sup>th</sup>place overall on the day – out of more than 60 teams – in a cumulative time of 2:57:49.
 
-<img src="/Images/2019/03/Midland-Road-Relays-23.3.19.jpg" alt="" class="3431" width="720" height="644" srcset="/Images/2019/03/Midland-Road-Relays-23.3.19.jpg 960w, /Images/2019/03/Midland-Road-Relays-23.3.19-300x268.jpg 300w, /Images/2019/03/Midland-Road-Relays-23.3.19-768x686.jpg 768w" sizes="(max-width: 720px) 100vw, 720px" /> <figcaption>Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward_
+<img src="/Images/2019/03/Midland-Road-Relays-23.3.19.jpg" alt="Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward" />
+
+_Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward_

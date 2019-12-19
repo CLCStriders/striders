@@ -9,7 +9,7 @@ On an unseasonably mild afternoon, CLC Striders ladies and men’s teams turned 
 
 For the ladies especially, it was to mark the end of another very strong season, with the ladies vet team finishing in first place on the day and second place across the four races; and with individual honours going to Helen Knight, with a bronze in her LV35 category, and to Amelia Mullins and Amanda Steer for silver and bonze respectively in their LV45 age category.
 
-<img class="3326" src="/Images/2019/02/Ladies-17.2.19.jpg" alt="Ladies-17.2.19" />
+<img src="/Images/2019/02/Ladies-17.2.19.jpg" alt="Ladies-17.2.19" />
 
 _Striders ladies, from left to right: Rachel Vines, Helen Knight, Amelia Mullins, Rachael Cary, Amanda Steer and Charlie Haward._ 
 

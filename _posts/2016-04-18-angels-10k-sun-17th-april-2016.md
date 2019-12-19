@@ -4,7 +4,7 @@ title: 'Angels 10k - Sun 17th April 2016'
 date: 2016-04-18T07:59:18+01:00
 author: Clark Lawson
 layout: post
-guid: 2114
+
 permalink: /2016/04/angels-10k-sun-17th-april-2016/
 categories:
   - Race Reports
@@ -12,7 +12,7 @@ categories:
 ---
 <div style="float: right; padding: 20px 20px 20px 20px; width: 285px;">
   <p>
-    <img class="alignright 2115" src="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" srcset="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg 265w, /Images/2016/04/CLC-Striders-Angels-10k.jpg 848w" sizes="(max-width: 265px) 100vw, 265px" />
+    <img class="alignright 2115" src="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" />
   </p>
 </div>
 
