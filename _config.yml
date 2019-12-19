@@ -25,6 +25,6 @@ toc:            true
 exclude:        ["README"]
 sass:
   style:        compressed
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
