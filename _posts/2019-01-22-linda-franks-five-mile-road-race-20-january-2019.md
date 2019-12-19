@@ -27,6 +27,7 @@ Stand-out individual performance on the day came from the ever-improving **Tom K
 But if it was the individual men who came home first, once again it was the Striders ladies who ran the best team race overall – bagging first ladies team place in the process. First home was **Rachael Cary** in a very swift 31:27 and she was followed home in a PB time of 32:05 by **Helen Knight** and **Karlien Heyrman** in a solid 32:13. **Rachael** was the 4<sup>th </sup>lady finisher overall and 2<sup>nd </sup>in her category, while **Helen** was 7<sup>th </sup>lady overall and **Karlien** 9<sup>th</sup>. With three finishers in the top 10 of the ladies race, CLC ran away with the ladies team competition.
 
 <img src="/Images/2019/01/Rachael-Linda-Franks-2019.jpg" alt="Rachael Cary finishing strongly"/>
+
 _Rachael Cary finishing strongly_ 
 
 Recovering vet **Paul Northup** came home in the top 50 in a time of 32:16, with fellow fellow vet **Tim Brock** smashing his PB by finishing in 34:45. **Gary Smith** continued to improve his form with a PB time of 34:55, and super-vet **Ed Collier** bagged 35:58 on the day.
