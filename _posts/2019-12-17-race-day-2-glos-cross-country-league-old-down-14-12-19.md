@@ -3,7 +3,7 @@ title: 'Race Day 2: Glos Cross Country League, Old Down, 14.12.19'
 author: Paul Northup
 layout: post
 categories:
-  - Race Reports
+  - Cross Country Reports
 ---
 
 Race Day 2 of the Gloucestershire Cross Country League saw runners from all over the county descend on Old Down near Thornbury to slog it out over the muddy parkland there. After torrential rain in the preceding days the ground was churned up from the start and conditions deteriorated with each race, adding to the challenge!
