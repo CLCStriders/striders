@@ -67,7 +67,7 @@ footer p {
 	margin-inline-start:0px;
 }
 
-.jumbotron { padding: 2rem; }
+.jumbotron { padding: 2rem; !important }
 
 .postHeader {
     clear: both;
@@ -122,8 +122,10 @@ a.skip-main:focus, a.skip-main:active {
 		margin-inline-end:0px;
 		margin-inline-start:0px;
 	 }
+	
+	.jumbotron { padding: 1rem; !important }
 
-    aside {
+        aside {
         float:none;
         clear:both;
         width:100%;
