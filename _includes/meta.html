@@ -1,5 +1,5 @@
-<meta charset="utf-8">
-<meta name="description" content="{{ page.description }} | {{ site.description }} | {{ site.title }}">
+﻿<meta charset="utf-8">
+<meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no" />
 <meta name="format-detection" content="address=True" />
@@ -22,12 +22,30 @@
 <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
 <link rel="shortcut icon" href="/img/favicon.ico">
 <link rel="manifest" href="/site.webmanifest">
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
 <link rel="stylesheet" href="/css/master.css?version={{ site.cache }}">
 <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }} xml" href="{{ site.url }}/feed.xml">
 <link rel="alternate" type="application/json" title="{{ site.name }} json" href="{{ site.url }}/feeds/feed.json">
-<script src="https://kit.fontawesome.com/05b6df542d.js" crossorigin="anonymous" integrity="sha384-tCIa9x35rFwAnPYwDCoqImEiB9Ai31jfzeslK4Q53KZAXSFi24Px912eIpefo9Bj"></script>
 <!-- bootstrap (sourced from https://datatables.net/download/index) -->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.css?v={{ site.cache }}" crossorigin="anonymous" />
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.js?v={{ site.cache }}" crossorigin="anonymous"></script>
+
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/Images/{{ page.image }}" />
+<meta property="og:site_name" content="CLC Striders Running Club Website">
+<meta property="article:publisher" content="http://www.facebook.com/clcstriders" />
+<meta property="article:author" content="https://www.facebook.com/clcstriders" />
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:site" content="@clcstriders" />
+<meta name="twitter:creator" content="@clcstriders">
+<meta name="twitter:card" content="summary">
