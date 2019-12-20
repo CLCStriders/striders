@@ -2,6 +2,7 @@
 title: Fixtures
 source: fix.csv
 layout: data
+dataFlag: true
 
 ---
 
