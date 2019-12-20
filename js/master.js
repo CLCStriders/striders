@@ -13,7 +13,3 @@ if(selection) {
   document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
 }
 
-// datatables
-$(document).ready(function() {
-    $('#output_table_data').DataTable();
-} );
