@@ -69,8 +69,12 @@ $(document).ready(function(){
  });
  
 });
+  
 </script>
-           </div>
+           </div>         
+          <div id="siteData">
+             <script>$('#siteData').DataTable( { "data" : "{{ site.data.fixtures | jsonify }}" );</script>
+          </div>
         </div>          
      {% include footer.html %}
   </body>
