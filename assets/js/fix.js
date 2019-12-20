@@ -1,3 +1,6 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
 $('#site_data_fixtures').DataTable({ 
 ajax : {{ site.data.fixtures | jsonify }},
 columns: [

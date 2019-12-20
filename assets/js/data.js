@@ -1,6 +1,11 @@
-$(document).ready(function(){
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+$(document).ready(function () {
  $('#load_data').ready(function(){
-  $.ajax({
+     $.ajax({-- -
+         # Front matter comment to ensure Jekyll properly reads file.
+         ---
    url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/{{ page.source }}?v={{ site.cache }}",
    dataType:"text",
    success:function(data)
