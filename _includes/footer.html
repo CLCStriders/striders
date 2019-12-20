@@ -59,7 +59,7 @@
                 success:function(data)
                 {
                     var row_data = data.split(/\r?\n|\r/);
-                    var table_data = '<table id="output_table_data" class="display table table-bordered table-striped table-hover table-sm .table-responsive">';
+                    var table_data = '<table id="output_table_data" class="display table table-bordered table-striped table-hover table-sm table-responsive">';
                     for(var count = 0; count<row_data.length; count++)
                     {
                         if( count === 0 ) {
@@ -101,12 +101,21 @@
                     }
                     table_data += '</tbody></table>';
      
-                    $('#output_table_div').html(table_data);
-                }
-            });
-        });
- 
-    });
+                    $('#output_table_div').html(table_data).DataTable({
+                        columns: [
+                            { data: "Type" },
+                            { data: "Gender" },
+                            { data: "Distance" },
+                            { data: "Age Group" },
+                            { data: "Holder" },
+                            { data: "Time" },
+                            { data: "Venue" },
+                            { data: "Date" }
+                        ]
+                    });
+
+                    console.log(url);
+                });
 </script>
 {% else %}
 <script async src="/assets/js/fix.js?v={{ site.cache }}"></script>
