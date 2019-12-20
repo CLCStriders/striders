@@ -9,7 +9,6 @@ layout: default
         <em>{{ page.date | date: "%-d %B %Y" }}</em>  
     </span>
     <span style="clear:both; float:none;">&nbsp;</span> 
-    <h2>{{ page.title }}</h2>
     <span class="read-time" title="Estimated read time"><small>
         <em>{% assign words = content | number_of_words %}
             approx {% if words < 360 %} 1 min read. 
