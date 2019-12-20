@@ -56,10 +56,7 @@ $(document).ready(function () {
     $('#output_table_div').html(table_data);
    }
   });
- });
-
- var myData = {{ site.data.fixtures | jsonify
- }},
+ }),
     $('#output_table_div').DataTable({
         columns: [
             { data: "Type" },
