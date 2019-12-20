@@ -76,7 +76,8 @@ $(document).ready(function(){
           </table>
              <script>
                var fixData = {{ site.data.fixtures | jsonify }}
-               $('#siteData').DataTable( { "data" : fixData,
+               $('#siteData').DataTable( { 
+                  data : fixData,
                   columns: [
                       { title: "Date" },
                       { title: "Race" },
