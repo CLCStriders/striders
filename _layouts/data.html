@@ -15,7 +15,6 @@
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
-    // {{ site.data.fixtures | jsonify }}
    url:"https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/{{ page.source }}?v={{ site.cache }}",
    dataType:"text",
    success:function(data)
@@ -72,9 +71,19 @@ $(document).ready(function(){
   
 </script>
            </div>         
-          <div id="siteData">
+
+            <table id="siteData" class="display table table-bordered table-striped table-hover table-sm .table-responsive">
+              <thead>
+                  <tr>
+                    <th data-field="Date">Date</th>
+                    <th data-field="Race">Race</th>
+                    <th data-field="Distance">Distance</th>
+                    <th data-field="Terrain">Terrain</th>
+                  </tr>
+              </thead>
+          </table>
              <script>$('#siteData').DataTable( { "data" : "{{ site.data.fixtures | jsonify | limit: 1 }}" } );</script>
-          </div>
+
         </div>          
      {% include footer.html %}
   </body>
