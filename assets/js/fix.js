@@ -10,4 +10,8 @@ columns: [
         { data: "Race" },
         { data: "Distance" },
         { data: "Terrain" }
-]} );
+    ]
+});
+
+
+$('#committee').DataTable();
