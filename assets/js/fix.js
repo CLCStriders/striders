@@ -1,11 +1,13 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
+
+var myData = {{ site.data.fixtures | jsonify }};
 $('#site_data_fixtures').DataTable({ 
-Data : "{{ site.data.fixtures | jsonify }}",
+Data : myData,
 columns: [
-        { data: 0 },
-        { data: 2 },
-        { data: 3 },
-        { data: 4 }
+        { data: "Data" },
+        { data: "Race" },
+        { data: "Distance" },
+        { data: "Terrain" }
 ]} );
