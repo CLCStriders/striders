@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
@@ -55,5 +54,3 @@ $(document).ready(function(){
  });
  
 });
-  
-</script>

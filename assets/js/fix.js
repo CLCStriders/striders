@@ -1,5 +1,3 @@
-<script>
-
 $('#site_data_fixtures').DataTable({ 
 ajax : {{ site.data.fixtures | jsonify }},
 columns: [
@@ -7,6 +5,4 @@ columns: [
         { data: 2 },
         { data: 3 },
         { data: 4 }
-]} );      
-
-</script> 
+]} );
