@@ -1,4 +1,4 @@
-cache:          site.fithub.version
+cache:          site.github.version
 highlighter:    rouge
 markdown:       kramdown
 kramdown:
