@@ -1,6 +1,6 @@
 ---
 title: Fixtures
-source: fixtures.csv
+source: fix.csv
 layout: data
 
 ---
