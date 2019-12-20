@@ -73,7 +73,7 @@ $(document).ready(function(){
 </script>
            </div>         
           <div id="siteData">
-             <script>$('#siteData').DataTable( { "data" : "{{ site.data.fixtures | jsonify | limit: 1 }}" );</script>
+             <script>$('#siteData').DataTable( { "data" : "{{ site.data.fixtures | jsonify | limit: 1 }}" } );</script>
           </div>
         </div>          
      {% include footer.html %}
