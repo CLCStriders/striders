@@ -1,5 +1,4 @@
-cache:          56fg67gh89ab
-
+cache:          gh57ab23gh
 highlighter:    rouge
 markdown:       kramdown
 kramdown:
@@ -23,6 +22,4 @@ toc:            true
 exclude:        ["README"]
 sass:
   style:        compressed
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+plugins:        [ jekyll-feed, jekyll-paginate]
