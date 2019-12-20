@@ -82,8 +82,16 @@ $(document).ready(function(){
                   </tr>
               </thead>
           </table>
-             <script>$('#siteData').DataTable( { "data" : "{{ site.data.fixtures | jsonify | pretty_json | limit: 1 }}" } );</script>
-
+             <script>
+               var fixData = {{ site.data.fixtures | jsonify }}
+               $('#siteData').DataTable( { "data" : fixData,
+                  columns: [
+                      { title: "Date" },
+                      { title: "Race" },
+                      { title: "Distance" },
+                      { title: "Terrain." }]
+                  } );          
+          </script>
         </div>          
      {% include footer.html %}
   </body>
