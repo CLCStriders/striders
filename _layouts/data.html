@@ -74,14 +74,14 @@ $(document).ready(function(){
                   </tr>
               </thead>
           </table>
-             <script>
+          <script>
                var fixData = {{ site.data.fixtures | jsonify }}
                $('#siteData').DataTable( { 
-                  data : fixData,
+                  ajax : fixData,
                   columns: [
-                      { title: "Date" },
-                      { title: "Race" },
-                      { title: "Distance" },
-                      { title: "Terrain" }]
-                  } );          
+                          { data: 0 },
+                          { data: "<a href='" 1 "'>" 2 "</a>" },
+                          { data: 3 },
+                          { data: 4 }
+                  ]} );          
           </script>
