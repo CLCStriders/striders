@@ -13,9 +13,9 @@ $(function() {
         "/offline/"
     ];
     const staticAssets = [
-        "/assets/css/",
-        "/assets/js/",
-        "/assets/img/"
+ //     "/assets/css/",
+ //     "/assets/js/",
+ //     "/assets/img/"
     ];
 
     function updateStaticCache() {
