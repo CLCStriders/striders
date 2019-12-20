@@ -14,4 +14,4 @@ columns: [
 });
 
 
-$('#committee').DataTable();
+$('.committee').DataTable();
