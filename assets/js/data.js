@@ -57,5 +57,18 @@ $(document).ready(function () {
    }
   });
  });
- 
+
+ var myData = {{ site.data.fixtures | jsonify
+ }},
+    $('#output_table_div').DataTable({
+        columns: [
+            { data: "Type" },
+            { data: "Gender" },
+            { data: "Distance" },
+            { data: "Age Group" },
+            { data: "Holder" },
+            { data: "Time" },
+            { data: "Venue" }
+        ]
+    })
 });
