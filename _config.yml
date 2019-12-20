@@ -1,4 +1,4 @@
-cache:          site.github.version
+cache:          version201912202336
 highlighter:    rouge
 markdown:       kramdown
 kramdown:
