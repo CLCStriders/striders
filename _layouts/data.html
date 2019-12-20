@@ -1,7 +1,6 @@
-{% include header.html %}
-        <div class="container">
-            <h2>{{ page.title }}</h2>
-            {{ page.content }}
+---
+layout: default
+---
             
             <div id="output_table_div">
                 <script>
@@ -85,5 +84,3 @@ $(document).ready(function(){
                       { title: "Terrain" }]
                   } );          
           </script>
-        </div>          
-    {% include footer.html %}
