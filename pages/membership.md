@@ -2,7 +2,7 @@
 layout: default
 title: Membership
 membershipLink : https://www.entrycentral.com/CLCMembership
-
+membershipForm : /assets/clc-striders-membership-form.pdf
 ---
 
 Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesady evening training sessions for a trial run. Once you’ve decided you want to join and take full opportunity of the membership benefits:
@@ -20,4 +20,4 @@ Thinking of joining CLC Striders? Please come along to one of our Monday or Wedn
 
 The club also offer half year memberships from the 1st October. Please contact the membership secretary for more information
 
-Alternatively, please complete a <a href="/assets/clc-striders-membership-form.pdf">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
+Alternatively, please complete a <a href="{{ page.membershipForm }}">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
