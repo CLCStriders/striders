@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-   <title>{{ page.title }} — {{ site.name }}</title>
-    {% include meta.html %}
-  </head>
-  <body>
-        {% include header.html %}
-        <div class="container">
+{% include header.html %}
+        <div id="main" class="container">
             <div class="postHeader">
                 <span class="float-left">
-                    <a href="/pages/news" class="back-to-front" title="Back to all posts">&larr; back</a>
+                    <a href="/pages/news" class="back-to-front" title="Back to all posts">&laquo; back</a>
                 </span> 
                 <span class="post-date float-right">
                     <em>{{ page.date | date: "%-d %B %Y" }}</em>  
@@ -79,9 +72,6 @@
                     {% endfor %}
                 </ul>
             </div>
-            {% endif %}
- 
+            {% endif %} 
         </div>
-      {% include footer.html %}
-  </body>
-</html>
+{% include footer.html %}
