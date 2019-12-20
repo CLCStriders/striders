@@ -1,5 +1,5 @@
-cache:          version201912202336
-highlighter:    rouge
+cache:          version201912202340
+highlighter:    pygments
 markdown:       kramdown
 kramdown:
   parse_block_html: true
