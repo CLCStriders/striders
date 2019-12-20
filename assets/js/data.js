@@ -1,6 +1,7 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
+
 $(document).ready(function () {
  $('#load_data').ready(function(){
      $.ajax({
