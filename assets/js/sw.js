@@ -1,17 +1,8 @@
-/*
-This is a (very, very lightly) modified version of Jeremy Keith’s service worker (https://adactio.com/serviceworker.js), with a few additional edits borrowed from Filament Group’s. (https://www.filamentgroup.com/sw.js)
-
-Thanks to both Jeremy and Filament Group for this, and everything else they do.
-
-https://adactio.com/about/
-https://www.filamentgroup.com/
-*/
-
 (function() {
     "use strict";
 
     const version = "v20191218";
-    const cacheName = version + "::ethanmarcotte:";
+    const cacheName = version + "Striders";
 
     const staticCacheName = cacheName + "static";
     const pagesCacheName = cacheName + "pages";
@@ -19,41 +10,12 @@ https://www.filamentgroup.com/
 
     const offlinePages = [
         "/",
-        "/wrote/getting-to-work/",
-        "/wrote/the-world-wide-work/",
-        "/wrote/amphora/",
-        "/wrote/three-bowls/",
-        "/wrote/columbia-and-elm-fairfield-and-gloucester/",
-        "/contact/",
-        "/wrote/",
         "/offline/"
     ];
     const staticAssets = [
-        "/dist/css/main.20191218.css",
-        "/dist/js/initial.20191218.js",
-        "/dist/js/main.20191218.js",
-        "/data/posts.20191218.json",
-        "/dist/img/fox.svg",
-        "/touchicon-196.png",
-        "/img/ethan-intro-sm.jpg",
-        "/img/ethan-intro-sm.webp",
-        "/img/ethan-intro-sm@2x.jpg",
-        "/img/ethan-intro-sm@2x.webp",
-        "/img/ethan-intro.jpg",
-        "/img/ethan-intro.webp",
-        "/img/ethan-intro@2x.jpg",
-        "/img/ethan-intro@2x.webp",
-        "/dist/img/book-rdpp.svg",
-        "/dist/img/book-rwd.svg",
-        "/dist/img/left.svg",
-        "/dist/img/right.svg",
-        "/dist/img/search.svg",
-        "/type/tiempos.woff2",
-        "/type/tiempos-italic.woff2",
-        "/type/tiempos-semibold.woff2",
-        "/type/tiempos-semibolditalic.woff2",
-        "/type/untitledsans.woff2",
-        "/type/untitledsans-bold.woff2"
+        "/assets/css/",
+        "/assets/js/",
+        "/assets/img/"
     ];
 
     function updateStaticCache() {
@@ -124,11 +86,6 @@ https://www.filamentgroup.com/
     self.addEventListener( "fetch", event => {
         let request = event.request;
         let url = new URL( request.url );
-
-        // Ignore requests to some directories
-        if ( request.url.indexOf( "/mailroom" ) !== -1 ) {
-            return;
-        }
 
         // Ignore non-GET requests
         if ( request.method !== "GET" ) {
