@@ -2,8 +2,8 @@
 layout: default
 ---
             
-            <div id="output_table_div">
-                <script>
+<div id="output_table_div"><div>
+<script>
 $(document).ready(function(){
  $('#load_data').ready(function(){
   $.ajax({
@@ -62,26 +62,3 @@ $(document).ready(function(){
 });
   
 </script>
-           </div>         
-
-            <table id="siteData" class="display table table-bordered table-striped table-hover table-sm .table-responsive">
-              <thead>
-                  <tr>
-                    <th data-field="Date">Date</th>
-                    <th data-field="Race">Race</th>
-                    <th data-field="Distance">Distance</th>
-                    <th data-field="Terrain">Terrain</th>
-                  </tr>
-              </thead>
-          </table>
-          <script>
-               var fixData = {{ site.data.fixtures | jsonify }}
-               $('#siteData').DataTable( { 
-                  ajax : fixData,
-                  columns: [
-                          { data: 0 },
-                          { data: 2 },
-                          { data: 3 },
-                          { data: 4 }
-                  ]} );          
-          </script>
