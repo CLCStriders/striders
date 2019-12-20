@@ -1,4 +1,6 @@
-$(function() {
+/*
+  (function() {
+ 
     "use strict";
 
     const version = "v20191218";
@@ -153,3 +155,4 @@ $(function() {
         }
     });
 } )();
+*/
