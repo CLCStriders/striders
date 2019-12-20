@@ -1,6 +1,6 @@
 ---
 title: Club Records
-source: records.csv
+source: https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/records.csv
 layout: default
 dataFlag: true
 ---
