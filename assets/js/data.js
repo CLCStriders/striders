@@ -65,7 +65,8 @@ $(document).ready(function () {
             { data: "Age Group" },
             { data: "Holder" },
             { data: "Time" },
-            { data: "Venue" }
+            { data: "Venue" },
+            { data: "Date" }
         ]
     })
 });
