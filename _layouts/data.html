@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>    
-    {% include meta.html %}
-    <title>{{ site.name }}</title>
-  </head>
-  <body>
-        {% include header.html %}
+{% include header.html %}
         <div class="container">
             <h2>{{ page.title }}</h2>
             {{ page.content }}
@@ -93,6 +86,4 @@ $(document).ready(function(){
                   } );          
           </script>
         </div>          
-     {% include footer.html %}
-  </body>
-</html>
+    {% include footer.html %}
