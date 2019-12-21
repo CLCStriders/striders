@@ -1,5 +1,6 @@
 cache:          ffs20192021-16
 markdown:       kramdown
+highlighter:    rouge
 kramdown:
   parse_block_html: true
 permalink:      ./:title
