@@ -13,9 +13,9 @@
 //    ]
 //});
 
-var fixData = { "Rows": {{ site.data.fixtures | jsonify }} };
-console.log(fixData);
-
+//var fixData = { "Rows": {{ site.data.fixtures | jsonify }} };
+//console.log(fixData);
+//
 //$(document).ready(function () {
 //    $("#site_data_fixtures").DataTable({
 //        "ajax": fixData,
@@ -27,3 +27,6 @@ console.log(fixData);
 //        ]
 //    });
 //});
+
+var table = $("#site_data_fixtures").DataTable();
+table.rows.add( {{ site.data.fixtures | jsonify }} ).draw();

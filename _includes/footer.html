@@ -92,14 +92,18 @@
                     table_data += '</tbody></table>';
 
                     $('#output_table_div').html(table_data);
-                  //  $('#output_table_data').DataTable({ Data: table_data });
+                    //  $('#output_table_data').DataTable({ Data: table_data });
                 }
             });
         });
     });
 </script>
 {% else %}
-<script src="/assets/js/fix.js?v={{ site.cache }}"></script>
+<script>
+    // src="/assets/js/fix.js?v={{ site.cache }}"
+    var table = $("#site_data_fixtures").DataTable();
+    table.rows.add( {{ site.data.fixtures | jsonify }} ).draw();
+</script>
 {% endif %}
 <script>
     // add bootstrap table to all tables
@@ -117,7 +121,7 @@
         document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
     }
 
-    $('.display').DataTable({ "paging": {{ page.paging | default: true }}, "info": {{ page.info | default: true }}, "scrollX": {{ page.scrollx | default: false }} });
+    $('.committee').DataTable({ "paging": {{ page.paging | default: false }}, "info": {{ page.info | default: false }}, "scrollX": {{ page.scrollx | default: false }} });
 
 
 </script>
