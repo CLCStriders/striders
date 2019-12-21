@@ -16,14 +16,14 @@
 var fixData = { "Rows": {{ site.data.fixtures | jsonify }} };
 console.log(fixData);
 
-$(document).ready(function () {
-    $("#site_data_fixtures").DataTable({
-        "ajax": fixData,
-        "columns": [
-            { data: "Date" },
-            { data: "Race" },
-            { data: "Distance" },
-            { data: "Terrain" }
-        ]
-    });
-});
+//$(document).ready(function () {
+//    $("#site_data_fixtures").DataTable({
+//        "ajax": fixData,
+//        "columns": [
+//            { data: "Date" },
+//            { data: "Race" },
+//            { data: "Distance" },
+//            { data: "Terrain" }
+//        ]
+//    });
+//});
