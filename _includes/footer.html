@@ -91,8 +91,7 @@
                     table_data += '</tbody>';
 
                     // records
-                    $('#site_data_records').html(table_data);
-                    $('#site_data_records').DataTable({ "paging": true, "info": true, "scrollX": true });
+                    $('#site_data_records').html(table_data).then(DataTable({ "paging": true, "info": true, "scrollX": true }));
                 }
             });
         });
@@ -108,7 +107,7 @@
     // src="/assets/js/fix.js?v={{ site.cache }}"
     // fixtures
     var jsonData =  {{ site.data.fixtures | jsonify }} ;
-    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false });
+    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false }, columnDefs: [{ targets: '_all', defaultContent: "" }]);
     table.rows.add( jsonData ).draw();
 
     // committee page
