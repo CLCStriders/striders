@@ -1,6 +1,5 @@
 ---
 title: Fixtures
-source: fix.csv
 layout: default
 
 ---
