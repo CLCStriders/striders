@@ -99,15 +99,11 @@
     });
 </script>
 {% else %}
-<script>
-    // src="/assets/js/fix.js?v={{ site.cache }}"
-    var table = $("#site_data_fixtures").DataTable();
-    table.rows.add( {{ site.data.fixtures | jsonify }} ).draw();
-</script>
+
 {% endif %}
 <script>
     // add bootstrap table to all tables
-    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm table-responsive'); });
+    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm'); });
 
 // homepage callout
     var taglines=[
@@ -120,6 +116,10 @@
     if(selection) {
         document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
     }
+
+    // src="/assets/js/fix.js?v={{ site.cache }}"
+    var table = $("#site_data_fixtures").DataTable();
+    table.rows.add( {{ site.data.fixtures | jsonify }} ).draw();
 
     $('.committee').DataTable({ "paging": {{ page.paging | default: false }}, "info": {{ page.info | default: false }}, "scrollX": {{ page.scrollx | default: false }} });
 
