@@ -1,5 +1,4 @@
-/*
-  (function() {
+(function() {
  
     "use strict";
 
@@ -12,12 +11,11 @@
 
     const offlinePages = [
         "/",
-        "/offline/"
+        "/offline.html"
     ];
     const staticAssets = [
- //     "/assets/css/",
- //     "/assets/js/",
- //     "/assets/img/"
+         "/assets/css/master.scss",
+         "/assets/img/logo.png"
     ];
 
     function updateStaticCache() {
@@ -155,4 +153,3 @@
         }
     });
 } )();
-*/
