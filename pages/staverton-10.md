@@ -6,22 +6,23 @@ signUpUrl : https://www.entrycentral.com/event/111305
 signUpYear: 2020
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-State: full
+state: full
+
 ---
- {% if page.state == open %}
-	<div class="alert alert-success" role="alert">
-	<a href="{{ page.signUpUrl }}">The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!</a>
-	</div>
+ {% if page.state == "open" %}
+<div class="alert alert-success" role="alert">
+<a href="{{ page.signUpUrl }}">The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!</a>
+</div>
 {% endif %}
- {% if page.state == full %}
-	<div class="alert alert-warning" role="alert">
-	Unfortunately places in the {{ page.signUpYear }} Staverton 10 have sold out!</a>
-	</div>
+ {% if page.state == "full" %}
+<div class="alert alert-warning" role="alert">
+Unfortunately places in the {{ page.signUpYear }} Staverton 10 have sold out!</a>
+</div>
 {% endif %}
- {% if page.state == closed %}
-	<div class="alert alert-danger" role="alert">
-	Entries for the Staverton 10 are currently closed.
-	</div>
+ {% if page.state == "closed" %}
+<div class="alert alert-danger" role="alert">
+Entries for the Staverton 10 are currently closed.
+</div>
 {% endif %}
 
 CLC Striders hold the Staverton 10 in January every year and with Race HQ being at The Aviator Inn, Gloucestershire Airport.
