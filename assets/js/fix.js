@@ -2,7 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-var myData = {{ site.data.fixtures | jsonify }};
+var myData = "{{ site.data.fixtures | jsonify }}";
 $('#site_data_fixtures').DataTable({ 
 Data : myData,
 columns: [
@@ -14,4 +14,4 @@ columns: [
 });
 
 
-$('.committee').DataTable({ "paging": false });
+$('.committee').DataTable({ "paging": false, "info": false});
