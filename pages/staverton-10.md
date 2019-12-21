@@ -16,7 +16,7 @@ state: full
 {% endif %}
  {% if page.state == "full" %}
 <div class="alert alert-warning" role="alert">
-Unfortunately places in the {{ page.signUpYear }} Staverton 10 have sold out!</a>
+Unfortunately places in the {{ page.signUpYear }} Staverton 10 have sold out!
 </div>
 {% endif %}
  {% if page.state == "closed" %}
