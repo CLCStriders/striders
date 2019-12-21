@@ -49,7 +49,7 @@
 {% if page.dataFlag %}
 <script>
     $(document).ready(function() {
-        $('#load_data').ready(function() {
+        $('#output_table_div').ready(function() {
             $.ajax({
                 url: "{{ page.source }}?v={{ site.cache }}",
                 dataType: "text",
@@ -93,22 +93,12 @@
                     table_data += '</tbody></table>';
 
                     $('#output_table_div').html(table_data);
-
-                    $('#output_table_data').DataTable({
-                        columns: [
-                            { data: "Type" },
-                            { data: "Gender" },
-                            { data: "Distance" },
-                            { data: "Age Group" },
-                            { data: "Holder" },
-                            { data: "Time" },
-                            { data: "Venue" },
-                            { data: "Date" }
-                        ]
-                    });
-                }
-            })
+                })
         })
+    });
+
+    $('#output_table_div').ready(function() {
+        $('#output_table_data').DataTable({ "scrollX": true });
     });
 </script>
 {% else %}
