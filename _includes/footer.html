@@ -92,17 +92,15 @@
                     }
                     table_data += '</tbody></table>';
 
-                    $('#output_table_div').html(table_data);
+                    $('#output_table_div').html(table_data).wait(function() { $('#output_table_data').DataTable({ "scrollX": true }); });
                 }
             });
         });
     });
-
-    $('#output_table_div').ready(function() { $('#output_table_data').DataTable({ "scrollX": true }); });
 </script>
 {% else %}
 <script async src="/assets/js/fix.js?v={{ site.cache }}"></script>
 {% endif %}
-<script src="/assets/js/app.js"></script>
+<script async src="/assets/js/app.js"></script>
 </body>
 </html>

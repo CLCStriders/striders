@@ -1,5 +1,5 @@
-cache:          ffs20192021-25
-highlighter:    rouge
+cache:          ff1636xx
+highlight:      rouge
 markdown:       kramdown
 kramdown:
   parse_block_html: true
