@@ -4,6 +4,8 @@ source: fix.csv
 layout: default
 dataFlag: false
 dataFix: true
+paging: true
+info: true
 
 ---
 <!--<div id="output_table_div"></div>-->

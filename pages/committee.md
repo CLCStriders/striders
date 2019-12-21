@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Committee
+paging: false
+info: false
 ---
 
 The club is run on a volunteer basis and the commitee is elected at the club AGM

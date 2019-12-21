@@ -3,6 +3,9 @@ title: Club Records
 source: https://raw.githubusercontent.com/ChelseaStats/striders/master/_data/records.csv
 layout: default
 dataFlag: true
+paging: true
+info: true
+scrollx : true
 ---
 
 <p>The club are active in road, track and cross country races with the road and track offering our members the opportunity to set club records at a particular distance.</p>

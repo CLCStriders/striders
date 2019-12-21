@@ -13,4 +13,4 @@ if(selection) {
   document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
 }
 
-$('.display').DataTable({ "paging": false, "info": false });
+$('.display').DataTable({ "paging": {{ page.paging | default: true }}, "info": {{ page.info | default: true }}, "scrollX": {{ page.scrollx | default: false }} });
