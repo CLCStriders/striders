@@ -55,7 +55,7 @@
                 success: function(data) {
                     var row_data = data.split(/\r?\n|\r/);
                     var table_data =
-                        '<table id="output_table_data" class="display table table-bordered table-striped table-hover table-sm table-responsive">';
+                        '<table id="output_table_data">';
                     for (var count = 0; count < row_data.length; count++) {
                         if (count === 0) {
                             table_data += '<thead>';
@@ -118,12 +118,13 @@
     }
 
     // src="/assets/js/fix.js?v={{ site.cache }}"
-    var table = $("#site_data_fixtures").DataTable();
-    table.rows.add( {{ site.data.fixtures | jsonify }} ).draw();
+    var jsonData =  {{ site.data.fixtures | jsonify }} ;
+    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false });
+    table.rows.add( jsonData ).draw();
 
-    $('.committee').DataTable({ "paging": {{ page.paging | default: false }}, "info": {{ page.info | default: false }}, "scrollX": {{ page.scrollx | default: false }} });
+    $(".committee").DataTable({ "paging": false, "info": false, "scrollX": false });
 
-
+    $("#output_table_data").DataTable({ "paging": true, "info": true, "scrollX": true });
 </script>
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
 </body>

@@ -2,10 +2,6 @@
 title: Fixtures
 source: fix.csv
 layout: default
-dataFlag: false
-dataFix: true
-paging: true
-info: true
 
 ---
 <!--<div id="output_table_div"></div>-->
@@ -14,7 +10,7 @@ info: true
    The committee have gathered a list of key races for the club throughout the year. 
    The fixture list is below:</p>
 
-<table id="site_data_fixtures" class="display table table-bordered table-striped table-hover table-sm .table-responsive">
+<table id="site_data_fixtures">
     <thead>
         <tr>
           <th data-field="Date">Date</th>
