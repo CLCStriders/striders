@@ -4,7 +4,6 @@ source: fix.csv
 layout: default
 
 ---
-<!--<div id="output_table_div"></div>-->
 
 <p>The CLC Striders have a strong showing a large variety of races in the local race calendar. 
    The committee have gathered a list of key races for the club throughout the year. 
