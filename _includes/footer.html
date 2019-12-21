@@ -109,7 +109,8 @@
     var table = $("#site_data_fixtures").DataTable({
         "paging": false,
         "info": false,
-        columnDefs: [{ targets: '_all', defaultContent: "" }]
+        "columns": [{ data: "Date" }, { data: "Race" }, { data: "Distance" }, { data: "Terrain" }, { data: "Link" } ],
+        columnDefs: [{ targets: '_all', defaultContent: "" },{ targets: 4, data: function(val) { if (val !== "") { return "<a href='"+ val +"'>Signup</a>"; }}}]
     });
     table.rows.add( jsonData ).draw();
 
