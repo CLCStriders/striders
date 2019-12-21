@@ -11,7 +11,16 @@
 
     const offlinePages = [
         "/",
-        "/offline.html"
+        "/offline.html",
+        "/pages/staverton-10",
+        "/pages/training",
+        "/pages/committee",
+        "/pages/news",
+        "/pages/about",
+        "/pages/archives",
+        "/pages/categories",
+        "/pages/membership",
+        "/pages/directory"
     ];
     const staticAssets = [
          "/assets/css/master.scss",
