@@ -1,6 +1,6 @@
-cache:          ff17xx16clc
-highlight:      rouge
+cache:          ff17xx21clc-nmbnjkbkbjk
 markdown:       kramdown
+highlighter:    rouge
 kramdown:
   parse_block_html: true
 permalink:      ./:title
@@ -22,4 +22,4 @@ toc:            true
 exclude:        ["README"]
 sass:
   style:        compressed
-plugins:        [ jekyll-feed, jekyll-paginate]
+plugins:        [ jekyll-feed, jekyll-paginate, jekll-sitemap]
