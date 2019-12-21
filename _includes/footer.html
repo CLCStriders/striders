@@ -104,10 +104,13 @@
     // add bootstrap table to all tables
     $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm'); });
 
-    // src="/assets/js/fix.js?v={{ site.cache }}"
     // fixtures
     var jsonData =  {{ site.data.fixtures | jsonify }} ;
-    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false }, columnDefs: [{ targets: '_all', defaultContent: "" }]);
+    var table = $("#site_data_fixtures").DataTable({
+        "paging": false,
+        "info": false,
+        columnDefs: [{ targets: '_all', defaultContent: "" }]
+    });
     table.rows.add( jsonData ).draw();
 
     // committee page
