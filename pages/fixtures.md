@@ -15,7 +15,6 @@ layout: default
           <th data-field="Race">Race</th>
           <th data-field="Distance">Distance</th>
           <th data-field="Terrain">Terrain</th>
-		  <th data-field="Link">Link</th>
         </tr>
     </thead>
 </table>

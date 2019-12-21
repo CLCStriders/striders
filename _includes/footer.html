@@ -47,7 +47,7 @@
 <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.js?v={{ site.cache }}" crossorigin="anonymous"></script>
 <script>
     // add bootstrap table to all tables
-    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-responsive'); });
+    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover'); });
 
     // Records
     var recordsData =  {{ site.data.records | jsonify }} ;
@@ -69,12 +69,12 @@
     recordsTable.rows.add( recordsData ).draw();
 
     // fixtures
-    var fixturesData =  {{ site.data.fixtures | jsonify }} ;
+    var fixturesData =  {{ site.data.fix | jsonify }} ;
     var fixturesTable = $("#site_data_fixtures").DataTable({
         "paging": false,
         "info": false,
-        "columns": [{ data: "Date" }, { data: "Race" }, { data: "Distance" }, { data: "Terrain" }, { data: "Link" } ],
-        columnDefs: [{ targets: '_all', defaultContent: "" },{ targets: 4, data: function(val) { if (val !== "") { return "<a href='"+ val +"'>Signup</a>"; }}}]
+        "columns": [{ data: "Date" }, { data: "Race" }, { data: "Distance" }, { data: "Terrain" } ],
+        columnDefs: [{ targets: '_all', defaultContent: "" }]
     });
     fixturesTable.rows.add( fixturesData ).draw();
 
