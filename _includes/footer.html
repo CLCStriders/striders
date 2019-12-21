@@ -49,7 +49,7 @@
 {% if page.dataFlag %}
 <script>
     $(document).ready(function() {
-        $('#output_table_div').ready(function() {
+        $('#main').ready(function() {
             $.ajax({
                 url: "{{ page.source }}?v={{ site.cache }}",
                 dataType: "text",
@@ -93,13 +93,12 @@
                     table_data += '</tbody></table>';
 
                     $('#output_table_div').html(table_data);
-                })
-        })
+                }
+            });
+        });
     });
 
-    $('#output_table_div').ready(function() {
-        $('#output_table_data').DataTable({ "scrollX": true });
-    });
+    $('#output_table_div').ready(function() { $('#output_table_data').DataTable({ "scrollX": true }); });
 </script>
 {% else %}
 <script async src="/assets/js/fix.js?v={{ site.cache }}"></script>
