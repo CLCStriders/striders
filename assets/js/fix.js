@@ -13,9 +13,6 @@
 //    ]
 //});
 
-var fixData1 = { "Rows": {{ site.data.fixtures }} };
-console.log(fixData1);
-
 var fixData = { "Rows": {{ site.data.fixtures | jsonify }} };
 console.log(fixData);
 
