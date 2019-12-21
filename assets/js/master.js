@@ -1,5 +1,5 @@
 // add bootstrap table to all tables
-$(document).ready(function() { $('table').addClass('table table-bordered table-striped table-hover table-sm .table-responsive'); });
+$(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm .table-responsive'); });
 
 // homepage callout
 var taglines=[
