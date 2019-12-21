@@ -13,10 +13,15 @@
 //    ]
 //});
 
-var fixData = { "Rows":  {{ site.data.fixtures | jsonify }} };
+var fixData1 = { "Rows": {{ site.data.fixtures }} };
+console.log(fixData1);
+
+var fixData = { "Rows": {{ site.data.fixtures | jsonify }} };
+console.log(fixData);
+
 $(document).ready(function () {
     $("#site_data_fixtures").DataTable({
-        "ajax": "fixData",
+        "ajax": fixData,
         "columns": [
             { data: "Date" },
             { data: "Race" },
