@@ -90,6 +90,7 @@
                     }
                     table_data += '</tbody>';
 
+                    // records
                     $('#site_data_records').html(table_data);
                     $('#site_data_records').DataTable({ "paging": true, "info": true, "scrollX": true });
                 }
@@ -104,7 +105,18 @@
     // add bootstrap table to all tables
     $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm'); });
 
-// homepage callout
+    // src="/assets/js/fix.js?v={{ site.cache }}"
+    // fixtures
+    var jsonData =  {{ site.data.fixtures | jsonify }} ;
+    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false });
+    table.rows.add( jsonData ).draw();
+
+    // committee page
+    $(".committee").DataTable({ "paging": false, "info": false, "scrollX": false });
+
+
+
+    // homepage callout
     var taglines=[
         "CLC Striders, are a mixed running club based at <a href='https://www.google.co.uk/maps/place/Cheltenham,+Gloucestershire+GL50+2NX/@51.8996855,-2.0905991,17.26z/data=!4m2!3m1!1s0x48711b750b7cf72f:0x18adca3553c78bca?hl=en'>Cheltenham's Ladies College</a> in Gloucestershire.",
         "CLC Striders have <a href='/pages/training'>training runs</a> on Monday and Wednesday, and Friday during track season.",
@@ -116,12 +128,6 @@
         document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
     }
 
-    // src="/assets/js/fix.js?v={{ site.cache }}"
-    var jsonData =  {{ site.data.fixtures | jsonify }} ;
-    var table = $("#site_data_fixtures").DataTable({ "paging": false, "info": false });
-    table.rows.add( jsonData ).draw();
-
-    $(".committee").DataTable({ "paging": false, "info": false, "scrollX": false });
 
 </script>
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
