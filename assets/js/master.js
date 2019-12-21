@@ -13,3 +13,4 @@ if(selection) {
   document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
 }
 
+$('.committee').DataTable({ "paging": false, "info": false });
