@@ -92,8 +92,8 @@
                     }
                     table_data += '</tbody></table>';
 
-                    $('#output_table_div').html(table_data);
-                    $('#output_table_data').DataTable({ Data: table_data, "scrollX": true });
+                    $('#output_table_div').html(table_data).then(
+                    $('#output_table_data').DataTable({ Data: table_data, "scrollX": true }));
                 }
             });
         });
