@@ -16,7 +16,7 @@ $('.committee').DataTable({ "paging": false, "info": false });
 //    ]
 //});
 
-var fixData = { "Rows": [ {{ site.data.fixtures | jsonify }} ]};
+var fixData = { "Rows":  {{ site.data.fixtures | jsonify }} };
 $(document).ready(function () {
     $("#site_data_fixtures").DataTable({
         "ajax": fixData,
