@@ -1,5 +1,5 @@
 // add bootstrap table to all tables
-$(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm .table-responsive'); });
+$(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm table-responsive'); });
 
 // homepage callout
 var taglines=[
@@ -13,4 +13,4 @@ if(selection) {
   document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
 }
 
-$('.committee').DataTable({ "paging": false, "info": false });
+$('.display').DataTable({ "paging": false, "info": false });
