@@ -16,9 +16,7 @@
             | <a name="CLC Striders xml sitemap" href="/sitemap.xml">SiteMap</a>
             | <a name="CLC Striders RSS feed" href="/feed.xml">RSS</a>
             | {% github_edit_link "<i class="icon-github"></i>" %}
-            </p>
-        <p>
-            <span style="text-align:center;">
+            |
                 {% if site.twitter %}
                 <a name="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter"></i></a>
                 {% else %}
@@ -43,7 +41,6 @@
                 <a name="CLC Striders Youtube channel" href="{{ site.youtube }}"><i class="icon-youtube"></i></a>
                 {% else %}
                 {% endif %}
-            </span>
         </p>
     </div>
 </footer>
@@ -95,7 +92,9 @@
                     }
                     table_data += '</tbody></table>';
 
-                    $('#output_table_div').html(table_data).DataTable({
+                    $('#output_table_div').html(table_data);
+
+                    $('#output_table_data').DataTable({
                         columns: [
                             { data: "Type" },
                             { data: "Gender" },
@@ -106,7 +105,7 @@
                             { data: "Venue" },
                             { data: "Date" }
                         ]
-                    })
+                    });
                 }
             })
         })
