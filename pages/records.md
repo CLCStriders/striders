@@ -8,4 +8,4 @@ layout: default
 
 <p>Any records to be updated should be sent to the committee via our <a href="/pages/contact">contact form</a>.</p>
 
-<div id="output_table_div"></div>
+<table id="site_data_records"></table>

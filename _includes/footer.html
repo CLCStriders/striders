@@ -54,8 +54,7 @@
                 dataType: "text",
                 success: function(data) {
                     var row_data = data.split(/\r?\n|\r/);
-                    var table_data =
-                        '<table id="output_table_data">';
+                    var table_data = '';
                     for (var count = 0; count < row_data.length; count++) {
                         if (count === 0) {
                             table_data += '<thead>';
@@ -89,10 +88,10 @@
                             table_data += '</tr>';
                         }
                     }
-                    table_data += '</tbody></table>';
+                    table_data += '</tbody>';
 
-                    $('#output_table_div').html(table_data);
-                    //  $('#output_table_data').DataTable({ Data: table_data });
+                    $('#site_data_records').html(table_data);
+                    $('#site_data_records').DataTable({ "paging": true, "info": true, "scrollX": true });
                 }
             });
         });
@@ -124,7 +123,6 @@
 
     $(".committee").DataTable({ "paging": false, "info": false, "scrollX": false });
 
-    $("#output_table_data").DataTable({ "paging": true, "info": true, "scrollX": true });
 </script>
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
 </body>
