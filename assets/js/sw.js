@@ -2,7 +2,7 @@
  
     "use strict";
 
-    const version = "v20191218";
+    const version = "v20191225";
     const cacheName = version + "Striders";
 
     const staticCacheName = cacheName + "static";
@@ -10,21 +10,21 @@
     const imagesCacheName = cacheName + "images";
 
     const offlinePages = [
-        "/",
-        "/offline.html",
-        "/pages/staverton-10",
-        "/pages/training",
-        "/pages/committee",
-        "/pages/news",
-        "/pages/about",
-        "/pages/archives",
-        "/pages/categories",
-        "/pages/membership",
-        "/pages/directory"
+        "https://striders.thechels.uk/",
+        "https://striders.thechels.uk/offline.html",
+        "https://striders.thechels.uk/pages/staverton-10",
+        "https://striders.thechels.uk/pages/training",
+        "https://striders.thechels.uk/pages/committee",
+        "https://striders.thechels.uk/pages/news",
+        "https://striders.thechels.uk/pages/about",
+        "https://striders.thechels.uk/pages/archives",
+        "https://striders.thechels.uk/pages/categories",
+        "https://striders.thechels.uk/pages/membership",
+        "https://striders.thechels.uk/pages/directory"
     ];
     const staticAssets = [
-         "/assets/css/master.scss",
-         "/assets/img/logo.png"
+         "https://striders.thechels.uk/assets/css/master.scss",
+         "https://striders.thechels.uk/assets/img/logo.png"
     ];
 
     function updateStaticCache() {
