@@ -47,7 +47,7 @@
 <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.js?v={{ site.cache }}" crossorigin="anonymous"></script>
 <script>
     // add bootstrap table to all tables
-    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover'); });
+    $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-sm table-responsive'); });
 
     // Records
     var recordsData =  {{ site.data.records | jsonify }} ;
