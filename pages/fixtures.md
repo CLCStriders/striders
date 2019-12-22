@@ -8,7 +8,7 @@ layout: default
    The committee have gathered a list of key races for the club throughout the year. 
    The fixture list is below:</p>
 
-<table id="site_data_fixtures">
+<table id="site_data_fixtures" style="width:100%">
     <thead>
         <tr>
           <th data-field="Date">Date</th>

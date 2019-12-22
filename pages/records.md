@@ -8,7 +8,7 @@ layout: default
 
 <p>Any records to be updated should be sent to the committee via our <a href="/pages/contact">contact form</a>.</p>
 
-<table id="site_data_records">
+<table id="site_data_records" style="width:100%">
 	<thead>
 		<tr>
 			<th data-field="Type">Type</th>
