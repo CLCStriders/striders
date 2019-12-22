@@ -1,10 +1,10 @@
-cache:          jhbgvgvhgvhbkjnkh
+cache:          20191223
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
   parse_block_html: true
 permalink:      ./:title
-postLimit:      10
+postLimit:      15
 name:           CLC Striders
 description:    "Cheltenham Ladies College Striders Running Club"
 slogan:         "CLC Striders Running Club"

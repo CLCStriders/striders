@@ -23,7 +23,7 @@
         "https://striders.thechels.uk/pages/directory"
     ];
     const staticAssets = [
-         "https://striders.thechels.uk/assets/css/master.scss",
+         "https://striders.thechels.uk/assets/css/master.css",
          "https://striders.thechels.uk/assets/img/logo.png"
     ];
 

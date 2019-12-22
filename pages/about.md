@@ -3,11 +3,14 @@ layout : default
 title : About
 ---
 
-Welcome to the CLC Striders website, as you progress through the site you will see that we are a friendly competitive running club, based at the Cheltenham Ladies College Sports Centre. Open to all, we inspire and motivate our members to enjoy their running.
+Welcome to the CLC Striders website, we are a friendly competitive running club, based at the 
+<a href='https://www.google.co.uk/maps/place/Cheltenham,+Gloucestershire+GL50+2NX/@51.8996855,-2.0905991,17.26z/data=!4m2!3m1!1s0x48711b750b7cf72f:0x18adca3553c78bca?hl=en'>Cheltenham's Ladies College Sports Centre</a>. Open to all, we inspire and motivate our members to enjoy their running.
 
-We hold organised training sessions on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, men's and women's team racing on the road, track and cross country.
+We hold organised training sessions on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, men's and women's team racing on the road, track, and cross country.
 
-New members are always welcome to join us for training, either get in touch or just turn up.
+New members are always welcome to join us for training, either [get in touch](/pages/contact) or just turn up.
+
+The club is run by a [committee](/pages/committee) of volunteers. 
 
 __Affiliations__
 

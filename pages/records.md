@@ -4,9 +4,11 @@ layout: default
 
 ---
 
-<p>The club are active in road, track and cross country races with the road and track offering our members the opportunity to set club records at a particular distance.</p>
+<p>The club are active in road, track, and cross country races with the road and track offering our members the opportunity to set club records at a particular distance.</p>
 
 <p>Any records to be updated should be sent to the committee via our <a href="/pages/contact">contact form</a>.</p>
+
+<p>The table below includes all records for men and women, use the search box to filter results. Empty/missing details means no records have been set</p>
 
 <table id="site_data_records" style="width:100%">
 	<thead>
