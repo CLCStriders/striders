@@ -1,10 +1,10 @@
 /** Super Simple Slider by @intllgnt **/
 
-var $j = jQuery.noConflict();
+var $ = jQuery.noConflict();
 
-(function($j, window, document, undefined ) {
+(function($, window, document, undefined ) {
 
-$j.fn.sss = function(options) {
+$.fn.sss = function(options) {
 
 // Options
 
@@ -21,7 +21,7 @@ $j.fn.sss = function(options) {
 // Variables
 
 	var
-	wrapper = $j(this),
+	wrapper = $(this),
 	slides = wrapper.children().wrapAll('<div class="sss"/>').addClass('ssslide'),
 	slider = wrapper.find('.sss'),
 	slide_count = slides.length,
@@ -40,7 +40,7 @@ $j.fn.sss = function(options) {
 	reset_timer = settings.slideShow ? function() {
 	clearTimeout(timer);
 	timer = setTimeout(next_slide, settings.speed);
-	} : $j.noop;
+	} : $.noop;
 
 // Animate Slider
 
@@ -85,17 +85,17 @@ $j.fn.sss = function(options) {
 	next = slider.find('.sssnext'),
 	prev = slider.find('.sssprev');
 
-	$j(window).load(function() {
+	$(window).load(function() {
 
 	slider.css({paddingBottom: get_height(target)}).click(function(e) {
-	clicked = $j(e.target);
+	clicked = $(e.target);
 	if (clicked.is(next)) { next_slide() }
 	else if (clicked.is(prev)) { prev_slide() }
 	});
 
 	animate_slide(target);
 
-	$j(document).keydown(function(e) {
+	$(document).keydown(function(e) {
 	key = e.keyCode;
 	if (key === 39) { next_slide() }
 	else if (key === 37) { prev_slide() }
