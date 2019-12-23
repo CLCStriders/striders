@@ -105,7 +105,11 @@
         $("#lightSlider").lightSlider({
                 item:1,
                 slideMargin:0,
-                loop:true
+                autoWidth:true,
+                loop:true,
+                onSliderLoad: function() {
+                    $('#autoWidth').removeClass('cS-hidden');
+                } 
             }); 
     });
 </script>
