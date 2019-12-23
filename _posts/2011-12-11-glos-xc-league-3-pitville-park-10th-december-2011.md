@@ -104,6 +104,6 @@ Masters Ladies Teams
 
 10th - CLC A = 418
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosleague3.pdf" target="_blank" rel="nofollow">Results</a>
+<a href="/assets/pdf/results/glosleague3.pdf" target="_blank" rel="nofollow">Results</a>
 
 </p>

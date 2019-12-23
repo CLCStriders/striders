@@ -12,4 +12,4 @@ It was agreed at our last AGM that the subs for this year will be £15.
 
 Please send your payment to Clive Hodges or give it to Paul Jenkins, our Treasurer. 
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/clcstridersapplicationform2012.pdf" target="_blank" rel="nofollow">application form</a>
+<a href="/assets/pdf/results/clcstridersapplicationform2012.pdf" target="_blank" rel="nofollow">application form</a>

@@ -14,4 +14,4 @@ Joel Freeland also put on his speedy shoes and ran in both the 800m and 400m. In
 
 Chris Driskell and Hillary Agate ran in the 1500m. Conditions were windy making the 3 and ¾ laps a challenge. Driskell set a quick early pace completing the race in 4:41.3, claiming a silver medal for his efforts. Agate also ran a quick first lap and ran well to finish in 5:18:8 claiming the county gold.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/countytf2012results.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/countytf2012results.pdf" target="_blank" rel="nofollow">full results</a>

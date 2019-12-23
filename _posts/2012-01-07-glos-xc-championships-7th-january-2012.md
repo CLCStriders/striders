@@ -80,4 +80,4 @@ Teams
 
 
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/gaaacountyccchampsresults2012.pdf" target="_blank" rel="nofollow">Results</a>
+<a href="/assets/pdf/results/gaaacountyccchampsresults2012.pdf" target="_blank" rel="nofollow">Results</a>

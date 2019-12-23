@@ -14,4 +14,4 @@ Vicky Lewis was leading runner in the B team finishing in 18th, Alice Johnston w
 The men were led home by the ever improving Rich Dare who finished 6th, Rich Evershed ran well for 15th, Dave Smeath was 41st, Rich Shardlow 57th, Veteran Charles Goodwin 66th and final A team scorer Jon Howes finishing 93rd place. The A team were 6th place on the day.  
 May I just add that there was an amazing atmosphere created on the day, we had great support all around the park and this certainly helped us all have loads of fun.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosxc03112012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/glosxc03112012.pdf" target="_blank" rel="nofollow">full results</a>

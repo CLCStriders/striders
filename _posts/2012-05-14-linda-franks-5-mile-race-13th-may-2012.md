@@ -14,4 +14,4 @@ Next for Striders was Amanda Steer who finished 3<sup>rd</sup>LV40 in 31<sup>st<
 
 Sue Clark was 74<sup>th</sup>and 2<sup>nd</sup>LV55 in a time of 40:43 whilst Denise Hallam completed the Striders line-up taking 88<sup>th</sup>place in a time of 43:56.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/lindafranksresults2012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/lindafranksresults2012.pdf" target="_blank" rel="nofollow">full results</a>

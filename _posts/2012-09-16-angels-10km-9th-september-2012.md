@@ -12,4 +12,4 @@ It was hot and the course was hilly but they had a good run. Amanda finished 3rd
 
 The venue was lovely, at Woodpeckers Cricket club in Ashleworth. They were the only 2 Striders competing this time, but there were quite a few other races on with Apperley quarter, Lido Tri and Woodchester all taking place on the same day.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/2012angels10km.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/2012angels10km.pdf" target="_blank" rel="nofollow">full results</a>

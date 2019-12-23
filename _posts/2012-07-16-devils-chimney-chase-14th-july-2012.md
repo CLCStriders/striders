@@ -32,4 +32,4 @@ Results:
 97) Paul Stonuary - 56:48  
 115) Dawn Addinall - 01:02:10
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/dccresults2012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/dccresults2012.pdf" target="_blank" rel="nofollow">full results</a>

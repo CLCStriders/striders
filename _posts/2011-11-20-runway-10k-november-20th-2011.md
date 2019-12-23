@@ -14,4 +14,4 @@ Among the numerous other highlights from a strong Striders'turnout was Amanda St
 
 The overall winner in the women's race was Lucy Walmsley of Bourton Roadrunners who finished in a time of 39:11.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/runway10kresultsv2.pdf" target="_blank" rel="nofollow">Results</a>
+<a href="/assets/pdf/results/runway10kresultsv2.pdf" target="_blank" rel="nofollow">Results</a>

@@ -19,4 +19,4 @@ Other strong Striders performances in the race came from Rich Cannock, who kicke
 
 Massive thanks should also go to all those from CLC Striders and beyond who helped out with marhshalling, lead and sweep biking, results coordination, time-keeping, entry-taking â€“ without them the race couldnâ€™t have gone ahead.
 
-Full <a href="http://www.clcstriders-runningclub.co.uk/images/documents/runwayresults2013.pdf" target="_blank" rel="nofollow">results</a>and <a href="http://www.clcstriders-runningclub.co.uk/images/documents/runwayprizes2013.pdf" target="_blank" rel="nofollow">prize</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/runwayprizes2013.pdf" target="_blank" rel="nofollow">winners</a>are now available.
+Full <a href="/assets/pdf/results/runwayresults2013.pdf" target="_blank" rel="nofollow">results</a>and <a href="/assets/pdf/results/runwayprizes2013.pdf" target="_blank" rel="nofollow">prize</a><a href="/assets/pdf/results/runwayprizes2013.pdf" target="_blank" rel="nofollow">winners</a>are now available.

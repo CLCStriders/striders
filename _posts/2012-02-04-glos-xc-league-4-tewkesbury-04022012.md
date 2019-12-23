@@ -70,4 +70,4 @@ Masters
 
 1st CLC Striders A = 31 - County masters overall 2011/12 Champions.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosleague4.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/glosleague4.pdf" target="_blank" rel="nofollow">full results</a>

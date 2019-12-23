@@ -15,4 +15,4 @@ In the Ladies'race the stand-out run was from Liza Barry who took first prize an
 
 Meanwhile in the race for the men's team prize, the Striders'men performed well but were edged into 2nd spot by a strong Almost Athletes team. Chris Driskell claimed 3rd place in 37:41 and was followed by Dave Smeath who ran well to finish in 10th in a time of 40:15. Adam Cary completed the men's team, and had a strong run, taking 22nd place in a time of 43:03.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/cuckoo2012results2.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/cuckoo2012results2.pdf" target="_blank" rel="nofollow">full results</a>

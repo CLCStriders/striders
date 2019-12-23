@@ -62,4 +62,4 @@ Teams:
 
 2) CLC â€˜Bâ€™ â€“ 480 points (38, 57, 71, 75, 90, 149)
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/2012mwcclfixture3.pdf" target="_blank" rel="nofollow">MWCCL Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/bccl3.pdf" target="_blank" rel="nofollow">Birmingham League Results</a>
+<a href="/assets/pdf/results/2012mwcclfixture3.pdf" target="_blank" rel="nofollow">MWCCL Results</a><a href="/assets/pdf/results/bccl3.pdf" target="_blank" rel="nofollow">Birmingham League Results</a>

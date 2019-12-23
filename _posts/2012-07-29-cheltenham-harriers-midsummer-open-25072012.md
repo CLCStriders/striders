@@ -12,4 +12,4 @@ Hilary Agate and Jo Wilkie were in action in the women's race and with condition
 
 Joel Freeland and Rich Cannock were representing Striders in the other mile race. Having recorded a strong mile time on the road at Bourton at the weekend, Cannock was away quickly and set a rapid pace over the first three laps. Despite dropping off the pace slightly, he held on well to finish in 7th place in another strong time of 05:07.07. Freeland meanwhile ran an evenly paced race to finish in 11th place in 05:23.4.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/midsummeropen26072012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/midsummeropen26072012.pdf" target="_blank" rel="nofollow">full results</a>

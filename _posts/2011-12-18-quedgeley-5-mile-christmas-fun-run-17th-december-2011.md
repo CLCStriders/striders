@@ -14,4 +14,4 @@ Next home was another CLC Lady in 21<sup>st</sup>position Ange Puffett at 35.45 
 
 (PB* means that the runner had no previous time on an accurately measured 5 mile course)
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/quedgeleyxmas5mfunrun2011results.pdf" target="_blank" rel="nofollow">Full Results</a>
+<a href="/assets/pdf/results/quedgeleyxmas5mfunrun2011results.pdf" target="_blank" rel="nofollow">Full Results</a>

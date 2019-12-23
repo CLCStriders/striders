@@ -14,5 +14,5 @@ Meanwhile the Women also had a good day with Jo Wilkie running well to lead the 
 
 We had a great day, and did ourselves proud.
 
-* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/birmleague12thnov.pdf" target="_blank" rel="nofollow">Men's results</a>
-* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/mwccl12thnov.pdf" target="_blank" rel="nofollow">Women's results</a>
+* <a href="/assets/pdf/results/birmleague12thnov.pdf" target="_blank" rel="nofollow">Men's results</a>
+* <a href="/assets/pdf/results/mwccl12thnov.pdf" target="_blank" rel="nofollow">Women's results</a>

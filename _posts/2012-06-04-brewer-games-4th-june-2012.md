@@ -14,4 +14,4 @@ In the rarely run 1000m, Pat Woods, Rachel Vines and Duncan Kay lined up for the
 
 With Kay opting to rest for the 1500m, the Striders'men were represented by Rich Cannock making a welcome return from injury. The men were first off and against a strong field, Cannock held his own and went well below the 5-minute mark to finish in 04:50. In the women's race, Pat Woods once again set a strong pace to finish in 05:23 whilst Vines ran a well-paced race to finish in 05:41.</p> 
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/brewergamesjun2012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/brewergamesjun2012.pdf" target="_blank" rel="nofollow">full results</a>

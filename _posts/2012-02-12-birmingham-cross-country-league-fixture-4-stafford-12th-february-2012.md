@@ -14,4 +14,4 @@ Leading the Striders home, on what can only be described as an ice age course, w
 
 Other Striders who really dug in well to help the club gain promotion, were Deryl Slight who was 60th, Jo Maddocks 79th, Ben Anderson 87th, Paul Stonuary 123rd, and Duncan Kay who finished 180th.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/2012bccl4.pdf" target="_blank" rel="nofollow">Results</a>
+<a href="/assets/pdf/results/2012bccl4.pdf" target="_blank" rel="nofollow">Results</a>

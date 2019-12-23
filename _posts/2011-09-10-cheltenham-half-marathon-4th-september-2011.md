@@ -12,4 +12,4 @@ In this new course which starts from the racecourse and follows an out and back 
 
 The race was won by Cardiff AAC's Andrew Hunt in a time of 1:11:59.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/chelthalf2011results.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/chelthalf2011results.pdf" target="_blank" rel="nofollow">full results</a>

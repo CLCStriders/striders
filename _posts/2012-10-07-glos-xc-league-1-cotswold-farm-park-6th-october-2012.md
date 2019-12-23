@@ -15,4 +15,4 @@ Meanwhile the men's A team were led home by Rich Dare who ran well to finish 8th
 The men's B team also had good runs from Veteran Charles Goodwin, Joel Freeland, Billy Bradshaw, Tom Thorneycroft, James Gibbs, and Duncan Kay. Damien Cuke pulled out half way due to an ongoing injury.  
 With 3 more county fixtures remaining, the Striders have time to close the gap on the other leading clubs.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/glosxc06102012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/glosxc06102012.pdf" target="_blank" rel="nofollow">full results</a>

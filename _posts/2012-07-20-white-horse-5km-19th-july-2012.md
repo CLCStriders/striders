@@ -54,4 +54,4 @@ Results:
 
 109) Claire Sansome - 26:19
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/whresults19072012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/whresults19072012.pdf" target="_blank" rel="nofollow">full results</a>

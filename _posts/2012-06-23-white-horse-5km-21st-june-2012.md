@@ -608,4 +608,4 @@ Striders results:
   </tr>
 </table>
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/whitehorseresults21062012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/whitehorseresults21062012.pdf" target="_blank" rel="nofollow">full results</a>

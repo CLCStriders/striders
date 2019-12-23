@@ -17,4 +17,4 @@ Rich Cannock completed the team trio by running in a very competitive 800m field
 
 This was the first of three open meetings to be held at the Worcester track this year, it would be great to see more Striders at the remaining two fixtures
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/WACopen26042012" target="_blank" rel="nofollow">Full results</a>
+<a href="/assets/pdf/results/WACopen26042012" target="_blank" rel="nofollow">Full results</a>

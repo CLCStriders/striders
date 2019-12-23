@@ -34,4 +34,4 @@ Results
 
 96) Phil Jowett â€“ 22:00
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/4milebdc2011.pdf" target="_blank" rel="nofollow">4 Mile Results</a><a href="http://www.clcstriders-runningclub.co.uk/images/documents/2milebdc2011.pdf" target="_blank" rel="nofollow">2 Mile Results</a>
+<a href="/assets/pdf/results/4milebdc2011.pdf" target="_blank" rel="nofollow">4 Mile Results</a><a href="/assets/pdf/results/2milebdc2011.pdf" target="_blank" rel="nofollow">2 Mile Results</a>

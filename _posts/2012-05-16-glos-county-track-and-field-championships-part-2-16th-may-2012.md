@@ -32,4 +32,4 @@ Men - 5000m:
 
 9) Ben Anderson - 20.22.6
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/countytf2012resultspartii.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/countytf2012resultspartii.pdf" target="_blank" rel="nofollow">full results</a>

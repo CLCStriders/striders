@@ -66,5 +66,5 @@ Leg 5 - Jon Howes - 23:56
 
 Leg 6 - Jamie Paterson - 21:37
 
-* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a>
-* <a href="http://www.clcstriders-runningclub.co.uk/images/documents/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>
+* <a href="/assets/pdf/results/midlandswomens11.pdf" target="_blank" rel="nofollow">Full Ladies Results</a>
+* <a href="/assets/pdf/results/midlandsmens11.pdf" target="_blank" rel="nofollow">Full Men's Results</a>

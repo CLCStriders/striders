@@ -42,4 +42,4 @@ The Striders contingent was a formidable force throughout the field and there we
 
 Aside from John Parker and Eloise Du Luart who both claimed first places, there were also awards for a number of other Striders â€“ Lucy Mcnulty who claimed 3rd place in the womenâ€™s race; Amanda Steer who took the L35 prize and Billy Bradshaw who took the MV40 prize.
 
-For full race results <a href="http://www.clcstriders-runningclub.co.uk/images/documents/aviator42011results.pdf" target="_blank" rel="nofollow">click here</a>
+For full race results <a href="/assets/pdf/results/aviator42011results.pdf" target="_blank" rel="nofollow">click here</a>

@@ -8,4 +8,4 @@ permalink: /2012/01/not-the-roman-9-15th-january-2012/
 ---
 Rob finished just inside the top 200 out of 600 runners in a time of 55mins 36 secs.
 
-<a href="http://www.clcstriders-runningclub.co.uk/images/documents/ntrixresults2012.pdf" target="_blank" rel="nofollow">full results</a>
+<a href="/assets/pdf/results/ntrixresults2012.pdf" target="_blank" rel="nofollow">full results</a>
