@@ -14,7 +14,7 @@
     </div>
   <h2 id="main">Latest News</h2>      
    <ul class="posts">
-    {% for post in site.posts | limit: 1 %}
+    {% for post in site.posts | limit: 3 %}
       <li class="{{ post.popular }} {{ post.new }}">
           <a href="{{ post.url }}">{{ post.title }}</a> 
           <br/>
