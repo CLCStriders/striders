@@ -207,7 +207,9 @@ a.skip-main:focus, a.skip-main:active {
     -khtml-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
+    text-align: center;
+    width:100%;
 }
 
 .lightSlider:before, .lightSlider:after {
