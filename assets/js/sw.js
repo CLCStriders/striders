@@ -18,10 +18,10 @@
         "https://striders.thechels.uk/pages/staverton-10",
         "https://striders.thechels.uk/pages/training",
         "https://striders.thechels.uk/pages/committee",
-        "https://striders.thechels.uk/pages/news",
+        "https://striders.thechels.uk/pages/news/",
         "https://striders.thechels.uk/pages/about",
         "https://striders.thechels.uk/pages/archives",
-        "https://striders.thechels.uk/pages/categories",
+        "https://striders.thechels.uk/pages/categories/",
         "https://striders.thechels.uk/pages/membership",
         "https://striders.thechels.uk/pages/directory",
         {% for post in site.posts | limit: 3 %}
