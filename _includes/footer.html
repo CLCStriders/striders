@@ -103,14 +103,11 @@
 <script>
     $(document).ready(function() {
         $("#lightSlider").lightSlider({
-                item:1,
-                slideMargin:0,
+                item:3,
+                slideMargin:10,
                 autoWidth:true,
                 loop:true,
-                onSliderLoad: function() {
-                    $('#autoWidth').removeClass('cS-hidden');
-                } 
-            }); 
+        }); 
     });
 </script>
 {% endif %}
