@@ -85,7 +85,7 @@ $.fn.sss = function(options) {
 	next = slider.find('.sssnext'),
 	prev = slider.find('.sssprev');
 
-	$(window).load(function() {
+        $(window).on('load', function() {
 
 	slider.css({paddingBottom: get_height(target)}).click(function(e) {
 	clicked = $(e.target);
