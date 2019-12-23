@@ -1,10 +1,11 @@
 {% include header.html %}
 <div class="container">
-  <div class="jumbotron jumbotron-fluid" style="padding:1rem;">
-    <div class="container callout">
-      <p id="tagline" class="blockqute">Welcome to CLC Striders - One of Cheltenham's largest running clubs - based at Cheltenham Ladies College</p>
+    <div class="jumbotron jumbotron-fluid" style="padding:1rem;">
+        <div class="container callout">
+            <p id="tagline" class="blockqute">Welcome to CLC Striders - One of Cheltenham's largest running clubs - based at Cheltenham Ladies College</p>
+        </div>
     </div>
-  </div>
+    {% if site.slider %}
     <div id="gallery">
         <ul id="lightSlider">
             <li>
@@ -18,6 +19,7 @@
             </li>
         </ul>
     </div>
+    {% endif %}
   <h2 id="main">Latest News</h2>      
    <ul class="posts">
     {% for post in site.posts | limit: 3 %}
