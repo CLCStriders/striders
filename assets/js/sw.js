@@ -33,6 +33,7 @@
          "https://striders.thechels.uk/assets/css/master.css",
          "https://striders.thechels.uk/assets/img/logo.png",
          "https://striders.thechels.uk/assets/img/favicon.ico",
+         "https://striders.thechels.uk/assets/img/controls.png",
         "/Images/2019/12/Men-Clopton-7.12.19-768x576.jpg",
         "/Images/2019/04/Cleevewold-ladies-31.3.19-768x576.jpg",
         "/Images/2019/01/Steve-Kenyon-Staverton-10-2019-768x576.jpg"
