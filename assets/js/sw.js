@@ -24,6 +24,9 @@
         "https://striders.thechels.uk/pages/categories",
         "https://striders.thechels.uk/pages/membership",
         "https://striders.thechels.uk/pages/directory",
+        {% for post in site.posts | limit: 3 %}
+        "{{ post.url }}",
+        {% endfor %}
         "https://striders.thechels.uk/offline.html"
     ];
     const staticAssets = [

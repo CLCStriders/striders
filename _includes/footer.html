@@ -17,30 +17,30 @@
             | <a name="CLC Striders RSS feed" href="/feed.xml">RSS</a>
             | {% github_edit_link "<i class="icon-github"></i>" %}
             |
-                {% if site.twitter %}
-                <a name="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter"></i></a>
-                {% else %}
-                {% endif %}
+            {% if site.twitter %}
+            <a name="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter"></i></a>
+            {% else %}
+            {% endif %}
 
-                {% if site.facebook %}
-                <a name="CLC Striders Facebook group" href="{{ site.facebook }}"><i class="icon-facebook"></i></a>
-                {% else %}
-                {% endif %}
+            {% if site.facebook %}
+            <a name="CLC Striders Facebook group" href="{{ site.facebook }}"><i class="icon-facebook"></i></a>
+            {% else %}
+            {% endif %}
 
-                {% if site.instagram %}
-                <a name="CLC Striders Instagram page" href="{{ site.instagram }}"><i class="icon-instagram"></i></a>
-                {% else %}
-                {% endif %}
+            {% if site.instagram %}
+            <a name="CLC Striders Instagram page" href="{{ site.instagram }}"><i class="icon-instagram"></i></a>
+            {% else %}
+            {% endif %}
 
-                {% if site.strava %}
-                <a name="CLC Striders Strava Group" href="{{ site.strava }}"><i class="icon-strava"></i></a>
-                {% else %}
-                {% endif %}
+            {% if site.strava %}
+            <a name="CLC Striders Strava Group" href="{{ site.strava }}"><i class="icon-strava"></i></a>
+            {% else %}
+            {% endif %}
 
-                {% if site.youtube %}
-                <a name="CLC Striders Youtube channel" href="{{ site.youtube }}"><i class="icon-youtube"></i></a>
-                {% else %}
-                {% endif %}
+            {% if site.youtube %}
+            <a name="CLC Striders Youtube channel" href="{{ site.youtube }}"><i class="icon-youtube"></i></a>
+            {% else %}
+            {% endif %}
         </p>
     </div>
 </footer>
@@ -89,7 +89,7 @@
     var taglines=[
         "CLC Striders, are a mixed running club based at <a href='https://www.google.co.uk/maps/place/Cheltenham,+Gloucestershire+GL50+2NX/@51.8996855,-2.0905991,17.26z/data=!4m2!3m1!1s0x48711b750b7cf72f:0x18adca3553c78bca?hl=en'>Cheltenham's Ladies College</a> in Gloucestershire.",
         "CLC Striders have <a href='/pages/training'>training runs</a> on Monday and Wednesday, and Friday during track season.",
-        "CLC Striders host the <a href='/pages/staverton-10'>Staverton 10 mile</a> in January every year. Entries are now open for 2020.",	
+        "CLC Striders host the <a href='/pages/staverton-10'>Staverton 10 mile</a> in January every year. Entries are now open for 2020.",
     ]
 
     var selection = document.querySelector('#tagline') !== null;
@@ -97,8 +97,20 @@
         document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
     }
 
-</script >
-{& endif %}
+</script>
+{% if page.slider %}
+<script>jQuery.noConflict();</script>
+<script src="/assets/js/sss.min.js?v={{ site.cache }}"></script>
+<script>
+    $('.slider').sss({
+        slideShow: false, // Set to false to prevent SSS from automatically animating.
+        startOn: 0, // Slide to display first. Uses array notation (0 = first slide).
+        transition: 400, // Length (in milliseconds) of the fade transition.
+        speed: 3500, // Slideshow speed in milliseconds.
+        showNav: true // Set to false to hide navigation arrows.
+    });
+</script>
+{% endif %}
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
 </body>
 </html>
