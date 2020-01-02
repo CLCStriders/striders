@@ -88,7 +88,7 @@
 {% if page.announcements %}
     <script>
         // homepage callout
-        var taglines=[{% for txt in site.announcements %} "{{ txt.content | markdownify | join: '", "' }}"{% endfor %} ]
+        var taglines=[{% for txt in site.announcements %} '{{ txt.content | markdownify | join: "',' " }}'{% endfor %} ]
         var selection = document.querySelector('#tagline') !== null;
         if(selection) {
             document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
