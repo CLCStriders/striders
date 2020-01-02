@@ -4,4 +4,4 @@ published: false
 
 ---
 
-The CLC Striders hosted the <a href='/pages/staverton-10'>Staverton 10 mile</a> race places have sold out
+The CLC Striders hosted the [Staverton 10 mile](/pages/staverton-10) race places have sold out
