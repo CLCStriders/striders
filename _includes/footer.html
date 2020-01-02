@@ -85,7 +85,7 @@
     $(".committee").DataTable({ "paging": false, "info": false });
 </script>
 
-    {% if page.alerts %}
+{% if page.announcements %}
     <script>
         // homepage callout
         var taglines=[{% for txt in site.announcements %}"{{ txt.content | markdownify }}",{% endfor %} ]
@@ -94,7 +94,7 @@
             document.querySelector('#tagline').innerHTML = taglines[ Math.floor(Math.random()*taglines.length) ];
         }
      </script>
-     {% endif %}
+{% endif %}
 
 {% if page.slider %}
 <script src="/assets/js/lightSlider.js?v={{ site.cache }}"></script>
