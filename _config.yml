@@ -19,8 +19,6 @@ instagram:      https://instagram.com/CLCStriders
 encoding:       UTF-8
 future:         false
 toc:            true
-slider:         true
-announcements:  true
 collections:
   announcements:
 exclude:        ["README"]
