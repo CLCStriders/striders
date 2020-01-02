@@ -88,11 +88,9 @@
 {% if page.announcements %}
     <script>
         // homepage callout
-       
-        
         var taglines=[ 
          {% for txt in site.announcements %} 
-           {{ txt.content | markdownify | jsonify | prepend: "'" | append: "'," }}
+           {{ txt.content | markdownify | jsonify | join: ", " }}
         {% endfor %}
         ]
         var selection = document.querySelector('#tagline') !== null;
