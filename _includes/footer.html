@@ -92,7 +92,7 @@
         
         var taglines=[ 
          {% for txt in site.announcements %} 
-           {{ txt.content | markdownify | join: ", " | prepend: "'" | append: "'" }}
+           {{ txt.content | markdownify | prepend: "'" | append: "'," }}
         {% endfor %}
         ]
         var selection = document.querySelector('#tagline') !== null;
