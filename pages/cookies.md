@@ -1,6 +1,7 @@
 ---
 title: cookie policy
 description: CLC Striders website cookie policy
+permalink: /cookies
 
 ---
 
