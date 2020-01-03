@@ -1,28 +1,31 @@
 ---
 
 layout: default
-title: Terms and Conditions
+title: Website Terms and Conditions
 description: Club's terms and conditions
 
 ---
 
-1. Here are the terms of use for this website:
+Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern CLC Striders relationship with you in relation to this website.
 
-About us
-2. This website is owned and operated by CLC Striders.
+The term “CLC Striders” or “us” or “we” refers to the owner of the website, “CLC Striders”, whose registered address and contact details are available on the contact page. The term “you” refers to the user or viewer of our website.
 
-Content on the site
-3. Any content which we ourselves make available on our site is intended for general information but it is not intended as professional advice (legal or otherwise) nor should it be used as such. For example, it may become out of date. You rely on it at your own risk.
+The use of this website is subject to the following terms of use:
 
-Links to other sites
-4. We may link to third party websites which may be of interest to you. We do not recommend or endorse those sites or the products or services which they offer nor are we legally responsible for them. You use such third party sites at your own risk.
+* The content of the pages of this website is for your general information and use only.
 
-Privacy
-5. You acknowledge and agree that we may process your personal information in accordance with the terms of our privacy and cookies policy which is subject to change from time to time.
+* It is subject to change without notice.
 
-Intellectual Property
-6. The intellectual property rights in all material used on or in connection with our website are owned by us or our suppliers. For your personal use only, you may view such material on your device. You must not otherwise use such material including copying, selling or altering it or taking extracts from it without our specific prior written consent.
+* Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
-Liability
+* This website contains material that is owned by or licensed to us. This material includes (but is not limited to) the design, layout, look, appearance, text and graphics.
 
-[to follow]
+* Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
+
+* All content of this website is copyright of “CLC Striders”; except where trademarks that are the property of, or licensed to, the operator are acknowledged on the website.
+
+* Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
+
+* From time to time, this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
+
+* Your use of this website and any dispute arising out of such use of the website is subject to the laws of England and Wales.
