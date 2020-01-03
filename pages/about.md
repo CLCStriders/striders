@@ -1,6 +1,9 @@
 ---
 layout : default
 title : About
+permalink: /about
+description: About the Cheltenham Ladies College Striders Running Club
+
 ---
 
 Welcome to the CLC Striders website, we are a friendly competitive running club, based at the 
