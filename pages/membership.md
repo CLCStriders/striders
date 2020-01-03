@@ -3,6 +3,9 @@ layout: default
 title: Membership
 membershipLink : https://www.entrycentral.com/CLCMembership
 membershipForm : /assets/clc-striders-membership-form.pdf
+permalink: /membership
+description: Cheltenham running club membership at CLC Striders
+
 ---
 
 Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesady evening training sessions for a trial run. Once you’ve decided you want to join and take full opportunity of the membership benefits:
