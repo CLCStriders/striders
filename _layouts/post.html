@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="postHeader">
     <span class="float-left">
-        <a href="/pages/news" class="back-to-front" title="Back to all posts">&laquo; back</a>
+        <a href="/news" class="back-to-front" title="Back to all posts">&laquo; back</a>
     </span> 
     <span class="post-date float-right">
         <em>{{ page.date | date: "%-d %B %Y" }}</em>  
@@ -61,7 +61,7 @@ layout: default
                 <span class="date"><em>{{ post.date | date: "%-d %B %Y" }}</em></span>
                 <span class="num-words">| <em>{{ post.content | number_of_words }}</em> words</span>
                 <span class="read-time" title="Estimated read time">| <em>{% assign words = post.content | number_of_words %}approx {% if words < 360 %}1 min read.{% else %}{{ words | divided_by:180 }} mins read.{% endif %}</em></span>
-                <span class="categories">| <em>{% if post.category != empty %}{% for category in post.categories %} <a href="{{ post_url }}/pages/categories/#{{ category | slugify }}">{{ category }}</a>, {% endfor %}{% endif %}</em></span>
+                <span class="categories">| <em>{% if post.category != empty %}{% for category in post.categories %} <a href="{{ post_url }}/categories/#{{ category | slugify }}">{{ category }}</a>, {% endfor %}{% endif %}</em></span>
             </small>
         </li>
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
