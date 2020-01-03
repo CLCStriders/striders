@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Our Weekly Training Sessions
-description: Club training sessions
+description: CLC Striders running club - cheltenham training sessions
+permalink: /training
 
 ---
 
