@@ -44,7 +44,7 @@ lawful basis for processing your personal is that we have a contractual obligati
 
 Reasons we need to process your data include:
 
-For training and competition entry
+__For training and competition entry__
 
 * sharing personal data with club coaches or officials to administer training sessions;
 
@@ -52,13 +52,13 @@ For training and competition entry
 
 * sharing personal data with leagues, county associations (and county schools’ associations) and other competition providers for entry in events.
 
-For funding and reporting purposes
+__For funding and reporting purposes__
 
 * analysing anonymised data to monitor club trends; and
 
 * sending a club survey to improve your experience as a club member.
 
-For membership and club management
+__For membership and club management__
 
 * processing of membership forms and payments;
 
@@ -68,7 +68,7 @@ For membership and club management
 
 * publishing of race and competition results.
 
-Marketing and communications (where separate consent is provided)
+__Marketing and communications (where separate consent is provided)__
 
 * sending information about promotions and offers from sponsors;
 
