@@ -3,7 +3,7 @@ markdown:       kramdown
 highlighter:    rouge
 kramdown:
   parse_block_html: true
-permalink:      ./:year-:month-:day-:title
+permalink:      ./news/:year-:month-:day-:title
 postLimit:      15
 name:           CLC Striders
 description:    "Cheltenham Ladies College Striders Running Club"
