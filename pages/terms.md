@@ -2,7 +2,8 @@
 
 layout: default
 title: Website Terms and Conditions
-description: Club's terms and conditions
+description: CLC Striders Running Club terms and conditions
+permalink: /terms
 
 ---
 
