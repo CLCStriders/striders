@@ -2,7 +2,8 @@
 
 layout: default
 title: Privacy Statement
-description: club's privacy policy
+description: CLC Striders running club privacy policy
+permalink: /privacy
 
 ---
 
