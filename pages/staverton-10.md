@@ -2,6 +2,7 @@
 layout: default
 title: Staverton 10
 description: CLC Striders Staverton 10 mile race information and results page
+permalink: /staverton-10
 signUpUrl : https://www.entrycentral.com/event/111305
 signUpYear: 2020
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
