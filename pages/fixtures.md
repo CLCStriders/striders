@@ -1,6 +1,8 @@
 ---
 title: Fixtures
 layout: default
+description:
+permalink: /fixtures
 
 ---
 
