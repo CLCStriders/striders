@@ -11,9 +11,9 @@ Welcome to the CLC Striders website, we are a friendly competitive running club,
 
 We hold organised training sessions on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, men's and women's team racing on the road, track, and cross country.
 
-New members are always welcome to join us for training, either [get in touch](/pages/contact) or just turn up.
+New members are always welcome to join us for training, either [get in touch](/contact) or just turn up.
 
-The club is run by a [committee](/pages/committee) of volunteers. 
+The club is run by a [committee](/committee) of volunteers. 
 
 __Affiliations__
 
