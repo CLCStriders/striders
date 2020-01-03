@@ -1,6 +1,8 @@
 ---
 title: Club Records
 layout: default
+description: CLC Striders running club records
+permalink: /records
 
 ---
 
