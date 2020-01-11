@@ -1,6 +1,7 @@
 ---
 title: Striders Strike Gold at the 2020 Glos Cross Country Champs
 description: Cheltenham Ladies College Striders running club get Gold places in 2020 Gloucestershire cross country championships
+layout: post
 categories:
  - cross country results
 ---
