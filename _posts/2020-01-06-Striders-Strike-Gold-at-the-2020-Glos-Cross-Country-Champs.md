@@ -3,7 +3,7 @@ title: Striders Strike Gold at the 2020 Glos Cross Country Champs
 description: Cheltenham Ladies College Striders running club get Gold places in 2020 Gloucestershire cross country championships
 layout: post
 categories:
- - cross country results
+  - Cross Country Reports
 ---
 
 On a bright Saturday afternoon at the beginning of a new decade, a handful of Striders turned out to represent themselves and their club in the annual Gloucestershire Cross Country Championship. Held over the beautiful grounds of Rendcomb College, south-east of Cheltenham, the course had benefited from a relatively dry Christmas and had had chance to dry up a little after the autumn deluges. That said, the going was still sticky, and the terrain was as challenging as always.
