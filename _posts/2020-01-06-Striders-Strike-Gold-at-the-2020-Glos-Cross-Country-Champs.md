@@ -1,7 +1,8 @@
 ---
 title: Striders Strike Gold at the 2020 Glos Cross Country Champs
-description:
-categories: cross country results
+description: Cheltenham Ladies College Striders running club get Gold places in 2020 Gloucestershire cross country championships
+categories:
+ - cross country results
 ---
 
 On a bright Saturday afternoon at the beginning of a new decade, a handful of Striders turned out to represent themselves and their club in the annual Gloucestershire Cross Country Championship. Held over the beautiful grounds of Rendcomb College, south-east of Cheltenham, the course had benefited from a relatively dry Christmas and had had chance to dry up a little after the autumn deluges. That said, the going was still sticky, and the terrain was as challenging as always.
@@ -14,6 +15,6 @@ Meanwhile, super-vet **David James** recorded a gold medal-wining 1st place in h
 
 The other male Striders competing in the main men’s race were the faithful **Paul Lockyer**, who finished in 42nd place, **Richard Symonds** in 47th, **JJ Willson**, 56th overall and a silver-medal-winning 2nd in his MV60 category, **Ed Collier** in 70th and **Andrew Gage** in 72nd.
 
-Glos-County-Cross-Country-Champs-4.1.20-768x576.jpg
+![CLC Striders at Rendcomb School for the Gloucestershire Cross Country Championships. Pictured, left to right: Rachel Vines, David James, Karlien Heyrman, Fiona Brady-Miller, Helen Knight and Liza Bradshaw](/Images/Glos-County-Cross-Country-Champs-4.1.20-768x576.jpg "Cheltenham Ladies College Striders in cross country champs")
 
 _CLC Striders at Rendcomb School for the Gloucestershire Cross Country Championships. Pictured, left to right: Rachel Vines, David James, Karlien Heyrman, Fiona Brady-Miller, Helen Knight and Liza Bradshaw_
