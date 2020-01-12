@@ -10,8 +10,8 @@
     {% if site.slider %}
     <div id="gallery">
         <ul id="lightSlider">
-             {% for images in site.sliderImages | limit 7 }}
-                <li class="{{image.title}}"><img src="{{images.filePath}}" alt="{{images.description}}"/></li>
+             {% for carouselItem in site.sliderImages | limit 7 }}
+                <li class="{{carouselItem.title}}"><img src="{{carouselItem.filePath}}" alt="{{carouselItem.description}}"/></li>
             {% endfor %}
         </ul>
     </div>
