@@ -11,7 +11,7 @@
     <div id="gallery">
         <ul id="lightSlider">
              {% for images in site.sliderImages | limit 7 }}
-                <li><img src="{{images.filepath}}" alt="{{images.description}}"/></li>
+                <li class="{{image.title}}"><img src="{{images.filePath}}" alt="{{images.description}}"/></li>
             {% endfor %}
         </ul>
     </div>
