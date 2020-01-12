@@ -1,4 +1,4 @@
-cache:          hjvkcx
+cache:          hkjglhvtigoyiltugvvi
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
@@ -26,6 +26,7 @@ announcements:  true
 collections:
   announcements:
   sliderImages:
+  
 exclude:        ["README"]
 sass:
   style:        compressed
