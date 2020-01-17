@@ -133,7 +133,18 @@ a.skip-main:focus, a.skip-main:active {
         float:none;
         clear:both;
         width:100%;
-    }
+    	}
+	
+	.sub {
+	  white-space: pre-wrap;
+	  text-align: justify;
+	  width:100%;
+	}
+
+	.title {
+	  white-space: pre-wrap;
+	  display: table;
+	}
 }
 
 
