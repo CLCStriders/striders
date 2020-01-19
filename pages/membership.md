@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership
-membershipLink : https://www.entrycentral.com/CLCMembership
 membershipForm : /assets/clc-striders-membership-form.pdf
 permalink: /membership
 description: Cheltenham running club membership at CLC Striders
@@ -18,9 +17,7 @@ Thinking of joining CLC Striders? Please come along to one of our Monday or Wedn
    - Supportive and experienced running club members to help you improve your fitness and performance
    - The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country).
 
-
-<a href="{{ page.membershipLink }}">Our memberships are renewable annually on 1st April and can be purchased online via Entry Central</a>
-
 The club also offer half year memberships from the 1st October. Please contact the membership secretary for more information
 
-Alternatively, please complete a <a href="{{ page.membershipForm }}">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
+
+Please complete a <a href="{{ page.membershipForm }}">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
