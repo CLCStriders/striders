@@ -19,5 +19,4 @@ Thinking of joining CLC Striders? Please come along to one of our Monday or Wedn
 
 The club also offer half year memberships from the 1st October. Please contact the membership secretary for more information
 
-
-Please complete a <a href="{{ page.membershipForm }}">membership form</a> and either post to the Club Secretary or hand it to any committee member at a training night.
+Please complete a <a href="/membership-form">membership form</a>.
