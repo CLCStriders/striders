@@ -55,6 +55,7 @@ This will be clearly marshalled. Please note that road closures have not been ap
 
 ### Previous results
 
+- [Staverton 10 – 2020 Race Results](/assets/staverton/staverton-10-mile-results-2020.pdf)
 - [Staverton 10 – 2019 Race Results](/assets/staverton/staverton-10-mile-results-2019.pdf)
 - [Staverton 10 – 2018 Race Results](/assets/staverton/staverton-10-mile-results-2018.pdf)
 - [Staverton 10 – 2017 Race Results](/assets/staverton/staverton-10-mile-results-2017.pdf)
