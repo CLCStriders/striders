@@ -4,7 +4,6 @@ title: 'Pilot Inn 4 Mile Race - 27th December 2012'
 date: 2013-01-06T13:45:19+00:00
 excerpt: '<p>Victory for Dare at Pilot..</p>'
 layout: post
-permalink: /2013/01/pilot-inn-4-mile-race-27th-december-2012/
 ---
 The annual pilot 4 mile race was the usual out and back course and with wet and windy conditions it saw a modest turnout of around 50 keen runners looking to burn of the Christmas and boxing days excesses.
 
