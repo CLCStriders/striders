@@ -14,9 +14,12 @@ permalink: /fixtures
     <thead>
         <tr>
           <th data-field="Date">Date</th>
+          <th data-field="Series">Series</th>
           <th data-field="Race">Race</th>
           <th data-field="Distance">Distance</th>
           <th data-field="Terrain">Terrain</th>
         </tr>
     </thead>
 </table>
+
+*Races highlighted form part of the [Striders Road Race Series](/roadraceseries). 
