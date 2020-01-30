@@ -7,16 +7,20 @@ description: Cheltenham running club membership at CLC Striders
 
 ---
 
-Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesday evening training sessions for a trial run. Once you’ve decided you want to join and take full opportunity of the membership benefits:
+Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesday evening [training sessions](/training) for a trial run. 
+
+Membership benefits include:
 
    - Membership of one of Cheltenham’s leading running clubs
    - Inspirational coaching from our qualified coaches
    - Discounts offered at local running shops
    - Discount entry offered at most running events
-   -  Personal Insurance for when you are out on the road training
+   - Athlete registration with [England Athletics](https://www.englandathletics.org)
+   -  Personal insurance for when you are out on the road training
    - Supportive and experienced running club members to help you improve your fitness and performance
    - The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country).
 
-The club also offer half year memberships from the 1st October. Please contact the membership secretary for more information
+ Our membership is renewable annually on 1st April. Half year memberships from 1st Octoeber are available, as are second claim memberships. Please contact the [membership secretary](/committee) for more information
 
-Please complete a <a href="/membership-form">membership form</a>.
+Once you've decided you want to join, please complete a
+[membership form](/membership-form).
