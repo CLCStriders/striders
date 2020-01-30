@@ -10,6 +10,8 @@ permalink: /fixtures
    The committee have gathered a list of key races for the club throughout the year. 
    The fixture list is below:</p>
 
+*Races highlighted form part of the [Striders Road Race Series](/roadraceseries). 
+
 <table id="site_data_fixtures" style="width:100%">
     <thead>
         <tr>
@@ -22,4 +24,4 @@ permalink: /fixtures
     </thead>
 </table>
 
-*Races highlighted form part of the [Striders Road Race Series](/roadraceseries). 
+
