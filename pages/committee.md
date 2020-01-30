@@ -34,4 +34,4 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 
 #### Committee minutes
 
-Committee minutes are available to club members. See the news section for any club announcements.
+Committee minutes are available to club members. See the [news section](/news) for any club announcements.
