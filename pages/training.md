@@ -1,56 +1,96 @@
 ---
 layout: default
-title: Our Weekly Training Sessions
-description: CLC Striders running club - cheltenham training sessions
+title: CLC Striders Training Sessions
+description: CLC Striders running club training sessions - cheltenham training sessions
 permalink: /training
 
 ---
 
-__Q__: I am new to running. Can I try one of your sessions?
+Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs.  We have two main sessions: a social run on Mondays and speed work on Wednesdays.  We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
 
-__A__: Yes! If you are a complete beginner, come along and try our Wednesday night Improvers Group. You will get expert advice from our Inprovers coach, Chris (aka “GPS”), on how to embark on your running adventure in a sociable and fun environment. Please see below for more information.
+The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining.  Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
-__Q__: I’m a runner and want to improve, can you help?
+On both Mondays and Wednesdays, we meet at the [CLC Health & and Fitness Centre on Malvern Road]({{ site.mapUrl }}) we usually gather downstairs - just ask at reception for the running club and they will point you in the right direction.  There is plenty of free parking and changing rooms and lockers are available (20p required). 
 
-__A__: Yes! Whether you are a recreational runner or a competitive athlete we have a range of training sessions to suit you. If you can comfortably run 5k (3 miles), come along and try our Monday night 4 mile social group. As a rule of thumb, if you do the Cheltenham parkrun in 30 minutes or less, this is the group for you. You can also try our Wednesday night Improvers Group.
+#### Mondays – Social run
+Meet at 6.30pm, CLC Health & Fitness Centre 
 
-If you area more experienced runner, we have a number of Monday night 6 mile groups ranging from 9:30 minutes per mile (~1 hour for a 10k) to sub-6 minutes per miile (~40 minutes for a 10k). Our experienced group leaders will guide you round at an even (but testing!) pace. You can also try our Wednesady night Competitive Group.
+This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 minute/miles (approx. 4 to 6 minute/km), each group with an experienced leader.  We start and finish at the CLC sports centre, using well-lit pavements around Cheltenham in the winter months, and Pittville Park and the Racecourse in the summer. 
 
-### Road Run – Monday 6.30pm CLC Sports Centre
+We change the route every few weeks but examples are:
 
-We meet at the CLC Sports Centre on Monday evenings at 18:30 and offer two distances: a 4 mile sociable run and a 6 mile run at a range of paces. If you would like to try a Monday session, please come along to the CLC Sports Centre at 18:25 on Monday evening and ask to speak to one of our club captains. You can also email us at training@clcstriders-runningclub.co.uk or contact us on social media via facebook or twitter. We do appreciate that coming along to your first training session could be nervous but we will do everything we can to give you the usual CLC Striders big warm welcome.
+- Warden Hill & Hatherley
+  - 4M - <https://www.gmap-pedometer.com/?r=6085072>	pdf  
+  - 6M - <https://www.gmap-pedometer.com/?r=6085063>	pdf
 
-All our routes are circular, starting and finishing at our base <a href="https://www.google.co.uk/maps/place/Cheltenham,+Gloucestershire+GL50+2NX/@51.8996855,-2.0905991,17.26z/data=!4m2!3m1!1s0x48711b750b7cf72f:0x18adca3553c78bca?hl=en">CLC Sports Centre</a>. We also ensure that each group sticks together to make the session enjoyable and safe. During the winter, we ask that people wear high visibility items to help other people see that the group is coming along the paths and pavements of Cheltenham.
+- Benhall & Warden Hill
+  - 4M - <https://www.gmap-pedometer.com/?r=7304693>	pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7305262> 	pdf
 
-<a href="/assets/clc-striders-training-etiquette.pdf">CLC STRIDERS TRAINING ETIQUETTE</a>
+- Christmas lights
+  - 4M - <https://www.gmap-pedometer.com/?r=7428607>	pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7428605>	pdf
 
-### Currently, our routes vary every few weeks and more generally between seasons, but are chosen from
+- Honeybourne & Hewlett Rd / Hales Road
+  - 4M - <https://www.gmap-pedometer.com/?r=7336512>	pdf	
+  - 6M - <https://www.gmap-pedometer.com/?r=7333921>	pdf	
 
-* [4 mile route 1a](http://www.gmap-pedometer.com/?r=6085072)
-* [6 mile route 1b](http://www.gmap-pedometer.com/?r=6085063)
-* [4 mile route 2a](http://www.gmap-pedometer.com/?r=6085072)
-* [6 mile route 2b](http://www.gmap-pedometer.com/?r=6085063)
-* [4-mile route 3a](http://www.gmap-pedometer.com/?r=6584237)
-* [6-mile route 3b](http://www.gmap-pedometer.com/?r=6584229)
-* [4-mile route 4a](http://www.gmap-pedometer.com/?r=7304693)
-* [6-mile route 4b](http://www.gmap-pedometer.com/?r=7305262)
+- Summer route with Pittville Park / Racecourse
+  - 4m - <https://www.gmap-pedometer.com/?r=6584237> 	pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=6584229> 	pdf
 
-### Speed Work – Wednesday 6.30pm CLC Sports Centre
+#### Wednesdays – Speed work
+Meet at 6.30pm, CLC Health & Fitness Centre
 
-Speed work is for all abilities; it is a common misconception that it is only for the pros. Recreational runners will see tangible benefits in their fitness and performance. We have two groups; an improvers group and a competitive group:
+Our speed work sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park. 
 
-#### Improvers Group
+#### Fridays
 
-This group is designed for athletes who may not yet feel confident enough to compete for the club, especially in Cross Country League fixtures, but who want to improve their running. The aim of this group is to help members to achieve their running goals; to compete if they wish to do so, and progress to the Competitive Group.
+We run blocks of training sessions at the Prince of Wales track [LINK TO MAP] on Friday evenings in spring and summer, before and during the main track season.  Keep an eye on our Facebook page for updates [LINK TO EXTERNAL FB PAGE] or contact us for more details on these sessions.  We ask all attendees to contribute £3 per session towards the cost of hiring the track. 
 
-#### Competitive Group
+__Tips for club runs__
 
-This group is designed for athletes who predominantly do compete and who want to fly the flag for the club especially in Cross Country League races, and for those who really want to become the best they can be at their selected distance. The sessions, especially over the winter months, will be progressive in volume and will have lots of variation.
+To make sure our club runs are safe and enjoyable for everyone, please follow these tips:
 
-### Our Coaches
+- Come dressed for the weather – we run in the heat, cold and rain
+- If it’s dark, wear reflective clothing and preferably some lights
+- Take care when crossing roads and on uneven ground 
+- On Monday runs, stay with your group and follow the leader’s instructions; if it’s too slow or fast you can try a different group the next week
+- Don’t leave anyone behind at the back of the group 
+- Let your group leader know if you plan to run straight home rather than coming back to the sports centre
+- Speak to a coach or group leader if you have any injuries or other concerns before, during or after a run
+- We welcome your ideas and suggestions – please let us know what you think. 
 
-- Brendan Ward (Head Coach & Coach in Running Fitness)
-- Phil Jowett (Coach in Running Fitness)
-- Martin Bick (Coach in Running Fitness)
-- Joel Freeland (Coach in Running Fitness)
-- Amelia Mullins (Coach in Running Fitness)
+#### Meet Our Coaches
+
+Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked.  Please talk to them about your personal training goals, general running queries or any concerns you may have.  You can also ask about attending a LiRF or CiRF training course yourself. 
+
+__Head Coach – Brendan Ward__
+	•	Founded CLC Striders in 2008
+	•	CiRF since 2010, with many previous years’ coaching experience
+	•	Awarded England Athletics’ South West Coach of the Year 2012
+
+__Coaches__
+- Martin Bick
+	•	Joined CLC Striders in 2013, CiRF since 2017
+- Joel Freeland
+	•	Joined CLC Striders in 2010, CiRF since 2017
+- Phil Jowett
+	•	Joined CLC Striders in 2008, CiRF since 2010
+- Amelia Mullins
+	•	Joined CLC Striders in 2009, CiRF since 2019.  
+	•	Co-ordinator of Monday night club runs
+
+__Run Leaders__
+- Liza Bradshaw		
+- Tim Brock
+- Natalie Burfitt
+- Charlie Haward
+- Jon Howes
+- Eoin McQuone
+- Hedley Philips
+- Helen Rawcliffe
+- Amanda Steer
+- Rachel Vines
+- Nicola Weager
+
