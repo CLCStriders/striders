@@ -21,24 +21,24 @@ This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 min
 We change the route every few weeks but examples are:
 
 - Warden Hill & Hatherley
-  - 4M - <https://www.gmap-pedometer.com/?r=6085072>	pdf  
-  - 6M - <https://www.gmap-pedometer.com/?r=6085063>	pdf
+  - 4M - <https://www.gmap-pedometer.com/?r=6085072> pdf  
+  - 6M - <https://www.gmap-pedometer.com/?r=6085063> pdf
 
 - Benhall & Warden Hill
-  - 4M - <https://www.gmap-pedometer.com/?r=7304693>	pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7305262> 	pdf
+  - 4M - <https://www.gmap-pedometer.com/?r=7304693> pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7305262>  pdf
 
 - Christmas lights
-  - 4M - <https://www.gmap-pedometer.com/?r=7428607>	pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7428605>	pdf
+  - 4M - <https://www.gmap-pedometer.com/?r=7428607> pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7428605> pdf
 
 - Honeybourne & Hewlett Rd / Hales Road
-  - 4M - <https://www.gmap-pedometer.com/?r=7336512>	pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7333921>	pdf
+  - 4M - <https://www.gmap-pedometer.com/?r=7336512> pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7333921> pdf
 
 - Summer route with Pittville Park / Racecourse
-  - 4m - <https://www.gmap-pedometer.com/?r=6584237> 	pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=6584229> 	pdf
+  - 4m - <https://www.gmap-pedometer.com/?r=6584237>  pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=6584229>  pdf
 
 #### Wednesdays – Speed work
 
@@ -69,21 +69,21 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 
 ##### Head Coach – Brendan Ward
 
-	•	Founded CLC Striders in 2008
-	•	CiRF since 2010, with many previous years’ coaching experience
-	•	Awarded England Athletics’ South West Coach of the Year 2012
+- Founded CLC Striders in 2008
+- CiRF since 2010, with many previous years’ coaching experience
+- Awarded England Athletics’ South West Coach of the Year 2012
 
 ###### Coaches
 
 - Martin Bick
-	•	Joined CLC Striders in 2013, CiRF since 2017
+  - Joined CLC Striders in 2013, CiRF since 2017
 - Joel Freeland
-	•	Joined CLC Striders in 2010, CiRF since 2017
+  - Joined CLC Striders in 2010, CiRF since 2017
 - Phil Jowett
-	•	Joined CLC Striders in 2008, CiRF since 2010
+  - Joined CLC Striders in 2008, CiRF since 2010
 - Amelia Mullins
-	•	Joined CLC Striders in 2009, CiRF since 2019.  
-	•	Co-ordinator of Monday night club runs
+  - Joined CLC Striders in 2009, CiRF since 2019.  
+  - Co-ordinator of Monday night club runs
 
 ##### Run Leaders
 
