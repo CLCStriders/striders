@@ -48,7 +48,7 @@ Our speed work sessions are brilliant for developing fitness, running efficiency
 
 #### Fridays
 
-We run blocks of training sessions at the [Prince of Wales track]({{ site.mapUrl_POW }}) on Friday evenings in spring and summer, before and during the main track season.  Keep an eye on our Facebook page for updates [LINK TO EXTERNAL FB PAGE] or contact us for more details on these sessions.  We ask all attendees to contribute £3 per session towards the cost of hiring the track.
+We run blocks of training sessions at the [Prince of Wales track]({{ site.mapUrl_POW }}) on Friday evenings in spring and summer, before and during the main track season.  Keep an eye on our [Facebook page]({{site.facebook}}) for updates or [contact us](/contact) for more details on these sessions.  We ask all attendees to contribute £3 per session towards the cost of hiring the track.
 
 ##### Tips for club runs
 
