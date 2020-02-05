@@ -10,7 +10,7 @@ Our training benefits those who are fairly new to running, regular runners wanti
 
 The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining.  Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
-On both Mondays and Wednesdays, we meet at the [CLC Health & and Fitness Centre on Malvern Road]({{ site.mapUrl_CLC }}) we usually gather downstairs - just ask at reception for the running club and they will point you in the right direction.  There is plenty of free parking and changing rooms and lockers are available (20p required). 
+On both Mondays and Wednesdays, we meet at the [CLC Health & and Fitness Centre on Malvern Road]({{ site.mapUrl_CLC }}) we usually gather downstairs - just ask at reception for the running club and they will point you in the right direction.  There is plenty of free parking and changing rooms and lockers are available (20p required).
 
 #### Mondays – Social run
 
@@ -33,8 +33,8 @@ We change the route every few weeks but examples are:
   - 6M - <https://www.gmap-pedometer.com/?r=7428605>	pdf
 
 - Honeybourne & Hewlett Rd / Hales Road
-  - 4M - <https://www.gmap-pedometer.com/?r=7336512>	pdf	
-  - 6M - <https://www.gmap-pedometer.com/?r=7333921>	pdf	
+  - 4M - <https://www.gmap-pedometer.com/?r=7336512>	pdf
+  - 6M - <https://www.gmap-pedometer.com/?r=7333921>	pdf
 
 - Summer route with Pittville Park / Racecourse
   - 4m - <https://www.gmap-pedometer.com/?r=6584237> 	pdf
@@ -44,7 +44,7 @@ We change the route every few weeks but examples are:
 
 Meet at 6.30pm, CLC Health & Fitness Centre
 
-Our speed work sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park. 
+Our speed work sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park.
 
 #### Fridays
 
@@ -98,4 +98,3 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - Amanda Steer
 - Rachel Vines
 - Nicola Weager
-
