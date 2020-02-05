@@ -73,7 +73,7 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - CiRF since 2010, with many previous years’ coaching experience
 - Awarded England Athletics’ South West Coach of the Year 2012
 
-###### Coaches
+##### Coaches
 
 - Martin Bick
   - Joined CLC Striders in 2013, CiRF since 2017
