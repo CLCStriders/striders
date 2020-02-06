@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cheltenham Running Club
+title: Development Site
 description: Cheltenham Ladies College Striders Running Club based in Cheltenham Gloucestershire
 announcements: true
 slider: true
