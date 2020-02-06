@@ -6,11 +6,11 @@ permalink: /records
 
 ---
 
-<p>The club are active in road, track, and cross country races with the road and track offering our members the opportunity to set club records at a particular distance.</p>
+The club are active in road, track, and cross country races with the road and track offering our members the opportunity to set club records at a particular distance.
 
-<p>Any records to be updated should be sent to the committee via our <a href="/contact">contact form</a>.</p>
+Any records to be updated should be sent to the committee via our [contact form](/contact).
 
-<p>The table below includes all records for men and women, use the search box to filter results. Empty/missing details means no records have been set</p>
+The table below includes all records for men and women, use the search box to filter results. Empty/missing details means no records have been set
 
 <table id="site_data_records" style="width:100%">
 	<thead>

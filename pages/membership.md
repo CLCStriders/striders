@@ -7,7 +7,7 @@ description: Cheltenham running club membership at CLC Striders
 
 ---
 
-Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesday evening [training sessions](/training) for a trial run. 
+Thinking of joining CLC Striders? Please come along to one of our Monday or Wednesday evening [training sessions](/training) for a trial run.
 
 Membership benefits include:
 
