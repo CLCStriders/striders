@@ -1,0 +1,34 @@
+title: Menu
+items:
+
+- name: CLC Striders News
+  url: /news/ 
+  display: News
+
+- name: CLC Striders Events 
+  url: /staverton-10 
+  display: Events
+
+- name: Upcoming Fixtures 
+  url: /fixtures 
+  display: Fixtures	
+
+- name: Training
+  url: /training 
+  display: Training
+
+- name: CLC Striders Membership
+  url: /membership 
+  display: Membership 
+
+- name: CLC Striders Records
+  url: /records 
+  display: Records
+
+- name: About CLC Striders
+  url: /about 
+  display: About
+
+- name: CLC Striders
+  url: /shop 
+  display: Shop
