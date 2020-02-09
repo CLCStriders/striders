@@ -20,6 +20,6 @@ Thanks again for making me a very happy Bunny.
 
 Brendan
 
-Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Glos_CC_results_05February2011.pdf" target="_blank" rel="nofollow">here</a>for the official results 
+Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Glos_CC_results_05February2011.pdf" target="_blank" rel="nofollow">here</a>for the official results 
 
-Click <a href="http://www.clcstriders-runningclub.co.uk/documents/2010_2011GlosCCLgeStandingstodate3.pdf" target="_blank" rel="nofollow">here </a>for the Glos XC league standings at the end of the season
+Click <a href="https://www.clcstriders-runningclub.co.uk/documents/2010_2011GlosCCLgeStandingstodate3.pdf" target="_blank" rel="nofollow">here </a>for the Glos XC league standings at the end of the season

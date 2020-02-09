@@ -1014,4 +1014,4 @@ permalink: /2011/02/The-Bourton-10k-27-February-2011/
   </tr></colgroup>
 </table>
 
-Click <a href="http://www.bourtonroadrunners.co.uk/race_results/10k_results_2011.htm" target="_blank" rel="nofollow">here</a>for official the results Here's a video clip from YouTube (we hope Nick Hitchings from Malvern Joggers doesn't mind us posting this here&#8230;)
+Click <a href="https://www.bourtonroadrunners.co.uk/race_results/10k_results_2011.htm" target="_blank" rel="nofollow">here</a>for official the results Here's a video clip from YouTube (we hope Nick Hitchings from Malvern Joggers doesn't mind us posting this here&#8230;)

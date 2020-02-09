@@ -15,4 +15,4 @@ Meanwhile the Striders men also had a fabulous day clinching third team on the d
 
 The Striders B team were ninth on the day and were led home by Mark Langman in 59th place. Jon Howes, Phil Jowett, Rich Shardlow, Dave Billingham and Jo Maddocks completed the B team scorers. 
 
-Full <a href="http://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_13December2014.pdf" target="_blank" rel="nofollow">results</a>and <a href="https://www.flickr.com/photos/129700982@N05/sets/72157647454210233/" target="_blank" rel="nofollow">photos</a>are now available.
+Full <a href="https://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_13December2014.pdf" target="_blank" rel="nofollow">results</a>and <a href="https://www.flickr.com/photos/129700982@N05/sets/72157647454210233/" target="_blank" rel="nofollow">photos</a>are now available.

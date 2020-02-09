@@ -10,8 +10,8 @@ Club Chariman Brendan Ward has won a prestigious services to coaching award. Bre
 
 To hear an interview with Brendan on BBC Radio Gloucestershire, click on the link below. The interview is at 02:22:00.
 
-<a href="http://www.bbc.co.uk/programmes/p00zb9fh" target="_blank" rel="nofollow">Brendan on the radio</a>
+<a href="https://www.bbc.co.uk/programmes/p00zb9fh" target="_blank" rel="nofollow">Brendan on the radio</a>
 
-<a href="http://www.glosaaa.org.uk/" target="_blank" rel="nofollow">Glos AAA write-up</a>
+<a href="https://www.glosaaa.org.uk/" target="_blank" rel="nofollow">Glos AAA write-up</a>
 
-<a href="http://www.thisisgloucestershire.co.uk/Striders-coach-Ward-best-South-West/story-17208434-detail/story.html" target="_blank" rel="nofollow">Gloucestershire Echo Report</a>
+<a href="https://www.thisisgloucestershire.co.uk/Striders-coach-Ward-best-South-West/story-17208434-detail/story.html" target="_blank" rel="nofollow">Gloucestershire Echo Report</a>

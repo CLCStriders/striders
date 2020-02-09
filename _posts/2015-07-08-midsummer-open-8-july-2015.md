@@ -4,7 +4,7 @@ title: 'Midsummer Open - 8 July 2015'
 date: 2015-07-08T16:49:09+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=667
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=667
 permalink: /2015/07/midsummer-open-8-july-2015/
 categories:
   - Track Reports

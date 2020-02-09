@@ -12,4 +12,4 @@ Trudy Jones 53.25
 
 Rebecca Boulton 55.42
 
-Full results and report can be found here: http://www.carun.org/2011/04/minchinhampton-10k-junior-event
+Full results and report can be found here: https://www.carun.org/2011/04/minchinhampton-10k-junior-event

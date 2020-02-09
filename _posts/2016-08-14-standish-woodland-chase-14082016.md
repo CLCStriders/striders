@@ -17,4 +17,4 @@ In this hilly multi-terrain race, Dave Smeath was 28th in 1:11:32, whilst Billy 
 
 (full report to follow)
 
-[provisional results](http://www.stroudathleticclub.co.uk/Content/Results/standish_woodland_chase/standish_woodland_chase2016.pdf)
+[provisional results](https://www.stroudathleticclub.co.uk/Content/Results/standish_woodland_chase/standish_woodland_chase2016.pdf)

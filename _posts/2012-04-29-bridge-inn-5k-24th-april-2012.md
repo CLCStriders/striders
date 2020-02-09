@@ -10,4 +10,4 @@ In the first of this series of 4 races on this out and back course which is down
 
 The next races are on : 29 May, 26 June and 31 July.
 
-<a href="http://www.bristolandwestac.org/bridge-inn-5k/" target="_blank" rel="nofollow">Full results</a>
+<a href="https://www.bristolandwestac.org/bridge-inn-5k/" target="_blank" rel="nofollow">Full results</a>

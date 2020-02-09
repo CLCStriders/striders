@@ -23,6 +23,6 @@ The valiant and determined performance by the seven Brendan Ward-coached athlet
 
 Having previously consisted of 6 short legs of 3 miles, this year the women's race included two long legs of 5.35 miles, and for the Striders, Amanda Steer was the first to tackle one of these on Leg 1.  After a sensible and well-judged start, Steer worked her way through the field to finish the leg in 32nd place with a time of 38:54.  Next up for Striders was Beckie Reynolds making a welcome return to racing with a time of 23:52 in 34th place; she was followed by Karlien Heyrman who ran an excellent long leg of 37:49 to gain 10 places and hand over to women's captain Rachel Vines in 24th place.  Vines ran another quick leg of 20:46 to gain another 4 places and take the women up to 20th place, and she was followed by Amanda Pill who, having stepped up to the plate to run for the team shortly before the event, ran well to finish her leg in 30:41 in 32nd place.  In the final leg  Zoe Gough ran well to take the team to a top 30 finish with a time of 24:06.
 
-Full results are available [here](http://www.race-results.co.uk/results/2016/)
+Full results are available [here](https://www.race-results.co.uk/results/2016/)
 
 &nbsp;

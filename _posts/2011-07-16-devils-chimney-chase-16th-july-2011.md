@@ -12,4 +12,4 @@ In this race, which winds its way to the top of Leckhampton Hill before making a
 
 The race was won by Gloucester AC's Steve Millward in a time of 36:14. 
 
-<a href="http://www.runbritainrankings.com/results/results.aspx?meetingid=53927" target="_blank" rel="nofollow">Full results</a></p>
+<a href="https://www.runbritainrankings.com/results/results.aspx?meetingid=53927" target="_blank" rel="nofollow">Full results</a></p>

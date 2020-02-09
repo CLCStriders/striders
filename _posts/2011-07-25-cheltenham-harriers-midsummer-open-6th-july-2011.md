@@ -8,4 +8,4 @@ permalink: /2011/07/cheltenham-harriers-midsummer-open-6th-july-2011/
 ---
 Joel ran for the Striders in the 400m in the first of the Summer track opens at POW. He won his race in an impressive time of 57.4 - in very blustery conditions.
 
-<a href="http://athleticprowess.co.uk/index.php/component/content/article/128-article-1" target="_blank" rel="nofollow">Full results</a>
+<a href="https://athleticprowess.co.uk/index.php/component/content/article/128-article-1" target="_blank" rel="nofollow">Full results</a>

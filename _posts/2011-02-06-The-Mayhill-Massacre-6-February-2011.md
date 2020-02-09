@@ -14,4 +14,4 @@ A field of 480 runners turned out despite the wind and wet to join in with the 5
 
 Laura
 
-Click <a href="http://www.mayhillmassacre.co.uk/images/provisional_results_2011.pdf" target="_blank" rel="nofollow">here</a>for the Offical results
+Click <a href="https://www.mayhillmassacre.co.uk/images/provisional_results_2011.pdf" target="_blank" rel="nofollow">here</a>for the Offical results

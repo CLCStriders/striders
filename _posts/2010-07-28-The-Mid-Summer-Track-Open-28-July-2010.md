@@ -26,7 +26,7 @@ Mile Women
 4. Rachel Vines 5.54.2 (Club Rec)  
 8. Sian Holly 6.09.5 (PB) 800m Women  
 4. Jo Wilkie 2.40.6 100m Men  
-4. Nick O'neil 12.00 (Seasons Best) Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Midsummer_results_meeting_4_28_July_2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
+4. Nick O'neil 12.00 (Seasons Best) Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Midsummer_results_meeting_4_28_July_2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

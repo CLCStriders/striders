@@ -16,7 +16,7 @@ It really is a good (but challening) run and Darren suggests we run it with club
 
 **Results**
 
-Click <a href="http://www.cirencester-ac.org.uk/pdf/results/chedworth2009results.pdf " target="_blank" rel="nofollow">here</a>for the results
+Click <a href="https://www.cirencester-ac.org.uk/pdf/results/chedworth2009results.pdf " target="_blank" rel="nofollow">here</a>for the results
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

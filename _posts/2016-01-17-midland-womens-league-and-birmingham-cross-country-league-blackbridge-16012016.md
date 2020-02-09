@@ -14,7 +14,7 @@ In a women's race that was won by GB international, Jess Judd, CLC Striders were
 
 The women's team and the masters' team both claimed 12th place.
 
-[women's results](http://www.racetecresults.com/Results.aspx?CId=16418&RId=205&EId=2)
+[women's results](https://www.racetecresults.com/Results.aspx?CId=16418&RId=205&EId=2)
 
 In the men's race, Will Ferguson was once again in imperious form.  Having initially been content to sit outside the leading 10, the Brendan-Ward coached athlete ran a characteristically well-paced race to pass several runners and claim 6th place.  Next for Striders was Iain Porter who followed up an outstanding 9th place in the County Championships last week, with an excellent 31st place.  He was followed by Sam Baylis who continued his run of consistent performances in the Birmingham League with a strong 44th place. Other excellent performances in the men's A team were had by James Oram in 50th place and Jon Howes in 88th. The A team were 8th on the day and further consolidate their 8th place in the overall standings.
 
@@ -22,7 +22,7 @@ In the men's race, Will Ferguson was once again in imperious form.  Having init
 
 The Striders' A team was excellently supported by a strong B team.  This was led by Pauls Northup and Lockyer who both ran well for 131st place and 134th place respectively, and they were followed by Tom Vickers who continued his good form with 157th place. JJ Willson was next in 159th, and he was followed by Javid Norat, who had an excellent debut to finish in 191st place.  Completing the men's line-up with excellent runs were David James in 206th place and Gavin Jerman in 214th.  There were 245 finishers.
 
-[men's results](http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2015-16/2016-01-16-M2.pdf)
+[men's results](https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2015-16/2016-01-16-M2.pdf)
 
 <img src="/Images/2016/01/P1040809-300x225.jpg" alt="Brendan and Carolyn"/>
 _Brendan and Carolyn_

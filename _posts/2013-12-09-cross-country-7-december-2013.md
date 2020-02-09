@@ -18,7 +18,7 @@ The men were competing in their second Division Two fixture of the season. After
 240 Andy Patterson 48.59  
 263 David James 52.10
 
-<a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2013-14/BDXCL_D2_R2_2013_12_07_Men_V1.pdf" target="_blank" rel="nofollow">Full list of mens'results</a>
+<a href="https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2013-14/BDXCL_D2_R2_2013_12_07_Men_V1.pdf" target="_blank" rel="nofollow">Full list of mens'results</a>
 
 Meanwhile, in Wolverhampton, the ladies were led home by in-form Jo Wilkie who is having the season of her life. Jo Was backed up by excellent performances which meant the Striders ladies finished 15th on out of 33 teams overall, with the Striders Masters team coming a superb 5th out of 24 teams. Finishing positions and times were:
 
@@ -29,6 +29,6 @@ Meanwhile, in Wolverhampton, the ladies were led home by in-form Jo Wilkie who i
 179 Dawn Addinall 34.03  
 229 Amanda Pill 39.02
 
-<a href="http://www.midlandathletics.org.uk/PDFS/2013_RES_131207_MWCCL_Fixture2.pdf" target="_blank" rel="nofollow">Full list of ladies'results</a>
+<a href="https://www.midlandathletics.org.uk/PDFS/2013_RES_131207_MWCCL_Fixture2.pdf" target="_blank" rel="nofollow">Full list of ladies'results</a>
 
 Well done. A fantastic effort by all concerned.</p>

@@ -76,4 +76,4 @@ Striders results:
 
 15<sup>th</sup>â€“ CLC B = 700
 
-Full results are on <a href="http://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAAâ€™s website</a></p>
+Full results are on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAAâ€™s website</a></p>

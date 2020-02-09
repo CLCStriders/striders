@@ -19,4 +19,4 @@ Next came the Striders women. Completely dominant once more, even with key playe
 
 Andrew Paterson, Ross Greening and Richard Haslam ran well to finish in 48th, 55th, 67th respectively, and they were followed by the ever-improving Beckie Boulton in 76th, Rachel Burdick in 83rd, Jill Harsent in 85thand Dawn Addinall in 88th. There were 102 finishers overall.
 
-Full results are available <a href="http://cheltenhamharriers.co.uk/public/inc/doc/cuckoo/results/cuckoo_2014_results.pdf" target="_blank" rel="nofollow">here</a></p>
+Full results are available <a href="https://cheltenhamharriers.co.uk/public/inc/doc/cuckoo/results/cuckoo_2014_results.pdf" target="_blank" rel="nofollow">here</a></p>

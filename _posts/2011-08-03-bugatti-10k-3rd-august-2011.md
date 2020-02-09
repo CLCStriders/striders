@@ -16,4 +16,4 @@ Also in the individual prizes was Amanda Steer who continued her run of excellen
 
 In the team races, Striders'womens'team took 3rd prize whilst the men's team beat Cheltenham Harriers to take the prize for first team, repeating their success in the Cloud Cuckooland race in June.
 
-Full results will be shown on <a href="http://athleticprowess.co.uk" target="_blank" rel="nofollow">Cheltenham Harriersâ€™</a>website when available.</p>
+Full results will be shown on <a href="https://athleticprowess.co.uk" target="_blank" rel="nofollow">Cheltenham Harriersâ€™</a>website when available.</p>

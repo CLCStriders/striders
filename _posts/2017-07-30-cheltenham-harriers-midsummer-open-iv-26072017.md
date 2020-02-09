@@ -21,4 +21,4 @@ The 800 metres saw Will Ferguson set a season’s best finishing 2<sup>nd</sup> 
 
 The 5000 metres saw multiple club record breaker, and ladies’ club captain Rachel Vines record a solid 19.33; Sophie Longmore set a track PB recording a time of 19.56.5. Longmore was overtaken in the last 50 metres by the fast-finishing Joel Freeland who ran 19.54.9. V50 Gavin Jerman set a PB in the 5000m recording a time of 21.11.8, while Kyle Sollars ran an excellent PB in the same race in a time of 21.35.3.
 
-[results](http://powerof10.info/results/results.aspx?meetingid=203601&pagenum=1#800)
+[results](https://powerof10.info/results/results.aspx?meetingid=203601&pagenum=1#800)

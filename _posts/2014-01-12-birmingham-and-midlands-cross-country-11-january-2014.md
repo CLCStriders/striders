@@ -14,4 +14,4 @@ Meanwhile the ladies competed in the Midlands Women's Cross Country League held 
 
 Vicky Lewis returned to action to finish 92nd with Amanda Pill completing the line-up in 242nd. The ladies are currently just outside the top 10 of this very competitive league.
 
-Full results are available <a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2013-14/2014-01-11-Men-Div2-Ver1.pdf" target="_blank" rel="nofollow">here</a></p>
+Full results are available <a href="https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2013-14/2014-01-11-Men-Div2-Ver1.pdf" target="_blank" rel="nofollow">here</a></p>

@@ -10,4 +10,4 @@ Justine Hale and Liza Barry competed in the 10k Winchcombe Hill Climb on Sunday.
 
 Meanwhile, Chris and Justine Hale, John Parker, and Laura and Lesley Kent all had their mini-Striders out in the kids 1k run. Great to see the stars of the future strutting their stuff!
 
-Full results can be found here: <a href="http://winchcombeshow.org.uk/" target="_blank" rel="nofollow">http://winchcombeshow.org.uk/</a>.
+Full results can be found here: <a href="https://winchcombeshow.org.uk/" target="_blank" rel="nofollow">https://winchcombeshow.org.uk/</a>.

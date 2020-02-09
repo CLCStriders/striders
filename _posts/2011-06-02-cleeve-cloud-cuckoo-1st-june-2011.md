@@ -34,4 +34,4 @@ CLC Striders had a brilliant night on Cleeve common, as 12 of them took on the t
 
 Full results can be found at:
 
-<a href="http://www.athleticprowess.co.uk/images/cuckoo/cuckoo_2011_results.pdf" target="_blank" rel="nofollow">http://www.athleticprowess.co.uk/images/cuckoo/cuckoo_2011_results.pdf</a></p>
+<a href="https://www.athleticprowess.co.uk/images/cuckoo/cuckoo_2011_results.pdf" target="_blank" rel="nofollow">https://www.athleticprowess.co.uk/images/cuckoo/cuckoo_2011_results.pdf</a></p>

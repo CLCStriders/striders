@@ -26,4 +26,4 @@ Results:
 117 Laura Finucane 52.09  
 124 Alison Gregory 53.41
 
-<a href="http://youtu.be/J6KEdQtuYPM" target="_blank" rel="nofollow">video of presentation</a></p>
+<a href="https://youtu.be/J6KEdQtuYPM" target="_blank" rel="nofollow">video of presentation</a></p>

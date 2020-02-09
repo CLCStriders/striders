@@ -54,6 +54,6 @@ Striders results:
 
 203) Dave Mayo - 50:44
 
-<a href="http://www.youtube.com/watch?v=_WFeTRYaCrQ" target="_blank" rel="nofollow">video</a>
+<a href="https://www.youtube.com/watch?v=_WFeTRYaCrQ" target="_blank" rel="nofollow">video</a>
 
 <a href="/assets/pdf/results/bcclplockcourtresults01122012.pdf" target="_blank" rel="nofollow">results</a>

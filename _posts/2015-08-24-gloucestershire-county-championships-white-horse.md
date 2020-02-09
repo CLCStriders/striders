@@ -4,7 +4,7 @@ title: 'Gloucestershire County Championships - White Horse'
 date: 2015-08-24T16:52:44+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=677
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=677
 permalink: /2015/08/gloucestershire-county-championships-white-horse/
 categories:
   - Road Reports

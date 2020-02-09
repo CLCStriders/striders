@@ -2,7 +2,7 @@
 
 title: Spring Social Events
 date: 2012-03-05T17:32:08+00:00
-excerpt: '<p>Our next social night will be on Saturday 31<sup>st</sup>March 2012, at 8pm in The Strand <a href="http://strandpub.co.uk/" target="_blank" rel="nofollow">http://strandpub.co.uk</a></p>'
+excerpt: '<p>Our next social night will be on Saturday 31<sup>st</sup>March 2012, at 8pm in The Strand <a href="https://strandpub.co.uk/" target="_blank" rel="nofollow">https://strandpub.co.uk</a></p>'
 layout: post
 permalink: /2012/03/spring-social-events/
 ---

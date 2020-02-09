@@ -35,5 +35,5 @@ This is a fantastic event, with a cracking atmosphere and local support along th
 </p>
 
 <p>
-  Click <a href="http://www.tdl.ltd.uk/results.php?checked =1&race_id=570&club=CLC+STRIDERS" target="_blank" rel="nofollow">here</a>for the official results
+  Click <a href="https://www.tdl.ltd.uk/results.php?checked =1&race_id=570&club=CLC+STRIDERS" target="_blank" rel="nofollow">here</a>for the official results
 </p>

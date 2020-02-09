@@ -4,7 +4,7 @@ title: Gloucestershire County Championships
 date: 2015-08-24T16:54:43+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=679
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=679
 permalink: /2015/08/gloucestershire-county-championships-2/
 categories:
   - Track Reports

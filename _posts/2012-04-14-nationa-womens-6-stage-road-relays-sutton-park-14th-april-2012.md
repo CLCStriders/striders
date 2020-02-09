@@ -30,18 +30,18 @@ Report to follow
 
 Videos:
 
-<a href="http://youtu.be/7UtDvtYZvro" target="_blank" rel="nofollow">Laura - start</a>
+<a href="https://youtu.be/7UtDvtYZvro" target="_blank" rel="nofollow">Laura - start</a>
 
-<a href="http://youtu.be/8yd-O9xnBzs" target="_blank" rel="nofollow">Laura â€“ start II</a>
+<a href="https://youtu.be/8yd-O9xnBzs" target="_blank" rel="nofollow">Laura â€“ start II</a>
 
-<a href="http://youtu.be/I5kw011ItmI" target="_blank" rel="nofollow">Laura finish</a>
+<a href="https://youtu.be/I5kw011ItmI" target="_blank" rel="nofollow">Laura finish</a>
 
-<a href="http://youtu.be/oySrNPUxqQk" target="_blank" rel="nofollow">Sian</a>
+<a href="https://youtu.be/oySrNPUxqQk" target="_blank" rel="nofollow">Sian</a>
 
-<a href="http://youtu.be/rk800oUaf28" target="_blank" rel="nofollow">Emma</a>
+<a href="https://youtu.be/rk800oUaf28" target="_blank" rel="nofollow">Emma</a>
 
-<a href="http://youtu.be/bA-Hnfk1oxQ" target="_blank" rel="nofollow">DJ</a>
+<a href="https://youtu.be/bA-Hnfk1oxQ" target="_blank" rel="nofollow">DJ</a>
 
-<a href="http://youtu.be/jn8BQYMXbXE" target="_blank" rel="nofollow">Pat Woods</a>
+<a href="https://youtu.be/jn8BQYMXbXE" target="_blank" rel="nofollow">Pat Woods</a>
 
-<a href="http://youtu.be/2ysHblDNXeg" target="_blank" rel="nofollow">Hilary</a>
+<a href="https://youtu.be/2ysHblDNXeg" target="_blank" rel="nofollow">Hilary</a>

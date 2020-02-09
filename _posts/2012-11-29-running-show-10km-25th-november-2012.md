@@ -11,4 +11,4 @@ However, Helen Howes made light work of the testing conditions, recording a magn
 The Running Show itself had a number of interesting seminars on injury prevention, training methods, bare foot running, nutritional advice etc as well as the opportunity to buy various running gear and sample a ridiculous number of energy bars/gels/jellies!  
 All in all, a good day out with good company and accompanied by the soundtrack of Erasureâ€™s greatest hitsâ€¦.hope to get a few more Striders along next year!
 
-<a href="http://www.runningshow.co.uk/portals/running/Files/RunningShow10K-Results.pdf" target="_blank" rel="nofollow">Full results</a>
+<a href="https://www.runningshow.co.uk/portals/running/Files/RunningShow10K-Results.pdf" target="_blank" rel="nofollow">Full results</a>

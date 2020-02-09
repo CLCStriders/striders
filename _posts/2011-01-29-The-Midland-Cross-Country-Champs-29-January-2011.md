@@ -28,4 +28,4 @@ Brendan
 119. Jo Wilkie - 44.37  
 121 Amanda Steers - 45.17 
 
-Click <a href="http://www.midlandathletics.org.uk/PDFS/2011_RES_110129_MidCChampsLeamington.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.midlandathletics.org.uk/PDFS/2011_RES_110129_MidCChampsLeamington.pdf" target="_blank" rel="nofollow">here</a>for the official results

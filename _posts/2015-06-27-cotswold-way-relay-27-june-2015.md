@@ -4,7 +4,7 @@ title: 'Cotswold Way Relay - 27 June 2015'
 date: 2015-06-27T16:47:55+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=663
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=663
 permalink: /2015/06/cotswold-way-relay-27-june-2015/
 categories:
   - Race Reports

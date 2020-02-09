@@ -13,4 +13,4 @@ The men's race saw Will Ferguson run well to finish 6th. Following Ferguson was 
 
 Other notable performances were had by Jo Maddocks. Paul Harsent, JJ Willson, Billy Bradshaw, Stuart Barr, Phil Jowett, Dave Mayo, Clark Lawson, Gavin Jermin, George Parker, Rich Haslam, Gordon Bendall, Martin Bick & Rob Gladwin.
 
-<a href="http://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_11October2014.pdf" target="_blank" rel="nofollow">Full results are now available</a>
+<a href="https://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_11October2014.pdf" target="_blank" rel="nofollow">Full results are now available</a>

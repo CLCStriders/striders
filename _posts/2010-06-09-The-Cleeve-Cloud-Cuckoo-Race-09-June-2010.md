@@ -47,7 +47,7 @@ B Team 7th = 66 (dunlop, burge, bagnall)</p>
 **Teams - Women  
 ** A Team 2nd = 197 (wilkie, holley, smith)
 
-Click here for the <a href="http://www.clcstriders-runningclub.co.uk/documents/Cleeve Cloud final results 2010.xls" target="_blank" rel="nofollow">official</a>results
+Click here for the <a href="https://www.clcstriders-runningclub.co.uk/documents/Cleeve Cloud final results 2010.xls" target="_blank" rel="nofollow">official</a>results
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

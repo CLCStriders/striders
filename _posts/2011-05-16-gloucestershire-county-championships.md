@@ -20,4 +20,4 @@ Don't forget part 2 of the County Champs is on this Wednesday evening at the Pri
 
 Full results of part 1 can be viewed here:
 
-<a href="http://www.glosaaa.org.uk/RESULTS_TRACK/CountyTF2011Results_part1.pdf" target="_blank" rel="nofollow">http://www.glosaaa.org.uk/RESULTS_TRACK/CountyTF2011Results_part1.pdf</a>
+<a href="https://www.glosaaa.org.uk/RESULTS_TRACK/CountyTF2011Results_part1.pdf" target="_blank" rel="nofollow">https://www.glosaaa.org.uk/RESULTS_TRACK/CountyTF2011Results_part1.pdf</a>

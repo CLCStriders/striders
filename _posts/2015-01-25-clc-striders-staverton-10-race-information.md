@@ -14,7 +14,7 @@ This is a fantastic flat, fast road race which is aimed at helping runners prepa
 
 **ENTRIES:**
 
-Entries will be taken at <a href="http://www.entrycentral.com/staverton10" target="_blank" rel="nofollow">entry central</a> Your race number will be available for collection on the day of the race.
+Entries will be taken at <a href="https://www.entrycentral.com/staverton10" target="_blank" rel="nofollow">entry central</a> Your race number will be available for collection on the day of the race.
 
 **VENUE:**
 
@@ -30,7 +30,7 @@ Gloucestershire Airport is a 10-minute taxi ride from Gloucester station and a 5
 
 **By Bus**
 
-The Number 94 bus service between Gloucester and Cheltenham, stops 900m from the Airport entrance. Ask the driver for directions. For further details please see the Stagecoach website: <a href="http://www.stagecoachbus.com/" rel="nofollow">http://www.stagecoachbus.com</a>
+The Number 94 bus service between Gloucester and Cheltenham, stops 900m from the Airport entrance. Ask the driver for directions. For further details please see the Stagecoach website: <a href="https://www.stagecoachbus.com/" rel="nofollow">https://www.stagecoachbus.com</a>
 
 **UNDER NO CIRCUMSTANCES SHOULD PARTICIPANTS ATTEMPT TO REACH THE START AREA VIA THE RUNWAY OR ANY OF THE SURROUNDING FENCED-OFF AREA.  THE RUNWAY AND ITS VICINITY ARE A RESTRICTED AREA AND UNAUTHORIZED ACCESS IS EXTREMELY DANGEROUS.**
 
@@ -64,11 +64,11 @@ The presentation will take place in The Aviator at 11:00.
 
 **WEBSITE AND RESULTS:**
 
-Results will be posted at the Race HQ and http://www.clcstriders-runningclub.co.uk later on the day of the race.
+Results will be posted at the Race HQ and https://www.clcstriders-runningclub.co.uk later on the day of the race.
 
 **CANCELLATION:**
 
-In the unlikely event that the race has to be cancelled, this will be posted at [http://www.clcstriders-runningclub.co.uk](http://www.clcstriders-runningclub.co.uk/)
+In the unlikely event that the race has to be cancelled, this will be posted at [https://www.clcstriders-runningclub.co.uk](https://www.clcstriders-runningclub.co.uk/)
 
 **ACKNOWLEDGEMENTS:**
 

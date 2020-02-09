@@ -22,7 +22,7 @@ CLC striders men put in an excellent performance in the final Birmingham cross c
   </p>
   
   <div id="taboola-mid-article-thumbnails" class=" trc_related_container trc_spotlight_widget">
-    <a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2015-16/2016-02-13-M2.pdf">full results</a>
+    <a href="https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2015-16/2016-02-13-M2.pdf">full results</a>
   </div>
   
   <div class=" trc_related_container trc_spotlight_widget">
@@ -37,7 +37,7 @@ CLC striders men put in an excellent performance in the final Birmingham cross c
   </p>
   
   <p>
-    <a href="http://www.midlandathletics.org.uk/individualresultsfixture4aldersleystadium13-02-16.pdf">full results</a><br /> <a href="/Images/2016/02/Picture-3649.jpg"><img src="/Images/2016/02/Picture-3649-300x225.jpg" alt="Picture 3649"  /></a></div> 
+    <a href="https://www.midlandathletics.org.uk/individualresultsfixture4aldersleystadium13-02-16.pdf">full results</a><br /> <a href="/Images/2016/02/Picture-3649.jpg"><img src="/Images/2016/02/Picture-3649-300x225.jpg" alt="Picture 3649"  /></a></div> 
     
     <p>
       &nbsp;

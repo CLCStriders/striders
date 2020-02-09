@@ -4,7 +4,7 @@ title: Woodchester Park 8 Mile
 date: 2015-09-08T16:56:13+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=683
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=683
 permalink: /2015/09/woodchester-park-8-mile/
 categories:
   - Road Reports

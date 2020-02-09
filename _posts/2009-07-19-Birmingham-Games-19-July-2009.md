@@ -23,7 +23,7 @@ This was a great experience for us all, and saw every CLC Strider set a personal
 **<a name="Theresults"></a>Results**
 
   
-<small><a href="http://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=&q=alexander+stadium+birmingham&sll=53.800651,-4.064941&sspn=15.76974,46.362305&ie=UTF8&t=h&ll=52.531215,-1.905152&spn=0.001566,0.003433&z=18" target="_blank" rel="nofollow">View Larger Map</a></small>
+<small><a href="https://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=&q=alexander+stadium+birmingham&sll=53.800651,-4.064941&sspn=15.76974,46.362305&ie=UTF8&t=h&ll=52.531215,-1.905152&spn=0.001566,0.003433&z=18" target="_blank" rel="nofollow">View Larger Map</a></small>
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

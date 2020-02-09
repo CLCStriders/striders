@@ -50,4 +50,4 @@ Well done to you all, and thanks for running for the club.
 
 Bren</p> 
 
-Full results will be on <a href="http://angelsrunningclub.wordpress.com/results-photos-reports/" target="_blank" rel="nofollow">Angelsâ€™ website</a>when available
+Full results will be on <a href="https://angelsrunningclub.wordpress.com/results-photos-reports/" target="_blank" rel="nofollow">Angelsâ€™ website</a>when available

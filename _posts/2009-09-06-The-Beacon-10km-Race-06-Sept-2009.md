@@ -18,7 +18,7 @@ Four Striders won individual Prizes which was a great result for the club. Well 
 
 **<a name="Theresults"></a><a name="The" results=""></a>Results**
 
-Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Beacon10kRaceResults2009_000.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Beacon10kRaceResults2009_000.pdf" target="_blank" rel="nofollow">here</a>for the official results
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

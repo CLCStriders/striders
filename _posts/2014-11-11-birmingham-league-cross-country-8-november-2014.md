@@ -21,4 +21,4 @@ Other notable performances came from Amelia Mullins who was second scorer in the
 
 The masters team was made up of Jo Wilkie, Amelia Mullins and Amanda Steer who finished 4th masters team on the day.
 
-<a href="http://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2014-15/2014-11-08-M2.pdf" target="_blank" rel="nofollow">Full results are now available</a>&#8230;
+<a href="https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2014-15/2014-11-08-M2.pdf" target="_blank" rel="nofollow">Full results are now available</a>&#8230;

@@ -10,4 +10,4 @@ permalink: /2008/09/Cirencester-10k-28-September-2008/
 
 **Report**
 
-<small><a href="http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&t=h&msid=114390706286019414016.00045e515279ed5ef5f94&ll=51.715915,-1.99934&spn=0.025525,0.054932&z=14&source=embed" target="_blank" rel="nofollow">View Larger Map</a></small>
+<small><a href="https://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&msa=0&t=h&msid=114390706286019414016.00045e515279ed5ef5f94&ll=51.715915,-1.99934&spn=0.025525,0.054932&z=14&source=embed" target="_blank" rel="nofollow">View Larger Map</a></small>

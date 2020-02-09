@@ -15,4 +15,4 @@ In this testing race promoted by FODAC, JP saw off strong opposition including S
 
 This was JP's second convincing multi-terrain win in just over 3 weeks and with the Cross Country season only 3 months away, things are already looking promising for the CLC Striders'campaign.
 
-<a href="http://fodac.org.uk/wordpress/?page_id=56" target="_blank" rel="nofollow">Full results</a>
+<a href="https://fodac.org.uk/wordpress/?page_id=56" target="_blank" rel="nofollow">Full results</a>

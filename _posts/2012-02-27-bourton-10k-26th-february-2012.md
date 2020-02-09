@@ -16,4 +16,4 @@ Well done, and thanks for providing the entertainment.
 
 Brendan Ward (Club Chairman)
 
-<a href="http://www.bourtonroadrunners.co.uk/race_results/10k_results_2012.htm" target="_blank" rel="nofollow">Full results</a>
+<a href="https://www.bourtonroadrunners.co.uk/race_results/10k_results_2012.htm" target="_blank" rel="nofollow">Full results</a>

@@ -3,7 +3,7 @@
 title: 'Runway 10k Report- 17 November 2013'
 date: 2013-11-17T18:52:54+00:00
 excerpt: |
-  <p>A strong field of 139 runners competed in Striders'flagship race the <a href="http://www.clcstriders-runningclub.co.uk/index.php?option=com_content&amp;view=article&amp;id=346&amp;Itemid=91" target="_blank" rel="nofollow">Runway 10k</a>on Sunday 17 November.</p>
+  <p>A strong field of 139 runners competed in Striders'flagship race the <a href="https://www.clcstriders-runningclub.co.uk/index.php?option=com_content&amp;view=article&amp;id=346&amp;Itemid=91" target="_blank" rel="nofollow">Runway 10k</a>on Sunday 17 November.</p>
 layout: post
 permalink: /2013/11/runway-10k-results-17-november-2013/
 ---

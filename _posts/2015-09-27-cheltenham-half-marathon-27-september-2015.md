@@ -4,7 +4,7 @@ title: 'Cheltenham Half Marathon - 27 September 2015'
 date: 2015-09-27T16:57:30+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=687
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=687
 permalink: /2015/09/cheltenham-half-marathon-27-september-2015/
 categories:
   - Road Reports

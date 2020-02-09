@@ -4,7 +4,7 @@ title: 'Midsummer Open - 22 July 2015'
 date: 2015-07-22T16:51:50+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=675
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=675
 permalink: /2015/07/midsummer-open-22-july-2015/
 categories:
   - Track Reports

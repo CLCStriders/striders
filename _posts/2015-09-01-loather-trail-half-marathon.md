@@ -4,7 +4,7 @@ title: Loather Trail Half Marathon
 date: 2015-09-01T16:55:26+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=681
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=681
 permalink: /2015/09/loather-trail-half-marathon/
 categories:
   - Race Reports

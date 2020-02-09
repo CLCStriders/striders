@@ -4,7 +4,7 @@ title: The Abingdon Marathon
 date: 2015-10-18T20:00:09+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/2015/10/the-abingdon-marathon/
+guid: https://www.clcstriders-runningclub.co.uk/2015/10/the-abingdon-marathon/
 permalink: /2015/10/the-abingdon-marathon/
 categories:
   - Road Reports

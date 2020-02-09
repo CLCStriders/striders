@@ -33,12 +33,12 @@ Note that the CLC Striders Running Club do not endorse or recommend any commerci
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.justalittlebit.co.uk" target="_blank" rel="nofollow">www.justalittlebit.co.uk</a></td>
+<td><a href="https://www.justalittlebit.co.uk" target="_blank" rel="nofollow">www.justalittlebit.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
 <td>10% Discounts for CLC club members. Use “CLCstriders” code<br />
-Like our facebook page for more offers. <a href="http://www.facebook.com/justalittlebit.co.uk" target="_blank" rel="nofollow">www.facebook.com/justalittlebit.co.uk</a></td>
+Like our facebook page for more offers. <a href="https://www.facebook.com/justalittlebit.co.uk" target="_blank" rel="nofollow">www.facebook.com/justalittlebit.co.uk</a></td>
 </tr>
 <tr>
 <td>Company Info:</td>
@@ -72,7 +72,7 @@ We are Malc and Rachel and we really love running and the running community.On S
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.upandrunning.co.uk" target="_blank" rel="nofollow">www.upandrunning.co.uk</a></td>
+<td><a href="https://www.upandrunning.co.uk" target="_blank" rel="nofollow">www.upandrunning.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
@@ -109,7 +109,7 @@ We are Malc and Rachel and we really love running and the running community.On S
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.cotswoldphysio.co.uk" target="_blank" rel="nofollow">www.cotswoldphysio.co.uk</a></td>
+<td><a href="https://www.cotswoldphysio.co.uk" target="_blank" rel="nofollow">www.cotswoldphysio.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
@@ -146,7 +146,7 @@ Full examination and assessments, Deep Tissue Sports Massage, Soft Tissue Releas
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.mflsportsclinic.co.uk" target="_blank" rel="nofollow">www.mflsportsclinic.co.uk</a></td>
+<td><a href="https://www.mflsportsclinic.co.uk" target="_blank" rel="nofollow">www.mflsportsclinic.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
@@ -186,7 +186,7 @@ As a team player herself, Madeleine understands the importance of reducing the r
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.therackhameffect.com" target="_blank" rel="nofollow">www.therackhameffect.com</a></td>
+<td><a href="https://www.therackhameffect.com" target="_blank" rel="nofollow">www.therackhameffect.com</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
@@ -235,7 +235,7 @@ Cheltenham and Gloucester.</td>
 </tr>
 <tr>
 <td>Website:</td>
-<td><a href="http://www.straightbackphysio.co.uk" target="_blank" rel="nofollow">www.straightbackphysio.co.uk</a> and <a href="http://www.runningfx.co.uk" target="_blank" rel="nofollow">www.runningfx.co.uk</a></td>
+<td><a href="https://www.straightbackphysio.co.uk" target="_blank" rel="nofollow">www.straightbackphysio.co.uk</a> and <a href="https://www.runningfx.co.uk" target="_blank" rel="nofollow">www.runningfx.co.uk</a></td>
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>

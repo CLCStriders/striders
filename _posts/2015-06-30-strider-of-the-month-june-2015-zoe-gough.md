@@ -4,7 +4,7 @@ title: 'Strider of the Month - June 2015 - Zoe Gough'
 date: 2015-06-30T16:47:11+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=661
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=661
 permalink: /2015/06/strider-of-the-month-june-2015-zoe-gough/
 categories:
   - Awards

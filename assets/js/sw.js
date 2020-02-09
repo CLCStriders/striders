@@ -14,29 +14,26 @@
     const imagesCacheName = cacheName + "images";
 
     const offlinePages = [
-        "https://striders.thechels.uk/",
-        "https://striders.thechels.uk/pages/staverton-10",
-        "https://striders.thechels.uk/pages/training",
-        "https://striders.thechels.uk/pages/committee",
-        "https://striders.thechels.uk/pages/news/",
-        "https://striders.thechels.uk/pages/about",
-        "https://striders.thechels.uk/pages/archives",
-        "https://striders.thechels.uk/pages/categories/",
-        "https://striders.thechels.uk/pages/membership",
-        "https://striders.thechels.uk/pages/directory",
-        {% for post in site.posts | limit: 3 %}
+        "{{site.url}}/",
+        "{{site.url}}/pages/staverton-10",
+        "{{site.url}}/pages/training",
+        "{{site.url}}/pages/committee",
+        "{{site.url}}/pages/news/",
+        "{{site.url}}/pages/about",
+        "{{site.url}}/pages/archives",
+        "{{site.url}}/pages/categories/",
+        "{{site.url}}/pages/membership",
+        "{{site.url}}/pages/directory",
+        {% for post in site.posts | limit : 3 %}
         "{{ post.url }}",
         {% endfor %}
-        "https://striders.thechels.uk/offline.html"
+        "{{site.url}}/offline.html"
     ];
     const staticAssets = [
-         "https://striders.thechels.uk/assets/css/master.css",
-         "https://striders.thechels.uk/assets/img/logo.png",
-         "https://striders.thechels.uk/assets/img/favicon.ico",
-         "https://striders.thechels.uk/assets/img/controls.png",
-        "/Images/2019/12/Men-Clopton-7.12.19-768x576.jpg",
-        "/Images/2019/04/Cleevewold-ladies-31.3.19-768x576.jpg",
-        "/Images/2019/01/Steve-Kenyon-Staverton-10-2019-768x576.jpg"
+         "{{site.url}}/assets/css/master.css",
+         "{{site.url}}/assets/img/logo.png",
+         "{{site.url}}/assets/img/favicon.ico",
+         "{{site.url}}/assets/img/controls.png",
     ];
     function updateStaticCache() {
         return caches.open( staticCacheName )
@@ -164,7 +161,7 @@
                                 // OFFLINE
                                 // If the request is for an image, show an offline placeholder
                                 if ( request.headers.get( "Accept" ).indexOf( "image" ) !== -1 ) {
-                                    return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title id="offline-title">Offline</title><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/><text fill="#9B9B9B" font-family="Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></g></svg>', {headers: {"Content-Type": "image/svg+xml", "Cache-Control": "no-store"}});
+                                    return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="https://www.w3.org/2000/svg"><title id="offline-title">Offline</title><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/><text fill="#9B9B9B" font-family="Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></g></svg>', {headers: {"Content-Type": "image/svg+xml", "Cache-Control": "no-store"}});
                                 }
                             });
                     })

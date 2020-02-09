@@ -18,9 +18,9 @@ The next Strider home was Sam Baylis who broke away from a group of runners on t
 
 The Men’s A team finished the league in 3<sup>rd</sup> place and individual league medals were claimed by John Willson (2<sup>nd</sup>Male Vet50) and David James (3<sup>nd</sup> Male Vet65). The performances on the day confirmed another successful cross country season for the Brendan Ward coached CLC Striders who now turn their attention to road and track events in the year ahead
 
-[provisional results](http://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_20February_2016.pdf)
+[provisional results](https://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_20February_2016.pdf)
 
-[provisional final standings](http://www.glosaaa.org.uk/RESULTS_CROSS/GlosCCLge_2015_16_standings_to_date.pdf)
+[provisional final standings](https://www.glosaaa.org.uk/RESULTS_CROSS/GlosCCLge_2015_16_standings_to_date.pdf)
 
 &nbsp;
 

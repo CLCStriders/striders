@@ -12,7 +12,7 @@ state: full
 ---
  {% if page.state == "open" %}
 <div class="alert alert-success" role="alert">
-<a href="{{ page.signUpUrl }}">The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!</a>
+[The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!]({{ page.signUpUrl }})
 </div>
 {% endif %}
  {% if page.state == "full" %}
@@ -35,7 +35,7 @@ The race is a 2 lap course which heads out of the airport, and into Churchdown v
 
 ### Route
 
-Route Map: <a href="{{ page.routeMap }}">Map</a> & <a href="https://www.strava.com/routes/7184956">Strava route</a>
+Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/routes/7184956)
 
 This will be clearly marshalled. Please note that road closures have not been applied for so keep well to the left at all times. Please note that on the farmland section, good concentration is required due to uneven terrain. Also, there are likely to be cattle on the fields.
 
@@ -50,7 +50,7 @@ This will be clearly marshalled. Please note that road closures have not been ap
 
 ### Acknowledgements
 
-[The Aviator Inn](http://www.theaviatorglos.co.uk/), Gloucestershire Airport, Up and Running,
+[The Aviator Inn](https://www.theaviatorglos.co.uk/), Gloucestershire Airport, Up and Running,
 [CLC Health and Fitness Centre](https://fitness.cheltladiescollege.org/),  friends and members of CLC Striders.
 
 ### Previous results
@@ -60,5 +60,3 @@ This will be clearly marshalled. Please note that road closures have not been ap
 - [Staverton 10 – 2018 Race Results](/assets/staverton/staverton-10-mile-results-2018.pdf)
 - [Staverton 10 – 2017 Race Results](/assets/staverton/staverton-10-mile-results-2017.pdf)
 - [Staverton 10 – 2016 Race Results](/assets/staverton/staverton-10-mile-results-2016.pdf)
-
- 

@@ -60,4 +60,4 @@ Mile - Race 2
 
 (Chris Hale, Adam Cary, Jeremy Wilde, Charles Goodwin)
 
-Full results are on the <a href="http://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAA website</a>
+Full results are on the <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAA website</a>

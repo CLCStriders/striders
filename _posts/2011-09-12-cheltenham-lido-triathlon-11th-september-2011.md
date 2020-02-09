@@ -31,4 +31,4 @@ The results were as follows:
 
 Total time â€“ 6.15.44
 
-<a href="http://www.sandfordparkslido.org.uk/index.htm" target="_blank" rel="nofollow">full results</a>
+<a href="https://www.sandfordparkslido.org.uk/index.htm" target="_blank" rel="nofollow">full results</a>

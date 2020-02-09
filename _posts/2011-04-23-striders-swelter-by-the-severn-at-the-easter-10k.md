@@ -33,4 +33,4 @@ Striders Results:
 
 53) Duncan Kay - 64:40 
 
-<a href="http://www.severnac.co.uk/report.php?id=244" target="_blank" rel="nofollow">Full results</a></p>
+<a href="https://www.severnac.co.uk/report.php?id=244" target="_blank" rel="nofollow">Full results</a></p>

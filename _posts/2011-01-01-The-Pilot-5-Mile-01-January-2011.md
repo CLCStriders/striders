@@ -27,4 +27,4 @@ Brendan
 32. Nicholas Von Benzon - 34.46 - M55 Club Record  
 49. Helen Howes - 40.37 (PB)
 
-Click <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">here</a>for the official results

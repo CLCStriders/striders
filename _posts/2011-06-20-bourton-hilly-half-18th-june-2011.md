@@ -10,4 +10,4 @@ permalink: /2011/06/bourton-hilly-half-18th-june-2011/
 
 Only 2 days after running the White Horse 5K, Nikki Smith competed in the Bourton Hilly Half Marathon and had an excellent race finishing 3rd LV45 in a time of 1:43:23.
 
-For full results <a href="http://www.bourtonroadrunners.co.uk/hilly_half.htm" target="_blank" rel="nofollow">click here</a></p>
+For full results <a href="https://www.bourtonroadrunners.co.uk/hilly_half.htm" target="_blank" rel="nofollow">click here</a></p>

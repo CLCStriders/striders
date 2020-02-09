@@ -11,4 +11,4 @@ Striders results were&#8230;.
 
 3857 - Stephen Hucker - 01:56:49
 
-<a href="http://www.runbristol.com/HalfMarathon/30/Home.aspx" target="_blank" rel="nofollow">full results</a>
+<a href="https://www.runbristol.com/HalfMarathon/30/Home.aspx" target="_blank" rel="nofollow">full results</a>

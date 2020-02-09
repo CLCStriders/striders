@@ -17,6 +17,6 @@ On this tough and hilly course, which involves an overall ascent of 1000ft, Vine
 
 There were 191 finishers in this popular race.
 
-[results](http://www.runbritainrankings.com/results/results.aspx?meetingid=171391)
+[results](https://www.runbritainrankings.com/results/results.aspx?meetingid=171391)
 
 &nbsp;

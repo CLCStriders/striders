@@ -14,4 +14,4 @@ This was a very proud day for your club as we approach our 6th anniversary.
 
 Full results are here:
 
-<a href="http://www.britishathletics.org.uk/EasysiteWeb/getresource.axd?AssetID=123608&type=full&servicetype=Attachment" target="_blank" rel="nofollow">http://www.britishathletics.org.uk/EasysiteWeb/getresource.axd?AssetID=123608&type=full&servicetype=Attachment</a></p>
+<a href="https://www.britishathletics.org.uk/EasysiteWeb/getresource.axd?AssetID=123608&type=full&servicetype=Attachment" target="_blank" rel="nofollow">https://www.britishathletics.org.uk/EasysiteWeb/getresource.axd?AssetID=123608&type=full&servicetype=Attachment</a></p>

@@ -18,7 +18,7 @@ Brendan
 
 **Results**
 
-Click <a href="http://www.ledburyharriers.org.uk/info/eastnor7/2010/eastnor-2010-results.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.ledburyharriers.org.uk/info/eastnor7/2010/eastnor-2010-results.pdf" target="_blank" rel="nofollow">here</a>for the official results
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

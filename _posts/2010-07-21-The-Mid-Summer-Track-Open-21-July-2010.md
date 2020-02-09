@@ -23,7 +23,7 @@ Brendan Ward (Club Chairman)
 13th Rich Cannock - 4.49.0 (PB) M35
 
 150m Men  
-1st Nick O'neil - 18.2 (PB) Club Record Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Midsummer results meeting 3 21 July 2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
+1st Nick O'neil - 18.2 (PB) Club Record Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Midsummer results meeting 3 21 July 2010.xls" target="_blank" rel="nofollow">here</a>for the official results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

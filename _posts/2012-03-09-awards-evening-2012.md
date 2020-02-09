@@ -16,6 +16,6 @@ Beckie and Charles
 
 Videos:
 
-<a href="http://www.youtube.com/watch?v=wdcEd-vFOaY" target="_blank" rel="nofollow">Part I</a>
+<a href="https://www.youtube.com/watch?v=wdcEd-vFOaY" target="_blank" rel="nofollow">Part I</a>
 
-<a href="http://www.youtube.com/watch?v=mBHWMbLwESE" target="_blank" rel="nofollow">Part II</a></p>
+<a href="https://www.youtube.com/watch?v=mBHWMbLwESE" target="_blank" rel="nofollow">Part II</a></p>

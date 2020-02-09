@@ -654,4 +654,4 @@ Women's teams got silver and bronze in the county champs and men took silver. In
   </tr></colgroup>
 </table>
 
-</b>Click <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">here</a>for the official results (when available)
+</b>Click <a href="https://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">here</a>for the official results (when available)

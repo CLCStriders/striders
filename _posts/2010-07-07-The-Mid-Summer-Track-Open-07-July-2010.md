@@ -32,7 +32,7 @@ Eight CLC Striders had a lot of fun at the POWS in the Midsummer Open Meeting an
 **Men 400m  
 ** 1st Rich Dare 56.3 (Club Rec)  
 2nd John Parker 57.7 (M35 Club Rec)  
-4th John Atkinson 65.5 Click <a href="http://athleticprowess.co.uk/images/midsummer/midsummer_1_2010_results.pdf" target="_blank" rel="nofollow">here</a>for the official results 
+4th John Atkinson 65.5 Click <a href="https://athleticprowess.co.uk/images/midsummer/midsummer_1_2010_results.pdf" target="_blank" rel="nofollow">here</a>for the official results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

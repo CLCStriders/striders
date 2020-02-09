@@ -11,11 +11,11 @@ categories:
 ---
 <img src="/Images/2015/11/Karlien-300x202.jpg" alt="Karlien"/>
 
-CLC Striders' inaugural Staverton 10km will be held on Sunday 31st January 2016 at 09:00 AM. For more details please visit [http://www.clcstriders-runningclub.co.uk/staverton-10/](http://www.clcstriders-runningclub.co.uk/staverton-10)
+CLC Striders' inaugural Staverton 10km will be held on Sunday 31st January 2016 at 09:00 AM. For more details please visit [https://www.clcstriders-runningclub.co.uk/staverton-10/](https://www.clcstriders-runningclub.co.uk/staverton-10)
 
 The race will be open for entries soon on:
 
-<http://www.entrycentral.com/staverton10>
+<https://www.entrycentral.com/staverton10>
 
 &nbsp;
 

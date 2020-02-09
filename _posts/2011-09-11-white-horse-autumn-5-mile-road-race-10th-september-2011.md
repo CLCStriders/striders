@@ -10,4 +10,4 @@ The biggest challenge for those hoping to compete in Severn Athletics Clubâ€�
 
 
 
-Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available
+Full results will be on <a href="https://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available

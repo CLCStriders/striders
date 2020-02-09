@@ -30,7 +30,7 @@ categories:
 </div>
 
 <div>
-  <a href="http://cheltenhamharriers.co.uk/public/inc/doc/cuckoo/results/cuckoo_2016_results.pdf">results</a>
+  <a href="https://cheltenhamharriers.co.uk/public/inc/doc/cuckoo/results/cuckoo_2016_results.pdf">results</a>
 </div>
 
 <div>

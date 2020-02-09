@@ -12,4 +12,4 @@ Meanwhile, the men were led home by Will Ferguson in 21st place, who was closely
 
 The mens team finished in 10th place.
 
-Full <a href="http://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_02November2013.pdf" target="_blank" rel="nofollow">results</a>are now available.</p>
+Full <a href="https://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_02November2013.pdf" target="_blank" rel="nofollow">results</a>are now available.</p>

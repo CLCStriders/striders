@@ -218,7 +218,7 @@ The evening was rounded off with a cider for every finisher and a barbecue on th
   </tr>
 </table>
 
-</b>Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Frampton10K2010.xlsx" target="_blank" rel="nofollow">here</a>for the official results 
+</b>Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Frampton10K2010.xlsx" target="_blank" rel="nofollow">here</a>for the official results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

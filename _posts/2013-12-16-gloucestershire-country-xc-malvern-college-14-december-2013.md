@@ -16,4 +16,4 @@ The men's team finished 6th and were led home by Andrew Jones in an excellent 19
 
 In the B Team David James was 144th, Andrew Paterson 157th, Dan Harte 169th and Gordon Bendall 171st.
 
-Full results are available at the <a href="http://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_14December2013.pdf" target="_blank" rel="nofollow">Glos AAA website</a></p>
+Full results are available at the <a href="https://www.glosaaa.org.uk/RESULTS_CROSS/Glos_CC_results_14December2013.pdf" target="_blank" rel="nofollow">Glos AAA website</a></p>

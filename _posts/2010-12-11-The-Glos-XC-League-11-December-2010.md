@@ -42,4 +42,4 @@ Teams (21 Finished)
 Teams (18 finished)  
 4th CLC A = 270 Points
 
-Click <a href="http://www.clcstriders-runningclub.co.uk/documents/Glos_CC_results_11December2010.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.clcstriders-runningclub.co.uk/documents/Glos_CC_results_11December2010.pdf" target="_blank" rel="nofollow">here</a>for the official results

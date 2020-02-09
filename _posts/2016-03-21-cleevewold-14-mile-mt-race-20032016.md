@@ -26,7 +26,7 @@ Leading the club home and the only male Strider representing the club was Iain P
 
 The race was won by Wyclef Forbes of Cirencester AC in a time of 1:37:27, and there were 91 finishers.
 
-[Results](http://cheltenhamharriers.co.uk/public/inc/doc/cleevewold/results/cleevewold_2016_results.pdf)
+[Results](https://cheltenhamharriers.co.uk/public/inc/doc/cleevewold/results/cleevewold_2016_results.pdf)
 
 <img src="/Images/2016/03/IMG_2674-300x225.jpg" alt="IMG_2674"  />
 

@@ -20,4 +20,4 @@ Once again, many thanks for all your great efforts and to Tony Stanton for his p
 
 Brendan
 
-Click <a href="http://www.almostathletes.org.uk/LindaFranks/2011/LF5mResults2011-1.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.almostathletes.org.uk/LindaFranks/2011/LF5mResults2011-1.pdf" target="_blank" rel="nofollow">here</a>for the official results

@@ -1082,7 +1082,7 @@ CLC Striders turned out in force at the final White Horse 5k of 2010. The Club h
   </tr></colgroup>
 </table>
 
-Click <a href="http://www.clcstriders-runningclub.co.uk/documents/White Horse. 5k 2010 4 of 4.doc" target="_blank" rel="nofollow">here</a>for the results 
+Click <a href="https://www.clcstriders-runningclub.co.uk/documents/White Horse. 5k 2010 4 of 4.doc" target="_blank" rel="nofollow">here</a>for the results 
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

@@ -26,4 +26,4 @@ Women - 6K
 1127 - Nick Von Benzon - 60.59 - (V55)  
 1255 - Dan Harte - 69.11
 
-Click <a href="http://englishcrosscountry.co.uk/images/nationals11/SM_Final_GunResult.pdf" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://englishcrosscountry.co.uk/images/nationals11/SM_Final_GunResult.pdf" target="_blank" rel="nofollow">here</a>for the official results

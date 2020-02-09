@@ -4,7 +4,7 @@ title: 'Cleeve Cloud Cuckoo - 3 June 2015'
 date: 2015-06-03T16:45:24+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=657
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=657
 permalink: /2015/06/cleeve-cloud-cuckoo-3-june-2015/
 categories:
   - Race Reports

@@ -12,4 +12,4 @@ Two Striders Teams competed in the Cheltenham Triathlon.
 
 Click on the link below to see how they got on:
 
-<a href="http://www.sandfordparkslido.org.uk/e1-cheltenham-triathlon.html" target="_blank" rel="nofollow">Full results</a>
+<a href="https://www.sandfordparkslido.org.uk/e1-cheltenham-triathlon.html" target="_blank" rel="nofollow">Full results</a>

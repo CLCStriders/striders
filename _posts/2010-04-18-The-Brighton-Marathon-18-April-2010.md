@@ -15,7 +15,7 @@ Brendan
 
 **Results**
 
-Click <a href="http://www.sportsystems.co.uk/ss/resultsEvent.htm?eventId=334" target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.sportsystems.co.uk/ss/resultsEvent.htm?eventId=334" target="_blank" rel="nofollow">here</a>for the official results
 
 <map name="100109w.jpg">
   <area shape="RECT" coords="677,27,696,48" alt="Race Winner" />

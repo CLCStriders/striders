@@ -4,7 +4,7 @@ title: 'Cotswold Farm Park - 10 October 2015'
 date: 2015-10-10T16:59:03+01:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/wplive/?p=691
+guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=691
 permalink: /2015/10/cotswold-farm-park-10-october-2015/
 categories:
   - Cross Country Reports

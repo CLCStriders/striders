@@ -22,4 +22,4 @@ Results:
 
 54) Malc Smith - CLC Striders - 21:19
 
-Full results will be on <a href="http://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available</p>
+Full results will be on <a href="https://www.severnac.co.uk/results.php" target="_blank" rel="nofollow">Severn AC's website</a>when available</p>

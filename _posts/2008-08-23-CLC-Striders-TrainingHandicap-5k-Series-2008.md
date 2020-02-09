@@ -375,5 +375,5 @@ Bren
 </p>
 
 <p>
-  <br /><small><a href="http://maps.google.co.uk/maps/ms?hl=en&gl=uk&ie=UTF8&oe=UTF8&msa=0&msid=114390706286019414016.00045e3fe6fc99f68ec2b&t=h&ll=51.90589,-2.090063&spn=0.025418,0.054932&z=14&source=embed" target="_blank" rel="nofollow">View Larger Map</a></small></a>
+  <br /><small><a href="https://maps.google.co.uk/maps/ms?hl=en&gl=uk&ie=UTF8&oe=UTF8&msa=0&msid=114390706286019414016.00045e3fe6fc99f68ec2b&t=h&ll=51.90589,-2.090063&spn=0.025418,0.054932&z=14&source=embed" target="_blank" rel="nofollow">View Larger Map</a></small></a>
 </p>

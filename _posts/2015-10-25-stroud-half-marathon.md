@@ -4,7 +4,7 @@ title: Stroud Half Marathon
 date: 2015-10-25T21:00:38+00:00
 author: Clark Lawson
 layout: post
-guid: http://www.clcstriders-runningclub.co.uk/2015/10/stroud-half-marathon/
+guid: https://www.clcstriders-runningclub.co.uk/2015/10/stroud-half-marathon/
 permalink: /2015/10/stroud-half-marathon/
 categories:
   - Road Reports

@@ -24,4 +24,4 @@ Finishing closely behind Rachel was **Andrew Paterson** who swiped 5 minutes of 
 
 Well done to our â€œFantastic 5â€ and we look forward to a large club turnout for the Cheltenham Half Marathon on Sunday 7th September.
 
-Full results are available <a href="http://www.severnbridgehalfmarathon.com/" target="_blank" rel="nofollow">here</a>.
+Full results are available <a href="https://www.severnbridgehalfmarathon.com/" target="_blank" rel="nofollow">here</a>.

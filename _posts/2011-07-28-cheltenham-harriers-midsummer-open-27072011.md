@@ -16,4 +16,4 @@ Next up was John Parker in the mile. In a strong field, JP made a decisive start
 
 Last to run for Striders was Rich Cannock who, on the comeback trail from injury, took part in the final mile race of the evening. Rich made a positive start and set a strong pace, and although he suffered in the latter stages of the race, he battled on bravely and crossed the finish line in 05:33.4. 
 
-<a href="http://athleticprowess.co.uk/images/midsummer/midsummer_4_2011_results.pdf" target="_blank" rel="nofollow">Full results</a></p>
+<a href="https://athleticprowess.co.uk/images/midsummer/midsummer_4_2011_results.pdf" target="_blank" rel="nofollow">Full results</a></p>

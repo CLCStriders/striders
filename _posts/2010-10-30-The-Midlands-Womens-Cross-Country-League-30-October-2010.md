@@ -36,4 +36,4 @@ Rachel Vines 71st 33.31
 Jessica Shaw 122nd 36.12  
 Jo Wilkie 127th 36.18
 
-Click <a href="http://www.midlandathletics.org.uk/PDFS/2010_RES_101030_MidWomensCCFixture1.pdf " target="_blank" rel="nofollow">here</a>for the official results
+Click <a href="https://www.midlandathletics.org.uk/PDFS/2010_RES_101030_MidWomensCCFixture1.pdf " target="_blank" rel="nofollow">here</a>for the official results

@@ -22,4 +22,4 @@ Women
 216 Rachel 35.27
 
 Men  
-125 Will Ferguson 39.43 Click <a href="http://www.ukcau.co.uk/results.htm" target="_blank" rel="nofollow">here</a>for the official results
+125 Will Ferguson 39.43 Click <a href="https://www.ukcau.co.uk/results.htm" target="_blank" rel="nofollow">here</a>for the official results
