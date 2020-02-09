@@ -2,11 +2,11 @@
 layout : default
 title : About
 permalink: /about
-description: About the Cheltenham Ladies College Striders Running Club
+description: About the Cheltenham Ladies College Striders Running Club, founded in 2008.
 
 ---
 
-Welcome to the CLC Striders website, we are a friendly competitive running club, based at the [CLC Health & Sports Centre]({{ site.mapUrl_CLC }}) in Cheltenham, Gloucestershire. Open to all, we inspire and motivate our members to enjoy their running.
+Welcome to the CLC Striders website, we are a friendly competitive running club, based at the [CLC Health & Fitness Centre]({{ site.mapUrl_CLC }}) in Cheltenham, Gloucestershire. Open to all, we inspire and motivate our members to enjoy their running.
 
 We hold organised [training sessions](/training) on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, men's and women's team racing on the road, track, and cross country.
 
