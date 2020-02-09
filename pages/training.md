@@ -21,24 +21,24 @@ This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 min
 We change the route every few weeks but examples are:
 
 - Warden Hill & Hatherley
-  - 4M - <https://www.gmap-pedometer.com/?r=6085072> pdf  
-  - 6M - <https://www.gmap-pedometer.com/?r=6085063> pdf
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063)
 
 - Benhall & Warden Hill
-  - 4M - <https://www.gmap-pedometer.com/?r=7304693> pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7305262>  pdf
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7304693)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7305262)
 
 - Christmas lights
-  - 4M - <https://www.gmap-pedometer.com/?r=7428607> pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7428605> pdf
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7428607)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7428605)
 
 - Honeybourne & Hewlett Rd / Hales Road
-  - 4M - <https://www.gmap-pedometer.com/?r=7336512> pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=7333921> pdf
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7336512)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7333921)
 
 - Summer route with Pittville Park / Racecourse
-  - 4m - <https://www.gmap-pedometer.com/?r=6584237>  pdf
-  - 6M - <https://www.gmap-pedometer.com/?r=6584229>  pdf
+  - 4m - [Gmap](https://www.gmap-pedometer.com/?r=6584237)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229)
 
 #### Wednesdays – Speed work
 
