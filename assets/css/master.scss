@@ -117,14 +117,21 @@ a.skip-main:focus, a.skip-main:active {
 
 @media only screen and (max-width: 48em)
 {
+    .brandImage {
+        margin: 0;
+        border: none;
+        height: 2.5rem;
+        padding: 0 5px 0 0;
+    }
+
 	.callout {	
 		color: $accent_one;
 		display:block;
 		font-size:24px;
 		font-weight:800;
 		line-height:48px;
-		margin-block-end:24px;
-		margin-block-start:24px;
+		margin-block-end:20px;
+		margin-block-start:20px;
 		margin-inline-end:0px;
 		margin-inline-start:0px;
 	 }
