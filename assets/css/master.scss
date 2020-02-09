@@ -122,6 +122,10 @@ a.skip-main:focus, a.skip-main:active {
         padding: 0 5px 0 0;
     }
 
+    .navbar-Brand {
+        margin-right: 0;
+    }
+
 	.callout {	
 		color: $accent_one;
 		display:block;
