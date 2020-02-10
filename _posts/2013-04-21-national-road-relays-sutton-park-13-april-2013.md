@@ -1,12 +1,11 @@
 ---
-title: 'National Road Relays - Sutton Park - 13 April 2013'
-date: 2013-04-21T20:10:43+01:00
+title: National Road Relays - Sutton Park - 13 April 2013
 layout: post
 permalink: /2013/04/national-road-relays-sutton-park-13-april-2013/
 
 ---
 
-<p>Saturday 13th April saw the women's six stage national road relays at the beautiful Sutton Park. As the Midland road relays were cancelled due to snow, this event also included the Midlands six stage.</p>
+Saturday 13th April saw the women's six stage national road relays at the beautiful Sutton Park. As the Midland road relays were cancelled due to snow, this event also included the Midlands six stage.
 
 The day started off with bright sunshine and as we drove up to Birmingham we kept our fingers crossed that the rain would hold out.
 
