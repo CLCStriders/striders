@@ -1,5 +1,5 @@
 ---
-title: Saturday 20th February 2010
+title: indoor athletics Grand Prix - February 2010
 layout: post
 permalink: /2010/02/saturday-20th-february-2010/
 
