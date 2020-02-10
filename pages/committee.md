@@ -14,14 +14,14 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 |Name | Role |
 |--|--|
 | Brendan Ward| Club President and Head Coach|
-| Jon Howes| Chair| 
+| Jon Howes| Chair|
 | Matt Ashman| Committee Secretary|
-| Gavin Jerman| Membership Secretary| 
-| Eoin McQuone| Treasurer| 
-| Amelia Mullins| Coach| 
+| Gavin Jerman| Membership Secretary|
+| Eoin McQuone| Treasurer|
+| Amelia Mullins| Coach|
 | Martin Bick | Coach |
 | Rachel Vines| Race Coordinator|
-| Karlien Heyrman| Women’s Captain| 
+| Karlien Heyrman| Women’s Captain|
 | Sophie Longmore| Women’s Vice Captain|
 | Will Pearce| Men’s Captain|
 | Joel Freeland| Men’s Vice Captain, Coach|
@@ -30,8 +30,6 @@ The club is run on a volunteer basis and the commitee is elected at the club AGM
 | Hedley Phillips| Kit Coordinator|
 | Tom Kabala | Social Secretary|
 
-
-
 #### Committee minutes
 
-Committee minutes are available to club members. See the [news section](/news) for any club announcements.
+Committee minutes are available to club members. See the [news section](/news) for any public club announcements.

@@ -33,11 +33,11 @@ The Club will implement and comply with the eight Data Protection Principles in 
 
 * Personal Data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
-__What personal data we hold on you__
+#### What personal data we hold on you
 
 You may give us information about you by filling in forms at an event or online, or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register with the Club or participate in discussion on our Facebook page. The information you give us may include your name, date of birth, address, e-mail address, phone number, name of the EA affiliated Clubs with which you are registered and gender (Athletics Data). We may also ask for relevant health information which is classed as special category personal data.
 
-__Why we need your personal data__
+#### Why we need your personal data
 
 The reason we need your Athletics Data is to be able to administer your membership, and provide the membership services you are signing up to when you register with the club. Our
 
@@ -45,7 +45,7 @@ lawful basis for processing your personal is that we have a contractual obligati
 
 Reasons we need to process your data include:
 
-__For training and competition entry__
+#### For training and competition entry
 
 * sharing personal data with club coaches or officials to administer training sessions;
 
@@ -53,13 +53,13 @@ __For training and competition entry__
 
 * sharing personal data with leagues, county associations (and county schools’ associations) and other competition providers for entry in events.
 
-__For funding and reporting purposes__
+#### For funding and reporting purposes
 
 * analysing anonymised data to monitor club trends; and
 
 * sending a club survey to improve your experience as a club member.
 
-__For membership and club management__
+#### For membership and club management
 
 * processing of membership forms and payments;
 
@@ -69,7 +69,7 @@ __For membership and club management__
 
 * publishing of race and competition results.
 
-__Marketing and communications (where separate consent is provided)__
+#### Marketing and communications (where separate consent is provided)
 
 * sending information about promotions and offers from sponsors;
 
@@ -88,7 +88,7 @@ The club has the following social media pages:
 
 All members are free to join these pages. If you join one of the Social Media pages, please note that provider of the social media platform(s) have their own privacy policies and that the club do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data on the club social media pages.
 
-__Who we share your personal data with__
+#### Who we share your personal data with
 
 When you become a member of or renew your membership with CLC Striders you will automatically be registered as a member of England Athletics. We will provide England Athletics with your personal data which they will use to enable access to an online portal for you (called myAthletics). England Athletics will contact you to invite you to sign into and update your MyAthletics portal (which, amongst other things, allows you to set and amend your privacy settings). It is vital, therefore, that a valid email address is given, so that you can ensure that your data is correct and so that you can set your own privacy settings. If you
 
@@ -96,16 +96,16 @@ have any questions about the continuing privacy of your personal data when it is
 
 The Club does not supply any personal data it holds for this purpose to any other third party.
 
-__How long we hold your personal data__
+#### How long we hold your personal data
 
 We will hold your personal data on file for as long as you are a member with us. Athlete data is updated every year on annual membership forms. Any personal data we hold on you will be securely destroyed after four years of inactivity on that member’s account, in line with England Athletics Limited’s retention policy. Your data is not processed for any further purposes other than those detailed in this policy. Financial data is retained for 6 years in accordance with HMRC.
 
-__Your rights regarding your personal data__
+#### Your rights regarding your personal data
 
 As a data subject you may have the right at any time to request access to, rectification or erasure of your personal data; to restrict or object to certain kinds of processing of your personal data, including direct marketing; to the portability of your personal data and to complain to the UK’s data protection supervisory authority, the Information Commissioner’s Office about the processing of your personal data.
 
 As a data subject you are not obliged to share your personal data with the Club. If you choose not to share your personal data with us we may not be able to register or administer your membership.
 
-__Complaints__
+#### Complaints
 
 If you have any concerns or complaints in relation to how CLC Striders collects and/or processes your personal data, you should contact the Club’s Secretary in the first instance. If you are dissatisfied with how your concern/complaint is dealt with by CLC Striders then you have the right to report your concern/complaint to the Information Commissioners Office ([www.ico.org.uk](www.ico.org.uk)).

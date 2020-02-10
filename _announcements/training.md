@@ -1,5 +1,4 @@
 ---
-
 title: training
 published: true
 

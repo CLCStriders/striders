@@ -8,5 +8,3 @@ embeddedUrl : https://docs.google.com/forms/d/e/1FAIpQLSeeXTiZhavvmVQf4nvZh23TYs
 ---
 
 You can contact the committee through the form below.
-
-
