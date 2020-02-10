@@ -3,13 +3,13 @@
 title: The Annual Cleevewold 14 Mile race, 28 March 2011
 date: 2011-03-28T00:00:00+01:00
 excerpt: |
-  <p>There were some impressive performances from the 9 CLC Striders (6 men and 3 women) in the annual Cleevewold 14 mile race. The menâ€™s A-team finished in an excellent 6th place, the B-team took 14th place and the women's team finished 2nd!", Chris Driskell </p>
+  <p>There were some impressive performances from the 9 CLC Striders (6 men and 3 women) in the annual Cleevewold 14 mile race. The men's A-team finished in an excellent 6th place, the B-team took 14th place and the women's team finished 2nd!", Chris Driskell </p>
 layout: post
 permalink: /2011/03/the-annual-cleevewold-14-mile-race-28-march-2011/
 ---
 </p> 
 
-With 6 men and 3 women, Striders fielded one womenâ€™s team and two menâ€™s team. The menâ€™s A-team finished in an excellent 6th place which is no mean feat considering that this race attracts runners from around the region and beyond, whilst the menâ€™s B-team took 14th place and the women finished 2nd out of 3 teams.  
+With 6 men and 3 women, Striders fielded one women's team and two men's team. The men's A-team finished in an excellent 6th place which is no mean feat considering that this race attracts runners from around the region and beyond, whilst the men's B-team took 14th place and the women finished 2nd out of 3 teams.  
 This was a great turnout and performance for the club in a race which can put runners off due to the distance and the punishing terrain.
 
 In the individual race, Rachael Elkins was in the kind of form that brought her an outstanding PB in Fleet last weekend and was initially well-placed to pick up the prize for first woman.  
@@ -22,6 +22,6 @@ Bagnall was well supported in the A Team by Charles Goodwin and James Gibbs who 
 
 Meanwhile, Adam Cary showed continued improvement. He took 47th place in a time of 2:05:16, and he was followed by Jamie Paterson who took 53rd place in a time of 2:07:40, and Barnaby Bamford who finished in 75th place with a time of 2:15:26.
 
-The race was won by Martin Cox from Salford Harriers who broke away from Cheltenham Harriersâ€™ Jeremy Bradley to record a time of 1:31:08.
+The race was won by Martin Cox from Salford Harriers who broke away from Cheltenham Harriers' Jeremy Bradley to record a time of 1:31:08.
 
 Chris Driskell</p>

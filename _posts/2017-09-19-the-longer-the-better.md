@@ -24,7 +24,7 @@ In what was a very friendly and low-key event in stunning surroundings, Andrew a
 
 **Pictured: Rob Bircher at the end of his 51-mile Ultra**
 
-On the same day, but over shorter distances and closer to home, **Sophie Longmore** continued her stunning year by finishing as 28<sup>th</sup> lady in the Simply Health Great Bristol Half Marathon in a PB time of 1:30:42. Over the same distance in a different city, **Kyle Sollars** bettered his old half marathon PB by a massive 10 minutes, finishing the Worcester Half in 1:44:15. And **Gordon Bendall** paced a friend around the same course in a time of 2:08:39.
+On the same day, but over shorter distances and closer to home, **Sophie Longmore** continued her stunning year by finishing as 28th lady in the Simply Health Great Bristol Half Marathon in a PB time of 1:30:42. Over the same distance in a different city, **Kyle Sollars** bettered his old half marathon PB by a massive 10 minutes, finishing the Worcester Half in 1:44:15. And **Gordon Bendall** paced a friend around the same course in a time of 2:08:39.
 
 &nbsp;
 

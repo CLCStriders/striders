@@ -42,7 +42,7 @@ Over the longer track distance of 10,000m, **Helen Knight **clocked 42.07.6 in 
   <em>The men’s 4 x 100m relay team – left to right: Jon Howes, Eoin McQuone, Mike Speke, Paul Lockyer</em>
 </p>
 
-Later in the evening the CLC athletes entered the men’s and women’s 4 x 100m relays with both teams setting new club records. The men’s team of **Jon Howes, Mike Speke, Paul Lockyer and Eoin McQuone** won their race in a time of 57.7 seconds and the ladies team of **Amelia Mullins, Nicola Weager, Helen Howes, Rachel Vines** finished in 71.5 seconds.** **
+Later in the evening the CLC athletes entered the men’s and women’s 4 x 100m relays with both teams setting new club records. The men’s team of **Jon Howes, Mike Speke, Paul Lockyer and Eoin McQuone** won their race in a time of 57.7 seconds and the ladies team of **Amelia Mullins, Nicola Weager, Helen Howes, Rachel Vines** finished in 71.5 seconds.
 
 **Great North Run  
 ** **Sunday 9 September** 

@@ -12,9 +12,9 @@ categories:
 ---
 After the heat of the weekend had subsided, six Striders travelled south to the picturesque setting of Frampton on Severn to compete in the annual 10k race hosted by Stroud AC.
 
-Just at the start of his Berlin marathon training, Will Pearce showed he’s in great form by clocking 37:02, close to his PB, and finishing in 16<sup>th</sup>position overall in a field of 500 entrants – setting off steadily and having the satisfaction of reeling in several runners, who’d gone off faster than him, over the second half of the race.
+Just at the start of his Berlin marathon training, Will Pearce showed he’s in great form by clocking 37:02, close to his PB, and finishing in 16thposition overall in a field of 500 entrants – setting off steadily and having the satisfaction of reeling in several runners, who’d gone off faster than him, over the second half of the race.
 
-There was a long gap until the next two Strider finishers, MV50 vets Paul Northup and Andy Brookes, both battling back to some form of fitness after long-term injury and both achieving their goals on the night in 41:28 and 42:21 and 58<sup>th</sup>and 68<sup>th</sup>positions respectively.
+There was a long gap until the next two Strider finishers, MV50 vets Paul Northup and Andy Brookes, both battling back to some form of fitness after long-term injury and both achieving their goals on the night in 41:28 and 42:21 and 58thand 68thpositions respectively.
 
 Chris Hale was next home, but was primarily performing the role of pacer-encourager to a clutch of runners from the work club he coaches.
 

@@ -6,8 +6,8 @@ excerpt: '<p>Matt Puddy ran in the Oxford half Marathon and broke the 2 hour mar
 layout: post
 permalink: /2011/10/oxford-half-marathon-25th-september-2011/
 ---
-Mattâ€™s chip time was 1:59:11 which is a new PB by 15 and a half mins! 
+Matt's chip time was 1:59:11 which is a new PB by 15 and a half mins! 
 
 This really nice race comes highly recommended as it's only an hour down the road and although there are a few gentle hills (and a really nice long downhill) it definitely has PB potential written all over it. 
 
-Thereâ€™s also a really nice finish as you end in the Kassam Stadium cheered on by what feels like a packed stand!
+There's also a really nice finish as you end in the Kassam Stadium cheered on by what feels like a packed stand!

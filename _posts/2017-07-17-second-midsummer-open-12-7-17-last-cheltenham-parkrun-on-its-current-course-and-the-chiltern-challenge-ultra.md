@@ -35,4 +35,3 @@ Then, on Saturday 15 July, for the last time over its current course, CLC athlet
 
 And finally, on Sunday 16 July, CLC athlete **Rob Bircher** competed in the 31.5-mile Chiltern Challenge ultra-marathon. A hilly race, with lots of technical paths and wooded sections, the course followed national trails and footpaths. In perfect conditions (light drizzle and cloud cover), Rob smashed his hoped-for six-hour target time, finishing in 5 hours and 23 minutes and 51st place. And this after turning his ankle at just 1.5miles. Another great ultra achievement for CLC’s distance man.
 
-** **

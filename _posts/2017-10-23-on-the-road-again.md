@@ -21,11 +21,11 @@ Although still gusty from the west, conditions were near-perfect for long distan
 
 Over the full marathon distance, **Gavin Jerman** achieved a PB time of 3:36:07, running a very well-judged race with remarkably even splits until mile-23. Also running was **Charlie Haward**, putting to rest memories of a challenging London marathon debut earlier in the year and registering a hard-earned PB time of 4:36:15.
 
-Meanwhile, in their home county, a crop of Striders lined up to compete in the 36<sup>th</sup> running of the Stroud Half Marathon. **Paul Northup** and **Will Pearce** led the team home, running within sight of each other the entire race and securing top 50 finishes in times of 1:24:43 and 1:24:49 respectively. In a perfectly executed run, Northup clocked a Vet50 PB time and 3<sup>rd</sup> place in his age category.
+Meanwhile, in their home county, a crop of Striders lined up to compete in the 36th running of the Stroud Half Marathon. **Paul Northup** and **Will Pearce** led the team home, running within sight of each other the entire race and securing top 50 finishes in times of 1:24:43 and 1:24:49 respectively. In a perfectly executed run, Northup clocked a Vet50 PB time and 3rd place in his age category.
 
 <img class="alignnone size-full 2976" src="/images/2017/10/22554762_1435733963188696_132024564927110472_n.jpg" alt="22554762_1435733963188696_132024564927110472_n" width="717" height="960" />](/images/2017/10/22554762_1435733963188696_132024564927110472_n.jpg)
 
-Next home, just outside the 90-minute mark were **Alex Monro** and vet **John Willson** in 1:30:11 and 1:30:24 respectively. Monro’s was a half marathon PB. They were followed by the ever-improving **Helen Knight**, smashing her PB for the distance in a time of 1:34:21 as 8<sup>th</sup> F30 finisher, building on a strong performance across the country the weekend before.
+Next home, just outside the 90-minute mark were **Alex Monro** and vet **John Willson** in 1:30:11 and 1:30:24 respectively. Monro’s was a half marathon PB. They were followed by the ever-improving **Helen Knight**, smashing her PB for the distance in a time of 1:34:21 as 8th F30 finisher, building on a strong performance across the country the weekend before.
 
 **Hannah Monro** also achieved a half marathon PB, ducking in under 1 hour 45 minutes in a time of 1:43:52. While vet **Andrew Gage** ran a solid 1:46:18 after a few weeks away from racing and competition.
 

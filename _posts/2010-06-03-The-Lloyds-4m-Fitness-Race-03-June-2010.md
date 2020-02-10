@@ -9,11 +9,11 @@ permalink: /0000/00/The-Lloyds-4m-Fitness-Race--03-June-2010/
 
 **Report**
 
-The CLC striders had 8 runners at the Lloyds TSB 4 mile fitness run on 3<sup>rd</sup>June. Gutsy Lee Burge led the field from the start and finished in first place in an impressive time of 23mins 59secs. Next to finish for the club in 3<sup>rd</sup>place was Paul Smith in a storming 24 mins 45secs, closely followed by Billy Bradshaw taking the MV45 club record in 25 mins 21 secs, 8<sup>th</sup>place.
+The CLC striders had 8 runners at the Lloyds TSB 4 mile fitness run on 3rdJune. Gutsy Lee Burge led the field from the start and finished in first place in an impressive time of 23mins 59secs. Next to finish for the club in 3rdplace was Paul Smith in a storming 24 mins 45secs, closely followed by Billy Bradshaw taking the MV45 club record in 25 mins 21 secs, 8thplace.
 
-The women were led home by Liza Barry in a senior lady club record time of 25 mins 53 secs, closely followed by Rachel Vines in 25 mins 56 secs achieving a personal best. The pair finished 10<sup>th</sup>and 11<sup>th</sup>overall.</p> 
+The women were led home by Liza Barry in a senior lady club record time of 25 mins 53 secs, closely followed by Rachel Vines in 25 mins 56 secs achieving a personal best. The pair finished 10thand 11thoverall.</p> 
 
-Other notable performances were Richard Cannock (26 mins 1 sec, 12<sup>th</sup>), Sian Holly (26 mins 48 secs, 19<sup>th</sup>) and Mark Smith (30 mins 28 secs, 42<sup>nd</sup>).
+Other notable performances were Richard Cannock (26 mins 1 sec, 12th), Sian Holly (26 mins 48 secs, 19th) and Mark Smith (30 mins 28 secs, 42nd).
 
 Rachel Vines
 

@@ -19,12 +19,12 @@ A solid run by veteran **Amelia Mullins** saw her finish as second lady in 45:45
 _Pictured from left to right: Nicola Weager, Rebecca Reynolds and Amelia Mullins_
 
 **Stroud Beer Race**  
-**Monday 3<sup>rd</sup>June**
+**Monday 3rdJune**
 
-**Gavin Jerman** and **Helen Knight** competed in the Stroud Beer race, a three-lap 7.2 mile road race round Minchinhampton Common. The undulating course required some cow-dodging on the night and saw Helen finish as the second lady (17th overall) in 50:12 and Gavin finish in 25<sup>th</sup>place with a time of 52:09.
+**Gavin Jerman** and **Helen Knight** competed in the Stroud Beer race, a three-lap 7.2 mile road race round Minchinhampton Common. The undulating course required some cow-dodging on the night and saw Helen finish as the second lady (17th overall) in 50:12 and Gavin finish in 25thplace with a time of 52:09.
 
 **Forest of Dean Epic Trail 10k**  
-**Sunday June 9<sup>th </sup>2019**  
+**Sunday June 9th 2019**  
 
 
 There were also strong performances from Striders athletes in the Forest of Dean Epic Trail 10k, with a first place for the most improved club runner of the year,&nbsp;**Tom Kabala**. Tom registered an amazing time&nbsp;– for a trail race – of just 37:39 for his first place finish. Meanwhile, the also-improving **Eoin McQuone** was eighth overall (and second M40) in a great time of 42:36.

@@ -16,7 +16,7 @@ categories:
 
 **County Track Championships, Tewkesbury Half Marathon and more**
 
-** **
+
 
 A busy weekend of racing saw CLC Striders racing on the track, road and country.
 
@@ -42,8 +42,8 @@ Away from the track and across the country, club strongman Iain Porter continued
 
 &nbsp;
 
-While, over in Tewkesbury four Striders lined up on a warm and blustery Sunday morning to compete in the Tewksbury Half Marathon. They were led home by the young and emerging talent Greg Chilton, who finished 10th overall in a time of 1:23:16. Second finisher for the club was male vet Paul Northup who, despite fading badly in the second half of the race, held on for first place in his MV50 category with a time of 1:26:54. Sophie Longmore made a great return to road racing after a few years away, finishing as fifth senior lady in a time of 1:33:32. And Amy Underdown completed the 13.1 miles in her target time of 1:51:23, finishing as 30<sup>th</sup> senior lady.
+While, over in Tewkesbury four Striders lined up on a warm and blustery Sunday morning to compete in the Tewksbury Half Marathon. They were led home by the young and emerging talent Greg Chilton, who finished 10th overall in a time of 1:23:16. Second finisher for the club was male vet Paul Northup who, despite fading badly in the second half of the race, held on for first place in his MV50 category with a time of 1:26:54. Sophie Longmore made a great return to road racing after a few years away, finishing as fifth senior lady in a time of 1:33:32. And Amy Underdown completed the 13.1 miles in her target time of 1:51:23, finishing as 30th senior lady.
 
 &nbsp;
 
-Looking a little further back, to Sunday 7<sup>th</sup> May, Striders Rob Bircher and Emma Abbey competed in the tough Stroud Trails Half Marathon. Over a hot and hilly course, Bircher finished in 31<sup>st</sup> place in 2:05:53 and Abbey came 56<sup>th</sup> in 2:17:18.
+Looking a little further back, to Sunday 7th May, Striders Rob Bircher and Emma Abbey competed in the tough Stroud Trails Half Marathon. Over a hot and hilly course, Bircher finished in 31st place in 2:05:53 and Abbey came 56th in 2:17:18.

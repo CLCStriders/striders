@@ -24,9 +24,9 @@ Using the Aviator Inn at Staverton Airport as its base, the race is a two-lap ev
 
 _Gloucester AC's Steve Kenyon comes home first_ 
 
-The first lady home on the day was **Helena Youde** of Almost Athletes in 1:05:15 and 25<sup>th </sup>place overall. The next lady home was **Samantha Harris** of Forest of Dean AC in 1:06:20 and then **Kate Krzywiec** of North Cotswold Tri & Run in 1:07:41.
+The first lady home on the day was **Helena Youde** of Almost Athletes in 1:05:15 and 25th place overall. The next lady home was **Samantha Harris** of Forest of Dean AC in 1:06:20 and then **Kate Krzywiec** of North Cotswold Tri & Run in 1:07:41.
 
-The only CLC competitor on the day was **Mike Speke**, who came home in 101<sup>st </sup>place in a time of 1:22:37.
+The only CLC competitor on the day was **Mike Speke**, who came home in 101st place in a time of 1:22:37.
 
 The feedback after the race – both at the event and on social media – has been overwhelmingly positive, with runners describing the event as a combination of well organised and friendly. One runner even commented that he’d never experienced mile markers so accurately measured and positioned!
 

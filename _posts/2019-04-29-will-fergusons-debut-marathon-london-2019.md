@@ -11,7 +11,7 @@ categories:
 tags:
   - London Marathon
 ---
-**Will Ferguson** made his debut over the full marathon distance on Sunday 28 April in London’s iconic event. It turned out to be quite a debut. Clocking 2:30:20, Will smashed the club’s record for the distance, finishing only just outside his ambitious target time of 2:30:00. Not only that, he finished 92<sup>nd</sup>, inside the top 100, an incredible achievement on his first outing over the gruelling distance.
+**Will Ferguson** made his debut over the full marathon distance on Sunday 28 April in London’s iconic event. It turned out to be quite a debut. Clocking 2:30:20, Will smashed the club’s record for the distance, finishing only just outside his ambitious target time of 2:30:00. Not only that, he finished 92nd, inside the top 100, an incredible achievement on his first outing over the gruelling distance.
 
 Will reached the half way mark in 73.20, setting him up nicely for his 2:30:00 target. Despite slowing a little over the next 10k, he still reached&nbsp;the 30k mark in 1:44:39 – inside his target time.
 

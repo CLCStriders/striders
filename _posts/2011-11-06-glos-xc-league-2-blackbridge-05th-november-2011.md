@@ -10,7 +10,7 @@ permalink: /2011/11/glos-xc-league-2-blackbridge-05th-november-2011/
 
 CLC Striders men and women put in solid team performances at the Glos Cross Country League held at Blackbridge, Gloucester. Laura Kent ran strongly to lead the ladies A Team finishing in 6th place; she was followed by Sian Holley in 21st and Emma Skeen in 26th spot. Although on the day the team finished in 5th place, they still head the league going into the third fixture which will be on home soil at Pitville Park. Meanwhile Alice Johnson, Amanda Steer and Naomi Kellet all had encouraging runs to help the Striders Vets team to an excellent 3rd place on the day.
 
-The Striders men's team leading runner was Rich Evershed who worked his way through the field to finish in an excellent 11th place, Evershedâ€™s shoe came off in the first half mile, but he remained remarkably composed to get himself back into the race, Jamie Paterson supported well to finish 42nd, new signing James Waller ran well in 48th, Vet Dave Billingham 55th, Chris Driskell 63rd, and final A team scorer Deryl Slight was 65th place. The men finished in a well deserved 4th place on the day which keeps them in a good position with two county league fixtures remaining. 
+The Striders men's team leading runner was Rich Evershed who worked his way through the field to finish in an excellent 11th place, Evershed's shoe came off in the first half mile, but he remained remarkably composed to get himself back into the race, Jamie Paterson supported well to finish 42nd, new signing James Waller ran well in 48th, Vet Dave Billingham 55th, Chris Driskell 63rd, and final A team scorer Deryl Slight was 65th place. The men finished in a well deserved 4th place on the day which keeps them in a good position with two county league fixtures remaining. 
 
 Well done to all of you who competed today. 
 
@@ -40,11 +40,11 @@ Striders results:
 
 94) Jill Harsent â€“ 36:39
 
-5<sup>th</sup>â€“ CLC A = 53 points
+5thâ€“ CLC A = 53 points
 
-11<sup>th</sup>â€“ CLC B = 105 points
+11thâ€“ CLC B = 105 points
 
-18<sup>th</sup>â€“ CLC B = 198 points
+18thâ€“ CLC B = 198 points
 
 ## Men
 
@@ -72,8 +72,8 @@ Striders results:
 
 171) Duncan Kay - 1:00:59
 
-4<sup>th</sup>â€“ CLC A = 284
+4thâ€“ CLC A = 284
 
-15<sup>th</sup>â€“ CLC B = 700
+15thâ€“ CLC B = 700
 
-Full results are on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAAâ€™s website</a></p>
+Full results are on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAA's website</a></p>

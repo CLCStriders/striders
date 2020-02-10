@@ -11,6 +11,6 @@ categories:
   - Race Reports
   - Track Reports
 ---
-At Iffley Road in Oxford, three days after his 800 metres, Will Ferguson set a club record for the 1500m recording an excellent 4.09.4. Ferguson also won his BMC heat. In the same race Sam Baylis finished in 8<sup>th</sup> place running a brisk 4.20.5.
+At Iffley Road in Oxford, three days after his 800 metres, Will Ferguson set a club record for the 1500m recording an excellent 4.09.4. Ferguson also won his BMC heat. In the same race Sam Baylis finished in 8th place running a brisk 4.20.5.
 
 At the same event Andrew Gage ran well to record 6.17 for the 1 mile.

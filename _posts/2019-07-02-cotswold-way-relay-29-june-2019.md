@@ -22,8 +22,8 @@ But the temperatures on June 29, meant that the race was much more than challeng
 
 At the time of writing, full results with individual leg positions have not yet been confirmed and published, but the provisional team results show the following…
 
-**The CLC ladies open team**(comprising, in order of leg run,&nbsp;Amanda Steer Karlien Heyrman, Rachel Vines, Rachael Cary, Laura Fletcher, Helen Howes, Emma Abbey, Amelia Mullins, Nicola Weager and Charlie Haward)&nbsp;finished in 7<sup>th</sup>place out of 14 teams on the day.
+**The CLC ladies open team**(comprising, in order of leg run,&nbsp;Amanda Steer Karlien Heyrman, Rachel Vines, Rachael Cary, Laura Fletcher, Helen Howes, Emma Abbey, Amelia Mullins, Nicola Weager and Charlie Haward)&nbsp;finished in 7thplace out of 14 teams on the day.
 
-**The men’s vet team**(comprising, in order of leg run, Tim Brock, Rich Shardlow, Gavin Jerman, James Babbage, Jon Howes, Eoin McQuone, Ed Thomson, Billy Bradshaw, Rob Bircher and Phil Abbey) finished 6<sup>th</sup>out of 13 teams.
+**The men’s vet team**(comprising, in order of leg run, Tim Brock, Rich Shardlow, Gavin Jerman, James Babbage, Jon Howes, Eoin McQuone, Ed Thomson, Billy Bradshaw, Rob Bircher and Phil Abbey) finished 6thout of 13 teams.
 
-And&nbsp;**the mixed ladies and men’s team**(comprising, in order of leg run, Chris Thomas, Tom Kabala, Natalie Burfitt, Nikki Smith, Louis Fievet, Cerys Jones, Si Thomson, Ed Collier, Mike Crossley and Gary Smith) finished 17<sup>th</sup>out of 54 teams.
+And&nbsp;**the mixed ladies and men’s team**(comprising, in order of leg run, Chris Thomas, Tom Kabala, Natalie Burfitt, Nikki Smith, Louis Fievet, Cerys Jones, Si Thomson, Ed Collier, Mike Crossley and Gary Smith) finished 17thout of 54 teams.

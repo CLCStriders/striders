@@ -2,19 +2,19 @@
 
 title: 'White Horse 5km - 16th August 2012'
 date: 2012-08-21T06:24:53+01:00
-excerpt: '<p>A squad of 17 CLC Striders raced at the 4<sup>th</sup>and final Whitehorse 5km of the season. This race also incorporated the County 5km Championships</p>'
+excerpt: '<p>A squad of 17 CLC Striders raced at the 4thand final Whitehorse 5km of the season. This race also incorporated the County 5km Championships</p>'
 layout: post
 permalink: /2012/08/white-horse-5km-16th-august-2012/
 ---
 </p> 
 
-Rich Dare was first home for the club nipping into the top 10 finishing in 9<sup>th</sup>position in a time of 16:28.
+Rich Dare was first home for the club nipping into the top 10 finishing in 9thposition in a time of 16:28.
 
-Rich Evershed made a welcome return to road racing and ran well, finishing in 19<sup>th</sup>place in 17:09.
+Rich Evershed made a welcome return to road racing and ran well, finishing in 19thplace in 17:09.
 
-Not to be outdone, the ladies also put in some fine performances. Laura Kent battled in the windy conditions to finish 5<sup>th</sup>lady and 3<sup>rd</sup>LV35, taking the county bronze in 19.13. Kent was followed by Sian Holley who worked her way through the field, finishing as 2<sup>nd</sup>senior lady in a time of 20.33. To complete the womenâ€™s team, Amanda Steer ran a very strong race, setting a new PB time of 20:46. The womenâ€™s team took first place.
+Not to be outdone, the ladies also put in some fine performances. Laura Kent battled in the windy conditions to finish 5thlady and 3rdLV35, taking the county bronze in 19.13. Kent was followed by Sian Holley who worked her way through the field, finishing as 2ndsenior lady in a time of 20.33. To complete the women's team, Amanda Steer ran a very strong race, setting a new PB time of 20:46. The women's team took first place.
 
-Other notable performances came from Dan Harte and Duncan Kay who set big PBâ€™s of 21:18 and 25:43 and Jacki Moore who completed her first road race for the club (26:10).
+Other notable performances came from Dan Harte and Duncan Kay who set big PB's of 21:18 and 25:43 and Jacki Moore who completed her first road race for the club (26:10).
 
 Striders results:
 

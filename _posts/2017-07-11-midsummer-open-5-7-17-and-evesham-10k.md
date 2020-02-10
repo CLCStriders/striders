@@ -42,4 +42,3 @@ Meanwhile, on Sunday 9 July, a good group of Striders ran in the Evesham 10k. **
 
 &nbsp;
 
-** **

@@ -48,4 +48,3 @@ Kneeling: Will Pearce and Chris Hale
 
 &nbsp;
 
-** **

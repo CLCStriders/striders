@@ -20,15 +20,15 @@ Run: 38min 09sec
 
 Overall: 2hr 05min 41sec
 
-Position: 2<sup>nd</sup>in age group, 3<sup>rd</sup>overall
+Position: 2ndin age group, 3rdoverall
 
 **Detail:**
 
 Over the last few years this has always been my main race of the year, so to train hard this week and treat it as a training race seemed a little sad as it would be interesting to accurately gauge my improvement from previous years in one of the largest races in the country with circa 1,600 competitors. I changed a few elements of preparation too, most of which did not work&#8230;
 
-With bike racking the day before, a good friend did the deed for me while I attended to childrenâ€™s parties down in Gloucestershire. Christian could not help but send a text to explain that his young daughterâ€™s reaction to seeing the bike was&#8230;â€Wow whoâ€™s bike is that?â€&#8230;..which was closely followed by&#8230;â€but why does he have a girlâ€™s bike?â€
+With bike racking the day before, a good friend did the deed for me while I attended to children's parties down in Gloucestershire. Christian could not help but send a text to explain that his young daughter's reaction to seeing the bike was&#8230;â€Wow who's bike is that?â€&#8230;..which was closely followed by&#8230;â€but why does he have a girl's bike?â€
 
-Race preparation was the main first item to change in this race. With a 6.35am wave start, breakfast was going to be interesting. Following a discussion with my coach, getting up at 3am seemed the best option. What we did not discuss was going to a bbq the night before and going back to bed after breakfast again. This was probably fuelled by a little bit of over confidence following last weekâ€™s race. I got to bed too late and learnt that burgers and sausages do not feel so good during races and going back to bed after breakfast felt like digestion slows down again leaving me feeling a little too full before the start line.
+Race preparation was the main first item to change in this race. With a 6.35am wave start, breakfast was going to be interesting. Following a discussion with my coach, getting up at 3am seemed the best option. What we did not discuss was going to a bbq the night before and going back to bed after breakfast again. This was probably fuelled by a little bit of over confidence following last week's race. I got to bed too late and learnt that burgers and sausages do not feel so good during races and going back to bed after breakfast felt like digestion slows down again leaving me feeling a little too full before the start line.
 
 With two thirds of the swim upstream, I hugged the bank and felt to be swimming well and keen for a time similar to last week. There did not appear to be much current. Bit annoyed to then exit the water in circa 24.5mins, minute and a half down. Final swim time bit higher due to long run to start of first transition. Perhaps there was a bit of current after all.
 
@@ -38,4 +38,4 @@ Still muttering away under my breath, found a chief marshal who politely explain
 
 In summary, 7 minutes quicker than last year and lots of lessons learnt. 
 
-Next up is Pontevedra on 26<sup>th</sup>June. I will train hard this week then taper before flying out with the family on Thursday week.
+Next up is Pontevedra on 26thJune. I will train hard this week then taper before flying out with the family on Thursday week.

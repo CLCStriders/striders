@@ -14,7 +14,7 @@ Meanwhile in the Mile events Rachel Vines ran well to set a new club record and 
 
 The Club's men and women made their debut in the 4 x 400 metre relay events and did surprisingly well coming away with one Gold, One Silver and a well earned Bronze medal.
 
-Well done to all of you, and thanks for making it such an entertaining eveningâ€™s athletics.
+Well done to all of you, and thanks for making it such an entertaining evening's athletics.
 
 Results
 

@@ -24,15 +24,15 @@ permalink: /2010/08/The-10,000m-County-Champs-and-open-1-mile-25-August-2010-/
 
 The 10,000m county championships saw 5 CLC striders taking part. Dispite the rainy conditions, the striders did themselves proud and came away with 3 county medals.</p> 
 
-First to complete the 25 laps was the ever improving Dave Smeath in an impressive time of 37.07.1. Although he was in 5<sup>th</sup>place overall he took the county gold medal. Second finisher for the club and first lady strider, Liza Barry took 12<sup>th</sup>place overall in a time of 40.56.2. The gutsy Liza stayed determined and strong throughout and took the county silver medal.</p> 
+First to complete the 25 laps was the ever improving Dave Smeath in an impressive time of 37.07.1. Although he was in 5thplace overall he took the county gold medal. Second finisher for the club and first lady strider, Liza Barry took 12thplace overall in a time of 40.56.2. The gutsy Liza stayed determined and strong throughout and took the county silver medal.</p> 
 
-Jon Gould, in his club debut finished in 13<sup>th</sup>place in a very respectable 40.59.8. Charles Goodwin, who completed an extra lap in error followed in 14<sup>th</sup>place in a time of 41.27.7.</p> 
+Jon Gould, in his club debut finished in 13thplace in a very respectable 40.59.8. Charles Goodwin, who completed an extra lap in error followed in 14thplace in a time of 41.27.7.</p> 
 
-Finally, Rachel Vines finished in 16<sup>th</sup>place in a time of 43.24.6 and took the county bronze medal.</p> 
+Finally, Rachel Vines finished in 16thplace in a time of 43.24.6 and took the county bronze medal.</p> 
 
 There were also 2 CLC striders in the open mile race. </p> 
 
-Chris Slade, in his season track debut finished in 6<sup>th</sup>place in his race in a speedy time of 5.41.8. Jo Wilkie was 5<sup>th</sup>overall in her race and clocked an impressive 6.00.1
+Chris Slade, in his season track debut finished in 6thplace in his race in a speedy time of 5.41.8. Jo Wilkie was 5thoverall in her race and clocked an impressive 6.00.1
 
 <a name="Theresults"></a>**Results**</p> 
 

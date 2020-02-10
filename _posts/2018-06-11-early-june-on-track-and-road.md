@@ -36,7 +36,7 @@ In Gloucester on Saturday 9 June, V40 **Paul Lockyer **ran a sub-19-minute 18:5
 **Fairford 10k  
 ** **Sunday 3 June**
 
-On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford to run in the popular 10k there. On the day, **Helen Knight **continued her fine form – first home for the club in a time of 42:45.9 as the 2<sup>nd </sup>lady V35.
+On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford to run in the popular 10k there. On the day, **Helen Knight **continued her fine form – first home for the club in a time of 42:45.9 as the 2nd lady V35.
 
 <img src="/images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n"/>](/images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
 
@@ -49,7 +49,7 @@ On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford
 **Broadway Tower Charity Run  
 ** **Wednesday 6 June**
 
-Meanwhile, **Emma Abbey**, part-way through a course of B12 vitamin injections, finished as the 13<sup>th </sup>LV35 in a time of 48.23.
+Meanwhile, **Emma Abbey**, part-way through a course of B12 vitamin injections, finished as the 13th LV35 in a time of 48.23.
 
 &nbsp;
 

@@ -23,6 +23,5 @@ Meanwhile, in the 3,000m **Patricia Sturgess **ran a time of 11.51.7 and Amelia
 
 Over the shorter distance, **Nicola Weager**ran 78.0 in the 400m, with **Andrew Gage **just behind her in 78.4, and **Amelia Mullins **setting a new L45 club record of 83.3.
 
-In the field, **Nicola Weager **also took part in the high jump, setting a new club record of 1m 15cm.** **
+In the field, **Nicola Weager **also took part in the high jump, setting a new club record of 1m 15cm.
 
-** **

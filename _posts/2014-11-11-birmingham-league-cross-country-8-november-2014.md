@@ -13,9 +13,9 @@ CLC Striders men put in an excellent display in the first Birmingham cross count
 
 Jon Cooke ran a good race to lead the Striders mens B team home in 96th place. Cooke was followed by Jon Howes in 108th place and Rich Shardlow in 117th. Next for the B team was JJ Willson who finished 157th. after Willson was mens club captain Joel Freeland in 179th place. Final B team scorer was Andrew Paterson in 217th place. The striders mens B team are lying 5th in the B team competition. Other notable performances were had by Rob Bircher in 221st place, Rich Haslam 229th.
 
-Earlier, as the rain bucketed down, the CLC womenâ€™s team had lined up on the start line and luckily, as the whistle blew, the sun finally came out along with the supporters!
+Earlier, as the rain bucketed down, the CLC women's team had lined up on the start line and luckily, as the whistle blew, the sun finally came out along with the supporters!
 
-The race consisted of two laps each containing a sharp hill climb followed by a ditch crossing in which many have fallen in. The ground was also very muddy, making it a tough slog to the finish line. The first Strider home was Jo Wilkie who made an impressive start to the season by finishing in 52nd place. Wilkie was closely followed by recent signing, Katie Truslove in 58th place continuing to show her form. The womenâ€™s A team was completed by Liza Barry who continues to improve in 66th place. The ladies team finished in 13th place on the day out of 39 teams.
+The race consisted of two laps each containing a sharp hill climb followed by a ditch crossing in which many have fallen in. The ground was also very muddy, making it a tough slog to the finish line. The first Strider home was Jo Wilkie who made an impressive start to the season by finishing in 52nd place. Wilkie was closely followed by recent signing, Katie Truslove in 58th place continuing to show her form. The women's A team was completed by Liza Barry who continues to improve in 66th place. The ladies team finished in 13th place on the day out of 39 teams.
 
 Other notable performances came from Amelia Mullins who was second scorer in the masters team, Charlotte Sugden who came 157th in her first cross country race and Amanda Pill for her improvement on last year.
 

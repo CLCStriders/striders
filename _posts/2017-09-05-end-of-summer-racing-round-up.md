@@ -11,7 +11,7 @@ categories:
   - Road Reports
   - Track Reports
 ---
-The end of the summer has seen Striders busy in action both at home and overseas. **Gareth Harries** ran the Durban Parkrun in South Africa on 19<sup>th</sup> August, finishing 9<sup>th</sup> out of 1,300 in a time of 19:13 and on the following weekend Harries ran in Mbabane, Swaziland, at 1,150m of altitude on a course which included dead ends, barbed wire fences, a whopping 70m elevation and a detour on the main road! Harries was 7<sup>th</sup> finisher in a time of 21:08.
+The end of the summer has seen Striders busy in action both at home and overseas. **Gareth Harries** ran the Durban Parkrun in South Africa on 19th August, finishing 9th out of 1,300 in a time of 19:13 and on the following weekend Harries ran in Mbabane, Swaziland, at 1,150m of altitude on a course which included dead ends, barbed wire fences, a whopping 70m elevation and a detour on the main road! Harries was 7th finisher in a time of 21:08.
 
 **Tipton Open and BMC Regional Races**
 
@@ -48,4 +48,3 @@ After a busy summer on the track, Striders are now preparing for the Cheltenham 
 Back row, left to right: Joel Freeland, Iain Porter, Will Ferguson, Andrew Gage, Hannah Monro, Alex Monro  
 Front row, left to right: Amanda Steer, Nicola Weager, Coach Brendan Ward, Patricia Sturgess, Rachel Vines
 
-** **

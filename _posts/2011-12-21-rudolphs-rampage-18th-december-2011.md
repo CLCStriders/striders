@@ -6,7 +6,7 @@ layout: post
 ---
 <p>Striders go on the rampage in Painswick...</p>
 
-Helen Beesley and Beckie Boulton ran the Rudolph' Rampage on Sunday 18<sup>th</sup>December from Painswick Rugby Club hosted by Cotswold Allrunners.
+Helen Beesley and Beckie Boulton ran the Rudolph' Rampage on Sunday 18thDecember from Painswick Rugby Club hosted by Cotswold Allrunners.
 
 It was perfect conditions on a beautiful sunny winter's morning. The course was a hard 6k (approx) of hills and mud&#8230;. a lot of mud. As it was a festive race, all competitors were encouraged to wear 'Christmas' items or outfits. 
 

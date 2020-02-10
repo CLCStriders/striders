@@ -28,6 +28,6 @@ Helen Knight continued her superlative form in wining a gold medal and setting a
 
 On a perfect, sunny, late spring evening, six Striders travelled to the south Gloucestershire town of Berkeley for the 10k race hosted by Dursley Running Club. In a field of 500, Striders acquitted themselves well.
 
-After competing in a gruelling triathlon at the weekend, strong man Iain Porter turned out to come in first for the club in 8<sup>th </sup>place overall and a time of 35:51:9. Next home, in 10<sup>th </sup>place, was the ever-improving Tom Kabala in a new PB time of 36:10.8. Paul Lockyer just ducked under the 40-minute mark in 45th place and a time of 39:57.0, while Eoin McQuone finished inside the top 50 in a new PB time of 40:17.3, over 30 seconds faster than his previous 10k PB.
+After competing in a gruelling triathlon at the weekend, strong man Iain Porter turned out to come in first for the club in 8th place overall and a time of 35:51:9. Next home, in 10th place, was the ever-improving Tom Kabala in a new PB time of 36:10.8. Paul Lockyer just ducked under the 40-minute mark in 45th place and a time of 39:57.0, while Eoin McQuone finished inside the top 50 in a new PB time of 40:17.3, over 30 seconds faster than his previous 10k PB.
 
 Ed Collier managed 48:12.5 despite battling hampering issues out on the course and Mike Speke, recovering from a virus, came home in 54:05.3.

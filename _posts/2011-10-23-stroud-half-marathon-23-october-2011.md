@@ -2,15 +2,15 @@
 
 title: Stroud Half Marathon 23 October 2011
 date: 2011-10-23T22:37:57+01:00
-excerpt: '<p>The CLC Striders were out in full force at the 30<sup>th</sup>Stroud half marathon on 23 October 2011.</p>'
+excerpt: '<p>The CLC Striders were out in full force at the 30thStroud half marathon on 23 October 2011.</p>'
 layout: post
 permalink: /2011/10/stroud-half-marathon-23-october-2011/
 ---
 </p> 
 
-Although it wasnâ€™t a hot day, the course was made unexpectly tough by the strong headwind on the second half of the course.
+Although it wasn't a hot day, the course was made unexpectly tough by the strong headwind on the second half of the course.
 
-Chris â€˜GPSâ€™ Hale was first strider across the line. Chris ran a strong race completing the course in 1.22.32 Dave â€˜Smeathâ€™ Smeath was not far behind, and dispite running a very hilly half marathon only two weeks previously put in a more than decent performance achieving a time of 1.24.10
+Chris â€˜GPS' Hale was first strider across the line. Chris ran a strong race completing the course in 1.22.32 Dave â€˜Smeath' Smeath was not far behind, and dispite running a very hilly half marathon only two weeks previously put in a more than decent performance achieving a time of 1.24.10
 
 Other notable performances from the men came from local boy Joel Freeland, who flew round in a time of 1.28.35, Simon Dee in 1.36.16 and Philip Hodder in 1.45.00.
 

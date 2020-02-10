@@ -21,4 +21,4 @@ Closer to home and on a warm and gloriously sunny Sunday morning, four Striders 
 
 Leading the Striders home, Amelia Mullins finished strongly in 1:21:55, taking 3rd LV35 spot and coming 73rd overall. Andrew Paterson, running with his dog Betty (as seen on TV!) ran well despite lots of water stops to ensure Betty was sufficiently hydrated, to finish in 1:29:24 and 145th overall. Simon Thomson had a good run to finish in 1:42:45, 271st overall, and Joanna Thomson was comfortably under the two-hour mark in 1:57:55, 389th overall. There were 428 finishers in total.
 
-Also on the trails, but this time down in the far south of the County, Strider Rob Bircher competed in the hot and hilly off-road Old Down Country Estate 10k Race, winning his VM40 category and finishing in 12<sup>th</sup> place overall in a time of 53:11:8.
+Also on the trails, but this time down in the far south of the County, Strider Rob Bircher competed in the hot and hilly off-road Old Down Country Estate 10k Race, winning his VM40 category and finishing in 12th place overall in a time of 53:11:8.

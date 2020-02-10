@@ -15,6 +15,6 @@ On Easter Bank Holiday Monday, two CLC Striders – Paul Lockyer and Clark Lawso
 
 Taking place on closed country lanes, starting out in the countryside and finishing outside the Bushley Green Cricket Club, the mile-long course is slightly uphill on the first half mile, downhill for the next quarter, before turning right towards the finish line, up the infamous Bushley incline.
 
-The pace was, as expected, brisk and the field quickly spread out. Returning to the course for the fourth time, Paul Lockyer finished in 11<sup>th</sup> place with a time of 5:34. While, in his debut on the route, Clark Lawson finished in 15<sup>th</sup> place recording a maiden mile road race time of 5:50.
+The pace was, as expected, brisk and the field quickly spread out. Returning to the course for the fourth time, Paul Lockyer finished in 11th place with a time of 5:34. While, in his debut on the route, Clark Lawson finished in 15th place recording a maiden mile road race time of 5:50.
 
 Paul later returned to the course to take part in the fun run that was held soon after to support a family member. Clark, meanwhile, decided to cheer the fun runners at the finish with tea and cake provided by the Cricket Club. All in all, a great morning out!

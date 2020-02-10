@@ -8,7 +8,7 @@ permalink: /2011/12/glos-xc-league-3-pitville-park-10th-december-2011/
 ---
 </p> 
 
-Laura Kent led CLC Stridersâ€™ women to third spot in the 3rd Glos Cross Country league race promoted by CLC Striders held at Pitville Park. The Striders ladies still head the league with one final fixture remaining. Kent was followed in by Hilary Agate and the super consistent Jo Wilkie, The Stridersâ€™ ladies masters team finished in first place with Alice Johnston, Emma Skeen and Amanda Steer doing well. Meanwhile the menâ€™s team led home by Rich Evershed in 25th finished 6th team on the day, Chris Driskell continued his improvement following Evershed home in 43rd place with Tom Stone, Dave Smeath, Jon Bird and the fast finishing Joel Freeland making up the scoring six.
+Laura Kent led CLC Striders' women to third spot in the 3rd Glos Cross Country league race promoted by CLC Striders held at Pitville Park. The Striders ladies still head the league with one final fixture remaining. Kent was followed in by Hilary Agate and the super consistent Jo Wilkie, The Striders' ladies masters team finished in first place with Alice Johnston, Emma Skeen and Amanda Steer doing well. Meanwhile the men's team led home by Rich Evershed in 25th finished 6th team on the day, Chris Driskell continued his improvement following Evershed home in 43rd place with Tom Stone, Dave Smeath, Jon Bird and the fast finishing Joel Freeland making up the scoring six.
 
 Striders results: 
 

@@ -8,11 +8,11 @@ permalink: /2012/02/glos-xc-league-4-tewkesbury-04022012/
 ---
 </p> 
 
-John Parker of CLC Striders stormed to victory at Tewkesbury in freezing conditions at the final Gloucestershire Cross Country League fixture of the 2011/12 season. This is Parkerâ€™s first individual win in the league and he led his Team to a fantastic second place on the day, just behind Cheltenham Harriers. The Stridersâ€™ men who were lying in third place in the county cross country league prior this final fixture, managed to overtake Severn and clinch the runner-up spot.
+John Parker of CLC Striders stormed to victory at Tewkesbury in freezing conditions at the final Gloucestershire Cross Country League fixture of the 2011/12 season. This is Parker's first individual win in the league and he led his Team to a fantastic second place on the day, just behind Cheltenham Harriers. The Striders' men who were lying in third place in the county cross country league prior this final fixture, managed to overtake Severn and clinch the runner-up spot.
 
 Other fine performances were had by Rich Dare who achieved his highest ever league position to finish 4th, Rich Evershed ran well for 9th, Chris Driskell made the top 20 for the very first time finishing in 18th, Jamie Paterson finished a solid 23rd, and final A team scorer was the fast finishing Joel Freeland in 43rd place.
 
-Meanwhile the Stridersâ€™ women, who were not to be outdone by the men, were first team on the day, which meant they became county league champions for the third consecutive season. The effervescent Laura Kent led the ladies home in an excellent 5th place, Pat Woods having the run of of her life finished next in 9th place, whilst final A team scorer was the fast-improving Alice Johnson who finished just behind woods in 10th place.
+Meanwhile the Striders' women, who were not to be outdone by the men, were first team on the day, which meant they became county league champions for the third consecutive season. The effervescent Laura Kent led the ladies home in an excellent 5th place, Pat Woods having the run of of her life finished next in 9th place, whilst final A team scorer was the fast-improving Alice Johnson who finished just behind woods in 10th place.
 
 There was even more good news for the club, as the masters ladies who included Kent, Johnson and Skeen became overall league champions. On an individual note Laura Kent finished 2nd overall FV 35, and Rich Evershed was 3rd overall senior man in the series.
 

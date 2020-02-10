@@ -16,7 +16,7 @@ tags:
 After a long, cold, snowy winter of cross country and road competition, May has seen a welcome return to the track for CLC athletes.
 
 **Brewer Games  
-** **Prince of Wales Stadium, Cheltenham, Monday May 7<sup>th</sup>**
+** **Prince of Wales Stadium, Cheltenham, Monday May 7th**
 
 On a scorching sunny day, a crop of Striders entered a variety events at the start of the track and field season.
 
@@ -53,12 +53,11 @@ Veterans **Paul Lockyer **and **Gareth Harries **competed over shorter distanc
 
 &nbsp;
 
-** **
 
-** **
 
-** **
 
-** **
 
-** **
+
+
+
+

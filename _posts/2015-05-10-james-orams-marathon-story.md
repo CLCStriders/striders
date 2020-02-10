@@ -33,6 +33,6 @@ Crowds were amazing, as ever at Cutty Sark and Tower Bridge but this time added 
 
 Saw Becka and the kids with a bunch of family coming out of Blackfriars underpass at 24m and felt for the first time as though I could both get home ok and also that 2:45 should be achievable if could just hang in there. Pace had dropped to 6:40, 6:55 for mile 25 and was really not enjoying myself. Found a little bit extra as came round to houses of parliament, picked it back up to 6:30 and with about 400m to go looked at my watch and saw that if I put my foot down a bit I could creep under 2:44. Painful last burst and crossed line in 2:43:43. **PB by 9 mins and over the moon**
 
-Overall I think itâ€™s the race performance Iâ€™m happiest about to date. However, the downside to that is that it really hurts and more than any of previous 5 marathons
+Overall I think it's the race performance I'm happiest about to date. However, the downside to that is that it really hurts and more than any of previous 5 marathons
 
 Amazing event and it is just stunning running through the streets with 38,000 other people and a million people cheering you on (including some amazing CLC Striders support â€“ thank you all, for the shouts on the day and the messages and texts and tweets in the lead up, which all made such a difference). So can thoroughly recommend as an experience if anyone is considering it.

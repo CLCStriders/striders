@@ -26,4 +26,3 @@ In the much anticipated 1,500, **Will Ferguson **finished in a strong 4.14.3 an
 
 **Sarah Richards**, in her first ever track race, finished in 5.25.7, **Helen Knight **clocked 5.31.7 in the W35 category and **Mike Speke **clocked 6.06.1.
 
-** **

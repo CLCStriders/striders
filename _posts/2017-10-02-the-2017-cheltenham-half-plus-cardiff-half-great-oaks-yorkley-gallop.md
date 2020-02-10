@@ -16,7 +16,7 @@ tags:
 ---
 The weather forecast had looked ominous all week as a large group of CLC Striders geared up to run in their hometown half marathon. In the end, the morning dawned overcast but calm, and apart from one shower 20 minutes into the race, the event was dry.
 
-On the day, the standout performance from a CLC athlete came from **Charles Goodwin**, who came first in his Vet 50 category in a time of 1:22:36 and 33<sup>rd</sup> overall. A fantastic achievement.
+On the day, the standout performance from a CLC athlete came from **Charles Goodwin**, who came first in his Vet 50 category in a time of 1:22:36 and 33rd overall. A fantastic achievement.
 
 <img class="alignnone size-full 2957" src="/images/2017/10/Charles-Goodwin-1.jpg" alt="Charles-Goodwin" width="594" height="611" />](/images/2017/10/Charles-Goodwin-1.jpg)
 
@@ -34,4 +34,4 @@ But it wasn’t just the racers. Striders were also volunteering for the event, 
 
 Meanwhile, down in Cardiff, in the second largest half marathon in the UK, Striders **Sophie Longmore** and **Javid Norat** competed, with **Javid** bagging a sub 1:30 PB of 1:29:44 and **Sophie** finishing in a solid 1:35:27.
 
-And over in the Forest of Dean, Striders **Rob Bircher** and **Andrew Paterson**, were racing in the Great Oaks Yorkley Gallop, with **Rob** gaining a great second place in the off road hilly 3.3-mile race and **Andrew,** with his trusty dog Betty, finishing first in his age category and 5<sup>th</sup> overall in the 6.6-mile canicross event.
+And over in the Forest of Dean, Striders **Rob Bircher** and **Andrew Paterson**, were racing in the Great Oaks Yorkley Gallop, with **Rob** gaining a great second place in the off road hilly 3.3-mile race and **Andrew,** with his trusty dog Betty, finishing first in his age category and 5th overall in the 6.6-mile canicross event.

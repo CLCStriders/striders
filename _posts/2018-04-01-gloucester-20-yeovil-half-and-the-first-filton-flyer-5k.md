@@ -21,7 +21,7 @@ In perfect conditions, after so much mixed weather, four CLC Striders’ men lin
 
 Three of the competitors – **Will Pearce, Jon Howes, and Mark Fuller** – were nearing the peak of their London marathon preparations and so the 20-mile distance proved the perfect test for them as one of their last long runs before the big day in London. While long distance specialist, **Gavin Jerman** was competing too, only a few weeks after running the Berkeley 20-mile race in gruelling conditions – glutton for punishment!
 
-The marathon men ran together for the first 10 miles, before beginning to run according to their own plans for the second half of the race, all finishing within a few minutes of each other as follows: Will Pearce in 38<sup>th</sup> place overall and 20<sup>th</sup> SM in 2:14:15, Jon Howes in 43<sup>rd </sup>place overall as 10<sup>th</sup> MV40 in 2:15:42, and Mark Fuller in 54<sup>th</sup> place overall and 27<sup>th</sup> SM in 2:18:28. Gavin Jerman came home within a whisper of his 20-mile PB finishing in 119<sup>th</sup> place overall as MV50 9<sup>th</sup> in 2:35:23.
+The marathon men ran together for the first 10 miles, before beginning to run according to their own plans for the second half of the race, all finishing within a few minutes of each other as follows: Will Pearce in 38th place overall and 20th SM in 2:14:15, Jon Howes in 43rd place overall as 10th MV40 in 2:15:42, and Mark Fuller in 54th place overall and 27th SM in 2:18:28. Gavin Jerman came home within a whisper of his 20-mile PB finishing in 119th place overall as MV50 9th in 2:35:23.
 
 <img src="/images/2018/04/three-in-glos-20-25.3.18.jpg" alt="three-in glos-20-25.3.18" width="800" height="533" >Three in a row. From left to right: Mark Fuller, Jon Howes, Will Pearce_ 
 
@@ -52,6 +52,6 @@ Race HQ was at a nearby Fitness Centre, with changing facilities, lockers, toile
 
 The start was at 7.30pm and as the large field set off, it was clear that the numbers of faster runners would help pull everyone along to fast times.
 
-Continuing his recent rich vein of improved form, Clark Lawson crossed the finish line in 31st place in his first ever sub-19 minute 5k (a new PB) in a time of 18:47. While Striders’ Men’s Captain Joel Freeland, fresh from an impressive display in snowy conditions in the spring Midland Road Relays, wasn’t far behind in a confidence-boosting 36<sup>th</sup> position and a time of 19:16 – his fastest 5k road time since 2011.
+Continuing his recent rich vein of improved form, Clark Lawson crossed the finish line in 31st place in his first ever sub-19 minute 5k (a new PB) in a time of 18:47. While Striders’ Men’s Captain Joel Freeland, fresh from an impressive display in snowy conditions in the spring Midland Road Relays, wasn’t far behind in a confidence-boosting 36th position and a time of 19:16 – his fastest 5k road time since 2011.
 
-Both Clark and Joel enjoyed the event and hope to see more Striders make the short journey to Bristol for the next in the new series of Filton Flyer 5ks (on Tuesday 24th April).** **
+Both Clark and Joel enjoyed the event and hope to see more Striders make the short journey to Bristol for the next in the new series of Filton Flyer 5ks (on Tuesday 24th April).

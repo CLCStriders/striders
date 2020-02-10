@@ -15,9 +15,9 @@ categories:
 ---
 **Cheltenham Parkrun, Brewer Memorial Games, Milton Keynes Marathon and Pembrokeshire Canicross Trail Marathon**
 
-** **
 
-On the morning of a record turnout for Cheltenham Parkrun on Saturday 29 April, Striders Jon Howes and Paul Northup finished in 10<sup>th</sup> and 11<sup>th</sup> place respectively. Northup ran a Parkrun PB of 18:46, finishing just behind a strong Howes, while the fast-improving Alex Munro came home in a sub-20-minute time of 19:23.
+
+On the morning of a record turnout for Cheltenham Parkrun on Saturday 29 April, Striders Jon Howes and Paul Northup finished in 10th and 11th place respectively. Northup ran a Parkrun PB of 18:46, finishing just behind a strong Howes, while the fast-improving Alex Munro came home in a sub-20-minute time of 19:23.
 
 &nbsp;
 

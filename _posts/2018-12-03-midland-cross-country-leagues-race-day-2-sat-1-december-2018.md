@@ -20,15 +20,15 @@ In the men’s race in Division 2, the club registered one of its best performan
 
 <img src="/images/2018/12/men-stratford-1-12-18-e1543832042829.jpg" alt="men-stratford-1-12-18"/>](/images/2018/12/men-stratford-1-12-18-e1543832042829.jpg)
 
-Once again **Will Ferguson** turned in a stellar performance, finishing 2<sup>nd </sup>overall in an astonishing time of 36:32. He was followed home by the constantly improving **Tom Kabala** in 21<sup>st </sup>and a time of 39:26. **Iain Porter** was 32<sup>nd </sup>in 40:23 and **Sam Baylis** was 49<sup>th </sup>41:17. **Louise Fievet** bagged 71<sup>st </sup>place in a time of 42:41 and **Max Baylis** was 83<sup>rd </sup>in 43:14.
+Once again **Will Ferguson** turned in a stellar performance, finishing 2nd overall in an astonishing time of 36:32. He was followed home by the constantly improving **Tom Kabala** in 21st and a time of 39:26. **Iain Porter** was 32nd in 40:23 and **Sam Baylis** was 49th 41:17. **Louise Fievet** bagged 71st place in a time of 42:41 and **Max Baylis** was 83rd in 43:14.
 
-**Will Pearce** and **Paul Lockyer** finished just outside the top 100 in 104<sup>th </sup>and 116<sup>th </sup>respectively, while **Joel Freeland** was 155<sup>th </sup>and supervet **David James** registered a superb top 200 finish in191<sup>st</sup>. The other CLC finishers were **Hedley Phillips** in 194<sup>th</sup>, **Bradley Coates** in 213<sup>th</sup>and **Chris Thomas** in 222<sup>nd</sup>.
+**Will Pearce** and **Paul Lockyer** finished just outside the top 100 in 104th and 116th respectively, while **Joel Freeland** was 155th and supervet **David James** registered a superb top 200 finish in191st. The other CLC finishers were **Hedley Phillips** in 194th, **Bradley Coates** in 213thand **Chris Thomas** in 222nd.
 
-Overall, the CLC men’s A-team finished in 7<sup>th </sup>place on the day, an incredible leap from their 11<sup>th </sup>placing on Race Day 1. After two races, the men lie 10<sup>th </sup>in their division, with Tom Kabala in a superb 22<sup>nd </sup>overall.
+Overall, the CLC men’s A-team finished in 7th place on the day, an incredible leap from their 11th placing on Race Day 1. After two races, the men lie 10th in their division, with Tom Kabala in a superb 22nd overall.
 
-The ladies, meanwhile, made their second outing in their incredibly competitive Division 1, with **Helen Knight** once again leading them home with a 51<sup>st </sup>place finish in a time of 31:06. Just 6 seconds behind her, **Karlien Heyrman** was 53<sup>rd </sup>in 31:12. Most improved performance of the day for the ladies came from **Rachel Vines**, who finished in 79<sup>th </sup>place in a time of 33:14. Fourth scorer on the day was vet **Amanda Steer** was in 88<sup>th </sup>place and a time of 33:44. **Sophie Longmore** was 111<sup>th </sup>and **Nicola Weager** was 147<sup>th</sup>.
+The ladies, meanwhile, made their second outing in their incredibly competitive Division 1, with **Helen Knight** once again leading them home with a 51st place finish in a time of 31:06. Just 6 seconds behind her, **Karlien Heyrman** was 53rd in 31:12. Most improved performance of the day for the ladies came from **Rachel Vines**, who finished in 79th place in a time of 33:14. Fourth scorer on the day was vet **Amanda Steer** was in 88th place and a time of 33:44. **Sophie Longmore** was 111th and **Nicola Weager** was 147th.
 
-The ladies finished 13<sup>th </sup>on the day and stay 13<sup>th </sup>overall in the Division after two races.
+The ladies finished 13th on the day and stay 13th overall in the Division after two races.
 
 <img src="/images/2018/12/LAdies-1-dec-2018.jpg" alt="LAdies-1-dec-2018" width="800" height="533" />](/images/2018/12/LAdies-1-dec-2018.jpg)
 

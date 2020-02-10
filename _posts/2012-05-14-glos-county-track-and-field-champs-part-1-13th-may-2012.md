@@ -2,7 +2,7 @@
 
 title: 'Glos County Track and Field Champs Part 1 - 13th May 2012'
 date: 2012-05-14T21:08:49+01:00
-excerpt: '<p>Sunday 13<sup>th</sup>May was the county track and field championships at the Prince of Wales stadium. The sun brought out the Striders, leading to Personal Bests, Club records and county medals galore.</p>'
+excerpt: '<p>Sunday 13thMay was the county track and field championships at the Prince of Wales stadium. The sun brought out the Striders, leading to Personal Bests, Club records and county medals galore.</p>'
 layout: post
 permalink: /2012/05/glos-county-track-and-field-champs-part-1-13th-may-2012/
 ---

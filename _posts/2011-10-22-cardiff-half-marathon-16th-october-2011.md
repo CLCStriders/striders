@@ -14,6 +14,6 @@ With 15,000 runners plus spectators crammed into a street far too narrow to acco
 
 Stuck in a pack of slower paced-runners, all Jo could do was to weave through the slower paced runners on her way to a very steady first mile! However, a few miles in she found herself ticking along at a decent pace and felt so comfortable that she was able to pick it up in the last two miles and finish strong, feeling like there was much more to come. 
 
-Joâ€™s time was 01:39.04 which given the less than ideal situation at the start was very pleasing.
+Jo's time was 01:39.04 which given the less than ideal situation at the start was very pleasing.
 
 Nikki had an impressive race too â€“ in spite of the chaos at the start, she managed a chip time of 01:38:06 which was within two second of her PB and put her in the top ten for her age group.

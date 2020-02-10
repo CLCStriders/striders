@@ -88,4 +88,4 @@ Teams (18 finished)
 
 16 - CLC B = 791 points</p> 
 
-Full results will be on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAAâ€™s website</a>when available
+Full results will be on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAA's website</a>when available

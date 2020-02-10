@@ -6,7 +6,7 @@ excerpt: '<p>Nicholas Von Benzon runs the 5 mile race at The White Horse.</p>'
 layout: post
 permalink: /2011/09/white-horse-autumn-5-mile-road-race-10th-september-2011/
 ---
-The biggest challenge for those hoping to compete in Severn Athletics Clubâ€™s 17th Annual Gloucester Autumn 5 Mile road race was the traffic congestion created by the crowds leaving Gloucester Rugby Club in the hour before the start. Only thirteen competitors made it through the crowds and torrential rain to the White Horse at Sandhurst. Nicholas von Benzon represented CLC and finished 10<sup>th</sup>in a time of 36 minutes 3secs, to receive his first ever prize in a running race (actually every finisher got one!).
+The biggest challenge for those hoping to compete in Severn Athletics Club's 17th Annual Gloucester Autumn 5 Mile road race was the traffic congestion created by the crowds leaving Gloucester Rugby Club in the hour before the start. Only thirteen competitors made it through the crowds and torrential rain to the White Horse at Sandhurst. Nicholas von Benzon represented CLC and finished 10thin a time of 36 minutes 3secs, to receive his first ever prize in a running race (actually every finisher got one!).
 
 
 

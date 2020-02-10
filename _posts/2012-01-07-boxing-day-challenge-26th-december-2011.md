@@ -6,7 +6,7 @@ excerpt: '<p>Several Striders ran in the Boxing Day Challenge</p>'
 layout: post
 permalink: /2012/01/boxing-day-challenge-26th-december-2011/
 ---
-In the Boxing Day Challenge, Jo Wilkie was 2<sup>nd</sup>lady in the 4m in a time of 26:50 and given some of it was on grass or even wood chippings, plus it was pretty windy, Jo was more than happy with that. 
+In the Boxing Day Challenge, Jo Wilkie was 2ndlady in the 4m in a time of 26:50 and given some of it was on grass or even wood chippings, plus it was pretty windy, Jo was more than happy with that. 
 
 Also running in the race for Striders were Billy Bradshaw, Dave Billingham, and Derek Tebbs.
 

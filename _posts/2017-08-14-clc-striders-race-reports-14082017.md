@@ -24,7 +24,7 @@ However large periods of the &#8216;undulating' course (a hilly 20th mile is nev
 
 Four years on from her last marathon, Sophie finished 5th lady, 2nd in her category and 66th overall in a PB time of 3 hours, 18 minutes and 30 seconds, so all in all very much worth the trip!
 
-Finally on Sunday in the Standish Woodland Chase, Alex Monro again led the club home in 11<sup>th</sup> place in a time of 1:09:13; Helen Knight was 34<sup>th</sup> in a time of 1:18:14, and Hannah Monro was 98<sup>th</sup> in 1:34:04.
+Finally on Sunday in the Standish Woodland Chase, Alex Monro again led the club home in 11th place in a time of 1:09:13; Helen Knight was 34th in a time of 1:18:14, and Hannah Monro was 98th in 1:34:04.
 
 
 <img src="/images/2017/08/IMG-20170812-WA0002-225x300.jpg" alt="IMG-20170812-WA0002" />

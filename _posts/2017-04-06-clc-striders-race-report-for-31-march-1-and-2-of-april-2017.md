@@ -15,7 +15,7 @@ categories:
 
 **  From the West Bank to the West Midlands: CLC Striders were everywhere last weekend**
 
-** **On Friday 31 March, CLC Strider Paul Northup ran in the fifth Palestine Marathon held in Bethlehem in the West Bank. Running the half marathon distance, he finished 14th in a large field of local Palestinian and international runners, clocking a modest one and half hours on the incredibly tough, hilly and hot course.
+On Friday 31 March, CLC Strider Paul Northup ran in the fifth Palestine Marathon held in Bethlehem in the West Bank. Running the half marathon distance, he finished 14th in a large field of local Palestinian and international runners, clocking a modest one and half hours on the incredibly tough, hilly and hot course.
 
 Meanwhile, closer to home, in the Cheltenham Parkrun on Saturday 1 April, Strider Iain Porter finished in first place with a time of 17:56, just two seconds outside his course best. And elsewhere, Gareth Davies ran as a “tourist” in the Parkrun at Highbury in London, clocking a sharp 19.38 and finishing 20th.
 

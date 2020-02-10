@@ -10,7 +10,7 @@ categories:
 
 Luckily the motorway was closed, giving the runners fantastic views across the Severn estuary. The route took runners from the Welsh side of the bridge into England towards Thornbury going through villages and up a hill before heading back to Wales.
 
-Our â€œFantastic 5â€ wasnâ€™t fazed by the course and returned to Wales with some fantastic resultsâ€¦
+Our â€œFantastic 5â€ wasn't fazed by the course and returned to Wales with some fantastic resultsâ€¦
 
 **Mark Langham**recorded a new personal best at the Half Marathon distance, finishing 8th overall in a time of 1:19:29.
 

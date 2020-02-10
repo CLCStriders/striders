@@ -22,9 +22,9 @@ On a cold but calm early Sunday morning a clutch of CLC Striders lined up for th
 
 _Tom Kabala in a sprint finish_ 
 
-Stand-out individual performance on the day came from the ever-improving **Tom Kabala**, who transferred his electric form across the country to the roads with a PB time of 28:16 and 7<sup>th </sup>place overall. Tom was followed home by **Will Pearce** in a very strong sub-30-minute PB time of 29:29 and **Clark Lawson** in a massive PB for him of 30:13.
+Stand-out individual performance on the day came from the ever-improving **Tom Kabala**, who transferred his electric form across the country to the roads with a PB time of 28:16 and 7th place overall. Tom was followed home by **Will Pearce** in a very strong sub-30-minute PB time of 29:29 and **Clark Lawson** in a massive PB for him of 30:13.
 
-But if it was the individual men who came home first, once again it was the Striders ladies who ran the best team race overall – bagging first ladies team place in the process. First home was **Rachael Cary** in a very swift 31:27 and she was followed home in a PB time of 32:05 by **Helen Knight** and **Karlien Heyrman** in a solid 32:13. **Rachael** was the 4<sup>th </sup>lady finisher overall and 2<sup>nd </sup>in her category, while **Helen** was 7<sup>th </sup>lady overall and **Karlien** 9<sup>th</sup>. With three finishers in the top 10 of the ladies race, CLC ran away with the ladies team competition.
+But if it was the individual men who came home first, once again it was the Striders ladies who ran the best team race overall – bagging first ladies team place in the process. First home was **Rachael Cary** in a very swift 31:27 and she was followed home in a PB time of 32:05 by **Helen Knight** and **Karlien Heyrman** in a solid 32:13. **Rachael** was the 4th lady finisher overall and 2nd in her category, while **Helen** was 7th lady overall and **Karlien** 9th. With three finishers in the top 10 of the ladies race, CLC ran away with the ladies team competition.
 
 <img src="/images/2019/01/Rachael-Linda-Franks-2019.jpg" alt="Rachael Cary finishing strongly"/>
 
