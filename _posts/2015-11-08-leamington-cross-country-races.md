@@ -9,7 +9,7 @@ permalink: /2015/11/leamington-cross-country-races/
 categories:
   - Cross Country Reports
 ---
-Both the mens and ladies teams headed to Leamington for the first race in the Midland and Birmingham Cross Country League.<!--more-->
+Both the mens and ladies teams headed to Leamington for the first race in the Midland and Birmingham Cross Country League.
 
 Katie Trustlove pictured below, led CLC Striders ladies home in the first Midland cross country fixture of the season held on a mud sodden Leamington course. Trustove finished in an excellent 74h place, and was followed home by veteran Amanda Steer who finished in a respectable 105th place. Final A team scorer was Zoe Gough who was making her league debut. Gough finished in a solid 110th place.
 
@@ -21,4 +21,4 @@ CLC mens A Team finished 8th out of 17 Teams, and hope to improve on this positi
 
 CLC mens B Team was led home by Paul Lockyer in 142nd place, next was Paul Smith in 161st place, Rob Bircher was 177th, Dan Farrelly was 190th, Veteran David James 204th, and Final B Team scorer was Martin Bick in 209th place. CLC mens B Team finished in 9th place.
 
-&nbsp;[![](/images/2015/11/IMG_4318.jpg)](/images/2015/11/IMG_4318.jpg)&nbsp;
+[![Leamington](/images/2015/11/IMG_4318.jpg)](/images/2015/11/IMG_4318.jpg)
