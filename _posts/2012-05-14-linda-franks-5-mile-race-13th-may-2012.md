@@ -1,12 +1,11 @@
 ---
-
-title: 'Linda Franks 5 Mile Race - 13th May 2012'
-date: 2012-05-14T21:06:29+01:00
-excerpt: '<p>There was another victory for John Parker at Sunday's rearranged Linda Franks 5 Mile race.</p>'
+title: Linda Franks 5 Mile Race - 13th May 2012
 layout: post
 permalink: /2012/05/linda-franks-5-mile-race-13th-may-2012/
----
-</p> 
+
+--- 
+
+There was another victory for John Parker at Sunday's rearranged Linda Franks 5 Mile race.
 
 Having won the Aviator 4 only a week ago, Parker once again led from the start and maintained a quick pace to open up a gap of almost 2 minutes over nearest rival James Rose of Severn AC and finish in a time of 26:21.
 
