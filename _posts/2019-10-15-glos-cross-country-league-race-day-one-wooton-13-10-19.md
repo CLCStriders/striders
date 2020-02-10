@@ -15,7 +15,7 @@ Fiona Brady- Miller made a strong cross country debut for the club in 79th place
 
 Thanks to strong performances across the board, the CLC ladies vets achieved first place in the team standings on the day, getting their cross-country season off to the best possible of starts.
 
-<img src="/Images/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" /> 
+<img src="/images/2019/10/Ladies-13.10.19-Wooton-e1571124102233.jpg" alt="" /> 
 
 _CLC Ladies at Wooton, from left to right: Amelia Mullins, Karlien Heyrman, Liza Bradshaw, Amanda Steer, Helen Knight, Zoe Gough, Fiona Brady-Miller, Emma Abbey, Rachel Vines_ 
 

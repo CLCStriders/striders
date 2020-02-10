@@ -15,7 +15,7 @@ tags:
 ---
 On a bright and cold February morning the annual Bourton 10k once again drew a strong field of athletes to compete over the iconic distance on the country roads in and around the picture-perfect Cotswold village of Bourton on the Water. And for the second time in recent years, CLC Strider speed merchant **Will Ferguson** emerged as the victor – this time in 32:17.8, his fastest time over the Bourton course. 2018 has seen Ferguson run a PB 10k in Telford of just outside 32 minutes, win his own club’s Staverton 10-mile race and now bag top honours in Bourton. With his family and baby daughter all watching on, flying Ferguson did the club proud once again.
 
-<img src="/Images/2018/02/Will-Ferguson-Bourton-10k-2018-Barry-Cornelius-1024x680.jpg"  height="531" alt="Will-Ferguson-Bourton-10k-2018-Barry Cornelius" width="800" />](/Images/2018/02/Will-Ferguson-Bourton-10k-2018-Barry-Cornelius.jpg)
+<img src="/images/2018/02/Will-Ferguson-Bourton-10k-2018-Barry-Cornelius-1024x680.jpg"  height="531" alt="Will-Ferguson-Bourton-10k-2018-Barry Cornelius" width="800" />](/images/2018/02/Will-Ferguson-Bourton-10k-2018-Barry-Cornelius.jpg)
 
 <p style="text-align: right">
   <em>Will Ferguson, striding to victory.</em>

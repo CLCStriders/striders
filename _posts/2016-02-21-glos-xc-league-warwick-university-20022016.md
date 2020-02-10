@@ -28,7 +28,7 @@ The Men’s A team finished the league in 3<sup>rd</sup> place and individual le
 
 &nbsp;
 
-<img src="/Images/2016/02/image28-300x225.jpeg" alt="image"  />](/Images/2016/02/image.jpeg)
+<img src="/images/2016/02/image28-300x225.jpeg" alt="image"  />](/images/2016/02/image.jpeg)
 
 &nbsp;
 

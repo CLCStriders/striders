@@ -21,4 +21,4 @@ On day two of the county track champs MV40 Paul Lockyer won Gold in the 800m (2.
 
 Will Ferguson ran strongly to win Gold in the men's 1500m ( 4.17.1); following Ferguson  MV40 James Oram stormed to an excellent 4.24.4 to take Gold. Sam Bayliss followed in a brisk 4.30.0; Joel Freeland ran a fine race to record 4.51.3, Tom Vickers had the run of his life and followed Freeland in 4.52.2, Andrew Gage put  in a sterling performance stopping the clock at 6.03.3.
 
-<img src="/Images/2016/05/IMG_2819-300x225.jpg" alt="IMG_2819"  />](/Images/2016/05/IMG_0668.jpg)
+<img src="/images/2016/05/IMG_2819-300x225.jpg" alt="IMG_2819"  />](/images/2016/05/IMG_0668.jpg)

@@ -39,5 +39,5 @@ CLC results
 53 David James
 
 
-<img alt="" src="/Images/2016/01/img_4575.jpeg" title="" class="size-custom" />
+<img alt="" src="/images/2016/01/img_4575.jpeg" title="" class="size-custom" />
 

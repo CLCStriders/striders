@@ -7,7 +7,7 @@ categories:
   - Training
 ---
 
-  <img src="/Images/2018/04/IMG_5749-e1523130403974-1024x768.jpg" alt="IMG_5749" />
+  <img src="/images/2018/04/IMG_5749-e1523130403974-1024x768.jpg" alt="IMG_5749" />
 
 
 Following a successful trial period, Friday evening track speed sessions at the Prince of Wales Stadium are now a fixed club session.

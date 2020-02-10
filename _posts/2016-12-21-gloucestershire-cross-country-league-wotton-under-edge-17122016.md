@@ -21,6 +21,6 @@ Andy Brookes led the striders B team home  in 102nd; Clark Lawson was 130th; Ga
 
 CLC  Striders Men finished 9th team on the day, CLC men's masters finished in 10th place.
 
-<img src="/Images/2016/12/IMG_1528-300x169.jpg" alt="img_1528" width="300" height="169" />](/Images/2016/12/IMG_1528.jpg)
+<img src="/images/2016/12/IMG_1528-300x169.jpg" alt="img_1528" width="300" height="169" />](/images/2016/12/IMG_1528.jpg)
 
-<img src="/Images/2016/12/15541412_1575092879173558_7492065801148147543_n-300x169.jpg" alt="15541412_1575092879173558_7492065801148147543_n" width="300" height="169" />](/Images/2016/12/15541412_1575092879173558_7492065801148147543_n.jpg)
+<img src="/images/2016/12/15541412_1575092879173558_7492065801148147543_n-300x169.jpg" alt="15541412_1575092879173558_7492065801148147543_n" width="300" height="169" />](/images/2016/12/15541412_1575092879173558_7492065801148147543_n.jpg)

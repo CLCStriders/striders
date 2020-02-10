@@ -15,7 +15,7 @@ Sunday, September 1st**
 
 Four Striders travlled south to race the annual 10-mile road race around Oldbury to mark the start of meteorological autumn. **Helen Knight** led he club home as the 3rd LV40 finisher in a new club record time of 1:09:12. Meanwhile, **Amanda Steer** finished 1st in her V45 category in 1:12:32, **Gary Smith** ran a solid 1:13:23 and **Mike Crossely** came home in 1:23:36.
 
-<img src="/Images/2019/09/Oldbury-10.jpg" alt="" width="800" height="540" />__From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley__ 
+<img src="/images/2019/09/Oldbury-10.jpg" alt="" width="800" height="540" />__From left &nbsp;to right: Helen Knight, Amanda Steer, Gary Smith. Mike Crossley__ 
 
 **Cotswold Trail Half  
 Sunday September 1st**
@@ -27,7 +27,7 @@ Saturday August 31st**
 
 The annual Meteor Mile was run on the runway at Staverton airport under a setting sun on a fine and dry end-of-August evening. Fast and flat, five Striders clocked good times on the night. **Amelia Mullins** was the first club finisher in a fast 6:15, **Mike Speke** ran a PB of 6:18, **Andrew Gage** clocked 6:25, **Nicola Weager** finished in 6:32, and **David James** set a new club MV65 record in 6:44. 
 
-<img src="/Images/2019/09/Meteor-Mile-1.jpg" alt="From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James"/>
+<img src="/images/2019/09/Meteor-Mile-1.jpg" alt="From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James"/>
 
 _From left to right: Andrew Gage, Nicola Weager, Amelia Mullins, Mike Speke, David James_
 

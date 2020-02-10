@@ -14,11 +14,11 @@ tags:
 ---
 On a still and overcast end-of-September morning a crop of CLC Striders lined up among the many hundreds of people aiming to complete the **Cheltenham Half Marathon**. It was to prove a day of PBs for club runners.
 
-<img src="/Images/2018/10/Tom-Kabala.jpg" alt="Tom-Kabala" width="800" height="514" />](/Images/2018/10/Tom-Kabala.jpg)
+<img src="/images/2018/10/Tom-Kabala.jpg" alt="Tom-Kabala" width="800" height="514" />](/images/2018/10/Tom-Kabala.jpg)
 
 Leading the club home in 27<sup>th </sup>place was **Tom Kabala** (pictured)** **in a fantastic PB time of 1:20:29. He was followed by **Will Pearce **in 34<sup>th </sup>place and well-deserved PB time of 1:21:21. Club newbie **Dan Bazzard **came home in 46<sup>th </sup>place in a PB of 1:22:38 and tough-man **Tom Fletcher **clocked 1:25:14 in 63<sup>rd </sup>place. Tom was followed home by V55 first place finisher **Andy Brookes **in a new PB and club record time of 1:26:58 – a fantastic achievement. **Alex Monro **also broke the 1:30 barrier coming home in 118<sup>th </sup>place in a time of 1:29:24.
 
-<img class="alignnone size-full 3241" src="/Images/2018/10/Helen-Knight.jpg" alt="Helen-Knight" width="652" height="960" />](/Images/2018/10/Helen-Knight.jpg)
+<img class="alignnone size-full 3241" src="/images/2018/10/Helen-Knight.jpg" alt="Helen-Knight" width="652" height="960" />](/images/2018/10/Helen-Knight.jpg)
 
 First lady home for the club was the ever-reliable **Helen Knight** (pictured)** **who was only just outside 1:30 in a PB time of 1:30:04 as 4<sup>th </sup>in her FV35 category and 9<sup>th </sup>lady overall. **JJ Willson **clocked a solid 1:31:21 as 4<sup>th </sup>finisher in his MV55 category, while the fast-improving **Ben Akif **registered another Half Marathon PB of 1:32:10. **Tom Vickers **finished in 1:32:41 and **Eoin Mcquone**, running his first ever half in his first season with Striders, ran a brilliantly paced 1:33:02. **Paul Northup**, returning from injury, ran a solid 1:33:36, encouraged all the way around by club stalwart **Chris Hale**, who finished alongside him in 1:33:37. **Ed Collier **finished as 3<sup>rd </sup>MV60 in a time of 1:34:45 and **Gavin Jerman **ran a great PB of 1:35:52 to finish 8<sup>th </sup>in the MV55 category, with **Roger Stenner **9<sup>th </sup>in the same category, also in a time of 1:35:52.
 
@@ -32,4 +32,4 @@ First lady home for the club was the ever-reliable **Helen Knight** (pictured)**
 
 Meanwhile, over in the Forest of Dean Half, **Amelia Mullins **(pictured)** **clocked a great time of 1:43:57 on the challenging course as 19<sup>th </sup>lady overall and 2<sup>nd </sup>LV45. Also competing were **Laura Fletcher **who finished in 1:52:03 and **Jill Hooper **in 2:13:14.
 
-<img class="alignnone size-full 3239" src="/Images/2018/10/Amelia-Mullins-FOD-Half.jpg" alt="Amelia-Mullins-FOD-Half" width="541" height="960" />](/Images/2018/10/Amelia-Mullins-FOD-Half.jpg)
+<img class="alignnone size-full 3239" src="/images/2018/10/Amelia-Mullins-FOD-Half.jpg" alt="Amelia-Mullins-FOD-Half" width="541" height="960" />](/images/2018/10/Amelia-Mullins-FOD-Half.jpg)

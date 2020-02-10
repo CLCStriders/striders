@@ -14,7 +14,7 @@ Once again hosted by Spa Striders, the second fixture of the Midland League Cros
 
 In their incredibly strong Division One, the ladies achieved 3 top-50 placings on the day and 13<sup>th</sup> place in the team competition overall. **Liza Barry** was first home in 31<sup>st</sup> place and a time of 29:29. Liza was followed home by the dynamic duo of **Karlien Heyrman** and **Helen Knight**, this time only a second apart in 43<sup>rd</sup> and 44<sup>th</sup> place and 30:26 and 30:27 respectively. Fourth home for the team scorers was evergreen **Amelia Mullins** in 81<sup>st</sup>place and a time of 32:35. **Fiona Brady-Miller** finished in 90<sup>th</sup> place and **Rachel Vines** in 102<sup>nd</sup>.
 
-<img src="/Images/2019/12/Ladies-Clopton-7.12.19-1024x768.jpg" alt="_CLC Striders’ Ladies team, from left to right: Fiona Brady-Miller, Ameiia Mullins, Helen Knight, Liza Barry, Karlien Heyrman, Rachel Vines_"/> 
+<img src="/images/2019/12/Ladies-Clopton-7.12.19-1024x768.jpg" alt="_CLC Striders’ Ladies team, from left to right: Fiona Brady-Miller, Ameiia Mullins, Helen Knight, Liza Barry, Karlien Heyrman, Rachel Vines_"/> 
 
 _CLC Striders’ Ladies team, from left to right: Fiona Brady-Miller, Ameiia Mullins, Helen Knight, Liza Barry, Karlien Heyrman, Rachel Vines_
 
@@ -24,6 +24,6 @@ Meanwhile, in Division Two, the men once again registered all their A-team finis
 
 The B-team finishers were **Will Pearce** in 116<sup>th</sup>, **Eoin McQuone** in 143<sup>rd</sup>, **Richard Symonds** in 160<sup>th</sup>, **Javid Norat** in 172<sup>nd</sup>, **Nick Ledwold** in 179<sup>th</sup> and **Tim Brock** in 197<sup>th</sup>. The remaining men completing the grueling course were **Andrew Gage, Bradley Coates** and **Joel Freeland**.
 
-<img src="/Images/2019/12/Men-Clopton-7.12.19-1024x768.jpg" alt="_CLC Striders’ Men’s team from left to right, back row: Bradley Daniel Bazzard, Javid Norat, Richard Symonds, Iain Porter, Eoin McQuone, Tim Brock, Joel Freeland, Andrew Gage; front row, Louis Fivet, Tom Kabala, Will Pearce, Will Ferguson_"/>
+<img src="/images/2019/12/Men-Clopton-7.12.19-1024x768.jpg" alt="_CLC Striders’ Men’s team from left to right, back row: Bradley Daniel Bazzard, Javid Norat, Richard Symonds, Iain Porter, Eoin McQuone, Tim Brock, Joel Freeland, Andrew Gage; front row, Louis Fivet, Tom Kabala, Will Pearce, Will Ferguson_"/>
 
 _CLC Striders’ Men’s team from left to right, back row: Bradley Daniel Bazzard, Javid Norat, Richard Symonds, Iain Porter, Eoin McQuone, Tim Brock, Joel Freeland, Andrew Gage; front row, Louis Fivet, Tom Kabala, Will Pearce, Will Ferguson_

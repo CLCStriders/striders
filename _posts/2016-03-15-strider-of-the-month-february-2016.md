@@ -10,7 +10,7 @@ categories:
 
 ---
 <div style="float:right; padding: 20px 20px 20px 20px">
-  <img class="alignright 2055" src="/Images/2016/03/JamesOram1-e1458074182855-225x300.jpg" alt="JamesOram" width="225" height="300" />
+  <img class="alignright 2055" src="/images/2016/03/JamesOram1-e1458074182855-225x300.jpg" alt="JamesOram" width="225" height="300" />
 </div>
 
 Congratulations to James Oram who has been awarded the &#8216;Strider of the Month' for February 2016.

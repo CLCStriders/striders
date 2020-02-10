@@ -15,7 +15,7 @@ In order to allow people to plan ahead, minimize disruption and ensure the event
 
 The race is a 2-lap 10 mile road race which has been organized with advice from the Police and Gloucestershire Highways.&nbsp; It starts from Gloucestershire Airport and passes through Churchdown before returning to Gloucestershire Airport via Brookfield Lane and Chosen Home Farm.
 
-A map of the route can be found [<u>here</u>](/Images/2015/11/Plan-1-Route-Map.pdf).
+A map of the route can be found [<u>here</u>](/images/2015/11/Plan-1-Route-Map.pdf).
 
 The planned start time for the race is 09:00 am and we anticipate that the first runners will finish&nbsp;by 10:00 &nbsp;am and that the last runners will finish it at 11:00.&nbsp; There are around 200 entrants, and we have not applied for road closures; however, for safety reasons and to minimize disruption, we wanted to let people know that there will be runners on the road.
 

@@ -20,7 +20,7 @@ Despite not being part of this year’s county road race series, CLC’s annual 
 
 Using the Aviator Inn at Staverton Airport as its base, the race is a two-lap event out and back around Churchdown from the airport. CLC’s star runner Will Ferguson was not able to run due to illness, and the race was won on the day by Gloucester AC’s **Steve Kenyon** in a time of 56:14. He was followed home by **Ryan Bennett** of the Badgers running club in 56:54 and **Robert Farley** of Bitton Road Runners in 56:56.
 
-<img src="/Images/2019/01/Steve-Kenyon-Staverton-10-2019.jpg" alt="Steve-Kenyon-Staverton-10-2019"/>
+<img src="/images/2019/01/Steve-Kenyon-Staverton-10-2019.jpg" alt="Steve-Kenyon-Staverton-10-2019"/>
 
 _Gloucester AC's Steve Kenyon comes home first_ 
 

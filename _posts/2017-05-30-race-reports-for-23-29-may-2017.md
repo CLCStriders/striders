@@ -27,6 +27,6 @@ On the same day, up in the north-west, family members **Janet Mustoe** and **Kyl
 
 Closer to home, in Newbury, **Dan Harte** enjoyed a multi-terrain 10k, finishing in a time of 51.00. And **Edward Collier** completed the hot and hilly Dymock Half Marathon.
 
-<img src="/Images/2017/05/London-Vitality-10k-300x169.jpg" alt="London Vitality 10k" width="300" height="169" />](/Images/2017/05/London-Vitality-10k.jpg)
+<img src="/images/2017/05/London-Vitality-10k-300x169.jpg" alt="London Vitality 10k" width="300" height="169" />](/images/2017/05/London-Vitality-10k.jpg)
 
 And finally, up in the Capital, nine Striders competed in the Vitality 10,000 event around the iconic London city streets on Monday 29 May. In hot and humid conditions, **Will Pearce** led the team home in a super-quick time of 37:28. **Rich Shardlow** was next in a great time of 39:02. Vet **Andy Brookes** clocked a very solid 40:50. **Liza Barry** was first Strider lady home in 41:13. **Andrew Gage** finished in 46:24. After some touch racing recently, **Chris Driskell** and **Rachel Vines** jogged round together, both finishing in 49:02. **Chris Thomas** registered 50:50 and **Charlie Haward** 52 minutes exactly.

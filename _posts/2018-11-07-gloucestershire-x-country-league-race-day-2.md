@@ -18,7 +18,7 @@ tags:
 
 On the second race day of the Gloucestershire Cross Country League, the CLC Ladies team did the club proud.
 
-<img src="/Images/2018/11/Ladies-3.11.18.jpg" alt="Ladies-3.11.18"/>](/Images/2018/11/Ladies-3.11.18.jpg)
+<img src="/images/2018/11/Ladies-3.11.18.jpg" alt="Ladies-3.11.18"/>](/images/2018/11/Ladies-3.11.18.jpg)
 
 First home, in 23<sup>rd </sup>place overall and as 3<sup>rd </sup>LV35 was **Helen Knight **in a time of 28:39, with **Sarah Richards **not far behind in 27<sup>th </sup>position and a time of 29:07 and **Karlien Heyrman **in 30<sup>th </sup>in a time of 29:17.
 

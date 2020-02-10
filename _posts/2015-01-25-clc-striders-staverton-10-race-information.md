@@ -52,7 +52,7 @@ The race is a 2 lap course which heads out of the airport, and into Churchdown v
 
 **ROUTE:**
 
-[Plan 1 Route Map](/Images/2015/11/Plan-1-Route-Map.pdf)
+[Plan 1 Route Map](/images/2015/11/Plan-1-Route-Map.pdf)
 
 This will be clearly marshalled. Please note that road closures have not been applied for so keep well to the left at all times. Please note that on the farmland section, good concentration is required due to uneven terrain. Also, there are likely to be cattle on the fields.
 

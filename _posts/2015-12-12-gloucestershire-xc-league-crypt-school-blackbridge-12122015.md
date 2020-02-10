@@ -26,6 +26,6 @@ The men's race followed the same course but included an additional long lap.  A
 
 &nbsp;
 
-[Glos\_CC\_results\_12December\_2015](/Images/2015/12/Glos_CC_results_12December_2015.pdf)
+[Glos\_CC\_results\_12December\_2015](/images/2015/12/Glos_CC_results_12December_2015.pdf)
 
-<img src="/Images/2015/12/IMG_2407-300x225.jpg" alt="IMG_2407"  />
+<img src="/images/2015/12/IMG_2407-300x225.jpg" alt="IMG_2407"  />

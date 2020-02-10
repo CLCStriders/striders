@@ -18,7 +18,7 @@ As the mini ‘Beast from the East’ bit back with snow and bitter winds, CLC S
 
 The ladies race was a six-leg event, with two legs of 5.38 miles and then four of 5k over a closed-road loop. While the men’s event comprised 12 legs – four of 5.38 miles and then eight over the 5k loop.
 
-<img src="/Images/2018/03/Helen-Knight-Midland-Relays-2018.jpg" alt="Helen-Knight-Midland-Relays-2018" width="800" height="1196" />](/Images/2018/03/Helen-Knight-Midland-Relays-2018.jpg)
+<img src="/images/2018/03/Helen-Knight-Midland-Relays-2018.jpg" alt="Helen-Knight-Midland-Relays-2018" width="800" height="1196" />](/images/2018/03/Helen-Knight-Midland-Relays-2018.jpg)
 
 <p style="text-align: left;">
   <em>Helen Knight with an impressive Leg 3, picking up four places.</em>
@@ -28,7 +28,7 @@ In the ladies event, **Karlien Heyrman** led off over the longer distance, finis
 
 The CLC ladies showed amazing consistency over the six legs, barely wavering in their team placing over the six legs.
 
-<img src="/Images/2018/03/Iain-Porter-Midland-Relays-2018.jpg" alt="Iain-Porter-Midland-Relays-2018" width="800" height="1196" />](/Images/2018/03/Iain-Porter-Midland-Relays-2018.jpg)
+<img src="/images/2018/03/Iain-Porter-Midland-Relays-2018.jpg" alt="Iain-Porter-Midland-Relays-2018" width="800" height="1196" />](/images/2018/03/Iain-Porter-Midland-Relays-2018.jpg)
 
 <p style="text-align: left;">
   <em>Iain Porter digs in on Leg 2</em>
@@ -48,4 +48,4 @@ Both the ladies and the men’s teams qualified for the National road relays com
 
 Andrew Paterson, showing just how testing the conditions were!
 
-<img src="/Images/2018/03/Andrew-Paterson-Midland-Relays-2018.jpg" alt="Andrew-Paterson-Midland-Relays-2018" width="800" height="800" />](/Images/2018/03/Andrew-Paterson-Midland-Relays-2018.jpg)
+<img src="/images/2018/03/Andrew-Paterson-Midland-Relays-2018.jpg" alt="Andrew-Paterson-Midland-Relays-2018" width="800" height="800" />](/images/2018/03/Andrew-Paterson-Midland-Relays-2018.jpg)

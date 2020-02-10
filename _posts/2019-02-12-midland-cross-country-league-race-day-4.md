@@ -9,7 +9,7 @@ As the tail-end of Storm Eric blew through, CLC athletes made their last trips a
 
 The ladies travelled south to Cattle Country to a Division One race hosted by Gloucester AC and made even more challenging by last-minute changes to the course in order to avoid the overnight flooding experienced in the south of the county.
 
-<img src="/Images/2019/02/Ladies-9.2.19.jpg" alt="Ladies-9.2.19"/>
+<img src="/images/2019/02/Ladies-9.2.19.jpg" alt="Ladies-9.2.19"/>
 
 _The ladies at Cattle Country (complete with comedy signage), from left to right: Becky Reynolds, Rachel Vines, Helen Knight, Amanda Steer, Cerys Jones and Amelia Mullins._ 
 
@@ -21,7 +21,7 @@ Overall the ladies finished 12<sup>th </sup>overall in the league across the se
 
 The men travelled the furthest north they’ve been to compete in Division Two across a course in Park Hall Country Park near Stoke on Trent, in a race hosted by Trentham RC.
 
-<img src="/Images/2019/02/Will-9.2.18.jpg" alt="Will-9.2.18"  >
+<img src="/images/2019/02/Will-9.2.18.jpg" alt="Will-9.2.18"  >
 
 _Will Ferguson at Park Hall Country Park on Race Day 4_ 
 

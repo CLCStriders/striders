@@ -27,7 +27,7 @@ At the end of the evening Striders entered teams in the ladies and men’s 4 by 
 
 In the club’s internal summer track competition, Will Fergusson finished top of the tree overall after a fantastic season of PBs and club records and an average age grading of 83.34%.
 
-<img class=" size-full" src="/Images/2017/09/IMG_3420.jpg" alt="IMG_3420" width="640" height="480" />](/Images/2017/09/IMG_3420.jpg)
+<img class=" size-full" src="/images/2017/09/IMG_3420.jpg" alt="IMG_3420" width="640" height="480" />](/images/2017/09/IMG_3420.jpg)
 
 **Parkrun &#8216;take-over'**
 

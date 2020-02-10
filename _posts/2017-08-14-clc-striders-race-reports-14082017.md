@@ -27,6 +27,6 @@ Four years on from her last marathon, Sophie finished 5th lady, 2nd in her categ
 Finally on Sunday in the Standish Woodland Chase, Alex Monro again led the club home in 11<sup>th</sup> place in a time of 1:09:13; Helen Knight was 34<sup>th</sup> in a time of 1:18:14, and Hannah Monro was 98<sup>th</sup> in 1:34:04.
 
 
-<img src="/Images/2017/08/IMG-20170812-WA0002-225x300.jpg" alt="IMG-20170812-WA0002" />
+<img src="/images/2017/08/IMG-20170812-WA0002-225x300.jpg" alt="IMG-20170812-WA0002" />
 
 _Sophie Longmore at the Helsinki Marathon_

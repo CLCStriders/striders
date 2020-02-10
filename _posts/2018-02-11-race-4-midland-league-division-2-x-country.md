@@ -22,7 +22,7 @@ The ladies journeyed north to compete in Wolverhampton, while the men welcomed c
 
 Outstanding team achievement of the day and season belonged to the women, earning promotion from Division Two to One with yet another stellar performance across testing terrain around Aldersley Stadium in Wolverhampton.
 
-<img src="/Images/2018/02/Ladies-Wolverhampton-2.jpg" alt="Ladies-Wolverhampton-2"/>](/Images/2018/02/Ladies-Wolverhampton-2.jpg)
+<img src="/images/2018/02/Ladies-Wolverhampton-2.jpg" alt="Ladies-Wolverhampton-2"/>](/images/2018/02/Ladies-Wolverhampton-2.jpg)
 
 <p>
   <em>CLC Ladies. Pictured, left to right: Amelia Mullins, Nicola Weager, Cerys Jones, Laura Fletcher, Jill Hooper, Amanda Steer, Helen Knight and Karlien Heyrman.</em>
@@ -38,7 +38,7 @@ On the day, the ladies teams finished 2<sup>nd</sup> in the masters and 5<sup>th
 
 Meanwhile, closer to home, the men battled it out in their own race, held at Ullenwood. Once again, the men turned out in force, with three full teams competing on the day.
 
-<img src="/Images/2018/02/Men-Ullenwood.jpg" alt="Men-Ullenwood"/>](/Images/2018/02/Men-Ullenwood.jpg)
+<img src="/images/2018/02/Men-Ullenwood.jpg" alt="Men-Ullenwood"/>](/images/2018/02/Men-Ullenwood.jpg)
 
 <p>
   <em>CLC Men. Back row left to right: Ton Fletcher, Jon Howes, Kyle Sollars, Chris Thomas, Eoin McQuone, Neil Broadbent, Mike Crossley, Will Ferguson, Andrew Gage, John Willson, Andrew Paterson, Tom Vickers. Front row, left to right: Tom Kabala, Ben Akif, coach Brendan Ward, Martin Bick, Gareth Harries and Joel Freeland</em>

@@ -18,7 +18,7 @@ tags:
 ---
 A bitterly cold last Sunday in November saw CLC Striders athletes competing in Gloucester and Herefordshire – once again demonstrating what an inclusive and varied club it is!
 
-<img src="/Images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg" alt="23915689_1979954408687401_1744811162915210988_n"/>](/Images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg)
+<img src="/images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg" alt="23915689_1979954408687401_1744811162915210988_n"/>](/images/2017/11/23915689_1979954408687401_1744811162915210988_n.jpg)
 
 <p>
   <em>Pictured from left to right: Mike Speke, Sarah Wilson, Kyle Sollars, Alex, Martin Bick and Andrew Gage. Missing from the photo but also representing CLC on the day was Bradley Coates.</em>
@@ -30,4 +30,4 @@ Over in Gloucester, seven athletes gathered for the Gloucester 10k, run out from
 
 Meanwhile, way out west, club TV stars **Andrew Paterson** and his faithful border terrier **Betty** were competing in the 10k Howling Bull Run at Walford in deepest Herefordshire. Across an undulated off-road route, the race was up and over Bull Hill itself. Andrew and Betty finished in a great 6<sup>th</sup> place overall as the 1<sup>st</sup> MV40 finisher in a time of just 49:29.
 
-<img class="alignnone size-full 3002" src="/Images/2017/11/24020074_10156381659640656_1568199642_n.jpg" alt="24020074_10156381659640656_1568199642_n" width="480" height="480" />](/Images/2017/11/24020074_10156381659640656_1568199642_n.jpg)
+<img class="alignnone size-full 3002" src="/images/2017/11/24020074_10156381659640656_1568199642_n.jpg" alt="24020074_10156381659640656_1568199642_n" width="480" height="480" />](/images/2017/11/24020074_10156381659640656_1568199642_n.jpg)

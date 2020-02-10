@@ -10,7 +10,7 @@ categories:
 ---
 The Gloucestershire AAA Cross Country Championships were held on Saturday 6th January 2018 at Old Down Country Park and were hosted by Stroud AC. On a cold and grey afternoon, the CLC Ladies once again enjoyed huge success in the discipline – with just four runners bagging a haul of 10 medals between them.
 
-<img src="/Images/2018/01/Ladies-County-Champs-2108.jpg" alt="Ladies-County-Champs-2108"/>
+<img src="/images/2018/01/Ladies-County-Champs-2108.jpg" alt="Ladies-County-Champs-2108"/>
 
 <p>
   <em>Pictured from left to right with their medals: Patricia Sturgêss, Karlien Heyrman, Helen Knight and Amanda Steer.</em>
@@ -22,8 +22,8 @@ In the team competition, the lady Striders finished second in the Seniors, by ju
 
 Meanwhile, club talisman and new dad **Will Ferguson** smashed his previous 10k PB by 28 seconds at the rescheduled Telford 10k on Sunday 7th January, stopping the clock at 32 minutes dead and recording a chip time of 32:03 to finish 43rd in an incredibly fast field.
 
-<img src="/Images/2018/01/Will-Ferguson-Telford-10k-e1515362994620.jpg" alt="Will-Ferguson-Telford-10k" />]
+<img src="/images/2018/01/Will-Ferguson-Telford-10k-e1515362994620.jpg" alt="Will-Ferguson-Telford-10k" />]
 
 Closer to home, CLC stalwart **Martin Bick** completed his 100<sup>th</sup> Parkrun at the Cheltenham Parkrun event on Saturday 6<sup>th</sup> January, dressed as a dinosaur and donning the infamous Cape of 100!
 
-<img src="/Images/2018/01/Martin-Bick-100th.jpg" alt="Martin-Bick-100th"/>
+<img src="/images/2018/01/Martin-Bick-100th.jpg" alt="Martin-Bick-100th"/>

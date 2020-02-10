@@ -19,7 +19,7 @@ tags:
 
 The second Cheltenham Harriers Midsummer Open meeting on Wednesday 12 July saw another good crop of CLC Striders competing in the 3,000m, the 800m and the 3 and 400m. Again, PBs were achieved and club age category track records fell – left, right and centre.
 
-<img src="/Images/2017/07/19989583_10213590929631756_2963864311319925253_n-225x300.jpg" alt="19989583_10213590929631756_2963864311319925253_n" width="225" height="300" />](/Images/2017/07/19989805_10213590924431626_3134741102039563657_n.jpg)
+<img src="/images/2017/07/19989583_10213590929631756_2963864311319925253_n-225x300.jpg" alt="19989583_10213590929631756_2963864311319925253_n" width="225" height="300" />](/images/2017/07/19989805_10213590924431626_3134741102039563657_n.jpg)
 
 In the first 3,000m race, **Greg Chilton** clocked 10:11.7, with **Chris Driskell** finishing close behind in a new club age category record and PB time of 10:18.2. In the second race over this distanced, two Striders ran neck-and-neck for the entire seven-and-half-lap race. Eventually, ladies club captain **Rachel Vines** pulled away from **Rich Shardlow** to register her PB for the diatance and a new club age category record time of 10:46.8, with **Shardlow** clocking a new age category club record in and 10:47.5. In the same race, **Emma Abbey** achieved a time of 13:13.9.
 
@@ -31,7 +31,7 @@ All-in-all, another great night on the track for CLC Striders.
 
 Then, on Saturday 15 July, for the last time over its current course, CLC athletes performed well in the Cheltenham Parkrun, with **Sophie Longmore** achieving a Parkrun PB of 19:38 and **Rich Shardlow** dipping in under 20 minutes in 19:56.
 
-<img src="/Images/2017/07/19989466_1443149482418887_8516168441236801683_n-167x300.jpg" alt="19989466_1443149482418887_8516168441236801683_n" width="167" height="300" />](/Images/2017/07/19989466_1443149482418887_8516168441236801683_n.jpg)
+<img src="/images/2017/07/19989466_1443149482418887_8516168441236801683_n-167x300.jpg" alt="19989466_1443149482418887_8516168441236801683_n" width="167" height="300" />](/images/2017/07/19989466_1443149482418887_8516168441236801683_n.jpg)
 
 And finally, on Sunday 16 July, CLC athlete **Rob Bircher** competed in the 31.5-mile Chiltern Challenge ultra-marathon. A hilly race, with lots of technical paths and wooded sections, the course followed national trails and footpaths. In perfect conditions (light drizzle and cloud cover), Rob smashed his hoped-for six-hour target time, finishing in 5 hours and 23 minutes and 51st place. And this after turning his ankle at just 1.5miles. Another great ultra achievement for CLC’s distance man.
 

@@ -17,7 +17,7 @@ tags:
 ---
 Armistice Day saw CLC Striders venturing further afield to compete in the first fixtures of their Midlands League Cross Country competitions. The ladies team travelled to Counden Park in Coventry for a race organised by Northbrook, Massey and Sphinx running clubs, and the men journeyed to the National Sports Centre at Lilleshaw as guests of Telford AC.
 
-<img src="/Images/2017/11/Ladies-Coventry.jpg" alt="Ladies-Coventry"/>](/Images/2017/11/Ladies-Coventry.jpg)
+<img src="/images/2017/11/Ladies-Coventry.jpg" alt="Ladies-Coventry"/>](/images/2017/11/Ladies-Coventry.jpg)
 
 <p>
   <em>Left to right: Cerys Jones, Patricia Sturgess, Laura Fletcher, Jill Hooper, Nicola Weager, Amanda Steer, Helen Knight, Karlien Heyrman</em>
@@ -29,7 +29,7 @@ In the ladies race **Karlien Heyrman** continued her run of fine form, finishing
 
 Once again, the CLC ladies signalled a clear mark of intent for the season in the Midland League, achieving 3<sup>rd</sup> position in the masters team competition and 4th place in the overall team standings – a very strong first performance in this highly competitive league.
 
-<img src="/Images/2017/11/Men-Telford.jpg" alt="Men-Telford"/>](/Images/2017/11/Men-Telford.jpg)
+<img src="/images/2017/11/Men-Telford.jpg" alt="Men-Telford"/>](/images/2017/11/Men-Telford.jpg)
 
 <p>
   <em>Back row, left to right: Gareth Harries, Jon Howes, Tom Kabala, Javid Norat, Greg Chilton, Will Ferguson, Iain Porter, Mark Fuller, John Willson, Paul Lockyer. Front row, left to right: Andrew Gage, Thomas Fletcher, Chris Thomas, coach Brendon Ward, Martin Bick, Kyle Sollars</em>

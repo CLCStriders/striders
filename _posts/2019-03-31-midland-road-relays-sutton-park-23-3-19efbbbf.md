@@ -15,6 +15,6 @@ On the day, CLC were one of only two ladies teams from Gloucestershire competing
 
 The remaining three 5k legs were run by **Nicola Weager**, **Becky Reynolds** and **Charlie Haward**. All ran amazingly consistent and similar times of 25:28, 25:27 and 25:52 respectively, ensuring that the team finished in 35<sup>th</sup>place overall on the day – out of more than 60 teams – in a cumulative time of 2:57:49.
 
-<img src="/Images/2019/03/Midland-Road-Relays-23.3.19.jpg" alt="Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward" />
+<img src="/images/2019/03/Midland-Road-Relays-23.3.19.jpg" alt="Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward" />
 
 _Pictured from left to right: Amelia Mullins, Laura Fletcher, Rachel Vines, Becky Reynolds, Nicola Weager and Charlie Hayward_

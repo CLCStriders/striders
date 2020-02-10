@@ -19,6 +19,6 @@ Dave generously gave his advice to Brendan when the club was being set up 8 year
 
 Dave will be sadly missed by CLC Striders and his many other friends in the sport, and our thoughts go out to his friends and family at this difficult time.
 
-<img src="/Images/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" />](/Images/2016/07/IMG_0140.jpg)
+<img src="/images/2016/07/IMG_0140-245x300.jpg" alt="IMG_0140" width="245" height="300" />](/images/2016/07/IMG_0140.jpg)
 
 &nbsp;

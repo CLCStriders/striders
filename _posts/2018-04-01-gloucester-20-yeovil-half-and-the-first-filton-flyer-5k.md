@@ -23,7 +23,7 @@ Three of the competitors – **Will Pearce, Jon Howes, and Mark Fuller** – wer
 
 The marathon men ran together for the first 10 miles, before beginning to run according to their own plans for the second half of the race, all finishing within a few minutes of each other as follows: Will Pearce in 38<sup>th</sup> place overall and 20<sup>th</sup> SM in 2:14:15, Jon Howes in 43<sup>rd </sup>place overall as 10<sup>th</sup> MV40 in 2:15:42, and Mark Fuller in 54<sup>th</sup> place overall and 27<sup>th</sup> SM in 2:18:28. Gavin Jerman came home within a whisper of his 20-mile PB finishing in 119<sup>th</sup> place overall as MV50 9<sup>th</sup> in 2:35:23.
 
-<img src="/Images/2018/04/three-in-glos-20-25.3.18.jpg" alt="three-in glos-20-25.3.18" width="800" height="533" >Three in a row. From left to right: Mark Fuller, Jon Howes, Will Pearce_ 
+<img src="/images/2018/04/three-in-glos-20-25.3.18.jpg" alt="three-in glos-20-25.3.18" width="800" height="533" >Three in a row. From left to right: Mark Fuller, Jon Howes, Will Pearce_ 
 
 * * *
 

@@ -10,7 +10,7 @@ categories:
   - Awards
 ---
 <div style="float:right; padding: 10px 10px 10px 10px">
-  <img src="/Images/2016/02/12633709_10153807532577357_2359257245167021949_o-200x300.jpg" alt="12633709_10153807532577357_2359257245167021949_o" width="200" height="300" />
+  <img src="/images/2016/02/12633709_10153807532577357_2359257245167021949_o-200x300.jpg" alt="12633709_10153807532577357_2359257245167021949_o" width="200" height="300" />
 </div>
 
 The club are pleased to announce that Amelia Mullins is awarded the &#8220;Strider of the Month&#8221; accolade for January 2016.

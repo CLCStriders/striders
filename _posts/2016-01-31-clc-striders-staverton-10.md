@@ -5,9 +5,9 @@ layout: post
 categories:
   - Events
 ---
-<img src="/Images/2016/01/image39-300x200.jpeg" alt="image" />]
+<img src="/images/2016/01/image39-300x200.jpeg" alt="image" />]
 
-[STAVERTON 10M RESULTS 31 JANUARY 2016](/Images/2016/01/STAVERTON-10M-RESULTS-31-JANUARY-2016.pdf)
+[STAVERTON 10M RESULTS 31 JANUARY 2016](/images/2016/01/STAVERTON-10M-RESULTS-31-JANUARY-2016.pdf)
 
 There was an excellent showing for CLC Striders in the club's inaugural Staverton 10 Mile Race.
 

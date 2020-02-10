@@ -12,7 +12,7 @@ categories:
 ---
 <div style="float: right; padding: 20px 20px 20px 20px; width: 285px;">
   <p>
-    <img class="alignright 2115" src="/Images/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" />
+    <img class="alignright 2115" src="/images/2016/04/CLC-Striders-Angels-10k-265x300.jpg" alt="CLC Striders Angels 10k" width="265" height="300" />
   </p>
 </div>
 

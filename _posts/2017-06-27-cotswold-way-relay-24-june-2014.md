@@ -16,7 +16,7 @@ Saturday 24<sup>th</sup> saw CLC Striders enter three teams into the iconic and 
 
 Standout performances of the day came from **Karlien Heyrman**, lead-off lady for the CLC Gazelles team, who was first lady home on **Leg 1**, marking a remarkable return to fitness and form after a long lay-off with injury through last winter. Meanwhile, **Nick Barry** was the first finisher on **Leg 5** – continuing his supreme record in the event, having won most of the legs he’s competed in over the years.
 
-<img src="/Images/2017/06/19429664_10102222948974841_7385908901739755671_n-225x300.jpg" alt="19429664_10102222948974841_7385908901739755671_n" width="225" height="300" />](/Images/2017/06/19429664_10102222948974841_7385908901739755671_n.jpg)
+<img src="/images/2017/06/19429664_10102222948974841_7385908901739755671_n-225x300.jpg" alt="19429664_10102222948974841_7385908901739755671_n" width="225" height="300" />](/images/2017/06/19429664_10102222948974841_7385908901739755671_n.jpg)
 
 In detail, the legs and performances broke down as follows:
 
@@ -28,7 +28,7 @@ On **Leg 2**, from Stanway to Cleeve Common, Billy Bradshaw brought the Cheetahs
 
 The next leg, **Leg 4**, from Seven Springs to Cranham, saw the club manning the water station at Crickley Hill as part of their commitment to the event – as well, of course, as running it. Filling in at just 12 hours notice, new club runner Ed Collier finished the leg in 41<sup>st</sup> place for the Eagles, with club stalwart Rob Bircher in 43<sup>rd</sup> for the Cheetahs and Patricia Sturgess in a strong 46<sup>th</sup> place for the Gazelles. Undoubtedly the best bunched finishes across all the legs from these three CLC athletes.
 
-<img src="/Images/2017/06/19420717_10210794671880116_3038847067413525587_n-225x300.jpg" alt="19420717_10210794671880116_3038847067413525587_n" width="225" height="300" />](/Images/2017/06/19420717_10210794671880116_3038847067413525587_n.jpg)
+<img src="/images/2017/06/19420717_10210794671880116_3038847067413525587_n-225x300.jpg" alt="19420717_10210794671880116_3038847067413525587_n" width="225" height="300" />](/images/2017/06/19420717_10210794671880116_3038847067413525587_n.jpg)
 
 **Leg 5**, from Cranham to Ebley, saw Nick Barry take his prestigious first place for the Eagles, with Amanda Steer finishing in 50<sup>th</sup> for the Gazelles and Jill Hooper bagging 88<sup>th</sup> spot for the Cheetahs.
 
@@ -42,7 +42,7 @@ The penultimate leg, **Leg 9**, from Old Sodbury to Cold Ashton, saw the teams�
 
 And finally, bringing the teams down into Bath City centre from Cold Ashton, on **Leg 10** Alex Monro brought the Eagles home in an exhilarating 17<sup>th</sup> place, with Hannah Monro completing the last leg in 70th place for the Cheetahs and Charlie Haward finishing for the Gazelles in 82<sup>nd</sup> place.
 
-<img src="/Images/2017/06/19399027_10155530787500337_3908542062619133394_n-300x225.jpg" alt="19399027_10155530787500337_3908542062619133394_n"  />](/Images/2017/06/19399027_10155530787500337_3908542062619133394_n.jpg)
+<img src="/images/2017/06/19399027_10155530787500337_3908542062619133394_n-300x225.jpg" alt="19399027_10155530787500337_3908542062619133394_n"  />](/images/2017/06/19399027_10155530787500337_3908542062619133394_n.jpg)
 
 In the end the all-ladies, all-abilities, **Gazelles team finished in a superb fourth place** in a tightly contested race, less than an hour behind the winners over the 10-leg, 100-mile or so course – a very slim margin indeed. While, in the mixed team races, **CLC Cheetahs finished in 17<sup>th</sup> position and CLC Eagles finished in 31<sup>st</sup>** – once again, really strong placings in a field of some 50 or so mixed teams.
 

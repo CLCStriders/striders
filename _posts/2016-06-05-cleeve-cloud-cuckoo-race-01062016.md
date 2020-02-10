@@ -37,7 +37,7 @@ categories:
 </div>
 
 <div>
-   <a href="/Images/2016/06/Attachment-1-e1464888459784.jpeg"><img src="/Images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1"  /></a>
+   <a href="/images/2016/06/Attachment-1-e1464888459784.jpeg"><img src="/images/2016/06/Attachment-1-e1464888459784-300x225.jpeg" alt="Attachment-1"  /></a>
 </div>
 
 <div>
@@ -47,5 +47,5 @@ categories:
 </div>
 
 <div>
-  <a href="/Images/2016/06/image2-e1465128477411.jpg"><img src="/Images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" /></a>
+  <a href="/images/2016/06/image2-e1465128477411.jpg"><img src="/images/2016/06/image2-e1465128477411-225x300.jpg" alt="image2" width="225" height="300" /></a>
 </div>

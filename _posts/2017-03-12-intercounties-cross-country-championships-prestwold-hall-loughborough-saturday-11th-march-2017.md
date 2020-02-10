@@ -13,7 +13,7 @@ categories:
 ---
 &nbsp;
 
-<img src="/Images/2017/03/IMG_0210-e1489427490226-225x300.jpg" alt="IMG_0210" width="225" height="300" />](/Images/2017/03/IMG_0210.jpg)
+<img src="/images/2017/03/IMG_0210-e1489427490226-225x300.jpg" alt="IMG_0210" width="225" height="300" />](/images/2017/03/IMG_0210.jpg)
 
 A group of 3 Striders made the trip up to Loughborough as part of the Gloucestershire Team for the Inter-Counties Cross Country Championships at Loughborough on Saturday.
 

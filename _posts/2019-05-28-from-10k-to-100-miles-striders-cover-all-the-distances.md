@@ -16,7 +16,7 @@ The second half of the ultra trail was a whole lot tougher and hillier, but Rob 
 
 Rob was delighted just to complete the gruelling challenge, but to finish inside the top 50 and earn a gold buckle for his efforts made him doubly proud of his achievements. He couldn’t have done it without his running buddy Laura Kearney and Andrew Paterson, who provided race support throughout, including soup and tea in the middle of the night!
 
-<img src="/Images/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra" />
+<img src="/images/2019/05/Rob-Bircher-and-Laura-Kearney-300x300.jpg" alt="Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra" />
 
 _Rob Bircher and Laura Kearney at the Chester 100-mile trail ultra_
 

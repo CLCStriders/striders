@@ -29,7 +29,7 @@ Evergreen **JJ Willson **came home in 40:47.8 to claim 1<sup>st</sup>position i
 
 On the night, the Striders ladies also won top honours in the team competition.
 
-<img src="/Images/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018"  />](/Images/2018/05/Ladies-Berkeley-10k-2018.jpg)
+<img src="/images/2018/05/Ladies-Berkeley-10k-2018.jpg" alt="Ladies-Berkeley-10k-2018"  />](/images/2018/05/Ladies-Berkeley-10k-2018.jpg)
 
 _Front row, left to right, Helen Knight and Nicola Weager. Second row, left to right, Patricia Sturgess, Amanda Steer and Karlien Heyrman. Top, Amelia Mullins._
 

@@ -38,7 +38,7 @@ In Gloucester on Saturday 9 June, V40 **Paul Lockyer **ran a sub-19-minute 18:5
 
 On a blisteringly hot Sunday morning, 10 Striders made the trip over to Fairford to run in the popular 10k there. On the day, **Helen Knight **continued her fine form – first home for the club in a time of 42:45.9 as the 2<sup>nd </sup>lady V35.
 
-<img src="/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n"/>](/Images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
+<img src="/images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg" alt="34214921_2117897361762505_7880078546394152960_n"/>](/images/2018/06/34214921_2117897361762505_7880078546394152960_n.jpg)
 
 <p>
   <em>Left to right: Janet Mustoe, Helen Knight, Nicola Weager, Gordon Bendall, Martin Bick, Kyle Sollars, Andrew Gage</em>

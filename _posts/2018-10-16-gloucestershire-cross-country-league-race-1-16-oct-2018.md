@@ -19,7 +19,7 @@ tags:
 ---
 The first cross country meet of the season is always a wake-up call, and on Saturday 13 October the ladies and men’s CLC teams gathered to compete on a windy and testing course at Old Down just north of Bristol in the first race of the Gloucestershire Cross Country League (season 2018/19). As always, Striders fought valiantly, with the following results …
 
-<img class="alignnone size-full 3253" src="/Images/2018/10/Helen-Knight-13.10.18.jpg" alt="Helen-Knight-13.10.18" width="633" height="960" />](/Images/2018/10/Helen-Knight-13.10.18.jpg)
+<img class="alignnone size-full 3253" src="/images/2018/10/Helen-Knight-13.10.18.jpg" alt="Helen-Knight-13.10.18" width="633" height="960" />](/images/2018/10/Helen-Knight-13.10.18.jpg)
 
 In the ladies race, **Helen Knight **once again led the team home, continuing her electric form across the country from last season and finishing in 20<sup>th </sup>overall as 3<sup>rd </sup>lady in her V53 category in a time of 31:40. She was followed home by the ever-reliable **Amelia Mullins**, who bagged 3<sup>rd </sup>spot in her V45 category and 33<sup>rd </sup>overall in a time of 33:38. **Helen Howes **had a great race to finish 3<sup>rd </sup>in her V40 category, 43<sup>rd </sup>overall in a time of 34:27.
 
@@ -27,7 +27,7 @@ Super vet **David James **was 2<sup>nd </sup>in his V65 category and 54<sup>th
 
 Overall after race one, CLC ladies were 9<sup>th </sup>in the senior rankings and 3<sup>rd </sup>in the vet competition.
 
-<img src="/Images/2018/10/Will-Ferguson-13.10.18.jpg" alt="Will-Ferguson-13.10.18" width="800" height="501" />](/Images/2018/10/Will-Ferguson-13.10.18.jpg)
+<img src="/images/2018/10/Will-Ferguson-13.10.18.jpg" alt="Will-Ferguson-13.10.18" width="800" height="501" />](/images/2018/10/Will-Ferguson-13.10.18.jpg)
 
 In the men’s race, **Will Ferguson **delivered a characteristically strong performance to lead the men’s team home in 3<sup>rd </sup>place overall and a very fast time of 36:39. **Iain Porter**, just returning to his running after a lay-off, secured second team place in 41<sup>st</sup>position with a time of 41:46. The young **Tom Fletcher **continued his fine form from his debut cross country season last year with a fantastic top 50 finish (even after a bad fall) in 48<sup>th </sup>place and a time of 42:41.
 

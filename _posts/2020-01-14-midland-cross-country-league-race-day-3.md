@@ -14,7 +14,7 @@ In the ladies race, in the highly competitive Division 1 tier, Liza Barry once a
 
 Rachel Vines was 62nd and the fourth team scorer was Amelia Mullins in 77th place. Fiona Brady-Miller came in 90th place. Nicola Weager was 96th and Sarah Wilson was 119th. Despite missing the in-form Karlien Heyrman, the ladies finished in a very respectable 11th place overall in the team placings.
 
-<img src="/Images/2020/01/Ladies-Stoke-Race-3-Midland-11-1-20-768x576.jpg" alt="Striders women at race 3 of midland league 2020"/>
+<img src="/images/2020/01/Ladies-Stoke-Race-3-Midland-11-1-20-768x576.jpg" alt="Striders women at race 3 of midland league 2020"/>
 
 _CLC Ladies team, back row, left to right: Nicola Weager, Helen Knight, Fiona Brady-Miller, Sarah Wilson, Holly Freeland (club official on the day) and Amelia Mullins. Front row: Liza Barry and Rachel Vines_
 
@@ -28,6 +28,6 @@ Individually, Will Ferguson was first home for Striders in 14th place, followed 
 
 Eoin McQuone was first to finish for the B team in 175th place, closely followed by the rapidly improving Nick Ledwold in 180th and Javid Norat in 183rd place, both in their first season running cross country for the Striders. Super-vet David James defied the conditions – and his 70 years – to glide across the mud into an amazing 185th place overall. The team was completed by Tim Brock in 190th and Andrew Gage in 212th, with Hedley Phillips, coming back after injury, finishing in 231st place.
 
-<img src="/Images/2020/01/Men-Race-Day3-Midland-League-11.1.20-768x510.jpg" alt="Striders men at race 3 of midland league 2020"/>
+<img src="/images/2020/01/Men-Race-Day3-Midland-League-11.1.20-768x510.jpg" alt="Striders men at race 3 of midland league 2020"/>
 
 _CLC Striders’ Men’s team from left to right, back row: David James, Tim Brock, Nick Ledwold, Dan Bazzard, Hedley Phillips, Andrew Gage, Will Ferguson. Middle row: Richard Symonds. Front row: Javid Norat, Eoin McQuone, Paul Lockyer and Tom Kabala_

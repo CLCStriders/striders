@@ -12,7 +12,7 @@ categories:
 ---
 Cheltenham Harriers’ third Mid-Summer Open meet at The Prince Of Wales Stadium saw yet more top track and field performances from CLC Striders athletes in still-sweltering conditions.
 
-<img src="/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg" alt="37390386_10216743281878592_243792574333059072_n"/>](/Images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg)
+<img src="/images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg" alt="37390386_10216743281878592_243792574333059072_n"/>](/images/2018/07/37390386_10216743281878592_243792574333059072_n.jpg)
 
 <p>
   <em><span lang="EN-US">From left to right: Gareth Harries, Paul Lockyer, Andrew Gage, Nicola Weager and Mike Speke</span></em>

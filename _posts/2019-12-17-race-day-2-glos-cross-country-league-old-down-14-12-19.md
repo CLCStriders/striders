@@ -14,6 +14,6 @@ First home in 12<sup>th</sup> place overall and as 1<sup>st</sup> LV35 was **L
 
 **Fiona Brady-Miller** and **Emma Abbey** also ran strongly for the club. And **David James**, competing as a super-vet MV65 finished 3<sup>rd</sup> in his category in a time of 36:01.
 
-<img src="/Images/2019/12/Ladies-Old-Down-14.12.19.jpg" alt="Ladies-Old-Down 14.12.19"/>
+<img src="/images/2019/12/Ladies-Old-Down-14.12.19.jpg" alt="Ladies-Old-Down 14.12.19"/>
 
 _CLC ladies at Old Down, from left to right: Emma Abbey, Helen Knight, Karlien Heyrman, Fiona Brady-Miller and Amelia Mullins_

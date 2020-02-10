@@ -16,7 +16,7 @@ tags:
 ---
 A warm and sunny Saturday 23 September 2017 saw two ladies' and three men’s teams from the CLC Striders club compete in the annual Midland Counties Road Relay Championships at Sutton Park.
 
-<img class=" size-full" src="/Images/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg" alt="Ladies-Sutton-Park-23-Sept-2017" width="960" height="720" />](/Images/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg)
+<img class=" size-full" src="/images/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg" alt="Ladies-Sutton-Park-23-Sept-2017" width="960" height="720" />](/images/2017/09/Ladies-Sutton-Park-23-Sept-2017.jpg)
 
 _Pictured: All the CLC ladies on the day, from left to right: Rebecca Reynolds, Rachel Vines, Amanda Steer, Helen Knight, Amelia Mullins, Nicola Weager, Patricia Sturgess and Emma Abbey_
 

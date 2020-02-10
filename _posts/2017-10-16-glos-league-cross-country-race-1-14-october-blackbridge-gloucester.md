@@ -19,11 +19,11 @@ In the first cross-country fixture of the season, CLC Striders turned out en mas
 
 In the senior ladies race **Karlien Heyrman** – beginning to return to her best – brought the Striders home with a 25<sup>th</sup> place finish and a time of 25:19.
 
-<img class="alignnone size-full 2964" src="/Images/2017/10/Karlien-3.jpg" alt="Karlien-3" width="640" height="960" />](/Images/2017/10/Karlien-3.jpg)
+<img class="alignnone size-full 2964" src="/images/2017/10/Karlien-3.jpg" alt="Karlien-3" width="640" height="960" />](/images/2017/10/Karlien-3.jpg)
 
 **Helen Knight** was next in 31<sup>st</sup> in 25:41. **Amanda Steer** was third finisher in 35<sup>th</sup> place in a time of 25:54 and was the first lady in her LV40 category.
 
-<img class="alignnone size-full 2965" src="/Images/2017/10/Amanda-Steer.jpg" alt="Amanda-Steer" width="2048" height="1365" />](/Images/2017/10/Amanda-Steer.jpg)
+<img class="alignnone size-full 2965" src="/images/2017/10/Amanda-Steer.jpg" alt="Amanda-Steer" width="2048" height="1365" />](/images/2017/10/Amanda-Steer.jpg)
 
 Recovering from a virus, **Amelia Mullins** was 62<sup>nd</sup> in 27:27 (and 6<sup>th</sup> in the LV45 category). Making a welcome return to racing with the club, **Helen Howes** was 77<sup>th</sup> in 28:11 and debutante **Natalie Burfitt** was the sixth A-Team finisher in 82<sup>nd</sup> place in a time of 28:46.
 
@@ -35,7 +35,7 @@ In the Open Team competition, the Striders Ladies A Team finished in 7<sup>th</s
 
 Meanwhile, in the men’s race, just one week after becoming a father for the first time, **Will Ferguson** stormed home to a convincing win in a time of 28:39 across the 5.5-mile course.
 
-<img class="alignnone size-full 2966" src="/Images/2017/10/Will-Ferguson-2.jpg" alt="Will-Ferguson-2" width="2048" height="1365" />](/Images/2017/10/Will-Ferguson-2.jpg)
+<img class="alignnone size-full 2966" src="/images/2017/10/Will-Ferguson-2.jpg" alt="Will-Ferguson-2" width="2048" height="1365" />](/images/2017/10/Will-Ferguson-2.jpg)
 
 He was followed home by **Tom Kabala** in 56<sup>th</sup> in 33.18 making a great debut appearance for the club across the country, with **Mark Fuller**, also making his cross-country Striders debut, close behind in 58<sup>th</sup> position in a time of 33.21. The ever-reliable **Charles Goodwin** finished in 62<sup>nd</sup> place as the fourth MV50 in a time of 33.31, with **Tom Vickers** and **Paul Northup** making up the A team scorers finishing virtually neck-and-neck in 72 and 73 place respectively, in 34:11 and 34:12.
 
@@ -47,6 +47,6 @@ In the Open Team competition, Striders men finished 4th with their A Team, 14<su
 
 Running separately, **David James** bagged a strong second place in his MV65 age category in a time of 29:17 over the shorter course.
 
-<img class="alignnone size-full 2967" src="/Images/2017/10/The-Team.jpg" alt="The-Team" width="2048" height="1303" />](/Images/2017/10/The-Team.jpg)
+<img class="alignnone size-full 2967" src="/images/2017/10/The-Team.jpg" alt="The-Team" width="2048" height="1303" />](/images/2017/10/The-Team.jpg)
 
 &nbsp;

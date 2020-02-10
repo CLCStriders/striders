@@ -16,4 +16,4 @@ Leading the club home was Chris Driskell who ran at tempo pace and recorded  an
 
 [results](https://www.fullonsport.com/event/oldbury-10-miler/results)
 
-<img src="/Images/2016/09/IMG_0706-300x300.jpg" alt="img_0706" width="300" height="300" />](/Images/2016/09/IMG_0706.jpg)
+<img src="/images/2016/09/IMG_0706-300x300.jpg" alt="img_0706" width="300" height="300" />](/images/2016/09/IMG_0706.jpg)

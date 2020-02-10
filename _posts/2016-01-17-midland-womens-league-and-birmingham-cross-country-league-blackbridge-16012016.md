@@ -24,10 +24,10 @@ The Striders' A team was excellently supported by a strong B team.  This was le
 
 [men's results](https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2015-16/2016-01-16-M2.pdf)
 
-<img src="/Images/2016/01/P1040809-300x225.jpg" alt="Brendan and Carolyn"/>
+<img src="/images/2016/01/P1040809-300x225.jpg" alt="Brendan and Carolyn"/>
 _Brendan and Carolyn_
 
-<img src="/Images/2016/01/P1040804-300x225.jpg" alt="The Oram Express"  />
+<img src="/images/2016/01/P1040804-300x225.jpg" alt="The Oram Express"  />
 _The Oram Express_ 
 
 Howes_

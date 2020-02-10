@@ -21,4 +21,4 @@ The men's team who are also in Division Two of the Birmingham League put in a fi
 The Striders men's A team fought hard on this tough course and were led home by Will Ferguson in 13th, Iain Porter 23rd, Sam Baylis 36th, Chris Driskell 72nd, Jon Howes 125th and veteran John Willson in 146th place.  
 The Striders men's B team all ran excellent races and were led home by Club captain Joel Freeland in 152nd, Andy Brookes 157th, Clark Lawson 171st, Bradley Coates 216th, Chris Thomas just behind in  217th, and Dave Street 220th. The Striders mens B team finished in 12th place on the day, and are now lying 12th overall in the B team competition.
 
-<img src="/Images/2016/12/IMG_1368-300x169.jpg" alt="img_1368" width="300" height="169" />](/Images/2016/12/IMG_1368.jpg)
+<img src="/images/2016/12/IMG_1368-300x169.jpg" alt="img_1368" width="300" height="169" />](/images/2016/12/IMG_1368.jpg)

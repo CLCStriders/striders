@@ -19,7 +19,7 @@ The weekend began with Strider **Alex Monro** bagging a massive sub-19 minute PB
 
 On Sunday morning, a strong group of Striders competed in the Northleach trail 10k. **Martin Bick, Charles Goodwin, Jon Howes, Andrew Gage, Kyle Sollars and Chris Thomas** all did the club proud at this beautiful race around the old wool town.
 
-<img src="/Images/2017/05/Northleach-10k-2017.jpg" alt="Northleach-10k-2017" width="850" height="638" />](/Images/2017/05/Northleach-10k-2017.jpg)
+<img src="/images/2017/05/Northleach-10k-2017.jpg" alt="Northleach-10k-2017" width="850" height="638" />](/images/2017/05/Northleach-10k-2017.jpg)
 
 Also on Sunday, **Emma Abbey** once again did battle with the full marathon distance in Worcester, narrowly missing out on her four-hour target time with 4:08 – a very respectable time on a hot and hilly course. And, up in the north-west, **Amelia Mullins** paced her brother around the Chester Half Marathon to his desired sub-two hour target in a time of 1:55.
 

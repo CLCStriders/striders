@@ -23,7 +23,7 @@ CLC Striders’ **Ed Thompson** was in the first wave of racers to set off and h
 
 Meanwhile, **Betty** the border terrier and her owner **Andrew Paterson** were in the second (Canicross) wave. With streams too full of melt water for little Betty’s legs to manage, Andrew had to provide extra assistance on some occasions. But the intrepid pair finished 3rd overall in an amazing time of 1:10:15.
 
-<img src="/Images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg" alt="26055902_10156468766895656_1733296786069970179_n" width="800" height="800" />](/Images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg)
+<img src="/images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg" alt="26055902_10156468766895656_1733296786069970179_n" width="800" height="800" />](/images/2017/12/26055902_10156468766895656_1733296786069970179_n.jpg)
 
 <p>
   <em>Pictured: Andrew Paterson carrying Betty through one of the tunnels on the Seven Sins course as part of the Canicross event.</em>
