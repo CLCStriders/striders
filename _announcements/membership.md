@@ -1,6 +1,6 @@
 ---
-title: membershio
+title: membership
 published: false
 ---
 
-Membership renewals are now due! 
+Membership renewals are now due!
