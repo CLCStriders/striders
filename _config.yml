@@ -12,7 +12,7 @@ kramdown:
 permalink:      ./news/:year-:month-:day-:title
 postLimit:      15
 name:           CLC Striders
-description:    "Cheltenham Ladies College Striders Running Club"
+description:    "Welcome to CLC Striders, an inclusive and competitive running club based in Cheltenham. Affiliated to England Athletics."
 title:          "CLC Striders"
 subtitle:       "Running Club"
 defaultAnnouncements: "Welcome to CLC Striders - One of Cheltenham's largest running clubs - based at Cheltenham Ladies College"
