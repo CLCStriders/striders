@@ -13,11 +13,11 @@ The team are now in 12th position in the division, and will need a strong showin
 
 |Name|Position|Time|
 |--- |---:|---:|
-|Chris Driskell|42|35:38|
-|Dave Smeath|77|37:21|
-|Damien Cuke|102|39:02|
-|Jon Howes|107|39:08|
-|JJ Willson|140|41:18|
-|Phil Jowett|147|41:55|
-|Andrew Patterson|182|45:39|
-|Duncan Kaye|202|56:42|
+|Chris Driskell| 42| 35:38|
+|Dave Smeath| 77| 37:21|
+|Damien Cuke|102| 39:02|
+|Jon Howes|107| 39:08|
+|JJ Willson|140| 41:18|
+|Phil Jowett|147| 41:55|
+|Andrew Patterson|182| 45:39|
+|Duncan Kaye|202| 56:42|
