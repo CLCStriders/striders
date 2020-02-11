@@ -49,7 +49,9 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 </tr>
 </tbody>
 </table>
-<p>Training Tops</p>
+
+### Training Tops
+
 <table style="width: 800px; border: 1px solid #0d5f00">
 <tbody>
 <tr style="background-color: #0d5f00; color: white">
