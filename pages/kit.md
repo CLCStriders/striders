@@ -6,9 +6,10 @@ permalink: /shop
 
 ---
 				
-<p>The club offers a range of items to proudly wear the CLC Striders name and badge at events or during training. These items including race vests, training tees, hoodies and jackets. Some items are shown below.</p>
+The club offers a range of items to proudly wear the CLC Striders name and badge at events or during training. These items including race vests, training tees, hoodies and jackets. Some items are shown below.
 
-<h3>General Clothing</h3>
+### General Clothing
+
 <table style="width: 800px; border: 1px solid #0d5f00">
 <tbody>
 <tr style="background-color: #0d5f00; color: white">
@@ -115,7 +116,7 @@ permalink: /shop
 </tr>
 </tbody>
 </table>
-<p>You are able to personalise any of the training tops by adding your name on the back for £1.</p>
-<p>To place an order, or for more details, please speak to Hedley Philips at training or by email <kit@clcstriders-runningclub.co.uk>. You will need to advise your size and colour combination. Cheques should be made payable to &#8216;CLC Striders Running Club.</p>
-              </div>
-        
+
+You are able to personalise any of the training tops by adding your name on the back for £1.
+
+To place an order, or for more details, please speak to Hedley Philips at training or by email <kit@clcstriders-runningclub.co.uk>. You will need to advise your size and colour combination. Cheques should be made payable to CLC Striders Running Club.
