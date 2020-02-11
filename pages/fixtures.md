@@ -6,7 +6,7 @@ permalink: /fixtures
 
 ---
 
-The CLC Striders have a strong showing a large variety of races in the local race calendar. The committee have gathered a list of key races for the club throughout the year. The fixture list is below:
+The CLC Striders have a strong showing at a large variety of races in the local race calendar. The committee have gathered a list of key races for the club throughout the year. The fixture list is below:
 
 *Races highlighted form part of the [Striders Road Race Series](/roadraceseries).
 
