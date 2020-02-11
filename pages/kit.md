@@ -116,6 +116,6 @@ permalink: /shop
 </tbody>
 </table>
 <p>You are able to personalise any of the training tops by adding your name on the back for £1.</p>
-<p>To place an order, or for more details, please speak to Jon Howes at training. You will need to advise your size and colour combination. Cheques should be made payable to &#8216;CLC Striders Running Club.</p>
+<p>To place an order, or for more details, please speak to Hedley Philips at training or by email <kit@clcstriders-runningclub.co.uk>. You will need to advise your size and colour combination. Cheques should be made payable to &#8216;CLC Striders Running Club.</p>
               </div>
         
