@@ -51,7 +51,7 @@ This will be clearly marshalled. Please note that road closures have not been ap
 ### Acknowledgements
 
 [The Aviator Inn](https://www.theaviatorglos.co.uk/), Gloucestershire Airport, Up and Running,
-[CLC Health and Fitness Centre](https://fitness.cheltladiescollege.org/),  friends and members of CLC Striders.
+[CLC Health & Fitness Centre](https://fitness.cheltladiescollege.org/),  friends and members of CLC Striders.
 
 ### Previous results
 

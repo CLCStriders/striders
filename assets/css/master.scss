@@ -649,3 +649,6 @@ a.skip-main:focus, a.skip-main:active {
     cursor: -ms-grabbing;
     cursor: grabbing;
 }
+
+// fixes data tables display block bug
+.table-responsive { display: inline-table !important;}

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Events
-permalink: /events
+title: Club events
+permalink: /club-events
 description: CLC Striders hosted events
 ---
 

@@ -20,6 +20,6 @@ Membership benefits include:
 - Supportive and experienced running club members to help you improve your fitness and performance
 - The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country).
 
- Our membership is renewable annually on 1st April. Half year memberships from 1st October are available, as are second claim memberships. Please contact the [membership secretary](/committee) for more information
+ Our membership is renewable annually on 1st April. Second claim memberships are also available. Please contact the <membership@clcstriders-runningclub.co.uk> for more information.
 
 Once you've decided you want to join, please complete the [membership form](/membership-form).

@@ -7,7 +7,7 @@ items:
 
 - name: CLC Striders Events 
   url: /staverton-10 
-  display: Events
+  display: Club events
 
 - name: Upcoming Fixtures 
   url: /fixtures 
@@ -31,4 +31,4 @@ items:
 
 - name: CLC Striders
   url: /shop 
-  display: Shop
+  display: Kit
