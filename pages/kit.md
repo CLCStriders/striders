@@ -10,6 +10,7 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 
 ### General Clothing
 
+{:.display}
 |Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
 |Special Edition 10-year anniversary soft shell jacket| <a href="/images/2018/02/Kit2018_03.jpg" target="_blank"><img src=" /images/2018/02/Kit2018_03.jpg" width="100"></a>|Men’s & Ladies’ Fit|Club Colours|£26|
@@ -19,7 +20,8 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 
 ### Training Tops
 
-|Description|Photo Coming Soon|Fit|Colour Options|Price|
+{:.display}
+|Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
 |Plain Vest|Photo Coming Soon|Mens & Ladies Fit|Green, Black, White, Fluorescent Yellow|£12|
 |Plain Short Sleeved Tee| <a href="/images/2018/02/Kit2018_01.jpg" target="_blank"><img src=" /images/2018/02/Kit2018_01.jpg" width="100"></a>|Mens & Ladies Fit|Green, Black, White, Fluorescent Yellow|£13|
