@@ -10,7 +10,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 
 #### The Striders committee
 
-{:.committee}
+{:.committee .display}
 |Name | Role | Email |
 |--|--|--|
 | Brendan Ward| Club President and Head Coach| |
