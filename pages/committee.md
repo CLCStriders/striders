@@ -6,11 +6,11 @@ permalink: /committee
 
 ---
 
-The club is run on a volunteer basis and the commitee is elected at the club AGM
+The club is run on a volunteer basis and the committee is elected at the club AGM
 
 #### The Striders committee
 
-{:.committee .display}
+{:.committee}
 |Name | Role | Email |
 |--|--|--|
 | Brendan Ward| Club President and Head Coach| |
