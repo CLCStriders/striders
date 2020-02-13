@@ -12,7 +12,7 @@
     <div id="gallery">
         <ul id="lightSlider">
             {% for cItem in site.sliderImages %}}
-                <li class="{{ cItem.title }}"><img src="{{ cItem.filePath }}" alt="{{ cItem.description }}"/></li>
+                <li class="{{ cItem.title }}"><img src="{{ cItem.filePath }}" data-lightbox="homepage" alt="{{ cItem.description }}"/></li>
             {% endfor %}
         </ul>
     </div>
