@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership
-membershipForm : /assets/clc-striders-membership-form.pdf
 permalink: /membership
 description: Cheltenham running club membership at CLC Striders
 
@@ -15,11 +14,22 @@ Membership benefits include:
 - Inspirational coaching from our qualified coaches
 - Discounts offered at local running shops
 - Discount entry offered at most running events
-- Athlete registration with [England Athletics](https://www.englandathletics.org)
+- Athlete registration with [England Athletics](https://www.englandathletics.org/athletics-and-running/athlete-registration/)
 - Personal insurance for when you are out on the road training
 - Supportive and experienced running club members to help you improve your fitness and performance
-- The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country).
+- The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country)
 
- Our membership is renewable annually on 1st April. Second claim memberships are also available. Please contact the <membership@clcstriders-runningclub.co.uk> for more information.
+In line with England Athletics registration, our membership is renewable annually on 1st April.
 
-Once you've decided you want to join, please complete the [membership form](/membership-form).
+The 2019/20 membership fees are:
+
+- Full year membership - £29 &#x00B9;
+- Half year membership - £16 &#x00B9; (from 1st October)
+- Second claim membership - £14 &#x00B2;
+
+&#x00B9; Includes the £15 England Athletics registration fee.  
+&#x00B2; Second claim members are those already registered with another England Athletics club.
+
+When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website.
+
+Please contact the <membership@clcstriders-runningclub.co.uk> for more information.

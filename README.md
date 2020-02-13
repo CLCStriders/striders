@@ -2,11 +2,11 @@
 
 You can:
 
-* Read more on the [wiki](https://github.com/ChelseaStats/striders/wiki)
-* See how the [project](https://github.com/ChelseaStats/striders/projects) is coming along
-* See the outstanding [issues](https://github.com/ChelseaStats/striders/issues) or add you own.
+* Read more on the [wiki](https://github.com/CLCStriders/striders/wiki)
+* See how the [project](https://github.com/CLCStriders/striders/projects) is coming along
+* See the outstanding [issues](https://github.com/CLCStriders/striders/issues) or add you own.
 
-[You can access the front end here](https://striders.thechels.uk)
+[You can access the front end here](https://clcstriders-runningclub.co.uk)
 
 ## Technology
 
