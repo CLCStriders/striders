@@ -63,8 +63,8 @@ Road,Men,10m,55-59,Gavin Jerman,01:13:14,Oldbury,2018-09-09
 Road,Men,10m,60-64,,,,
 Road,Men,10m,65-69,,,,
 Road,Men,HM,U20,George Parker,01:43:37,Stroud,2014-10-26
-Road,Men,HM,Senior,Will Ferguson,01:09.5,Reading,2019-03-17
-Road,Men,HM,35-39,Will Ferguson,01:09.5,Reading,2019-03-17
+Road,Men,HM,Senior,Will Ferguson,01:09.54,Reading,2019-03-17
+Road,Men,HM,35-39,Will Ferguson,01:09.54,Reading,2019-03-17
 Road,Men,HM,40-44,James Oram,01:16:34,Bath,2015-03-01
 Road,Men,HM,45-49,Billy Bradshaw,01:25:16,Stroud,2010-10-24
 Road,Men,HM,50-54,Charles Goodwin,01:22:02,Cheltenham,2015-09-27
@@ -179,7 +179,7 @@ Road,Women,Marathon,50-54,,,,
 Road,Women,Marathon,55-59,,,,
 Road,Women,Marathon,60-64,Dawn Addinall,04:43:48,Edinburgh,2011-05-22
 Road,Women,Marathon,65-69,,,,
-Track,Men,100m,U17,,,,
+Track,Women,100m,U17,,,,
 Track,Women,100m,U20,,,,
 Track,Women,100m,Senior,Katie Butler,13.8,Prince of Wales Stadium,2012-05-13
 Track,Women,100m,35-39,Helen Howes,17.36,Prince of Wales Stadium,2015-07-01
@@ -194,7 +194,7 @@ Track,Women,150m,U20,,,,
 Track,Women,150m,Senior,Hollie Wharton,22.8,Prince of Wales Stadium,2012-07-18
 Track,Women,150m,35-39,,,,
 Track,Women,150m,40-44,Emma Abbey,27.17,Prince of Wales Stadium,2016-07-13
-Track,Women,150m,45-49,Amelia Mullins,26,Cheltenham,2018-07-25
+Track,Women,150m,45-49,Amelia Mullins,26.0,Cheltenham,2018-07-25
 Track,Women,150m,50-54,,,,
 Track,Women,150m,55-59,,,,
 Track,Women,150m,60-64,,,,
@@ -221,9 +221,9 @@ Track,Women,300m,60-64,,,,
 Track,Women,300m,65-69,,,,
 Track,Women,400m,U17,,,,
 Track,Women,400m,U20,,,,
-Track,Women,400m,Senior,Hollie Wharton,01:13.3,Worcester,2012-04-26
+Track,Women,400m,Senior,Hollie Wharton,73.3,Worcester,2012-04-26
 Track,Women,400m,35-39,Rachel Vines,76.6,Prince of Wales Stadium,2017-07-12
-Track,Women,400m,40-44,Amelia Mullins,83,Prince of Wales Stadium,2016-07-20
+Track,Women,400m,40-44,Amelia Mullins,83.0,Prince of Wales Stadium,2016-07-20
 Track,Women,400m,45-49,Amelia Mullins,83.3,Prince of Wales Stadium,2018-07-11
 Track,Women,400m,50-54,,,,
 Track,Women,400m,55-59,,,,
@@ -304,7 +304,7 @@ Track,Women,5km,U20,,,,
 Track,Women,5km,Senior,Rachel Vines,18:48.5,Yate,2017-07-22
 Track,Women,5km,35-39,Rachel Vines,18:48.5,Yate,2017-07-22
 Track,Women,5km,40-44,Amelia Mullins,20:13.5,Prince of Wales Stadium,2016-07-13
-Track,Women,5km,45-49,Amanda Steer,20:51,Prince of Wales Stadium,2017-05-13
+Track,Women,5km,45-49,Amanda Steer,20:51.0,Prince of Wales Stadium,2017-05-13
 Track,Women,5km,50-54,,,,
 Track,Women,5km,55-59,Dawn Addinall,26:20.4,CLC,2009-06-10
 Track,Women,5km,60-64,,,,
@@ -361,7 +361,7 @@ Track,Women,3000m s/c,60-64,,,,
 Track,Women,3000m s/c,65-69,,,,
 Track,Women,4x 100m relay,U17,,,,
 Track,Women,4x 100m relay,U20,,,,
-Track,Women,4x 100m relay,Senior,"Rachel Vines, Amelia Mullins, Helen Howes & Nicola Weager",71.8,Prince of Wales Stadium,2018-09-07
+Track,Women,4x 100m relay,Senior,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,Prince of Wales Stadium,2018-09-07
 Track,Women,4x 100m relay,35-39,,,,
 Track,Women,4x 100m relay,40-44,,,,
 Track,Women,4x 100m relay,45-49,,,,
@@ -371,7 +371,7 @@ Track,Women,4x 100m relay,60-64,,,,
 Track,Women,4x 100m relay,65-69,,,,
 Track,Women,4x 400m relay,U17,,,,
 Track,Women,4x 400m relay,U20,,,,
-Track,Women,4x 400m relay,Senior,"Rachel Vines, Jo Wilkie, Orla Flannery & Vicky Lewis",04:59.7,Prince of Wales Stadium,2013-08-21
+Track,Women,4x 400m relay,Senior,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",04:59.7,Prince of Wales Stadium,2013-08-21
 Track,Women,4x 400m relay,35-39,,,,
 Track,Women,4x 400m relay,40-44,,,,
 Track,Women,4x 400m relay,45-49,,,,
@@ -393,7 +393,7 @@ Track,Men,100m,U17,Ben Hodges,12.22,CLC,2009-06-24
 Track,Men,100m,U20,,,,
 Track,Men,100m,Senior,Nick O'Neil,11.9,Prince of Wales Stadium,2009-05-10
 Track,Men,100m,35-39,Richard Cannock,14.5,Prince of Wales Stadium,2009-07-03
-Track,Men,100m,40-44,Paul Lockyer,13,Prince of Wales Stadium,2016-07-20
+Track,Men,100m,40-44,Paul Lockyer,13.0,Prince of Wales Stadium,2016-07-20
 Track,Men,100m,45-49,Gareth Harries,14.1,Prince of Wales Stadium,2018-07-04
 Track,Men,100m,50-54,Martin Bick,14.62,Prince of Wales Stadium,2015-07-22
 Track,Men,100m,55-59,Andy Brookes,15.57,Tavistock,2018-08-12
@@ -434,7 +434,7 @@ Track,Men,400m,U20,,,,
 Track,Men,400m,Senior,Joel Freeland,56.3,Prince of Wales Stadium,2011-07-20
 Track,Men,400m,35-39,John Parker,57.7,Prince of Wales Stadium,2010-07-07
 Track,Men,400m,40-44,Paul Lockyer,59.7,Cheltenham,2018-07-25
-Track,Men,400m,45-49,Gareth Harries,63,"Jubilee Track, Gloucester",2018-05-13
+Track,Men,400m,45-49,Gareth Harries,63.0,"Jubilee Track, Gloucester",2018-05-13
 Track,Men,400m,50-54,Gavin Jerman,78.6,Prince of Wales Stadium,2017-07-26
 Track,Men,400m,55-59,Andy Brookes,68.7,Cheltenham,2018-08-12
 Track,Men,400m,60-64,,,,
@@ -513,7 +513,7 @@ Track,Men,5km,U17,,,,
 Track,Men,5km,U20,George Parker,20:27.7,Prince of Wales Stadium,2015-05-13
 Track,Men,5km,Senior,Will Ferguson,15.15.09,Yate,2018-06-23
 Track,Men,5km,35-39,Will Ferguson,15:15:09,Yate,2018-06-23
-Track,Men,5km,40-44,Juan Moreno,16:06,Malaga,2018-05-27
+Track,Men,5km,40-44,Juan Moreno,16:06.0,Malaga,2018-05-27
 Track,Men,5km,45-49,Richard Shardlow,18:16.8,Prince of Wales Stadium,2015-05-13
 Track,Men,5km,50-54,Richard Shardlow,19:20.5,Gloucester,2019-09-03
 Track,Men,5km,55-59,JJ Willson,19:51.3,Prince of Wales Stadium,2015-07-15
@@ -571,7 +571,7 @@ Track,Men,3000m s/c,60-64,,,,
 Track,Men,3000m s/c,65-69,,,,
 Track,Men,4x 100m relay,U17,,,,
 Track,Men,4x 100m relay,U20,,,,
-Track,Men,4x 100m relay,Senior,"Jon Howes, Mike Speke, Eoin McQuone & Paul Lockyer",57.7,Prince of Wales Stadium,2018-09-07
+Track,Men,4x 100m relay,Senior,"Jon Howes, Mike Speke, Eoin McQuone, Paul Lockyer",57.7,Prince of Wales Stadium,2018-09-07
 Track,Men,4x 100m relay,35-39,,,,
 Track,Men,4x 100m relay,40-44,,,,
 Track,Men,4x 100m relay,45-49,,,,
@@ -581,7 +581,7 @@ Track,Men,4x 100m relay,60-64,,,,
 Track,Men,4x 100m relay,65-69,,,,
 Track,Men,4x 400m relay,U17,,,,
 Track,Men,4x 400m relay,U20,,,,
-Track,Men,4x 400m relay,Senior,"Jon Howes, Mike Speke, Eoin McQuone & Paul Lockyer",57.7,Prince of Wales Stadium,2018-09-07
+Track,Men,4x 400m relay,Senior,,,,
 Track,Men,4x 400m relay,35-39,,,,
 Track,Men,4x 400m relay,40-44,,,,
 Track,Men,4x 400m relay,45-49,,,,
