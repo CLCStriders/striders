@@ -9,7 +9,7 @@ layout: default
 <div id="gallery">
     <ul id="lightSlider">
         {% for image in site.static_files %}
-            {% if image.path contains '/images/2020/' %}
+            {% if image.path contains '/images/' %}
                 <li><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></li>
             {% endif %}
         {% endfor %}
