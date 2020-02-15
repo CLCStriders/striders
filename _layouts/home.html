@@ -11,8 +11,11 @@
     {% if site.slider %}
     <div id="gallery">
         <ul id="lightSlider">
-            {% for cItem in site.sliderImages %}
-                <li class="{{ cItem.title }}"><img src="{{ cItem.filePath }}" alt="{{ cItem.description }}"/></li>
+            {% for image in site.static_files %}
+                {% if image.path contains '/images/sliders/' %}
+                    <li>
+                        <br/><img src="{{ site.baseurl }}{{ image.path }}" alt="image {{image.name}}" /></li>
+                {% endif %}
             {% endfor %}
         </ul>
     </div>

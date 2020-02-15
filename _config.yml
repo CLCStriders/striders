@@ -34,9 +34,7 @@ toc:            true
 slider:         true
 announcements:  true
 collections:
-  announcements:
-  sliderImages:
-  
+  announcements:  
 exclude:        ["README"]
 sass:
   style:        compressed
