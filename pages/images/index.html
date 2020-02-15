@@ -1,0 +1,16 @@
+---
+title: Image Gallery
+description: CLC Striders image gallery
+permalink: /images
+
+---
+
+<div id="gallery">
+    <ul id="lightSlider">
+        {% for image in site.static_files | limit: 20 %}
+            {% if image.path contains 'images/slider' %}
+                <li><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
