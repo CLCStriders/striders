@@ -37,10 +37,10 @@ collections:
   announcements:
 defaults:
   - scope:
-      path: "/images/sliders"
+      path: "images/sliders"
     values:
       image: true      
 exclude:        ["README"]
 sass:
   style:        compressed
-plugins:        [ jekyll-feed, jekyll-paginate, jekll-sitemap]
+plugins:        [ jekyll-feed, jekyll-paginate, jekyll-sitemap]
