@@ -6,7 +6,7 @@
  
     "use strict";
 
-    const version = "v20191225";
+    const version = "v20200215";
     const cacheName = version + "Striders";
 
     const staticCacheName = cacheName + "static";
