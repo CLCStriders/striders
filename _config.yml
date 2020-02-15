@@ -4,7 +4,7 @@
 #                                                                             #
 ###############################################################################
 
-cache:          20200211_go_live_v2
+cache:          20200211_sliders_rework_v2
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
@@ -37,7 +37,7 @@ collections:
   announcements:
 defaults:
   - scope:
-      path: "images/slider"
+      path: "/images/sliders"
     values:
       image: true      
 exclude:        ["README"]
