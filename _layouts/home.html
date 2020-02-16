@@ -13,7 +13,9 @@
         <ul id="lightSlider">
             {% assign image_files = site.static_files | where: "image", true %}
             {% for image in image_files %}
+                {% if image.extname != "md" %}
                     <li><img src="{{ site.baseurl }}{{ image.path }}" alt="image {{image.name}}" /></li>
+                {% endif %}    
             {% endfor %}
         </ul>
     </div>
