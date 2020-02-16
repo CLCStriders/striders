@@ -19,8 +19,10 @@ layout: default
             {% if image.path contains '/images/' %}
                 <li>
                     {{image.path}}
+                    <br/>
                     <a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox"  data-gallery="example-gallery" data-max-width="100">
                         <img src="{{ site.baseurl }}{{ image.path }}" class="img-fluid" alt="image {{image.name}}">
+                        </a>
             {% endif %}
         {% endfor %}
     </ul>
