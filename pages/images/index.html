@@ -5,20 +5,46 @@ permalink: /images
 layout: default
 
 ---
-<div id="gallery">
-    <ul id="lightSlider">
-        {% for image in site.static_files %}
-            {% if image.path contains '/images/' %}
-                <li>
-                    {{image.path}}
-                    <br/>
-                    <a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox"  data-gallery="example-gallery" data-max-width="100">
-                        <img src="{{ site.baseurl }}{{ image.path }}" class="img-fluid" alt="image {{image.name}}">
-                        </a>
-            {% endif %}
-        {% endfor %}
+
+<div class="container">
+
+    <ul class="nav nav-pills nav-stacked">
+      <li><a href="#lightbox" data-toggle="modal">Open Lightbox</a></li>
+      <li><a href="#lightbox" data-toggle="modal" data-slide-to="1">2nd Image</a></li>
+      <li><a href="#lightbox" data-toggle="modal" data-slide-to="2">3rd Image</a></li>
+      <li><a href="#lightbox" data-toggle="modal" data-slide-to="15">Open non existing Image</a></li>
     </ul>
-</div>
+    
+    <div class="modal fade and carousel slide" id="lightbox">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <ol class="carousel-indicators">
+              <li data-target="#lightbox" data-slide-to="0" class="active"></li>
+              <li data-target="#lightbox" data-slide-to="1"></li>
+              <li data-target="#lightbox" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                {% for image in site.static_files %}
+                    {% if image.path contains '/images/' %}
+                            <div class="item {{image.path}}">
+                                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+                            </div>
+                    {% endif %}
+                {% endfor %}
+            </div><!-- /.carousel-inner -->
+            <a class="left carousel-control" href="#lightbox" role="button" data-slide="prev">
+              <i class="fa fa-chevron-left fa-2x"></i>
+            </a>
+            <a class="right carousel-control" href="#lightbox" role="button" data-slide="next">
+              <i class="fa fa-chevron-right fa-2x"></i>
+            </a>
+          </div><!-- /.modal-body -->
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+  
+  </div><!-- /.container -->
 
 
 
