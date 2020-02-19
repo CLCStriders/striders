@@ -652,3 +652,29 @@ a.skip-main:focus, a.skip-main:active {
 
 // fixes data tables display block bug
 .table-responsive { display: inline-table !important;}
+
+.modal.and.carousel {
+    position: absolute; // Needed because the carousel overrides the position property
+  }
+  
+  /* SDL changes - use Font Awesome */
+  .carousel-control {
+      top: 45%;
+      width: 5%;
+      background-image: none;
+  }
+  
+  .carousel-control.left, .carousel-control.right {
+      background-image: none;
+  }
+  .carousel-control.left {
+      margin-left: 25px;
+  }
+  .carousel-control.right {
+      margin-right: 25px;
+  }
+  .carousel.slide {
+      box-shadow: none;
+  }
+  
+  
