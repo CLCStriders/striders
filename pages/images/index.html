@@ -7,53 +7,15 @@ layout: default
 ---
 
 <div class="container">
-
-    <ul class="nav nav-pills nav-stacked">
+    <ul>
         {% for image in site.static_files %}
         {% if image.path contains '/images/' %}
         <li>
-          {% if forloop.first == true %}
-          <a href="#lightbox" data-toggle="modal" class="active">
-          {% else %}      
-          <a href="#lightbox" data-toggle="modal">
-          {% endif %}  
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" style="width: 50px; height:50px;">
+          <a href="{{ site.baseurl }}{{ image.path }}" data-toggle="lightbox">
+            <img src="{{ site.baseurl }}{{ image.path }}" class="img-fluid img-thumbnail" alt="{{ image.name }}" style="width: 50px; height:50px;">
           </a>
         </li>
         {% endif %}
     {% endfor %}
     </ul>
-    
-    <div class="modal fade and carousel slide" id="lightbox">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-body">
-            <div class="carousel-inner">
-                {% for image in site.static_files %}
-                    {% if image.path contains '/images/' %}
-                      {% if forloop.first == true %}
-                            <div class="item active">
-                      {% else %}      
-                            <div class="item">
-                      {% endif %}        
-                                <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
-                            </div>
-                    {% endif %}
-                {% endfor %}
-            </div><!-- /.carousel-inner -->
-            <a class="left carousel-control" href="#lightbox" role="button" data-slide="prev">
-              <i class="fa fa-chevron-left fa-2x"></i>
-            </a>
-            <a class="right carousel-control" href="#lightbox" role="button" data-slide="next">
-              <i class="fa fa-chevron-right fa-2x"></i>
-            </a>
-          </div><!-- /.modal-body -->
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-  
-  </div><!-- /.container -->
-
-
-
-
+</div>
