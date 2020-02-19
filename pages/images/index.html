@@ -12,7 +12,11 @@ layout: default
         {% for image in site.static_files %}
         {% if image.path contains '/images/' %}
         <li>
+          {% if forloop.first == true %}
+          <a href="#lightbox" data-toggle="modal" class="active">
+          {% else %}      
           <a href="#lightbox" data-toggle="modal">
+          {% endif %}  
             <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" style="width: 50px; height:50px;">
           </a>
         </li>
