@@ -6,7 +6,8 @@ permalink: /categories/
 description: News items grouped by category for CLC Striders Running Club in Cheltenham
 
 ---
-{% for category in site.categories | sort %}
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
 <h3 id="{{ category[0] | slugify }}">{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
