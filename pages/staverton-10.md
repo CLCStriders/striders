@@ -7,7 +7,7 @@ signUpUrl : https://www.entrycentral.com/event/111305
 signUpYear: 2020
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-state: full
+state: closed
 
 ---
  {% if page.state == "open" %}
