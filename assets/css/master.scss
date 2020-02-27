@@ -90,7 +90,7 @@ img {
  max-width: 100%
 }
 
-em::before {content: '\A'}
+em { display: table;}
 
 a.skip-main {
     left:-999px;
