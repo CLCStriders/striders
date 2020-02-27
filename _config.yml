@@ -18,6 +18,7 @@ subtitle:       "Running Club"
 defaultAnnouncements: "Welcome to CLC Striders, an inclusive and competitive running club based in Cheltenham - based at Cheltenham Ladies College"
 author:         CLC Strider
 url:            https://clcstriders-runningclub.co.uk
+defaultImagePath: "/assets/img/apple-touch-icon-114x114-precomposed.png"
 themeColor:     3e9b00
 copyright:      "CLC Striders"
 twitter:        https://twitter.com/CLCStriders
