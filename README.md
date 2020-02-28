@@ -12,7 +12,7 @@ You can:
 
 This [website](https://clcstriders-runningclub.co.uk) is built using [Jekyll](https://jekyllrb.com/) - a static site generator built on [Ruby](https://www.ruby-lang.org/en/). It is hosted on [Github](https://github.com/).
 
-Predominantly the codebase is Javascript (through plugins like image slider and [datatables](https://datatables.net), HTML and CSS. 
+Predominantly the codebase is Javascript (through plugins like image slider and [datatables](https://datatables.net)), with HTML and CSS ([scss](https://sass-lang.com/documentation/syntax)). 
 
 Content is written in [markdown](https://daringfireball.net/projects/markdown/) and templating is through [Liquid](https://shopify.github.io/liquid/).
 
