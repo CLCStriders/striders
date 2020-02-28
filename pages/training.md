@@ -21,8 +21,8 @@ This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 min
 We change the route every few weeks but examples are:
 
 - Warden Hill & Hatherley
-  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / GPX
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063) / GPX
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / [GPX](assets/gpx/4m_Warden_Hill_Hatherley.gpx)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063) / [GPX](assets/gpx/6m_Warden_Hill_Hatherley.gpx)
 
 - Benhall & Warden Hill
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7304693) / GPX
@@ -30,7 +30,7 @@ We change the route every few weeks but examples are:
 
 - Christmas lights
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7428607) / GPX
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7428605) / GPX
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7428605) / [GPX](assets/gpx/6m_Christmas_Lights.gpx)
 
 - Honeybourne & Hewlett Rd / Hales Road
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7336512) / GPX
@@ -38,8 +38,8 @@ We change the route every few weeks but examples are:
 
 - Summer route with Pittville Park / Racecourse
   - 4m - [Gmap](https://www.gmap-pedometer.com/?r=6584237) / GPX
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / GPX
-
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / [GPX](6m_Summer_Route_Pittville_Park_Racecourse.gpx)
+  - 8m - Gmap / [GPX](8m_Summer_Route_Pittville_Park_Racecourse.gpx)
 #### Wednesdays – Speed work
 
 Meet at 6.30pm, CLC Health & Fitness Centre
