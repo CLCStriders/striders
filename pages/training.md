@@ -34,7 +34,7 @@ We change the route every few weeks but examples are:
 
 - Honeybourne & Hewlett Rd / Hales Road
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7336512)
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7333921)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7333921) [GPX](assets/gpx/6m_Honeybourne_Hewlett_Hales.gpx)
 
 - Summer route with Pittville Park / Racecourse
   - 4m - [Gmap](https://www.gmap-pedometer.com/?r=6584237)
