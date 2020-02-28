@@ -17,3 +17,9 @@ Predominantly the codebase is Javascript (through plugins like image slider and 
 Content is written in [markdown](https://daringfireball.net/projects/markdown/) and templating is through [Liquid](https://shopify.github.io/liquid/).
 
 The site and DNS records are backed by [CloudFlare](https://www.cloudflare.com/).
+
+## Social Media
+
+The club have social media channels on Instagram, Twitter and Facebook and integrations between them.
+- Instagram posts appear on twitter
+- RSS feed (news items) appear on facebook and twitter.
