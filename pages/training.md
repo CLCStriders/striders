@@ -20,10 +20,6 @@ This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 min
 
 We change the route every few weeks but examples are:
 
-- Warden Hill & Hatherley
-  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / [GPX](assets/gpx/4m_Warden_Hill_Hatherley.gpx)
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063) / [GPX](assets/gpx/6m_Warden_Hill_Hatherley.gpx)
-
 - Benhall & Warden Hill
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7304693) / GPX
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7305262) / GPX
@@ -40,6 +36,10 @@ We change the route every few weeks but examples are:
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6584237) / GPX
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / [GPX](6m_Summer_Route_Pittville_Park_Racecourse.gpx)
   - 8M - Gmap / [GPX](8m_Summer_Route_Pittville_Park_Racecourse.gpx)
+
+- Warden Hill & Hatherley
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / [GPX](assets/gpx/4m_Warden_Hill_Hatherley.gpx)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063) / [GPX](assets/gpx/6m_Warden_Hill_Hatherley.gpx)
 
 #### Wednesdays – Speed work
 
