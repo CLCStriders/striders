@@ -1,12 +1,12 @@
 ---
 layout: default
 title: CLC Striders Training Sessions
-description: CLC Striders running club training sessions - cheltenham training sessions
+description: CLC Striders running club training sessions - cheltenham training sessions maps and gpx
 permalink: /training
 
 ---
 
-Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs.  We have two main sessions: a social run on Mondays and speed work on Wednesdays.  We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
+Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs. We have two main sessions: a social run on Mondays and speed work on Wednesdays. We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
 
 The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining.  Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
@@ -16,7 +16,7 @@ On both Mondays and Wednesdays, we meet at the [CLC Health & Fitness Centre]({{ 
 
 Meet at 6.30pm, CLC Health & Fitness Centre
 
-This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 minute/miles (approx. 4 to 6 minute/km), each group with an experienced leader.  We start and finish at the CLC sports centre, using well-lit pavements around Cheltenham in the winter months, and Pittville Park and the Racecourse in the summer.
+This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 minute/miles (approx. 4 to 6 minute/km), each group with an experienced leader. We start and finish at the CLC Health & Fitness Centre, using well-lit pavements around Cheltenham in the winter months, and Pittville Park and the Racecourse in the summer.
 
 We change the route every few weeks but examples are:
 
