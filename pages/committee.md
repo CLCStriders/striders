@@ -18,8 +18,8 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Matt Ashman| Committee Secretary| <secretary@clcstriders-runningclub.co.uk>
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
 | Eoin McQuone| Treasurer| <committee@clcstriders-runningclub.co.uk> |
-| Amelia Mullins| Coach| <committee@clcstriders-runningclub.co.uk> |
-| Martin Bick | Coach | <committee@clcstriders-runningclub.co.uk> |
+| Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
+| Martin Bick | Coach | <training@clcstriders-runningclub.co.uk> |
 | Rachel Vines| Race Coordinator| <races@clcstriders-runningclub.co.uk> |
 | Karlien Heyrman| Women’s Captain| <races@clcstriders-runningclub.co.uk> |
 | Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
