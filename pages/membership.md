@@ -30,6 +30,6 @@ The 2019/20 membership fees are:
 &#x00B9; Includes the £15 England Athletics registration fee.  
 &#x00B2; Second claim members are those already registered with another England Athletics club.
 
-When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website.
+When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website. Membership fees are due within 21 days of receipt of the payment link. 
 
-Please contact the <membership@clcstriders-runningclub.co.uk> for more information.
+The club's privacy statement can be found here [Privacy Statement](/privacy). For further information please email <membership@clcstriders-runningclub.co.uk>.
