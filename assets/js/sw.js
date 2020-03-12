@@ -21,7 +21,7 @@
         "{{site.url}}/pages/news/",
         "{{site.url}}/pages/about",
         "{{site.url}}/pages/archives",
-        "{{site.url}}/pages/categories/",
+        "{{site.url}}/categories/",
         "{{site.url}}/pages/membership",
         "{{site.url}}/pages/directory",
         {% for post in site.posts | limit : 3 %}
