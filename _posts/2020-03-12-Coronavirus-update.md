@@ -15,3 +15,5 @@ We kindly ask that you all follow the advice of ensuring good hygiene and regula
 Should CLC Sports Centre determine there is a need to close the facility we will review and determine next steps.
 
 The committee will monitor, update and revise this guidance as the situation and government advice develops. We will update you if the outbreak starts to impact on our ability to continue to run Monday and Wednesday training and will ensure the club website is kept up to date with information. Please check the club website regularly and specifically before training events as it will be the primary source of updates and developments.
+
+[England Athletics have also made the a statement](https://www.englandathletics.org/athletics-and-running/news/coronavirus-statement/)
