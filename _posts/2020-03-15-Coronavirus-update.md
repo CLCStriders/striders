@@ -26,7 +26,7 @@ Can I remind you all of the UK Government advice to support the UK's response by
 
 * checking on elderly or vulnerable family, friends and neighbours 
 
-* using NHS 111, pharmacies and GPs responsibly, and go to the hospital only when you really need to. This is further explained on the NHS website  - [www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergencycare/when-to-go-to-ae/](http://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergencycare/when-to-go-to-ae/)
+* using NHS 111, pharmacies and GPs responsibly, and go to the hospital only when you really need to. This is further explained on the NHS website  - [When to go to A&E](http://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergencycare/when-to-go-to-ae/)
 
 * being understanding of the pressures the health and social care systems may be under, and receptive to changes that may be needed to the provision of care to you and your family.
 
