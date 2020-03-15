@@ -1,5 +1,5 @@
 ---
-title: CLC Striders Coronavirus update 2020-03015
+title: CLC Striders Coronavirus update 2020-03-15
 layout: post
 categories:
   - Committee updates
