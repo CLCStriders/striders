@@ -34,4 +34,4 @@ Can I remind you all of the UK Government advice to support the UK's response by
 
 * checking for new advice as the situation changes.
  
-If you have any questions or concerns please email <secretary@clcstriders-runningclub.co.uk>.
+If you have any questions or concerns please email <secretary@clcstriders-runningclub.co.uk>
