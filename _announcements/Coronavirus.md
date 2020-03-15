@@ -4,4 +4,4 @@ published: true
 
 ---
 
-The committee have published a [Coronavirus update](/news/2020-03-12-Coronavirus-update) for club members.
+The committee have published a [Coronavirus update (15 March 2020)](/news/2020-03-15-Coronavirus-update) for club members.
