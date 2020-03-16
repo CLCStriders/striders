@@ -1,5 +1,5 @@
 ---
-title: CLC Striders Coronavirus update 2020-03-15
+title: Coronavirus Update 2
 layout: post
 date: 2020-03-15 21:45
 categories:
