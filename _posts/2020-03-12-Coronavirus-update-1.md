@@ -1,5 +1,5 @@
 ---
-title: Coronavirus Update 1
+title: Coronavirus Update - 12 March
 layout: post
 categories:
   - Committee updates
