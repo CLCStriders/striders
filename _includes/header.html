@@ -10,7 +10,7 @@
   gtag('config', '{{ site.ga }}');
 </script>
     <meta charset="utf-8" />
-    <title>{{ page.title }} | {{ site.name }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %} CLC Striders Running Club homepage {% endif %} | {{ site.name }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no" />
@@ -24,7 +24,6 @@
     <link rel="dns-prefetch" href="//cdn.datatables.net">
     <link rel="dns-prefetch" href="//kit.fontawesome.com">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link rel="dns-prefetch" href="//clcstriders-runningclub.co.uk">
     <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.ico" />
     <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
