@@ -1,6 +1,6 @@
 ---
 layout: post
-title: England Athletics Statement on Coronovirus
+title: England Athletics Statement on Coronavirus
 date: 2020-03-17
 category: 
  - News
