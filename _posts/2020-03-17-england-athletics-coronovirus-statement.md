@@ -20,8 +20,8 @@ England Athletics will continue to review and monitor government advice and will
 
 Social distancing measures (as defined by Public Health England as spending more than 15 minutes and within a 2-metre distance talking to someone) are now advised not only if we test positive or have symptoms, but in day to day life.  As well as current travel advice, the current UK government is advising anyone with a “new, continuous” cough or high temperature and those they live with need to self-isolate for 14 days.
 
-[Click here for NHS advice on infection control](https://www.nhs.uk/conditions/coronavirus-covid-19/)
-[Click here for the government's advice if you have symptoms](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
+* [Click here for NHS advice on infection control](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+* [Click here for the government's advice if you have symptoms](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
 
 ## At Risk groups
 
