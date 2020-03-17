@@ -4,7 +4,7 @@
 #                                                                             #
 ###############################################################################
 
-cache:          20200315_corona
+cache:          20200317-cancel-everything
 markdown:       kramdown
 highlighter:    rouge
 kramdown:

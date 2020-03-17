@@ -1,6 +1,7 @@
 <footer>
     <div class="container">
         <p>
+        <span>
             &copy; {{ site.time | date: '%Y' }}
             {% if site.copyright %}
             {{ site.copyright }}
@@ -17,8 +18,8 @@
             | <a title="CLC Striders xml sitemap" href="/sitemap.xml">SiteMap</a>
             | <a title="CLC Striders RSS feed" href="/feed.xml">RSS</a>
             | <a title="CLC Striders at parkrun" href="https://www.parkrun.com/results/consolidatedclub/?clubNum=19887">parkrun</a>
-            | {% github_edit_link "<i class="icon-github" aria-hidden="true"></i>" %}
-            |
+        </span>
+        <span class="footer-icons"> {% github_edit_link "<i class="icon-github" aria-hidden="true"></i>" %}
             {% if site.twitter %}
             <a title="CLC Striders Twitter" href="{{ site.twitter }}"><i class="icon-twitter" aria-hidden="true"></i></a>
             {% else %}
@@ -43,6 +44,7 @@
             <a title="CLC Striders YouTube channel" href="{{ site.youtube }}"><i class="icon-youtube" aria-hidden="true"></i></a>
             {% else %}
             {% endif %}
+        </span>
         </p>
     </div>
 </footer>
