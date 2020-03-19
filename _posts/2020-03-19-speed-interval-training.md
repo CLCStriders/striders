@@ -14,11 +14,15 @@ We would like to encourage members to feedback on how their session went, whethe
 We will obviously have to continue to follow Government advice as things develop, and please if anyone does train together, keep your distance!
 
 SESSION for w/c 16th March (appreciate some may already have done one for this week)
+
 Set By - Brendan Ward
 
 4x4mins @10k pace
+
 4x2mins @5k pace 
+
 4x1 min @3k pace 
+
 All with 90secs recovery between
 
 This session will help with top end speed for 5k and 10k races.
