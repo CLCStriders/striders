@@ -1,5 +1,5 @@
 ---
-title: Spped/internal training 2020-03-19
+title: Speed/interval training - 19 March
 layout: post
 date: 2020-03-19 17:05
 categories:
