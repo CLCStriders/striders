@@ -1,4 +1,5 @@
 ---
+
 title: Speed/interval training - w/c 23 March
 layout: post
 date: 2020-03-23 20:25
@@ -6,6 +7,7 @@ categories:
   - Training
   
 ---
+
 Session for this week Striders, to do on the usual Wednesday evening or whenever you wish! 
 
 Set by coach Joel Freeland:
