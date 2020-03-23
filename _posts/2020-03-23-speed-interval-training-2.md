@@ -1,5 +1,5 @@
 ---
-title: Speed/interval training - 19 March
+title: Speed/interval training - w/c 23 March
 layout: post
 date: 2020-03-23 20:25
 categories:
