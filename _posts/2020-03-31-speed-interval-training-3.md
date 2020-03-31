@@ -1,11 +1,11 @@
-—
+---
 
 title: Speed/interval training - w/c 30 March
 layout: post
 categories:
   - Training
   
-—
+---
 
 Session for this week Striders, to do on the usual Wednesday evening or whenever you wish! 
 
