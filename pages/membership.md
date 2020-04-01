@@ -27,8 +27,8 @@ The 2020/21 membership fees are:
 - Half year membership - £22 &#x00B9; (from 1st October)
 - Second claim membership - £13 &#x00B2;
 
-&#x00B9; Includes the £15 England Athletics registration fee.  
-&#x00B2; Second claim members are those already registered with another England Athletics club.
+  &#x00B9; Includes the £15 England Athletics registration fee.  
+  &#x00B2; Second claim members are those already registered with another England Athletics club.
 
 When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website. Membership fees are due within 28 days of receipt of the payment link. 
 
