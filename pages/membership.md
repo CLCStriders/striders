@@ -21,11 +21,11 @@ Membership benefits include:
 
 In line with England Athletics registration, our membership is renewable annually on 1st April.
 
-The 2019/20 membership fees are:
+The 2020/21 membership fees are:
 
-- Full year membership - £29 &#x00B9;
-- Half year membership - £16 &#x00B9; (from 1st October)
-- Second claim membership - £14 &#x00B2;
+- Full year membership - £28 &#x00B9;
+- Half year membership - £22 &#x00B9; (from 1st October)
+- Second claim membership - £13 &#x00B2;
 
 &#x00B9; Includes the £15 England Athletics registration fee.  
 &#x00B2; Second claim members are those already registered with another England Athletics club.
