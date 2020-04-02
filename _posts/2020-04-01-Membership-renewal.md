@@ -15,9 +15,9 @@ We are also following the way of the millennials and doing away with cash, chequ
  
 England Athletics had intended to increase their athlete registration fee for 2020-21 from £15 to £16. However given their [suspension of all athletics activity in England to 31st May](https://clcstriders-runningclub.co.uk/news/2020-03-24-england-athletics-coronavirus-statement-update) they have decided [the 2020-21 fee will be fixed at £15](https://clcstriders-runningclub.co.uk/news/2020-03-26-england-atheltics-membership-statement). With this in mind, the committee has reviewed and agreed the club membership fees for 2020-21 as:
  
-    Full year: £28 (reduced from £29, includes EA registration)
-    Half year: £22 (increased from £16, includes EA registration)
-    Second claim: £13 (reduced from £14)
+- Full year: £28 (reduced from £29, includes EA registration)
+- Half year: £22 (increased from £16, includes EA registration)
+- Second claim: £13 (reduced from £14)
  
 After deducting the EA athlete registration and online payment fees, the club receives about £1 per month for all of the membership types. I'm sure you'll agree this is great value.
  
