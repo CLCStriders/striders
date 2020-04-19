@@ -90,7 +90,7 @@ All members are free to join these pages. If you join one of the Social Media pa
 
 #### Who we share your personal data with
 
-When you become a member of or renew your membership with CLC Striders you will automatically be registered as a member of England Athletics. We will provide England Athletics with your personal data which they will use to enable access to an online portal for you (called myAthletics). England Athletics will contact you to invite you to sign into and update your MyAthletics portal (which, amongst other things, allows you to set and amend your privacy settings). It is vital, therefore, that a valid email address is given, so that you can ensure that your data is correct and so that you can set your own privacy settings. If you
+When you become a member of or renew your membership with CLC Striders you will automatically be registered as a member of England Athletics. We will provide England Athletics with your personal data which they will use to enable access to an online portal for you (called myAthletics portal). England Athletics will contact you to invite you to sign into and update your myAthletics portal (which, amongst other things, allows you to set and amend your privacy settings). It is vital, therefore, that a valid email address is given, so that you can ensure that your data is correct and so that you can set your own privacy settings. If you
 
 have any questions about the continuing privacy of your personal data when it is shared with England Athletics, please contact <dataprotection@englandathletics.org>.
 
