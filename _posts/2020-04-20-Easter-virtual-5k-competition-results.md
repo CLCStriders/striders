@@ -7,9 +7,9 @@ categories:
   
 ---
 
-The Final Results are in for the Virtual 5k Competition! 
+The Final Results are in for the Virtual 5k Competition.
 
-Well done to everyone who ran (49 members) and hope you all had fun doing it. It has been an exciting and healthily competitive competition. 
+Well done to everyone who ran (49 members) and hope you all had fun doing it. It has been an exciting and healthily competitive competition.
 
 Also great to see members recently coming back from injury, illness and even having babies taking part and doing well.
 
