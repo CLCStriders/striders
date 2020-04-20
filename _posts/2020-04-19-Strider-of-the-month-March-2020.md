@@ -16,6 +16,6 @@ You will also know now that we have a fantastic new club website, which went liv
 
 The club are hugely grateful for this.
 
-Thanks Mat and well done"
+Thanks Mat and well done.
 
 ![Strider of the month Mat Benfield](/images/2020/04/20200419_133442000_iOS.jpg "Cheltenham Ladies College Strider of the month March 2020 Mat Benfield")
