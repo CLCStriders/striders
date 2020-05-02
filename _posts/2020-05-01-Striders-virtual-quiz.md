@@ -25,5 +25,5 @@ Well done to everyone who took part.
 
 ![Virtual CLC Striders quiz attendees](/images/2020/05/Striders-quiz-attendees.jpg "Virtual CLC Striders quiz attendees")
 
-![Virtual CLC Striders quiz results(/images/2020/05/Striders-quiz-results.jpeg "Virtual CLC Striders quiz results")
+![Virtual CLC Striders quiz results](/images/2020/05/Striders-quiz-results.jpeg "Virtual CLC Striders quiz results")
 
