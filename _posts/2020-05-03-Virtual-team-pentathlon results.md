@@ -7,7 +7,7 @@ categories:
   
 ---
 
-After a very competitive week of course analysis, practice runs, trainer purchases and last minute distance changes, the results for the Virtual Team Pentathlon are in and the winners are.........
+After a very competitive week of course analysis, practice runs, trainer purchases and last minute distance changes, the results for the Virtual Team Pentathlon are in and the winners are........
 
 ![The Blue Team](/images/2020/05/2020-05-03-Striders-pentathlon-winning-team.jpg "The Blue Team")
 
