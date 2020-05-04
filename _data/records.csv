@@ -1,24 +1,4 @@
 Type,Gender,Distance,Age Group,Holder,Time,Venue,Date
-Road,Men,5km,U20,George Parker,21:03,White Horse,2014-08-19
-Road,Men,5km,Senior,Will Ferguson,15:07,Aztec West,2015-05-26
-Road,Men,5km,35-39,John Parker,15:11,White Horse,2011-08-18
-Road,Men,5km,40-44,James Oram,16:43,White Horse,2014-07-15
-Road,Men,5km,45-49,Richard Shardlow,17:53,Vienna,2014-09-18
-Road,Men,5km,50-54,Paul Northup,18:50,Haresfield,2017-05-24
-Road,Men,5km,55-59,JJ Willson,19:02,Aztec West,2016-07-26
-Road,Men,5km,60-64,Tony Stanton,21:09,White Horse,2009-08-20
-Road,Men,5km,65-69,David James,22:34,Aztec West,2015-05-26
-Road,Men,5km,70-74,,,,
-Road,Men,10km,U20,Ben Pedley,35:23,White Horse,2010-04-03
-Road,Men,10km,Senior,Will Ferguson,31:39,Telford,2018-12-09
-Road,Men,10km,35-39,Will Ferguson,31:39,Telford,2018-12-09
-Road,Men,10km,40-44,Darren Milne,33:28,Bourton,2013-02-27
-Road,Men,10km,45-49,Brendan Ward,36:31,Blaisdon,2009-05-04
-Road,Men,10km,50-54,Charles Goodwin,37:50,Berkeley,2017-05-15
-Road,Men,10km,55-59,JJ Willson,39:42,Berkeley,2016-05-09
-Road,Men,10km,60-64,Edward Collier,44:02,Worcester,2018-09-16
-Road,Men,10km,65-69,David James,47:25,Aviator,2015-06-14
-Road,Men,10km,70-74,,,,
 Road,Men,1mi,U20,George Parker,06:05,Bourton,2014-07-19
 Road,Men,1mi,Senior,John Parker,04:32,Bourton,2010-07-17
 Road,Men,1mi,35-39,John Parker,04:32,Bourton,2010-07-17
@@ -29,6 +9,16 @@ Road,Men,1mi,55-59,Andrew Gage,06:15,Bourton,2016-07-16
 Road,Men,1mi,60-64,David James,06:52,Bourton,2012-07-22
 Road,Men,1mi,65-69,David James,06:44,Staverton,2019-08-31
 Road,Men,1mi,70-74,,,,
+Road,Men,5km,U20,George Parker,21:03,White Horse,2014-08-19
+Road,Men,5km,Senior,Will Ferguson,15:07,Aztec West,2015-05-26
+Road,Men,5km,35-39,John Parker,15:11,White Horse,2011-08-18
+Road,Men,5km,40-44,James Oram,16:43,White Horse,2014-07-15
+Road,Men,5km,45-49,Richard Shardlow,17:53,Vienna,2014-09-18
+Road,Men,5km,50-54,Paul Northup,18:50,Haresfield,2017-05-24
+Road,Men,5km,55-59,JJ Willson,19:02,Aztec West,2016-07-26
+Road,Men,5km,60-64,Tony Stanton,21:09,White Horse,2009-08-20
+Road,Men,5km,65-69,David James,22:34,Aztec West,2015-05-26
+Road,Men,5km,70-74,,,,
 Road,Men,4mi,U20,Ollie Mosley,29:58,Aviator,2014-05-11
 Road,Men,4mi,Senior,John Parker,20:20,White Horse,2010-04-10
 Road,Men,4mi,35-39,John Parker,20:20,White Horse,2010-04-10
@@ -49,6 +39,16 @@ Road,Men,5mi,55-59,Nicholas Von Benzon,34:39,Quedgeley,2011-12-17
 Road,Men,5mi,60-64,Tony Stanton,34:33,"Pilot Inn, Gloucester",2010-01-01
 Road,Men,5mi,65-69,Mike Brooker,47:25,Tewkesbury,2008-11-02
 Road,Men,5mi,70-74,,,,
+Road,Men,10km,U20,Ben Pedley,35:23,White Horse,2010-04-03
+Road,Men,10km,Senior,Will Ferguson,31:39,Telford,2018-12-09
+Road,Men,10km,35-39,Will Ferguson,31:39,Telford,2018-12-09
+Road,Men,10km,40-44,Darren Milne,33:28,Bourton,2013-02-27
+Road,Men,10km,45-49,Brendan Ward,36:31,Blaisdon,2009-05-04
+Road,Men,10km,50-54,Charles Goodwin,37:50,Berkeley,2017-05-15
+Road,Men,10km,55-59,JJ Willson,39:42,Berkeley,2016-05-09
+Road,Men,10km,60-64,Edward Collier,44:02,Worcester,2018-09-16
+Road,Men,10km,65-69,David James,47:25,Aviator,2015-06-14
+Road,Men,10km,70-74,,,,
 Road,Men,7mi,U20,,,,
 Road,Men,7mi,Senior,Nathan Jones,40:03,"Pilot Inn, Gloucester",2009-07-30
 Road,Men,7mi,35-39,,,,
@@ -99,26 +99,6 @@ Road,Men,Marathon,55-59,Gavin Jerman,03:31:14,Abingdon,2018-10-21
 Road,Men,Marathon,60-64,Phil Hodder,03:58:45,Brighton,2011-04-10
 Road,Men,Marathon,65-69,,,,
 Road,Men,Marathon,70-74,,,,
-Road,Women,5km,U20,,,,
-Road,Women,5km,Senior,Hilary Mott,17:51,White Horse,2014-08-19
-Road,Women,5km,35-39,Laura Kent,18:12,White Horse,2009-08-20
-Road,Women,5km,40-44,Amanda Steer,20:17,Aztec West,2014-11-25
-Road,Women,5km,45-49,Amanda Steer,20:46,Pomphrey,2019-04-30
-Road,Women,5km,50-54,Jill Harsent,25:19,White Horse,2010-05-20
-Road,Women,5km,55-59,Dawn Addinall,25:13,White Horse,2009-06-18
-Road,Women,5km,60-64,Dawn Addinall,24:13,White Horse,2010-07-15
-Road,Women,5km,65-69,,,,
-Road,Women,5km,70-74,,,,
-Road,Women,10km,U20,,,,
-Road,Women,10km,Senior,Laura Kent,37:34,Bourton,2010-02-28
-Road,Women,10km,35-39,Laura Kent,37:34,Bourton,2010-02-28
-Road,Women,10km,40-44,Helen Knight,40:18.9,Bourton,2020-02-23
-Road,Women,10km,45-49,Amanda Steer,41:05,Bourton,2015-02-22
-Road,Women,10km,50-54,Amanda Steer,43:26.7,Bourton,2020-02-23
-Road,Women,10km,55-59,Dawn Addinall,48:31,Moreton-in-Marsh,2010-04-11
-Road,Women,10km,60-64,Sylvia Koster,52:31,Beacon,2009-09-06
-Road,Women,10km,65-69,,,,
-Road,Women,10km,70-74,,,,
 Road,Women,1mi,U20,,,,
 Road,Women,1mi,Senior,Helen Knight,05:52,Bourton,2018-07-21
 Road,Women,1mi,35-39,Helen Knight,05:52,Bourton,2018-07-21
@@ -129,6 +109,16 @@ Road,Women,1mi,55-59,,,,
 Road,Women,1mi,60-64,,,,
 Road,Women,1mi,65-69,,,,
 Road,Women,1mi,70-74,,,,
+Road,Women,5km,U20,,,,
+Road,Women,5km,Senior,Hilary Mott,17:51,White Horse,2014-08-19
+Road,Women,5km,35-39,Laura Kent,18:12,White Horse,2009-08-20
+Road,Women,5km,40-44,Amanda Steer,20:17,Aztec West,2014-11-25
+Road,Women,5km,45-49,Amanda Steer,20:46,Pomphrey,2019-04-30
+Road,Women,5km,50-54,Jill Harsent,25:19,White Horse,2010-05-20
+Road,Women,5km,55-59,Dawn Addinall,25:13,White Horse,2009-06-18
+Road,Women,5km,60-64,Dawn Addinall,24:13,White Horse,2010-07-15
+Road,Women,5km,65-69,,,,
+Road,Women,5km,70-74,,,,
 Road,Women,4mi,U20,,,,
 Road,Women,4mi,Senior,Eloise du Luart,25:30,Aviator,2011-05-08
 Road,Women,4mi,35-39,Lucy McNulty,26:38,Aviator,2012-05-06
@@ -149,6 +139,16 @@ Road,Women,5mi,55-59,Sue Clark,40:43,Linda Franks,2012-05-13
 Road,Women,5mi,60-64,Dawn Addinall,39:06,Tewkesbury,2010-11-07
 Road,Women,5mi,65-69,,,,
 Road,Women,5mi,70-74,,,,
+Road,Women,10km,U20,,,,
+Road,Women,10km,Senior,Laura Kent,37:34,Bourton,2010-02-28
+Road,Women,10km,35-39,Laura Kent,37:34,Bourton,2010-02-28
+Road,Women,10km,40-44,Helen Knight,40:18.9,Bourton,2020-02-23
+Road,Women,10km,45-49,Amanda Steer,41:05,Bourton,2015-02-22
+Road,Women,10km,50-54,Amanda Steer,43:26.7,Bourton,2020-02-23
+Road,Women,10km,55-59,Dawn Addinall,48:31,Moreton-in-Marsh,2010-04-11
+Road,Women,10km,60-64,Sylvia Koster,52:31,Beacon,2009-09-06
+Road,Women,10km,65-69,,,,
+Road,Women,10km,70-74,,,,
 Road,Women,7mi,U20,,,,
 Road,Women,7mi,Senior,Liza Barry,47:29,"Pilot Inn, Gloucester",2009-07-30
 Road,Women,7mi,35-39,,,,
@@ -320,17 +320,17 @@ Track,Men,3000m,55-59,JJ Willson,11:25.6,Prince of Wales Stadium,2016-07-20
 Track,Men,3000m,60-64,,,,
 Track,Men,3000m,65-69,,,,
 Track,Men,3000m,70-74,,,,
-Track,Men,2m,U17,,,,
-Track,Men,2m,U20,,,,
-Track,Men,2m,Senior,Chris Hale,11:21.0,Birmingham,2010-04-17
-Track,Men,2m,35-39,,,,
-Track,Men,2m,40-44,Chris Hale,11:21.0,Birmingham,2010-04-17
-Track,Men,2m,45-49,,,,
-Track,Men,2m,50-54,,,,
-Track,Men,2m,55-59,,,,
-Track,Men,2m,60-64,,,,
-Track,Men,2m,65-69,,,,
-Track,Men,2m,70-74,,,,
+Track,Men,2mi,U17,,,,
+Track,Men,2mi,U20,,,,
+Track,Men,2mi,Senior,Chris Hale,11:21.0,Birmingham,2010-04-17
+Track,Men,2mi,35-39,,,,
+Track,Men,2mi,40-44,Chris Hale,11:21.0,Birmingham,2010-04-17
+Track,Men,2mi,45-49,,,,
+Track,Men,2mi,50-54,,,,
+Track,Men,2mi,55-59,,,,
+Track,Men,2mi,60-64,,,,
+Track,Men,2mi,65-69,,,,
+Track,Men,2mi,70-74,,,,
 Track,Men,5km,U17,,,,
 Track,Men,5km,U20,George Parker,20:27.7,Prince of Wales Stadium,2015-05-13
 Track,Men,5km,Senior,Will Ferguson,15.15.09,Yate,2018-06-23
@@ -419,17 +419,6 @@ Track,Men,4x400m relay,55-59,,,,
 Track,Men,4x400m relay,60-64,,,,
 Track,Men,4x400m relay,65-69,,,,
 Track,Men,4x400m relay,70-74,,,,
-Track,Men,Javelin,U17,,,,
-Track,Men,Javelin,U20,,,,
-Track,Men,Javelin,Senior,,,,
-Track,Men,Javelin,35-39,,,,
-Track,Men,Javelin,40-44,,,,
-Track,Men,Javelin,45-49,,,,
-Track,Men,Javelin,50-54,,,,
-Track,Men,Javelin,55-59,,,,
-Track,Men,Javelin,60-64,,,,
-Track,Men,Javelin,65-69,,,,
-Track,Men,Javelin,70-74,,,,
 Track,Women,100m,U17,,,,
 Track,Women,100m,U20,,,,
 Track,Women,100m,Senior,Katie Butler,13.8,Prince of Wales Stadium,2012-05-13
@@ -551,17 +540,17 @@ Track,Women,3000m,55-59,Dawn Addinall,14:36.1,Prince of Wales Stadium,2009-05-08
 Track,Women,3000m,60-64,,,,
 Track,Women,3000m,65-69,,,,
 Track,Women,3000m,70-74,,,,
-Track,Women,2m,U17,,,,
-Track,Women,2m,U20,,,,
-Track,Women,2m,Senior,Natasha Poole,12:01.2,Birmingham,2010-04-17
-Track,Women,2m,35-39,,,,
-Track,Women,2m,40-44,,,,
-Track,Women,2m,45-49,,,,
-Track,Women,2m,50-54,,,,
-Track,Women,2m,55-59,,,,
-Track,Women,2m,60-64,,,,
-Track,Women,2m,65-69,,,,
-Track,Women,2m,70-74,,,,
+Track,Women,2mi,U17,,,,
+Track,Women,2mi,U20,,,,
+Track,Women,2mi,Senior,Natasha Poole,12:01.2,Birmingham,2010-04-17
+Track,Women,2mi,35-39,,,,
+Track,Women,2mi,40-44,,,,
+Track,Women,2mi,45-49,,,,
+Track,Women,2mi,50-54,,,,
+Track,Women,2mi,55-59,,,,
+Track,Women,2mi,60-64,,,,
+Track,Women,2mi,65-69,,,,
+Track,Women,2mi,70-74,,,,
 Track,Women,5km,U17,,,,
 Track,Women,5km,U20,,,,
 Track,Women,5km,Senior,Rachel Vines,18:48.5,Yate,2017-07-22
@@ -650,14 +639,25 @@ Track,Women,4x400m relay,55-59,,,,
 Track,Women,4x400m relay,60-64,,,,
 Track,Women,4x400m relay,65-69,,,,
 Track,Women,4x400m relay,70-74,,,,
-Track,Women,Javelin,U17,,,,
-Track,Women,Javelin,U20,,,,
-Track,Women,Javelin,Senior,Hollie Wharton,21.36,Prince of Wales Stadium,2012-05-13
-Track,Women,Javelin,35-39,,,,
-Track,Women,Javelin,40-44,,,,
-Track,Women,Javelin,45-49,,,,
-Track,Women,Javelin,50-54,,,,
-Track,Women,Javelin,55-59,,,,
-Track,Women,Javelin,60-64,,,,
-Track,Women,Javelin,65-69,,,,
-Track,Women,Javelin,70-74,,,,
+Field,Men,Javelin,U17,,,,
+Field,Men,Javelin,U20,,,,
+Field,Men,Javelin,Senior,,,,
+Field,Men,Javelin,35-39,,,,
+Field,Men,Javelin,40-44,,,,
+Field,Men,Javelin,45-49,,,,
+Field,Men,Javelin,50-54,,,,
+Field,Men,Javelin,55-59,,,,
+Field,Men,Javelin,60-64,,,,
+Field,Men,Javelin,65-69,,,,
+Field,Men,Javelin,70-74,,,,
+Field,Women,Javelin,U17,,,,
+Field,Women,Javelin,U20,,,,
+Field,Women,Javelin,Senior,Hollie Wharton,21.36,Prince of Wales Stadium,2012-05-13
+Field,Women,Javelin,35-39,,,,
+Field,Women,Javelin,40-44,,,,
+Field,Women,Javelin,45-49,,,,
+Field,Women,Javelin,50-54,,,,
+Field,Women,Javelin,55-59,,,,
+Field,Women,Javelin,60-64,,,,
+Field,Women,Javelin,65-69,,,,
+Field,Women,Javelin,70-74,,,,
