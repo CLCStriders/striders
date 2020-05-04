@@ -26,4 +26,4 @@ Well done to everyone that took part, it was great fun to organise and see the r
 
 Full results are available from [Google Docs](https://docs.google.com/spreadsheets/d/1wXqRwYOj3jq12kWxRQSBZVnK60wSlj7gDjTXS5CzMnk/edit?usp=sharing)
 
-Joel & The Committee
+Joel & The Committee.
