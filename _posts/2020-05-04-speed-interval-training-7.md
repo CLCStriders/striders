@@ -25,4 +25,4 @@ Report back and let us know how it went! We love the before 😬/during 😧/aft
 
 Good luck all and stay safe & well
 
-![CLC Striders speed training](/images/05/2020-05-04-Speed-training.jpg "CLC Striders speed training")
+![CLC Striders speed training](/images/2020/05/2020-05-04-Speed-training.jpg "CLC Striders speed training")
