@@ -1,5 +1,5 @@
 ---
-title: 'Strider of the Month - March 2020 - Mat Benfield'
+title: 'Strider of the Month - April 2020 - Will Pearce'
 layout: post
 categories:
   - Awards
