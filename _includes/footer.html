@@ -73,19 +73,36 @@
     recordsTable.rows.add( recordsData ).draw();
 
     // fixtures
-    var currentDate = new Date();
+    var cutoffDate = new Date();
+    cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
     var fixturesData1 =  {{ site.data.fixtures | jsonify }} ;
-    var fixturesData = fixturesData1.filter(d =>  Date.parse(d.Date) > currentDate);
+    var fixturesData = fixturesData1.filter(d => Date.parse(d.date_sort) > cutoffDate);
     var fixturesTable = $("#site_data_fixtures").DataTable({
         "paging": false,
         "info": true,
         "columns": [
             { data: "Date" },
+            { data: "date_sort" },
             { data: "Series", width: "10px" },
             { data: "Race", width: "50%" },
             { data: "Distance" },
+            { data: "distance_sort" },
             { data: "Terrain" }
-        ]
+        ],
+        columnDefs: [
+            {
+                "visible": false,
+                "targets": [1,5]  // date_sort, distance_sort
+            },
+            {
+                targets: [0], // Date
+                orderData: [1] // date_sort
+            },
+            {
+                targets: [4], // Distance
+                orderData: [5] // distance_sort
+            },
+        ],
     });
     fixturesTable.rows.add( fixturesData ).draw();
 
