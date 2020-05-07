@@ -73,10 +73,10 @@
     recordsTable.rows.add( recordsData ).draw();
 
     // fixtures
-    var cutoffDate = new Date();
-    cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
+    //var cutoffDate = new Date();
+    //cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
     var fixturesData1 =  {{ site.data.fixtures | jsonify }} ;
-    var fixturesData = fixturesData1.filter(d => Date.parse(d.date_sort) > cutoffDate);
+    var fixturesData = fixturesData1//.filter(d => Date.parse(d.date_sort) > cutoffDate);
     var fixturesTable = $("#site_data_fixtures").DataTable({
         "paging": false,
         "info": true,
