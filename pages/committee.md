@@ -30,6 +30,6 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Hedley Phillips| Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Tom Kabala | Social Secretary| <committee@clcstriders-runningclub.co.uk> |
 
-#### Committee minutes
+#### <br>Committee minutes
 
 Committee minutes are available to club members. See the [news section](/news) for any public club announcements.
