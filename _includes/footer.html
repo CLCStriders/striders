@@ -62,13 +62,51 @@
         "columns": [
             { data: "Type" },
             { data: "Gender" },
+            { data: "gender_search" },
             { data: "Distance" },
+            { data: "distance_m_sort" },
             { data: "Age Group" },
+            { data: "age_sort" },
             { data: "Holder" },
             { data: "Time" },
+            { data: "time_secs_sort" },
             { data: "Venue" },
-            { data: "Date" }
-        ]
+            { data: "Date" },
+            { data: "date_sort" },
+        ],
+        "pageLength": 25,
+        "orderMulti": false,
+        "order": [[1, 'asc']],
+        columnDefs: [
+            {
+                "visible": false,
+                "targets": [2, 4, 6, 9, 12]  // gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
+            },
+            {
+                "orderable": false,
+                "targets": [7, 10] // Holder, Venue
+            },
+            {
+                "searchable": false,
+                "targets": [4, 6, 9, 12] // distance_m_sort, age_sort, time_secs_sort, date_sort
+            },
+            {
+                targets: [3], // Distance
+                orderData: [4] // distance_m_sort, type_sort, Gender
+            },
+            {
+                targets: [5], // Age Group
+                orderData: [6] // age_sort
+            },
+            {
+                targets: [8], // Time
+                orderData: [9] // time_secs_sort
+            },
+            {
+                targets: [11], // Date
+                orderData: [12] // date_sort
+            },
+        ],
     });
     recordsTable.rows.add( recordsData ).draw();
 
