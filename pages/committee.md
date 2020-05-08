@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: committee
 title: Committee
 description: About the committee who volunteer to run the CLC striders running club
 permalink: /committee

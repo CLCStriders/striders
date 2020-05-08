@@ -1,0 +1,41 @@
+{% include default.html %}
+
+<script>
+    var cutoffDate = new Date();
+    //cutoffDate.setMonth(cutoffDate.getMonth() - 9); // display events from maximum 9 months ago
+    cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
+    var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
+    var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
+    var fixturesTable = $("#site_data_fixtures").DataTable({
+        "paging": false,
+        "info": true,
+        "columns": [
+            { data: "Date" },
+            { data: "date_sort" },
+            { data: "Series", width: "10px" },
+            { data: "Race", width: "50%" },
+            { data: "Distance" },
+            { data: "distance_sort" },
+            { data: "Terrain" }
+        ],
+        columnDefs: [
+            { // hidden columns
+                "visible": false,
+                "targets": [1, 5]  // date_sort, distance_sort
+            },
+            { // non-searchable columns
+                "searchable": false,
+                "targets": [1, 5] // date_sort, distance_sort
+            },
+            { // column sort remapping
+                targets: [0], // Date
+                orderData: [1] // date_sort
+            },
+            { // column sort remapping
+                targets: [4], // Distance
+                orderData: [5] // distance_sort
+            },
+        ],
+    });
+    fixturesTable.rows.add(fixturesData).draw();
+</script>

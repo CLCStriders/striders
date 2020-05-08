@@ -44,4 +44,4 @@ defaults:
 exclude:        ["README"]
 sass:
   style:        compressed
-plugins:        [ jekyll-feed, jekyll-paginate, jekyll-sitemap]
+plugins:        [jekyll-feed, jekyll-paginate, jekyll-sitemap, jekyll-github-metadata]
