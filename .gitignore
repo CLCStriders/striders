@@ -8,3 +8,6 @@
 assets/.DS_Store
 images/.DS_Store
 assets/.DS_Store
+.jekyll-cache
+.sass-cache
+_site

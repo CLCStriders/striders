@@ -1,6 +1,6 @@
 ---
 title: Fixtures
-layout: default
+layout: fixtures
 description:
 permalink: /fixtures
 
@@ -14,10 +14,10 @@ The CLC Striders have a strong showing at a large variety of races in the local 
     <thead>
         <tr>
           <th data-field="Date">Date</th>
-          <th data-field="date_sort">date_sort</th>  
+          <th data-field="date_sort">date_sort</th>
           <th data-field="Series">Series</th>
           <th data-field="Race">Race</th>
-          <th data-field="Distance">Distance</th>          
+          <th data-field="Distance">Distance</th>
           <th data-field="distance_sort">distance_sort</th>
           <th data-field="Terrain">Terrain</th>
         </tr>

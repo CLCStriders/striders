@@ -49,107 +49,11 @@
         </p>
     </div>
 </footer>
+
 <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.js?v={{ site.cache }}" crossorigin="anonymous"></script>
 <script>
     // add bootstrap table to all tables
     $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-responsive'); });
-
-    // Records
-    var recordsData =  {{ site.data.records | jsonify }} ;
-    var recordsTable = $("#site_data_records").DataTable({
-        "paging": true,
-        "info": true,
-        "columns": [
-            { data: "Type" },
-            { data: "Gender" },
-            { data: "gender_search" },
-            { data: "Distance" },
-            { data: "distance_m_sort" },
-            { data: "Age Group" },
-            { data: "age_sort" },
-            { data: "Holder" },
-            { data: "Time" },
-            { data: "time_secs_sort" },
-            { data: "Venue" },
-            { data: "Date" },
-            { data: "date_sort" },
-        ],
-        "pageLength": 25,
-        "orderMulti": false,
-        "order": [[1, 'asc']],
-        columnDefs: [
-            {
-                "visible": false,
-                "targets": [2, 4, 6, 9, 12]  // gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
-            },
-            {
-                "orderable": false,
-                "targets": [7, 10] // Holder, Venue
-            },
-            {
-                "searchable": false,
-                "targets": [4, 6, 9, 12] // distance_m_sort, age_sort, time_secs_sort, date_sort
-            },
-            {
-                targets: [3], // Distance
-                orderData: [4] // distance_m_sort, type_sort, Gender
-            },
-            {
-                targets: [5], // Age Group
-                orderData: [6] // age_sort
-            },
-            {
-                targets: [8], // Time
-                orderData: [9] // time_secs_sort
-            },
-            {
-                targets: [11], // Date
-                orderData: [12] // date_sort
-            },
-        ],
-    });
-    recordsTable.rows.add( recordsData ).draw();
-
-    // fixtures
-    var cutoffDate = new Date();
-    cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
-    var fixturesData1 =  {{ site.data.fixtures | jsonify }} ;
-    var fixturesData = fixturesData1.filter(d => Date.parse(d.date_sort) > cutoffDate);
-    var fixturesTable = $("#site_data_fixtures").DataTable({
-        "paging": false,
-        "info": true,
-        "columns": [
-            { data: "Date" },
-            { data: "date_sort" },
-            { data: "Series", width: "10px" },
-            { data: "Race", width: "50%" },
-            { data: "Distance" },
-            { data: "distance_sort" },
-            { data: "Terrain" }
-        ],
-        columnDefs: [
-            {
-                "visible": false,
-                "targets": [1,5]  // date_sort, distance_sort
-            },
-            {
-                "searchable": false,
-                "targets": [5] // distance_sort
-            },
-            {
-                targets: [0], // Date
-                orderData: [1] // date_sort
-            },
-            {
-                targets: [4], // Distance
-                orderData: [5] // distance_sort
-            },
-        ],
-    });
-    fixturesTable.rows.add( fixturesData ).draw();
-
-    // committee page this code is more basic as its a standard markdown table
-    $(".committee").DataTable({ "paging": false, "info": false });
 </script>
 
 {% if page.announcements %}
@@ -189,6 +93,7 @@
                 $(this).ekkoLightbox();
             });
 </script>
+
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
 </body>
 </html>
