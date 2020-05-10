@@ -1,6 +1,7 @@
 ---
+layout: datatable
+datatable: fixtures
 title: Fixtures
-layout: fixtures
 description:
 permalink: /fixtures
 

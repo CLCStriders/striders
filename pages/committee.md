@@ -1,5 +1,6 @@
 ---
-layout: committee
+layout: datatable
+datatable: committee
 title: Committee
 description: About the committee who volunteer to run the CLC striders running club
 permalink: /committee

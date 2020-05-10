@@ -1,6 +1,7 @@
 ---
+layout: datatable
+datatable: records
 title: Club Records
-layout: records
 description: CLC Striders running club records
 permalink: /records
 

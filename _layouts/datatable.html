@@ -1,0 +1,105 @@
+{% include default.html %}
+
+{% if page.datatable == "committee" %}
+    <script>
+        // committee page this code is more basic as its a standard markdown table
+        $(".committee").DataTable({ "paging": false, "info": false });
+    </script>
+{% elsif page.datatable == "fixtures" %}
+    <script>
+        var cutoffDate = new Date();
+        //cutoffDate.setMonth(cutoffDate.getMonth() - 9); // display events from maximum 9 months ago
+        cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
+        var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
+        var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
+        var fixturesTable = $("#site_data_fixtures").DataTable({
+            "paging": false,
+            "info": true,
+            "columns": [
+                { data: "Date" },
+                { data: "date_sort" },
+                { data: "Series", width: "10px" },
+                { data: "Race", width: "50%" },
+                { data: "Distance" },
+                { data: "distance_sort" },
+                { data: "Terrain" }
+            ],
+            columnDefs: [
+                { // hidden columns
+                    "visible": false,
+                    "targets": [1, 5]  // date_sort, distance_sort
+                },
+                { // non-searchable columns
+                    "searchable": false,
+                    "targets": [1, 5] // date_sort, distance_sort
+                },
+                { // column sort remapping
+                    targets: [0], // Date
+                    orderData: [1] // date_sort
+                },
+                { // column sort remapping
+                    targets: [4], // Distance
+                    orderData: [5] // distance_sort
+                },
+            ],
+        });
+        fixturesTable.rows.add(fixturesData).draw();
+    </script>
+{% elsif page.datatable == "records" %}
+    <script>
+        var recordsData =  {{ site.data.records | jsonify }} ;
+        //recordsData = recordsData.filter(f => f.gender_search == "xy") // men-only
+        var recordsTable = $("#site_data_records").DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Type" },
+                { data: "Gender" },
+                { data: "gender_search" },
+                { data: "Distance" },
+                { data: "distance_m_sort" },
+                { data: "Age Group" },
+                { data: "age_sort" },
+                { data: "Holder" },
+                { data: "Time" },
+                { data: "time_secs_sort" },
+                { data: "Venue" },
+                { data: "Date" },
+                { data: "date_sort" },
+            ],
+            "pageLength": 25, // initial page length
+            "order": [[1, 'asc'], [0, 'asc'], [4, 'asc'], [6, 'asc']], // initial sort - Gender, Type, distance_m_sort, age_sort
+            columnDefs: [
+                { // hidden columns
+                    "visible": false,
+                    "targets": [2, 4, 6, 9, 12]  // gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
+                },
+                { // non-searchable columns
+                    "searchable": false,
+                    "targets": [4, 6, 9, 12] // distance_m_sort, age_sort, time_secs_sort, date_sort
+                },
+                { // non-sortable columns
+                    "orderable": false,
+                    "targets": [7, 10] // Holder, Venue
+                },
+                { // column sort remapping
+                    targets: [3], // Distance
+                    orderData: [4] // distance_m_sort
+                },
+                { // column sort remapping
+                    targets: [5], // Age Group
+                    orderData: [6] // age_sort
+                },
+                { // column sort remapping
+                    targets: [8], // Time
+                    orderData: [9] // time_secs_sort
+                },
+                { // column sort remapping
+                    targets: [11], // Date
+                    orderData: [12] // date_sort
+                },
+            ],
+        });
+        recordsTable.rows.add(recordsData).draw();
+    </script>
+{% endif %}
