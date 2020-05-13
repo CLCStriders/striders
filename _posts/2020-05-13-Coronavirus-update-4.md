@@ -31,4 +31,4 @@ Can we remind you all of the UK Government advice to support the UK's response b
 
 We thank you all for your understanding and continued support of the club at this difficult time. If you have any questions or concerns please email <secretary@clcstriders-runningclub.co.uk>. 
 
-CLC Striders Committee.
+CLC Striders Committee
