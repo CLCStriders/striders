@@ -13,9 +13,9 @@ At this stage it is unknown if races will take place this year, England Athletic
 
 We continue to recognise the importance of running for both the physical and mental wellbeing of our members so encourage you to continue running alone. We also recognise the importance of keeping in contact with members and maintaining virtual interaction, to enable this:
 
-* Club coaches are producing weekly speed training sessions which will be shared with members for those who would like to continue to do the sessions independently. 
-* Club Captains are currently considering the next virtual race event – more information shortly.
-* A really successful virtual quiz event took place on Friday 1 May – consideration will be given to potential future virtual events.
+* Club coaches are producing weekly speed training sessions which will be shared with members for those who would like to continue to do the sessions independently 
+* Club Captains are currently considering the next virtual race event – more information shortly
+* A really successful virtual quiz event took place on Friday 1 May – consideration will be given to potential future virtual events
 
 Can we remind you all of the UK Government advice to support the UK's response by:
 
