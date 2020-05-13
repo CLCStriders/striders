@@ -1,4 +1,5 @@
 ---
+
 title: Coronavirus Update - 13 May
 layout: post
 date: 2020-05-13 10:00
@@ -26,7 +27,7 @@ Can we remind you all of the UK Government advice to support the UK's response b
 * checking on elderly or vulnerable family, friends and neighbours
 * using NHS 111, pharmacies and GPs responsibly, and go to the hospital only when you really need to. This is further explained on the NHS website  - [When to go to A&E](http://www.nhs.uk/using-the-nhs/nhs-services/urgent-and-emergencycare/when-to-go-to-ae/)
 * being understanding of the pressures the health and social care systems may be under, and receptive to changes that may be needed to the provision of care to you and your family.
-* accepting that the advice for managing COVID-19 for most people will be [self-isolation](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-self-isolation-for-patients-undergoing-testing/advice-sheet-home-isolation) at home and simple over-the-counter medicines.
+* accepting that the advice for managing COVID-19 for most people will be [self-isolation](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-self-isolation-for-patients-undergoing-testing/advice-sheet-home-isolation) at home and simple over-the-counter medicines
 * checking for new advice as the situation changes.
 
 We thank you all for your understanding and continued support of the club at this difficult time. If you have any questions or concerns please email <secretary@clcstriders-runningclub.co.uk>. 
