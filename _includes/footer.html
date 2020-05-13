@@ -49,48 +49,11 @@
         </p>
     </div>
 </footer>
+
 <script src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.20/r-2.2.3/sl-1.3.1/datatables.min.js?v={{ site.cache }}" crossorigin="anonymous"></script>
 <script>
     // add bootstrap table to all tables
     $(document).ready(function() { $('table').addClass('display table table-bordered table-striped table-hover table-responsive'); });
-
-    // Records
-    var recordsData =  {{ site.data.records | jsonify }} ;
-    var recordsTable = $("#site_data_records").DataTable({
-        "paging": true,
-        "info": true,
-        "columns": [
-            { data: "Type" },
-            { data: "Gender" },
-            { data: "Distance" },
-            { data: "Age Group" },
-            { data: "Holder" },
-            { data: "Time" },
-            { data: "Venue" },
-            { data: "Date" }
-        ]
-    });
-    recordsTable.rows.add( recordsData ).draw();
-
-    // fixtures
-    var currentDate = new Date();
-    var fixturesData1 =  {{ site.data.fixtures | jsonify }} ;
-    var fixturesData = fixturesData1.filter(d =>  Date.parse(d.Date) > currentDate);
-    var fixturesTable = $("#site_data_fixtures").DataTable({
-        "paging": false,
-        "info": true,
-        "columns": [
-            { data: "Date" },
-            { data: "Series", width: "10px" },
-            { data: "Race", width: "50%" },
-            { data: "Distance" },
-            { data: "Terrain" }
-        ]
-    });
-    fixturesTable.rows.add( fixturesData ).draw();
-
-    // committee page this code is more basic as its a standard markdown table
-    $(".committee").DataTable({ "paging": false, "info": false });
 </script>
 
 {% if page.announcements %}
@@ -130,6 +93,7 @@
                 $(this).ekkoLightbox();
             });
 </script>
+
 <script src="/assets/js/app.js?v={{ site.cache }}"></script>
 </body>
 </html>

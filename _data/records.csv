@@ -1,663 +1,641 @@
-Type,Gender,Distance,Age Group,Holder,Time,Venue,Date
-Road,Men,5km,U20,George Parker,21:03,White Horse,2014-08-19
-Road,Men,5km,Senior,Will Ferguson,15:07,Aztec West,2015-05-26
-Road,Men,5km,35-39,John Parker,15:11,White Horse,2011-08-18
-Road,Men,5km,40-44,James Oram,16:43,White Horse,2014-07-15
-Road,Men,5km,45-49,Richard Shardlow,17:53,Vienna,2014-09-18
-Road,Men,5km,50-54,Paul Northup,18:50,Haresfield,2017-05-24
-Road,Men,5km,55-59,JJ Willson,19:02,Aztec West,2016-07-26
-Road,Men,5km,60-64,Tony Stanton,21:09,White Horse,2009-08-20
-Road,Men,5km,65-69,David James,22:34,Aztec West,2015-05-26
-Road,Men,5km,70-74,,,,
-Road,Men,10km,U20,Ben Pedley,35:23,White Horse,2010-04-03
-Road,Men,10km,Senior,Will Ferguson,31:39,Telford,2018-12-09
-Road,Men,10km,35-39,Will Ferguson,31:39,Telford,2018-12-09
-Road,Men,10km,40-44,Darren Milne,33:28,Bourton,2013-02-27
-Road,Men,10km,45-49,Brendan Ward,36:31,Blaisdon,2009-05-04
-Road,Men,10km,50-54,Charles Goodwin,37:50,Berkeley,2017-05-15
-Road,Men,10km,55-59,JJ Willson,39:42,Berkeley,2016-05-09
-Road,Men,10km,60-64,Edward Collier,44:02,Worcester,2018-09-16
-Road,Men,10km,65-69,David James,47:25,Aviator,2015-06-14
-Road,Men,10km,70-74,,,,
-Road,Men,1mi,U20,George Parker,06:05,Bourton,2014-07-19
-Road,Men,1mi,Senior,John Parker,04:32,Bourton,2010-07-17
-Road,Men,1mi,35-39,John Parker,04:32,Bourton,2010-07-17
-Road,Men,1mi,40-44,Paul Lockyer,05:20,Bourton,2015-07-18
-Road,Men,1mi,45-49,Gareth Harries,05:25,Bourton,2018-07-21
-Road,Men,1mi,50-54,Paul Northup,05:26,Meteor Mile,2017-09-02
-Road,Men,1mi,55-59,Andrew Gage,06:15,Bourton,2016-07-16
-Road,Men,1mi,60-64,David James,06:52,Bourton,2012-07-22
-Road,Men,1mi,65-69,David James,06:44,Staverton,2019-08-31
-Road,Men,1mi,70-74,,,,
-Road,Men,4mi,U20,Ollie Mosley,29:58,Aviator,2014-05-11
-Road,Men,4mi,Senior,John Parker,20:20,White Horse,2010-04-10
-Road,Men,4mi,35-39,John Parker,20:20,White Horse,2010-04-10
-Road,Men,4mi,40-44,Phil Jowett,23:14,White Horse,2010-04-10
-Road,Men,4mi,45-49,Billy Bradshaw,25:21,"Pilot Inn, Gloucester",2010-06-03
-Road,Men,4mi,50-54,JJ Willson,25:26,Aviator,2013-05-12
-Road,Men,4mi,55-59,Nicholas Von Benzon,27:48,Aviator,2012-05-06
-Road,Men,4mi,60-64,David James,28:26,Aviator,2012-05-06
-Road,Men,4mi,65-69,,,,
-Road,Men,4mi,70-74,,,,
-Road,Men,5mi,U20,Ben Pedley,28:54,"Pilot Inn, Gloucester",2010-01-01
-Road,Men,5mi,Senior,Will Ferguson,25:30,"Pilot Inn, Gloucester",2011-01-01
-Road,Men,5mi,35-39,John Parker,26:16,Aero,2010-07-01
-Road,Men,5mi,40-44,Chris Hale,29:28,Tewkesbury,2010-11-07
-Road,Men,5mi,45-49,Will Miles,30:00,White Horse,2009-05-25
-Road,Men,5mi,50-54,Paul Northup,29:53,Linda Franks,2018-01-21
-Road,Men,5mi,55-59,Nicholas Von Benzon,34:39,Quedgeley,2011-12-17
-Road,Men,5mi,60-64,Tony Stanton,34:33,"Pilot Inn, Gloucester",2010-01-01
-Road,Men,5mi,65-69,Mike Brooker,47:25,Tewkesbury,2008-11-02
-Road,Men,5mi,70-74,,,,
-Road,Men,7mi,U20,,,,
-Road,Men,7mi,Senior,Nathan Jones,40:03,"Pilot Inn, Gloucester",2009-07-30
-Road,Men,7mi,35-39,,,,
-Road,Men,7mi,40-44,,,,
-Road,Men,7mi,45-49,Charles Goodwin,45:59,"Pilot Inn, Gloucester",2012-07-26
-Road,Men,7mi,50-54,,,,
-Road,Men,7mi,55-59,,,,
-Road,Men,7mi,60-64,,,,
-Road,Men,7mi,65-69,,,,
-Road,Men,7mi,70-74,,,,
-Road,Men,10mi,U20,,,,
-Road,Men,10mi,Senior,Will Ferguson,53:39,Staverton,2018-01-28
-Road,Men,10mi,35-39,Will Ferguson,53:39,Staverton,2018-01-28
-Road,Men,10mi,40-44,James Oram,58:35,Staverton,2016-01-31
-Road,Men,10mi,45-49,Robert Shute,66:32,Gloucester,2009-01-04
-Road,Men,10mi,50-54,Paul Northup,01:04:47,Staverton,2017-01-29
-Road,Men,10mi,55-59,Gavin Jerman,01:13:14,Oldbury,2018-09-09
-Road,Men,10mi,60-64,,,,
-Road,Men,10mi,65-69,,,,
-Road,Men,10mi,70-74,,,,
-Road,Men,Half Marathon,U20,George Parker,01:43:37,Stroud,2014-10-26
-Road,Men,Half Marathon,Senior,Will Ferguson,01:09.54,Reading,2019-03-17
-Road,Men,Half Marathon,35-39,Will Ferguson,01:09.54,Reading,2019-03-17
-Road,Men,Half Marathon,40-44,James Oram,01:16:34,Bath,2015-03-01
-Road,Men,Half Marathon,45-49,Billy Bradshaw,01:25:16,Stroud,2010-10-24
-Road,Men,Half Marathon,50-54,Charles Goodwin,01:22:02,Cheltenham,2015-09-27
-Road,Men,Half Marathon,55-59,Andy Brookes,01:26:58,Cheltenham,2018-09-30
-Road,Men,Half Marathon,60-64,Edward Collier,01:34:57,Cheltenham,2018-09-30
-Road,Men,Half Marathon,65-69,,,,
-Road,Men,Half Marathon,70-74,,,,
-Road,Men,20mi,U20,George Parker,02:50:54,Gloucester,2015-03-08
-Road,Men,20mi,Senior,James Oram,02:02:18,Gloucester,2015-03-08
-Road,Men,20mi,35-39,Wayne Usher,02:06:51,Gloucester,2011-03-13
-Road,Men,20mi,40-44,James Oram,02:02:18,Gloucester,2015-03-08
-Road,Men,20mi,45-49,Paul Northup,02:26:52,Gloucester,2015-03-08
-Road,Men,20mi,50-54,Paul Northup,02:20:52,Gloucester,2016-03-13
-Road,Men,20mi,55-59,Gavin Jerman,02:38:54,Berkeley,2019-03-16
-Road,Men,20mi,60-64,,,,
-Road,Men,20mi,65-69,,,,
-Road,Men,20mi,70-74,,,,
-Road,Men,Marathon,U20,George Parker,03:52:46,London,2015-04-26
-Road,Men,Marathon,Senior,Will Ferguson,02:30:20,London,2019-04-28
-Road,Men,Marathon,35-39,Will Ferguson,02:30:20,London,2019-04-28
-Road,Men,Marathon,40-44,James Oram,02:43:43,London,2015-04-26
-Road,Men,Marathon,45-49,Dave Billingham,03:05:40,London,2010-04-25
-Road,Men,Marathon,50-54,Paul Northup,03:10:06,London,2016-04-24
-Road,Men,Marathon,55-59,Gavin Jerman,03:31:14,Abingdon,2018-10-21
-Road,Men,Marathon,60-64,Phil Hodder,03:58:45,Brighton,2011-04-10
-Road,Men,Marathon,65-69,,,,
-Road,Men,Marathon,70-74,,,,
-Road,Women,5km,U20,,,,
-Road,Women,5km,Senior,Hilary Mott,17:51,White Horse,2014-08-19
-Road,Women,5km,35-39,Laura Kent,18:12,White Horse,2009-08-20
-Road,Women,5km,40-44,Amanda Steer,20:17,Aztec West,2014-11-25
-Road,Women,5km,45-49,Amanda Steer,20:46,Pomphrey,2019-04-30
-Road,Women,5km,50-54,Jill Harsent,25:19,White Horse,2010-05-20
-Road,Women,5km,55-59,Dawn Addinall,25:13,White Horse,2009-06-18
-Road,Women,5km,60-64,Dawn Addinall,24:13,White Horse,2010-07-15
-Road,Women,5km,65-69,,,,
-Road,Women,5km,70-74,,,,
-Road,Women,10km,U20,,,,
-Road,Women,10km,Senior,Laura Kent,37:34,Bourton,2010-02-28
-Road,Women,10km,35-39,Laura Kent,37:34,Bourton,2010-02-28
-Road,Women,10km,40-44,Helen Knight,40:18.9,Bourton,2020-02-23
-Road,Women,10km,45-49,Amanda Steer,41:05,Bourton,2015-02-22
-Road,Women,10km,50-54,Amanda Steer,43:26.7,Bourton,2020-02-23
-Road,Women,10km,55-59,Dawn Addinall,48:31,Moreton-in-Marsh,2010-04-11
-Road,Women,10km,60-64,Sylvia Koster,52:31,Beacon,2009-09-06
-Road,Women,10km,65-69,,,,
-Road,Women,10km,70-74,,,,
-Road,Women,1mi,U20,,,,
-Road,Women,1mi,Senior,Helen Knight,05:52,Bourton,2018-07-21
-Road,Women,1mi,35-39,Helen Knight,05:52,Bourton,2018-07-21
-Road,Women,1mi,40-44,,,,
-Road,Women,1mi,45-49,Amanda Steer,06:05,Bourton,2016-07-16
-Road,Women,1mi,50-54,,,,
-Road,Women,1mi,55-59,,,,
-Road,Women,1mi,60-64,,,,
-Road,Women,1mi,65-69,,,,
-Road,Women,1mi,70-74,,,,
-Road,Women,4mi,U20,,,,
-Road,Women,4mi,Senior,Eloise du Luart,25:30,Aviator,2011-05-08
-Road,Women,4mi,35-39,Lucy McNulty,26:38,Aviator,2012-05-06
-Road,Women,4mi,40-44,Amanda Steer,26:54,"Pilot Inn, Gloucester",2011-12-27
-Road,Women,4mi,45-49,,,,
-Road,Women,4mi,50-54,,,,
-Road,Women,4mi,55-59,Dawn Addinall,34:37,"Pilot Inn, Gloucester",2009-12-27
-Road,Women,4mi,60-64,Sylvia Koster,32:57,White Horse,2009-03-21
-Road,Women,4mi,65-69,,,,
-Road,Women,4mi,70-74,,,,
-Road,Women,5mi,U20,,,,
-Road,Women,5mi,Senior,Laura Kent,29:46,Tewkesbury,2009-11-01
-Road,Women,5mi,35-39,Laura Kent,29:46,Tewkesbury,2009-11-01
-Road,Women,5mi,40-44,Helen Knight,31:25,Linda Franks,2020-01-19
-Road,Women,5mi,45-49,Amanda Steer,33:06,Linda Franks,2015-01-25
-Road,Women,5mi,50-54,Nikki Smith,40:12,Linda Franks,2015-01-25
-Road,Women,5mi,55-59,Sue Clark,40:43,Linda Franks,2012-05-13
-Road,Women,5mi,60-64,Dawn Addinall,39:06,Tewkesbury,2010-11-07
-Road,Women,5mi,65-69,,,,
-Road,Women,5mi,70-74,,,,
-Road,Women,7mi,U20,,,,
-Road,Women,7mi,Senior,Liza Barry,47:29,"Pilot Inn, Gloucester",2009-07-30
-Road,Women,7mi,35-39,,,,
-Road,Women,7mi,40-44,Amanda Steer,51:20,"Pilot Inn, Gloucester",2012-07-26
-Road,Women,7mi,45-49,,,,
-Road,Women,7mi,50-54,,,,
-Road,Women,7mi,55-59,,,,
-Road,Women,7mi,60-64,,,,
-Road,Women,7mi,65-69,,,,
-Road,Women,7mi,70-74,,,,
-Road,Women,10mi,U20,,,,
-Road,Women,10mi,Senior,Edwina Sutton,01:02:50,Gloucester,2009-01-04
-Road,Women,10mi,35-39,Carla Quirighetti,01:31:57,Gloucester,2011-01-09
-Road,Women,10mi,40-44,Helen Knight,01:09:12,Oldbury,2019-09-01
-Road,Women,10mi,45-49,Amanda Steer,01:11:01,Oldbury,2016-09-11
-Road,Women,10mi,50-54,,,,
-Road,Women,10mi,55-59,,,,
-Road,Women,10mi,60-64,,,,
-Road,Women,10mi,65-69,,,,
-Road,Women,10mi,70-74,,,,
-Road,Women,Half Marathon,U20,,,,
-Road,Women,Half Marathon,Senior,Laura Kent,01:22:15,Stroud,2009-10-25
-Road,Women,Half Marathon,35-39,Laura Kent,01:22:15,Stroud,2009-10-25
-Road,Women,Half Marathon,40-44,Helen Knight,01:29:30,Gosport,2019-11-17
-Road,Women,Half Marathon,45-49,Amanda Steer,01:32:46,Cheltenham,2015-09-27
-Road,Women,Half Marathon,50-54,Amanda Steer,01:37:03,Bath,2020-03-15
-Road,Women,Half Marathon,55-59,Dawn Addinall,01:53:36,Tewkesbury,2010-05-09
-Road,Women,Half Marathon,60-64,Dawn Addinall,01:52:36,Cardiff (Short),2010-10-16
-Road,Women,Half Marathon,65-69,,,,
-Road,Women,Half Marathon,70-74,,,,
-Road,Women,20mi,U20,,,,
-Road,Women,20mi,Senior,Rachael Elkins,02:21:12,Gloucester,2012-03-18
-Road,Women,20mi,35-39,Alice Johnston,02:26:19,Stafford,2012-03-11
-Road,Women,20mi,40-44,Helen Knight,02:24:08,Gloucester,2020-03-15
-Road,Women,20mi,45-49,Janet Mustoe,03:50:07,Berkeley,2017-03-11
-Road,Women,20mi,50-54,,,,
-Road,Women,20mi,55-59,,,,
-Road,Women,20mi,60-64,,,,
-Road,Women,20mi,65-69,,,,
-Road,Women,20mi,70-74,,,,
-Road,Women,Marathon,U20,,,,
-Road,Women,Marathon,Senior,Liza Barry,02:57:54,London,2010-04-25
-Road,Women,Marathon,35-39,Emma Skeen,03:16:47,London,2012-04-22
-Road,Women,Marathon,40-44,Amelia Mullins,03:31:34,Abingdon,2015-10-18
-Road,Women,Marathon,45-49,Sarah Wilson,04:17:42,London,2019-04-28
-Road,Women,Marathon,50-54,,,,
-Road,Women,Marathon,55-59,,,,
-Road,Women,Marathon,60-64,Dawn Addinall,04:43:48,Edinburgh,2011-05-22
-Road,Women,Marathon,65-69,,,,
-Road,Women,Marathon,70-74,,,,
-Track,Men,100m,U17,Ben Hodges,12.22,CLC,2009-06-24
-Track,Men,100m,U20,,,,
-Track,Men,100m,Senior,Nick O'Neil,11.9,Prince of Wales Stadium,2009-05-10
-Track,Men,100m,35-39,Richard Cannock,14.5,Prince of Wales Stadium,2009-07-03
-Track,Men,100m,40-44,Paul Lockyer,13.0,Prince of Wales Stadium,2016-07-20
-Track,Men,100m,45-49,Gareth Harries,14.1,Prince of Wales Stadium,2018-07-04
-Track,Men,100m,50-54,Martin Bick,14.62,Prince of Wales Stadium,2015-07-22
-Track,Men,100m,55-59,Andy Brookes,15.57,Tavistock,2018-08-12
-Track,Men,100m,60-64,,,,
-Track,Men,100m,65-69,,,,
-Track,Men,100m,70-74,,,,
-Track,Men,150m,U17,,,,
-Track,Men,150m,U20,,,,
-Track,Men,150m,Senior,Nick O'Neil,18.2,Prince of Wales Stadium,2010-07-21
-Track,Men,150m,35-39,Dan Harte,24.57,Prince of Wales Stadium,2015-07-15
-Track,Men,150m,40-44,,,,
-Track,Men,150m,45-49,,,,
-Track,Men,150m,50-54,,,,
-Track,Men,150m,55-59,Mike Speke,24.7,Cheltenham,2018-07-25
-Track,Men,150m,60-64,,,,
-Track,Men,150m,65-69,,,,
-Track,Men,150m,70-74,,,,
-Track,Men,200m,U17,Ben Hodges,26.1,Prince of Wales Stadium,2009-07-22
-Track,Men,200m,U20,,,,
-Track,Men,200m,Senior,Nick O'Neil,25.76,CLC,2009-05-13
-Track,Men,200m,35-39,Chris Driskell,30.5,Prince of Wales Stadium,2015-07-08
-Track,Men,200m,40-44,Paul Lockyer,26.5,Cheltenham,2018-07-04
-Track,Men,200m,45-49,Gareth Harries,28.5,Prince of Wales Stadium,2018-05-07
-Track,Men,200m,50-54,JJ Willson,30.1,Prince of Wales Stadium,2013-07-24
-Track,Men,200m,55-59,Andy Brookes,31.6,Cheltenham,2018-07-04
-Track,Men,200m,60-64,,,,
-Track,Men,200m,65-69,,,,
-Track,Men,200m,70-74,,,,
-Track,Men,300m,U17,,,,
-Track,Men,300m,U20,,,,
-Track,Men,300m,Senior,Paul Lockyer,42.6,Cheltenham,2017-07-12
-Track,Men,300m,35-39,,,,
-Track,Men,300m,40-44,Paul Lockyer,42.6,Cheltenham,2017-07-12
-Track,Men,300m,45-49,,,,
-Track,Men,300m,50-54,,,,
-Track,Men,300m,55-59,JJ Willson,49.9,Prince of Wales Stadium,2016-07-20
-Track,Men,300m,60-64,,,,
-Track,Men,300m,65-69,,,,
-Track,Men,300m,70-74,,,,
-Track,Men,400m,U17,Ben Hodges,59.57,CLC,2009-05-27
-Track,Men,400m,U20,,,,
-Track,Men,400m,Senior,Joel Freeland,56.3,Prince of Wales Stadium,2011-07-20
-Track,Men,400m,35-39,John Parker,57.7,Prince of Wales Stadium,2010-07-07
-Track,Men,400m,40-44,Paul Lockyer,59.7,Cheltenham,2018-07-25
-Track,Men,400m,45-49,Gareth Harries,63.0,"Jubilee Track, Gloucester",2018-05-13
-Track,Men,400m,50-54,Gavin Jerman,78.6,Prince of Wales Stadium,2017-07-26
-Track,Men,400m,55-59,Andy Brookes,68.7,Cheltenham,2018-08-12
-Track,Men,400m,60-64,,,,
-Track,Men,400m,65-69,,,,
-Track,Men,400m,70-74,,,,
-Track,Men,600m,U17,,,,
-Track,Men,600m,U20,,,,
-Track,Men,600m,Senior,Joel Freeland,01:35.0,Prince of Wales Stadium,2013-07-10
-Track,Men,600m,35-39,Richard Cannock,01:37.2,Prince of Wales Stadium,2013-07-10
-Track,Men,600m,40-44,Phil Jowett,01:36.6,Prince of Wales Stadium,2009-07-08
-Track,Men,600m,45-49,Gareth Harries,01:42.2,Cheltenham,2018-07-18
-Track,Men,600m,50-54,Gordon Bendall,01:59.7,Prince of Wales Stadium,2013-07-10
-Track,Men,600m,55-59,JJ Willson,01:53.4,Prince of Wales Stadium,2017-07-19
-Track,Men,600m,60-64,,,,
-Track,Men,600m,65-69,,,,
-Track,Men,600m,70-74,,,,
-Track,Men,800m,U17,Ben Hodges,02:36.0,CLC,2009-05-13
-Track,Men,800m,U20,George Parker,02:41.1,Prince of Wales Stadium,2014-07-16
-Track,Men,800m,Senior,Will Ferguson,01:59.0,Tipton,2018-08-14
-Track,Men,800m,35-39,Will Ferguson,01:59.0,Tipton,2018-08-14
-Track,Men,800m,40-44,Phil Jowett,02:08.1,Birmingham,2010-04-17
-Track,Men,800m,45-49,Gareth Harries,02:21.1,Prince of Wales Stadium,2018-07-11
-Track,Men,800m,50-54,JJ Willson,02:37.5,Prince of Wales Stadium,2013-07-24
-Track,Men,800m,55-59,John Willson,02:34.2,Prince of Wales Stadium,2017-07-12
-Track,Men,800m,60-64,David James,03:09.1,Prince of Wales Stadium,2012-07-04
-Track,Men,800m,65-69,,,,
-Track,Men,800m,70-74,,,,
-Track,Men,1000m,U17,,,,
-Track,Men,1000m,U20,,,,
-Track,Men,1000m,Senior,JJ Willson,03:22.3,Prince of Wales Stadium,2013-05-06
-Track,Men,1000m,35-39,,,,
-Track,Men,1000m,40-44,,,,
-Track,Men,1000m,45-49,,,,
-Track,Men,1000m,50-54,JJ Willson,03:22.3,Prince of Wales Stadium,2013-05-06
-Track,Men,1000m,55-59,,,,
-Track,Men,1000m,60-64,,,,
-Track,Men,1000m,65-69,,,,
-Track,Men,1000m,70-74,,,,
-Track,Men,1500m,U17,,,,
-Track,Men,1500m,U20,Ben Pedley,04:23.1,Prince of Wales Stadium,2010-05-09
-Track,Men,1500m,Senior,Will Ferguson,04:09.4,"Iffley Road, Oxford",2017-07-29
-Track,Men,1500m,35-39,John Parker,04:09.8,Prince of Wales Stadium,2010-07-21
-Track,Men,1500m,40-44,James Oram,04:24.6,"Jubilee Track, Gloucester",2016-05-15
-Track,Men,1500m,45-49,Gareth Harries,05:00.3,Cheltenham,2018-07-18
-Track,Men,1500m,50-54,JJ Willson,05:14.1,Prince of Wales Stadium,2013-07-31
-Track,Men,1500m,55-59,John Wilson,05:10.8,Cheltenham,2018-07-18
-Track,Men,1500m,60-64,,,,
-Track,Men,1500m,65-69,,,,
-Track,Men,1500m,70-74,,,,
-Track,Men,1mi,U17,Ben Hodges,05:56.5,CLC,2009-06-24
-Track,Men,1mi,U20,Ollie Mosley,05:54.4,Prince of Wales Stadium,2014-08-27
-Track,Men,1mi,Senior,Will Ferguson,04:27.7,Prince of Wales Stadium,2018-07-04
-Track,Men,1mi,35-39,Will Ferguson,04:27.7,Prince of Wales Stadium,2018-07-04
-Track,Men,1mi,40-44,James Oram,04:54.7,Prince of Wales Stadium,2016-08-03
-Track,Men,1mi,45-49,Gareth Harries,05:23.5,Prince of Wales Stadium,2018-07-04
-Track,Men,1mi,50-54,Charles Goodwin,05:21.7,Gloucester,2017-09-01
-Track,Men,1mi,55-59,JJ Willson,05:39.3,Gloucester,2017-09-01
-Track,Men,1mi,60-64,,,,
-Track,Men,1mi,65-69,,,,
-Track,Men,1mi,70-74,,,,
-Track,Men,3000m,U17,,,,
-Track,Men,3000m,U20,George Parker,12:32.9,Prince of Wales Stadium,2014-07-02
-Track,Men,3000m,Senior,Will Ferguson,08:57.2,Yate,2011-04-03
-Track,Men,3000m,35-39,Chris Driskell,10:24.2,Prince of Wales Stadium,2016-05-02
-Track,Men,3000m,40-44,Juan Moreno,09:30.7,Granada,2017-05-20
-Track,Men,3000m,45-49,Richard Shardlow,10:47.5,Prince of Wales Stadium,2017-07-12
-Track,Men,3000m,50-54,Paul Northup,10:48.5,Prince of Wales Stadium,2017-05-01
-Track,Men,3000m,55-59,JJ Willson,11:25.6,Prince of Wales Stadium,2016-07-20
-Track,Men,3000m,60-64,,,,
-Track,Men,3000m,65-69,,,,
-Track,Men,3000m,70-74,,,,
-Track,Men,2m,U17,,,,
-Track,Men,2m,U20,,,,
-Track,Men,2m,Senior,Chris Hale,11:21.0,Birmingham,2010-04-17
-Track,Men,2m,35-39,,,,
-Track,Men,2m,40-44,Chris Hale,11:21.0,Birmingham,2010-04-17
-Track,Men,2m,45-49,,,,
-Track,Men,2m,50-54,,,,
-Track,Men,2m,55-59,,,,
-Track,Men,2m,60-64,,,,
-Track,Men,2m,65-69,,,,
-Track,Men,2m,70-74,,,,
-Track,Men,5km,U17,,,,
-Track,Men,5km,U20,George Parker,20:27.7,Prince of Wales Stadium,2015-05-13
-Track,Men,5km,Senior,Will Ferguson,15.15.09,Yate,2018-06-23
-Track,Men,5km,35-39,Will Ferguson,15:15:09,Yate,2018-06-23
-Track,Men,5km,40-44,Juan Moreno,16:06.0,Malaga,2018-05-27
-Track,Men,5km,45-49,Richard Shardlow,18:16.8,Prince of Wales Stadium,2015-05-13
-Track,Men,5km,50-54,Richard Shardlow,19:20.5,Gloucester,2019-09-03
-Track,Men,5km,55-59,JJ Willson,19:51.3,Prince of Wales Stadium,2015-07-15
-Track,Men,5km,60-64,,,,
-Track,Men,5km,65-69,,,,
-Track,Men,5km,70-74,,,,
-Track,Men,10km,U17,,,,
-Track,Men,10km,U20,,,,
-Track,Men,10km,Senior,Will Ferguson,32:57.1,Bedford,2010-05-02
-Track,Men,10km,35-39,Juan Moreno,36:27.3,Prince of Wales Stadium,2014-08-27
-Track,Men,10km,40-44,Juan Moreno,34:16.9,Ubeda,2017-03-18
-Track,Men,10km,45-49,Charles Goodwin,38:17.3,Prince of Wales Stadium,2011-08-24
-Track,Men,10km,50-54,Richard Shardlow,40:57.8,Redditch,2019-08-30
-Track,Men,10km,55-59,,,,
-Track,Men,10km,60-64,,,,
-Track,Men,10km,65-69,,,,
-Track,Men,10km,70-74,,,,
-Track,Men,100m hurdles,U17,,,,
-Track,Men,100m hurdles,U20,,,,
-Track,Men,100m hurdles,Senior,,,,
-Track,Men,100m hurdles,35-39,,,,
-Track,Men,100m hurdles,40-44,,,,
-Track,Men,100m hurdles,45-49,,,,
-Track,Men,100m hurdles,50-54,,,,
-Track,Men,100m hurdles,55-59,,,,
-Track,Men,100m hurdles,60-64,,,,
-Track,Men,100m hurdles,65-69,,,,
-Track,Men,100m hurdles,70-74,,,,
-Track,Men,1500m s/c,U17,,,,
-Track,Men,1500m s/c,U20,,,,
-Track,Men,1500m s/c,Senior,,,,
-Track,Men,1500m s/c,35-39,,,,
-Track,Men,1500m s/c,40-44,,,,
-Track,Men,1500m s/c,45-49,,,,
-Track,Men,1500m s/c,50-54,,,,
-Track,Men,1500m s/c,55-59,,,,
-Track,Men,1500m s/c,60-64,,,,
-Track,Men,1500m s/c,65-69,,,,
-Track,Men,1500m s/c,70-74,,,,
-Track,Men,2000m s/c,U17,,,,
-Track,Men,2000m s/c,U20,,,,
-Track,Men,2000m s/c,Senior,,,,
-Track,Men,2000m s/c,35-39,,,,
-Track,Men,2000m s/c,40-44,,,,
-Track,Men,2000m s/c,45-49,,,,
-Track,Men,2000m s/c,50-54,,,,
-Track,Men,2000m s/c,55-59,,,,
-Track,Men,2000m s/c,60-64,,,,
-Track,Men,2000m s/c,65-69,,,,
-Track,Men,2000m s/c,70-74,,,,
-Track,Men,3000m s/c,U17,,,,
-Track,Men,3000m s/c,U20,,,,
-Track,Men,3000m s/c,Senior,,,,
-Track,Men,3000m s/c,35-39,,,,
-Track,Men,3000m s/c,40-44,,,,
-Track,Men,3000m s/c,45-49,,,,
-Track,Men,3000m s/c,50-54,,,,
-Track,Men,3000m s/c,55-59,,,,
-Track,Men,3000m s/c,60-64,,,,
-Track,Men,3000m s/c,65-69,,,,
-Track,Men,3000m s/c,70-74,,,,
-Track,Men,4x100m relay,U17,,,,
-Track,Men,4x100m relay,U20,,,,
-Track,Men,4x100m relay,Senior,"Jon Howes, Mike Speke, Eoin McQuone, Paul Lockyer",57.7,Prince of Wales Stadium,2018-09-07
-Track,Men,4x100m relay,35-39,,,,
-Track,Men,4x100m relay,40-44,,,,
-Track,Men,4x100m relay,45-49,,,,
-Track,Men,4x100m relay,50-54,,,,
-Track,Men,4x100m relay,55-59,,,,
-Track,Men,4x100m relay,60-64,,,,
-Track,Men,4x100m relay,65-69,,,,
-Track,Men,4x100m relay,70-74,,,,
-Track,Men,4x400m relay,U17,,,,
-Track,Men,4x400m relay,U20,,,,
-Track,Men,4x400m relay,Senior,,,,
-Track,Men,4x400m relay,35-39,,,,
-Track,Men,4x400m relay,40-44,,,,
-Track,Men,4x400m relay,45-49,,,,
-Track,Men,4x400m relay,50-54,,,,
-Track,Men,4x400m relay,55-59,,,,
-Track,Men,4x400m relay,60-64,,,,
-Track,Men,4x400m relay,65-69,,,,
-Track,Men,4x400m relay,70-74,,,,
-Track,Men,Javelin,U17,,,,
-Track,Men,Javelin,U20,,,,
-Track,Men,Javelin,Senior,,,,
-Track,Men,Javelin,35-39,,,,
-Track,Men,Javelin,40-44,,,,
-Track,Men,Javelin,45-49,,,,
-Track,Men,Javelin,50-54,,,,
-Track,Men,Javelin,55-59,,,,
-Track,Men,Javelin,60-64,,,,
-Track,Men,Javelin,65-69,,,,
-Track,Men,Javelin,70-74,,,,
-Track,Women,100m,U17,,,,
-Track,Women,100m,U20,,,,
-Track,Women,100m,Senior,Katie Butler,13.8,Prince of Wales Stadium,2012-05-13
-Track,Women,100m,35-39,Helen Howes,17.36,Prince of Wales Stadium,2015-07-01
-Track,Women,100m,40-44,Amelia Mullins,16.4,Prince of Wales Stadium,2016-08-03
-Track,Women,100m,45-49,Amelia Mullins,16.6,Prince of Wales Stadium,2017-07-19
-Track,Women,100m,50-54,,,,
-Track,Women,100m,55-59,Dawn Addinall,19.09,CLC,2009-06-24
-Track,Women,100m,60-64,,,,
-Track,Women,100m,65-69,,,,
-Track,Women,100m,70-74,,,,
-Track,Women,150m,U17,,,,
-Track,Women,150m,U20,,,,
-Track,Women,150m,Senior,Hollie Wharton,22.8,Prince of Wales Stadium,2012-07-18
-Track,Women,150m,35-39,,,,
-Track,Women,150m,40-44,Emma Abbey,27.17,Prince of Wales Stadium,2016-07-13
-Track,Women,150m,45-49,Amelia Mullins,26.0,Cheltenham,2018-07-25
-Track,Women,150m,50-54,,,,
-Track,Women,150m,55-59,,,,
-Track,Women,150m,60-64,,,,
-Track,Women,150m,65-69,,,,
-Track,Women,150m,70-74,,,,
-Track,Women,200m,U17,,,,
-Track,Women,200m,U20,,,,
-Track,Women,200m,Senior,Katie Butler,27.9,Prince of Wales Stadium,2012-05-13
-Track,Women,200m,35-39,,,,
-Track,Women,200m,40-44,Amelia Mullins,34.1,Prince of Wales Stadium,2016-08-03
-Track,Women,200m,45-49,Amelia Mullins,36.6,Prince of Wales Stadium,2017-07-05
-Track,Women,200m,50-54,,,,
-Track,Women,200m,55-59,Dawn Addinall,40.87,CLC,2009-05-13
-Track,Women,200m,60-64,Sylvia Koster,45.59,CLC,2009-05-13
-Track,Women,200m,65-69,,,,
-Track,Women,200m,70-74,,,,
-Track,Women,300m,U17,,,,
-Track,Women,300m,U20,,,,
-Track,Women,300m,Senior,,,,
-Track,Women,300m,35-39,,,,
-Track,Women,300m,40-44,Amelia Mullins,59.4,Prince of Wales Stadium,2016-07-20
-Track,Women,300m,45-49,,,,
-Track,Women,300m,50-54,,,,
-Track,Women,300m,55-59,,,,
-Track,Women,300m,60-64,,,,
-Track,Women,300m,65-69,,,,
-Track,Women,300m,70-74,,,,
-Track,Women,400m,U17,,,,
-Track,Women,400m,U20,,,,
-Track,Women,400m,Senior,Hollie Wharton,73.3,Worcester,2012-04-26
-Track,Women,400m,35-39,Rachel Vines,76.6,Prince of Wales Stadium,2017-07-12
-Track,Women,400m,40-44,Amelia Mullins,83.0,Prince of Wales Stadium,2016-07-20
-Track,Women,400m,45-49,Amelia Mullins,83.3,Prince of Wales Stadium,2018-07-11
-Track,Women,400m,50-54,,,,
-Track,Women,400m,55-59,,,,
-Track,Women,400m,60-64,,,,
-Track,Women,400m,65-69,,,,
-Track,Women,400m,70-74,,,,
-Track,Women,600m,U17,,,,
-Track,Women,600m,U20,,,,
-Track,Women,600m,Senior,Katie Butler,01:47.5,Prince of Wales Stadium,2013-07-10
-Track,Women,600m,35-39,Rachel Vines,01:54.7,Prince of Wales Stadium,2017-07-19
-Track,Women,600m,40-44,Helen Knight,01:59.4,Prince of Wales Stadium,2019-07-17
-Track,Women,600m,45-49,Amelia Mullins,02:13.1,Prince of Wales Stadium,2017-07-19
-Track,Women,600m,50-54,,,,
-Track,Women,600m,55-59,,,,
-Track,Women,600m,60-64,,,,
-Track,Women,600m,65-69,,,,
-Track,Women,600m,70-74,,,,
-Track,Women,800m,U17,,,,
-Track,Women,800m,U20,,,,
-Track,Women,800m,Senior,Jo Wilkie,02:31.8,Prince of Wales Stadium,2013-07-31
-Track,Women,800m,35-39,Jo Wilkie,02:31.8,Prince of Wales Stadium,2013-07-31
-Track,Women,800m,40-44,Helen Knight,02:41.3,Prince of Wales Stadium,2019-07-24
-Track,Women,800m,45-49,Amelia Mullins,03:03.6,Cheltenham,2018-07-25
-Track,Women,800m,50-54,,,,
-Track,Women,800m,55-59,Dawn Addinall,03:32.4,CLC,2009-05-13
-Track,Women,800m,60-64,Sylvia Koster,03:44.2,CLC,2009-05-13
-Track,Women,800m,65-69,,,,
-Track,Women,800m,70-74,,,,
-Track,Women,1000m,U17,,,,
-Track,Women,1000m,U20,,,,
-Track,Women,1000m,Senior,Patricia Woods,03:25.2,Prince of Wales Stadium,2012-06-04
-Track,Women,1000m,35-39,,,,
-Track,Women,1000m,40-44,,,,
-Track,Women,1000m,45-49,,,,
-Track,Women,1000m,50-54,,,,
-Track,Women,1000m,55-59,,,,
-Track,Women,1000m,60-64,,,,
-Track,Women,1000m,65-69,,,,
-Track,Women,1000m,70-74,,,,
-Track,Women,1500m,U17,Eloise du Luart,04:58.5,S.W. Schools Championships,2009-06-20
-Track,Women,1500m,U20,,,,
-Track,Women,1500m,Senior,Eloise du Luart,04:58.5,S.W. Schools Championships,2009-06-20
-Track,Women,1500m,35-39,Rachel Vines,04:59.9,Prince of Wales Stadium,2017-07-19
-Track,Women,1500m,40-44,Helen Knight,05:28.2,Brewer Games,2019-07-17
-Track,Women,1500m,45-49,Amanda Steer,05:35.4,Stourport,2015-04-30
-Track,Women,1500m,50-54,,,,
-Track,Women,1500m,55-59,,,,
-Track,Women,1500m,60-64,,,,
-Track,Women,1500m,65-69,,,,
-Track,Women,1500m,70-74,,,,
-Track,Women,1mi,U17,,,,
-Track,Women,1mi,U20,,,,
-Track,Women,1mi,Senior,Rachel Vines,05:27.8,Prince of Wales Stadium,2017-07-05
-Track,Women,1mi,35-39,Rachel Vines,05:27.8,Prince of Wales Stadium,2017-07-05
-Track,Women,1mi,40-44,Helen Knight,05:51.1,Prince of Wales Stadium,2019-07-03
-Track,Women,1mi,45-49,Amelia Mullins,06:04.7,Prince of Wales Stadium,2017-07-05
-Track,Women,1mi,50-54,,,,
-Track,Women,1mi,55-59,Dawn Addinall,07:42.3,CLC,2009-06-24
-Track,Women,1mi,60-64,,,,
-Track,Women,1mi,65-69,,,,
-Track,Women,1mi,70-74,,,,
-Track,Women,3000m,U17,,,,
-Track,Women,3000m,U20,,,,
-Track,Women,3000m,Senior,Rachel Vines,10:46.8,Prince of Wales Stadium,2017-07-12
-Track,Women,3000m,35-39,Rachel Vines,10:46.8,Prince of Wales Stadium,2017-07-12
-Track,Women,3000m,40-44,Amelia Mullins,12:03.1,Prince of Wales Stadium,2016-05-02
-Track,Women,3000m,45-49,Amanda Steer,11:50.6,Nuneaton,2016-09-04
-Track,Women,3000m,50-54,,,,
-Track,Women,3000m,55-59,Dawn Addinall,14:36.1,Prince of Wales Stadium,2009-05-08
-Track,Women,3000m,60-64,,,,
-Track,Women,3000m,65-69,,,,
-Track,Women,3000m,70-74,,,,
-Track,Women,2m,U17,,,,
-Track,Women,2m,U20,,,,
-Track,Women,2m,Senior,Natasha Poole,12:01.2,Birmingham,2010-04-17
-Track,Women,2m,35-39,,,,
-Track,Women,2m,40-44,,,,
-Track,Women,2m,45-49,,,,
-Track,Women,2m,50-54,,,,
-Track,Women,2m,55-59,,,,
-Track,Women,2m,60-64,,,,
-Track,Women,2m,65-69,,,,
-Track,Women,2m,70-74,,,,
-Track,Women,5km,U17,,,,
-Track,Women,5km,U20,,,,
-Track,Women,5km,Senior,Rachel Vines,18:48.5,Yate,2017-07-22
-Track,Women,5km,35-39,Rachel Vines,18:48.5,Yate,2017-07-22
-Track,Women,5km,40-44,Amelia Mullins,20:13.5,Prince of Wales Stadium,2016-07-13
-Track,Women,5km,45-49,Amanda Steer,20:51.0,Prince of Wales Stadium,2017-05-13
-Track,Women,5km,50-54,,,,
-Track,Women,5km,55-59,Dawn Addinall,26:20.4,CLC,2009-06-10
-Track,Women,5km,60-64,,,,
-Track,Women,5km,65-69,,,,
-Track,Women,5km,70-74,,,,
-Track,Women,10km,U17,,,,
-Track,Women,10km,U20,,,,
-Track,Women,10km,Senior,Hilary Agate,39:16.1,Prince of Wales Stadium,2011-08-24
-Track,Women,10km,35-39,Rachel Vines,40:26.9,Highgate,2017-05-20
-Track,Women,10km,40-44,Amelia Mullins,43:08.5,Prince of Wales Stadium,2016-08-19
-Track,Women,10km,45-49,Amanda Steer,43:35.2,Gloucester,2017-09-01
-Track,Women,10km,50-54,,,,
-Track,Women,10km,55-59,,,,
-Track,Women,10km,60-64,,,,
-Track,Women,10km,65-69,,,,
-Track,Women,10km,70-74,,,,
-Track,Women,100m hurdles,U17,,,,
-Track,Women,100m hurdles,U20,,,,
-Track,Women,100m hurdles,Senior,,,,
-Track,Women,100m hurdles,35-39,,,,
-Track,Women,100m hurdles,40-44,,,,
-Track,Women,100m hurdles,45-49,,,,
-Track,Women,100m hurdles,50-54,,,,
-Track,Women,100m hurdles,55-59,,,,
-Track,Women,100m hurdles,60-64,,,,
-Track,Women,100m hurdles,65-69,,,,
-Track,Women,100m hurdles,70-74,,,,
-Track,Women,1500m s/c,U17,,,,
-Track,Women,1500m s/c,U20,,,,
-Track,Women,1500m s/c,Senior,,,,
-Track,Women,1500m s/c,35-39,,,,
-Track,Women,1500m s/c,40-44,,,,
-Track,Women,1500m s/c,45-49,,,,
-Track,Women,1500m s/c,50-54,,,,
-Track,Women,1500m s/c,55-59,,,,
-Track,Women,1500m s/c,60-64,,,,
-Track,Women,1500m s/c,65-69,,,,
-Track,Women,1500m s/c,70-74,,,,
-Track,Women,2000m s/c,U17,,,,
-Track,Women,2000m s/c,U20,,,,
-Track,Women,2000m s/c,Senior,,,,
-Track,Women,2000m s/c,35-39,,,,
-Track,Women,2000m s/c,40-44,,,,
-Track,Women,2000m s/c,45-49,,,,
-Track,Women,2000m s/c,50-54,,,,
-Track,Women,2000m s/c,55-59,,,,
-Track,Women,2000m s/c,60-64,,,,
-Track,Women,2000m s/c,65-69,,,,
-Track,Women,2000m s/c,70-74,,,,
-Track,Women,3000m s/c,U17,,,,
-Track,Women,3000m s/c,U20,,,,
-Track,Women,3000m s/c,Senior,,,,
-Track,Women,3000m s/c,35-39,,,,
-Track,Women,3000m s/c,40-44,,,,
-Track,Women,3000m s/c,45-49,,,,
-Track,Women,3000m s/c,50-54,,,,
-Track,Women,3000m s/c,55-59,,,,
-Track,Women,3000m s/c,60-64,,,,
-Track,Women,3000m s/c,65-69,,,,
-Track,Women,3000m s/c,70-74,,,,
-Track,Women,4x100m relay,U17,,,,
-Track,Women,4x100m relay,U20,,,,
-Track,Women,4x100m relay,Senior,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,Prince of Wales Stadium,2018-09-07
-Track,Women,4x100m relay,35-39,,,,
-Track,Women,4x100m relay,40-44,,,,
-Track,Women,4x100m relay,45-49,,,,
-Track,Women,4x100m relay,50-54,,,,
-Track,Women,4x100m relay,55-59,,,,
-Track,Women,4x100m relay,60-64,,,,
-Track,Women,4x100m relay,65-69,,,,
-Track,Women,4x100m relay,70-74,,,,
-Track,Women,4x400m relay,U17,,,,
-Track,Women,4x400m relay,U20,,,,
-Track,Women,4x400m relay,Senior,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",04:59.7,Prince of Wales Stadium,2013-08-21
-Track,Women,4x400m relay,35-39,,,,
-Track,Women,4x400m relay,40-44,,,,
-Track,Women,4x400m relay,45-49,,,,
-Track,Women,4x400m relay,50-54,,,,
-Track,Women,4x400m relay,55-59,,,,
-Track,Women,4x400m relay,60-64,,,,
-Track,Women,4x400m relay,65-69,,,,
-Track,Women,4x400m relay,70-74,,,,
-Track,Women,Javelin,U17,,,,
-Track,Women,Javelin,U20,,,,
-Track,Women,Javelin,Senior,Hollie Wharton,21.36,Prince of Wales Stadium,2012-05-13
-Track,Women,Javelin,35-39,,,,
-Track,Women,Javelin,40-44,,,,
-Track,Women,Javelin,45-49,,,,
-Track,Women,Javelin,50-54,,,,
-Track,Women,Javelin,55-59,,,,
-Track,Women,Javelin,60-64,,,,
-Track,Women,Javelin,65-69,,,,
-Track,Women,Javelin,70-74,,,,
+Type,Gender,gender_search,Distance,distance_m_sort,Age Group,age_sort,Holder,Time,time_secs_sort,Venue,Date,date_sort
+Road,Men,xy,Mile,1609,U20,19,George Parker,6:05,365,Bourton,19/07/2014,20140719
+Road,Men,xy,Mile,1609,Senior,34,John Parker,4:32,272,Bourton,17/07/2010,20100717
+Road,Men,xy,Mile,1609,35-39,39,John Parker,4:32,272,Bourton,17/07/2010,20100717
+Road,Men,xy,Mile,1609,40-44,44,Paul Lockyer,5:20,320,Bourton,18/07/2015,20150718
+Road,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:25,325,Bourton,21/07/2018,20180721
+Road,Men,xy,Mile,1609,50-54,54,Paul Northup,5:26,326,Meteor Mile,02/09/2017,20170902
+Road,Men,xy,Mile,1609,55-59,59,Andrew Gage,6:15,375,Bourton,16/07/2016,20160716
+Road,Men,xy,Mile,1609,60-64,64,David James,6:52,412,Bourton,22/07/2012,20120722
+Road,Men,xy,Mile,1609,65-69,69,David James,6:44,404,Staverton,31/08/2019,20190831
+Road,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
+Road,Men,xy,5km,5000,U20,19,George Parker,21:03,1263,White Horse,19/08/2014,20140819
+Road,Men,xy,5km,5000,Senior,34,Will Ferguson,15:07,907,Aztec West,26/05/2015,20150526
+Road,Men,xy,5km,5000,35-39,39,John Parker,15:11,911,White Horse,18/08/2011,20110818
+Road,Men,xy,5km,5000,40-44,44,James Oram,16:43,1003,White Horse,15/07/2014,20140715
+Road,Men,xy,5km,5000,45-49,49,Richard Shardlow,17:53,1073,Vienna,18/09/2014,20140918
+Road,Men,xy,5km,5000,50-54,54,Paul Northup,18:50,1130,Haresfield,24/05/2017,20170524
+Road,Men,xy,5km,5000,55-59,59,JJ Willson,19:02,1142,Aztec West,26/07/2016,20160726
+Road,Men,xy,5km,5000,60-64,64,Tony Stanton,21:09,1269,White Horse,20/08/2009,20090820
+Road,Men,xy,5km,5000,65-69,69,David James,22:34,1354,Aztec West,26/05/2015,20150526
+Road,Men,xy,5km,5000,70-74,74,,,99999,,,99999999
+Road,Men,xy,4mi,6436,U20,19,Ollie Mosley,29:58,1798,Aviator,11/05/2014,20140511
+Road,Men,xy,4mi,6436,Senior,34,John Parker,20:20,1220,White Horse,10/04/2010,20100410
+Road,Men,xy,4mi,6436,35-39,39,John Parker,20:20,1220,White Horse,10/04/2010,20100410
+Road,Men,xy,4mi,6436,40-44,44,Phil Jowett,23:14,1394,White Horse,10/04/2010,20100410
+Road,Men,xy,4mi,6436,45-49,49,Billy Bradshaw,25:21,1521,"Pilot Inn, Gloucester",03/06/2010,20100603
+Road,Men,xy,4mi,6436,50-54,54,JJ Willson,25:26,1526,Aviator,12/05/2013,20130512
+Road,Men,xy,4mi,6436,55-59,59,Nicholas Von Benzon,27:48,1668,Aviator,06/05/2012,20120506
+Road,Men,xy,4mi,6436,60-64,64,David James,28:26,1706,Aviator,06/05/2012,20120506
+Road,Men,xy,4mi,6436,65-69,69,,,99999,,,99999999
+Road,Men,xy,4mi,6436,70-74,74,,,99999,,,99999999
+Road,Men,xy,5mi,8045,U20,19,Ben Pedley,28:54,1734,"Pilot Inn, Gloucester",01/01/2010,20100101
+Road,Men,xy,5mi,8045,Senior,34,Will Ferguson,25:30,1530,"Pilot Inn, Gloucester",01/01/2011,20110101
+Road,Men,xy,5mi,8045,35-39,39,John Parker,26:16,1576,Aero,01/07/2010,20100701
+Road,Men,xy,5mi,8045,40-44,44,Chris Hale,29:28,1768,Tewkesbury,07/11/2010,20101107
+Road,Men,xy,5mi,8045,45-49,49,Will Miles,30:00,1800,White Horse,25/05/2009,20090525
+Road,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53,1793,Linda Franks,21/01/2018,20180121
+Road,Men,xy,5mi,8045,55-59,59,Nicholas Von Benzon,34:39,2079,Quedgeley,17/12/2011,20111217
+Road,Men,xy,5mi,8045,60-64,64,Tony Stanton,34:33,2073,"Pilot Inn, Gloucester",01/01/2010,20100101
+Road,Men,xy,5mi,8045,65-69,69,Mike Brooker,47:25,2845,Tewkesbury,02/11/2008,20081102
+Road,Men,xy,5mi,8045,70-74,74,,,99999,,,99999999
+Road,Men,xy,10km,10000,U20,19,Ben Pedley,35:23,2123,White Horse,03/04/2010,20100403
+Road,Men,xy,10km,10000,Senior,34,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
+Road,Men,xy,10km,10000,35-39,39,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
+Road,Men,xy,10km,10000,40-44,44,Darren Milne,33:28,2008,Bourton,27/02/2013,20130227
+Road,Men,xy,10km,10000,45-49,49,Brendan Ward,36:31,2191,Blaisdon,04/05/2009,20090504
+Road,Men,xy,10km,10000,50-54,54,Charles Goodwin,37:50,2270,Berkeley,15/05/2017,20170515
+Road,Men,xy,10km,10000,55-59,59,JJ Willson,39:42,2382,Berkeley,09/05/2016,20160509
+Road,Men,xy,10km,10000,60-64,64,Edward Collier,44:02,2642,Worcester,16/09/2018,20180916
+Road,Men,xy,10km,10000,65-69,69,David James,47:25,2845,Aviator,14/06/2015,20150614
+Road,Men,xy,10km,10000,70-74,74,,,99999,,,99999999
+Road,Men,xy,7mi,11263,U20,19,,,99999,,,99999999
+Road,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
+Road,Men,xy,7mi,11263,35-39,39,,,99999,,,99999999
+Road,Men,xy,7mi,11263,40-44,44,,,99999,,,99999999
+Road,Men,xy,7mi,11263,45-49,49,Charles Goodwin,45:59,2759,"Pilot Inn, Gloucester",26/07/2012,20120726
+Road,Men,xy,7mi,11263,50-54,54,,,99999,,,99999999
+Road,Men,xy,7mi,11263,55-59,59,,,99999,,,99999999
+Road,Men,xy,7mi,11263,60-64,64,,,99999,,,99999999
+Road,Men,xy,7mi,11263,65-69,69,,,99999,,,99999999
+Road,Men,xy,7mi,11263,70-74,74,,,99999,,,99999999
+Road,Men,xy,10mi,16090,U20,19,,,99999,,,99999999
+Road,Men,xy,10mi,16090,Senior,34,Will Ferguson,53:39,3219,Staverton,28/01/2018,20180128
+Road,Men,xy,10mi,16090,35-39,39,Will Ferguson,53:39,3219,Staverton,28/01/2018,20180128
+Road,Men,xy,10mi,16090,40-44,44,James Oram,58:35,3515,Staverton,31/01/2016,20160131
+Road,Men,xy,10mi,16090,45-49,49,Robert Shute,1:06:32,3992,Gloucester,04/01/2009,20090104
+Road,Men,xy,10mi,16090,50-54,54,Paul Northup,1:04:47,3887,Staverton,29/01/2017,20170129
+Road,Men,xy,10mi,16090,55-59,59,Gavin Jerman,1:13:14,4394,Oldbury,09/09/2018,20180909
+Road,Men,xy,10mi,16090,60-64,64,,,99999,,,99999999
+Road,Men,xy,10mi,16090,65-69,69,,,99999,,,99999999
+Road,Men,xy,10mi,16090,70-74,74,,,99999,,,99999999
+Road,Men,xy,Half Marathon,21094,U20,19,George Parker,1:43:37,6217,Stroud,26/10/2014,20141026
+Road,Men,xy,Half Marathon,21094,Senior,34,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
+Road,Men,xy,Half Marathon,21094,35-39,39,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
+Road,Men,xy,Half Marathon,21094,40-44,44,James Oram,1:16:34,4594,Bath,01/03/2015,20150301
+Road,Men,xy,Half Marathon,21094,45-49,49,Billy Bradshaw,1:25:16,5116,Stroud,24/10/2010,20101024
+Road,Men,xy,Half Marathon,21094,50-54,54,Charles Goodwin,1:22:02,4922,Cheltenham,27/09/2015,20150927
+Road,Men,xy,Half Marathon,21094,55-59,59,Andy Brookes,1:26:58,5218,Cheltenham,30/09/2018,20180930
+Road,Men,xy,Half Marathon,21094,60-64,64,Edward Collier,1:34:57,5697,Cheltenham,30/09/2018,20180930
+Road,Men,xy,Half Marathon,21094,65-69,69,,,99999,,,99999999
+Road,Men,xy,Half Marathon,21094,70-74,74,,,99999,,,99999999
+Road,Men,xy,20mi,32180,U20,19,George Parker,2:50:54,10254,Gloucester,08/03/2015,20150308
+Road,Men,xy,20mi,32180,Senior,34,James Oram,2:02:18,7338,Gloucester,08/03/2015,20150308
+Road,Men,xy,20mi,32180,35-39,39,Wayne Usher,2:06:51,7611,Gloucester,13/03/2011,20110313
+Road,Men,xy,20mi,32180,40-44,44,James Oram,2:02:18,7338,Gloucester,08/03/2015,20150308
+Road,Men,xy,20mi,32180,45-49,49,Paul Northup,2:26:52,8812,Gloucester,08/03/2015,20150308
+Road,Men,xy,20mi,32180,50-54,54,Paul Northup,2:20:52,8452,Gloucester,13/03/2016,20160313
+Road,Men,xy,20mi,32180,55-59,59,Gavin Jerman,2:38:54,9534,Berkeley,16/03/2019,20190316
+Road,Men,xy,20mi,32180,60-64,64,,,99999,,,99999999
+Road,Men,xy,20mi,32180,65-69,69,,,99999,,,99999999
+Road,Men,xy,20mi,32180,70-74,74,,,99999,,,99999999
+Road,Men,xy,Marathon,42188,U20,19,George Parker,3:52:46,13966,London,26/04/2015,20150426
+Road,Men,xy,Marathon,42188,Senior,34,Will Ferguson,2:30:20,9020,London,28/04/2019,20190428
+Road,Men,xy,Marathon,42188,35-39,39,Will Ferguson,2:30:20,9020,London,28/04/2019,20190428
+Road,Men,xy,Marathon,42188,40-44,44,James Oram,2:43:43,9823,London,26/04/2015,20150426
+Road,Men,xy,Marathon,42188,45-49,49,Dave Billingham,3:05:40,11140,London,25/04/2010,20100425
+Road,Men,xy,Marathon,42188,50-54,54,Paul Northup,3:10:06,11406,London,24/04/2016,20160424
+Road,Men,xy,Marathon,42188,55-59,59,Gavin Jerman,3:31:14,12674,Abingdon,21/10/2018,20181021
+Road,Men,xy,Marathon,42188,60-64,64,Phil Hodder,3:58:45,14325,Brighton,10/04/2011,20110410
+Road,Men,xy,Marathon,42188,65-69,69,,,99999,,,99999999
+Road,Men,xy,Marathon,42188,70-74,74,,,99999,,,99999999
+Road,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
+Road,Women,xx,Mile,1609,Senior,34,Helen Knight,5:52,352,Bourton,21/07/2018,20180721
+Road,Women,xx,Mile,1609,35-39,39,Helen Knight,5:52,352,Bourton,21/07/2018,20180721
+Road,Women,xx,Mile,1609,40-44,44,,,99999,,,99999999
+Road,Women,xx,Mile,1609,45-49,49,Amanda Steer,6:05,365,Bourton,16/07/2016,20160716
+Road,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
+Road,Women,xx,Mile,1609,55-59,59,,,99999,,,99999999
+Road,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
+Road,Women,xx,Mile,1609,65-69,69,,,99999,,,99999999
+Road,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
+Road,Women,xx,5km,5000,U20,19,,,99999,,,99999999
+Road,Women,xx,5km,5000,Senior,34,Hilary Mott,17:51,1071,White Horse,19/08/2014,20140819
+Road,Women,xx,5km,5000,35-39,39,Laura Kent,18:12,1092,White Horse,20/08/2009,20090820
+Road,Women,xx,5km,5000,40-44,44,Amanda Steer,20:17,1217,Aztec West,25/11/2014,20141125
+Road,Women,xx,5km,5000,45-49,49,Amanda Steer,20:46,1246,Pomphrey,30/04/2019,20190430
+Road,Women,xx,5km,5000,50-54,54,Jill Harsent,25:19,1519,White Horse,20/05/2010,20100520
+Road,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13,1513,White Horse,18/06/2009,20090618
+Road,Women,xx,5km,5000,60-64,64,Dawn Addinall,24:13,1453,White Horse,15/07/2010,20100715
+Road,Women,xx,5km,5000,65-69,69,,,99999,,,99999999
+Road,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
+Road,Women,xx,4mi,6436,U20,19,,,99999,,,99999999
+Road,Women,xx,4mi,6436,Senior,34,Eloise du Luart,25:30,1530,Aviator,08/05/2011,20110508
+Road,Women,xx,4mi,6436,35-39,39,Lucy McNulty,26:38,1598,Aviator,06/05/2012,20120506
+Road,Women,xx,4mi,6436,40-44,44,Amanda Steer,26:54,1614,"Pilot Inn, Gloucester",27/12/2011,20111227
+Road,Women,xx,4mi,6436,45-49,49,,,99999,,,99999999
+Road,Women,xx,4mi,6436,50-54,54,,,99999,,,99999999
+Road,Women,xx,4mi,6436,55-59,59,Dawn Addinall,34:37,2077,"Pilot Inn, Gloucester",27/12/2009,20091227
+Road,Women,xx,4mi,6436,60-64,64,Sylvia Koster,32:57,1977,White Horse,21/03/2009,20090321
+Road,Women,xx,4mi,6436,65-69,69,,,99999,,,99999999
+Road,Women,xx,4mi,6436,70-74,74,,,99999,,,99999999
+Road,Women,xx,5mi,8045,U20,19,,,99999,,,99999999
+Road,Women,xx,5mi,8045,Senior,34,Laura Kent,29:46,1786,Tewkesbury,01/11/2009,20091101
+Road,Women,xx,5mi,8045,35-39,39,Laura Kent,29:46,1786,Tewkesbury,01/11/2009,20091101
+Road,Women,xx,5mi,8045,40-44,44,Helen Knight,31:25,1885,Linda Franks,19/01/2020,20200119
+Road,Women,xx,5mi,8045,45-49,49,Amanda Steer,33:06,1986,Linda Franks,25/01/2015,20150125
+Road,Women,xx,5mi,8045,50-54,54,Nikki Smith,40:12,2412,Linda Franks,25/01/2015,20150125
+Road,Women,xx,5mi,8045,55-59,59,Sue Clark,40:43,2443,Linda Franks,13/05/2012,20120513
+Road,Women,xx,5mi,8045,60-64,64,Dawn Addinall,39:06,2346,Tewkesbury,07/11/2010,20101107
+Road,Women,xx,5mi,8045,65-69,69,,,99999,,,99999999
+Road,Women,xx,5mi,8045,70-74,74,,,99999,,,99999999
+Road,Women,xx,10km,10000,U20,19,,,99999,,,99999999
+Road,Women,xx,10km,10000,Senior,34,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
+Road,Women,xx,10km,10000,35-39,39,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
+Road,Women,xx,10km,10000,40-44,44,Helen Knight,40:18.9,2418.9,Bourton,23/02/2020,20200223
+Road,Women,xx,10km,10000,45-49,49,Amanda Steer,41:05,2465,Bourton,22/02/2015,20150222
+Road,Women,xx,10km,10000,50-54,54,Amanda Steer,43:26.7,2606.7,Bourton,23/02/2020,20200223
+Road,Women,xx,10km,10000,55-59,59,Dawn Addinall,48:31,2911,Moreton-in-Marsh,11/04/2010,20100411
+Road,Women,xx,10km,10000,60-64,64,Sylvia Koster,52:31,3151,Beacon,06/09/2009,20090906
+Road,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
+Road,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
+Road,Women,xx,7mi,11263,U20,19,,,99999,,,99999999
+Road,Women,xx,7mi,11263,Senior,34,Liza Barry,47:29,2849,"Pilot Inn, Gloucester",30/07/2009,20090730
+Road,Women,xx,7mi,11263,35-39,39,,,99999,,,99999999
+Road,Women,xx,7mi,11263,40-44,44,Amanda Steer,51:20,3080,"Pilot Inn, Gloucester",26/07/2012,20120726
+Road,Women,xx,7mi,11263,45-49,49,,,99999,,,99999999
+Road,Women,xx,7mi,11263,50-54,54,,,99999,,,99999999
+Road,Women,xx,7mi,11263,55-59,59,,,99999,,,99999999
+Road,Women,xx,7mi,11263,60-64,64,,,99999,,,99999999
+Road,Women,xx,7mi,11263,65-69,69,,,99999,,,99999999
+Road,Women,xx,7mi,11263,70-74,74,,,99999,,,99999999
+Road,Women,xx,10mi,16090,U20,19,,,99999,,,99999999
+Road,Women,xx,10mi,16090,Senior,34,Edwina Sutton,1:02:50,3770,Gloucester,04/01/2009,20090104
+Road,Women,xx,10mi,16090,35-39,39,Carla Quirighetti,1:31:57,5517,Gloucester,09/01/2011,20110109
+Road,Women,xx,10mi,16090,40-44,44,Helen Knight,1:09:12,4152,Oldbury,01/09/2019,20190901
+Road,Women,xx,10mi,16090,45-49,49,Amanda Steer,1:11:01,4261,Oldbury,11/09/2016,20160911
+Road,Women,xx,10mi,16090,50-54,54,,,99999,,,99999999
+Road,Women,xx,10mi,16090,55-59,59,,,99999,,,99999999
+Road,Women,xx,10mi,16090,60-64,64,,,99999,,,99999999
+Road,Women,xx,10mi,16090,65-69,69,,,99999,,,99999999
+Road,Women,xx,10mi,16090,70-74,74,,,99999,,,99999999
+Road,Women,xx,Half Marathon,21094,U20,19,,,99999,,,99999999
+Road,Women,xx,Half Marathon,21094,Senior,34,Laura Kent,1:22:15,4935,Stroud,25/10/2009,20091025
+Road,Women,xx,Half Marathon,21094,35-39,39,Laura Kent,1:22:15,4935,Stroud,25/10/2009,20091025
+Road,Women,xx,Half Marathon,21094,40-44,44,Helen Knight,1:29:30,5370,Gosport,17/11/2019,20191117
+Road,Women,xx,Half Marathon,21094,45-49,49,Amanda Steer,1:32:46,5566,Cheltenham,27/09/2015,20150927
+Road,Women,xx,Half Marathon,21094,50-54,54,Amanda Steer,1:37:03,5823,Bath,15/03/2020,20200315
+Road,Women,xx,Half Marathon,21094,55-59,59,Dawn Addinall,1:53:36,6816,Tewkesbury,09/05/2010,20100509
+Road,Women,xx,Half Marathon,21094,60-64,64,Dawn Addinall,1:52:36,6756,Cardiff (Short),16/10/2010,20101016
+Road,Women,xx,Half Marathon,21094,65-69,69,,,99999,,,99999999
+Road,Women,xx,Half Marathon,21094,70-74,74,,,99999,,,99999999
+Road,Women,xx,20mi,32180,U20,19,,,99999,,,99999999
+Road,Women,xx,20mi,32180,Senior,34,Rachael Elkins,2:21:12,8472,Gloucester,18/03/2012,20120318
+Road,Women,xx,20mi,32180,35-39,39,Alice Johnston,2:26:19,8779,Stafford,11/03/2012,20120311
+Road,Women,xx,20mi,32180,40-44,44,Helen Knight,2:24:08,8648,Gloucester,15/03/2020,20200315
+Road,Women,xx,20mi,32180,45-49,49,Janet Mustoe,3:50:07,13807,Berkeley,11/03/2017,20170311
+Road,Women,xx,20mi,32180,50-54,54,,,99999,,,99999999
+Road,Women,xx,20mi,32180,55-59,59,,,99999,,,99999999
+Road,Women,xx,20mi,32180,60-64,64,,,99999,,,99999999
+Road,Women,xx,20mi,32180,65-69,69,,,99999,,,99999999
+Road,Women,xx,20mi,32180,70-74,74,,,99999,,,99999999
+Road,Women,xx,Marathon,42188,U20,19,,,99999,,,99999999
+Road,Women,xx,Marathon,42188,Senior,34,Liza Barry,2:57:54,10674,London,25/04/2010,20100425
+Road,Women,xx,Marathon,42188,35-39,39,Emma Skeen,3:16:47,11807,London,22/04/2012,20120422
+Road,Women,xx,Marathon,42188,40-44,44,Amelia Mullins,3:31:34,12694,Abingdon,18/10/2015,20151018
+Road,Women,xx,Marathon,42188,45-49,49,Sarah Wilson,4:17:42,15462,London,28/04/2019,20190428
+Road,Women,xx,Marathon,42188,50-54,54,,,99999,,,99999999
+Road,Women,xx,Marathon,42188,55-59,59,,,99999,,,99999999
+Road,Women,xx,Marathon,42188,60-64,64,Dawn Addinall,4:43:48,17028,Edinburgh,22/05/2011,20110522
+Road,Women,xx,Marathon,42188,65-69,69,,,99999,,,99999999
+Road,Women,xx,Marathon,42188,70-74,74,,,99999,,,99999999
+Track,Men,xy,100m,100,U17,16,Ben Hodges,12.22,12.22,CLC,24/06/2009,20090624
+Track,Men,xy,100m,100,U20,19,,,99999,,,99999999
+Track,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
+Track,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
+Track,Men,xy,100m,100,40-44,44,Paul Lockyer,13.0,13,Prince of Wales Stadium,20/07/2016,20160720
+Track,Men,xy,100m,100,45-49,49,Gareth Harries,14.1,14.1,Prince of Wales Stadium,04/07/2018,20180704
+Track,Men,xy,100m,100,50-54,54,Martin Bick,14.62,14.62,Prince of Wales Stadium,22/07/2015,20150722
+Track,Men,xy,100m,100,55-59,59,Andy Brookes,15.57,15.57,Tavistock,12/08/2018,20180812
+Track,Men,xy,100m,100,60-64,64,,,99999,,,99999999
+Track,Men,xy,100m,100,65-69,69,,,99999,,,99999999
+Track,Men,xy,100m,100,70-74,74,,,99999,,,99999999
+Track,Men,xy,150m,150,U17,16,,,99999,,,99999999
+Track,Men,xy,150m,150,U20,19,,,99999,,,99999999
+Track,Men,xy,150m,150,Senior,34,Nick O'Neil,18.2,18.2,Prince of Wales Stadium,21/07/2010,20100721
+Track,Men,xy,150m,150,35-39,39,Dan Harte,24.57,24.57,Prince of Wales Stadium,15/07/2015,20150715
+Track,Men,xy,150m,150,40-44,44,,,99999,,,99999999
+Track,Men,xy,150m,150,45-49,49,,,99999,,,99999999
+Track,Men,xy,150m,150,50-54,54,,,99999,,,99999999
+Track,Men,xy,150m,150,55-59,59,Mike Speke,24.7,24.7,Cheltenham,25/07/2018,20180725
+Track,Men,xy,150m,150,60-64,64,,,99999,,,99999999
+Track,Men,xy,150m,150,65-69,69,,,99999,,,99999999
+Track,Men,xy,150m,150,70-74,74,,,99999,,,99999999
+Track,Men,xy,200m,200,U17,16,Ben Hodges,26.1,26.1,Prince of Wales Stadium,22/07/2009,20090722
+Track,Men,xy,200m,200,U20,19,,,99999,,,99999999
+Track,Men,xy,200m,200,Senior,34,Nick O'Neil,25.76,25.76,CLC,13/05/2009,20090513
+Track,Men,xy,200m,200,35-39,39,Chris Driskell,30.5,30.5,Prince of Wales Stadium,08/07/2015,20150708
+Track,Men,xy,200m,200,40-44,44,Paul Lockyer,26.5,26.5,Cheltenham,04/07/2018,20180704
+Track,Men,xy,200m,200,45-49,49,Gareth Harries,28.5,28.5,Prince of Wales Stadium,07/05/2018,20180507
+Track,Men,xy,200m,200,50-54,54,JJ Willson,30.1,30.1,Prince of Wales Stadium,24/07/2013,20130724
+Track,Men,xy,200m,200,55-59,59,Andy Brookes,31.6,31.6,Cheltenham,04/07/2018,20180704
+Track,Men,xy,200m,200,60-64,64,,,99999,,,99999999
+Track,Men,xy,200m,200,65-69,69,,,99999,,,99999999
+Track,Men,xy,200m,200,70-74,74,,,99999,,,99999999
+Track,Men,xy,300m,300,U17,16,,,99999,,,99999999
+Track,Men,xy,300m,300,U20,19,,,99999,,,99999999
+Track,Men,xy,300m,300,Senior,34,Paul Lockyer,42.6,42.6,Cheltenham,12/07/2017,20170712
+Track,Men,xy,300m,300,35-39,39,,,99999,,,99999999
+Track,Men,xy,300m,300,40-44,44,Paul Lockyer,42.6,42.6,Cheltenham,12/07/2017,20170712
+Track,Men,xy,300m,300,45-49,49,,,99999,,,99999999
+Track,Men,xy,300m,300,50-54,54,,,99999,,,99999999
+Track,Men,xy,300m,300,55-59,59,JJ Willson,49.9,49.9,Prince of Wales Stadium,20/07/2016,20160720
+Track,Men,xy,300m,300,60-64,64,,,99999,,,99999999
+Track,Men,xy,300m,300,65-69,69,,,99999,,,99999999
+Track,Men,xy,300m,300,70-74,74,,,99999,,,99999999
+Track,Men,xy,400m,400,U17,16,Ben Hodges,59.57,59.57,CLC,27/05/2009,20090527
+Track,Men,xy,400m,400,U20,19,,,99999,,,99999999
+Track,Men,xy,400m,400,Senior,34,Joel Freeland,56.3,56.3,Prince of Wales Stadium,20/07/2011,20110720
+Track,Men,xy,400m,400,35-39,39,John Parker,57.7,57.7,Prince of Wales Stadium,07/07/2010,20100707
+Track,Men,xy,400m,400,40-44,44,Paul Lockyer,59.7,59.7,Cheltenham,25/07/2018,20180725
+Track,Men,xy,400m,400,45-49,49,Gareth Harries,63.0,63,"Jubilee Track, Gloucester",13/05/2018,20180513
+Track,Men,xy,400m,400,50-54,54,Gavin Jerman,78.6,78.6,Prince of Wales Stadium,26/07/2017,20170726
+Track,Men,xy,400m,400,55-59,59,Andy Brookes,68.7,68.7,Cheltenham,12/08/2018,20180812
+Track,Men,xy,400m,400,60-64,64,,,99999,,,99999999
+Track,Men,xy,400m,400,65-69,69,,,99999,,,99999999
+Track,Men,xy,400m,400,70-74,74,,,99999,,,99999999
+Track,Men,xy,600m,600,U17,16,,,99999,,,99999999
+Track,Men,xy,600m,600,U20,19,,,99999,,,99999999
+Track,Men,xy,600m,600,Senior,34,Joel Freeland,1:35.0,95,Prince of Wales Stadium,10/07/2013,20130710
+Track,Men,xy,600m,600,35-39,39,Richard Cannock,1:37.2,97.2,Prince of Wales Stadium,10/07/2013,20130710
+Track,Men,xy,600m,600,40-44,44,Phil Jowett,1:36.6,96.6,Prince of Wales Stadium,08/07/2009,20090708
+Track,Men,xy,600m,600,45-49,49,Gareth Harries,1:42.2,102.2,Cheltenham,18/07/2018,20180718
+Track,Men,xy,600m,600,50-54,54,Gordon Bendall,1:59.7,119.7,Prince of Wales Stadium,10/07/2013,20130710
+Track,Men,xy,600m,600,55-59,59,JJ Willson,1:53.4,113.4,Prince of Wales Stadium,19/07/2017,20170719
+Track,Men,xy,600m,600,60-64,64,,,99999,,,99999999
+Track,Men,xy,600m,600,65-69,69,,,99999,,,99999999
+Track,Men,xy,600m,600,70-74,74,,,99999,,,99999999
+Track,Men,xy,800m,800,U17,16,Ben Hodges,2:36.0,156,CLC,13/05/2009,20090513
+Track,Men,xy,800m,800,U20,19,George Parker,2:41.1,161.1,Prince of Wales Stadium,16/07/2014,20140716
+Track,Men,xy,800m,800,Senior,34,Will Ferguson,1:59.0,119,Tipton,14/08/2018,20180814
+Track,Men,xy,800m,800,35-39,39,Will Ferguson,1:59.0,119,Tipton,14/08/2018,20180814
+Track,Men,xy,800m,800,40-44,44,Phil Jowett,2:08.1,128.1,Birmingham,17/04/2010,20100417
+Track,Men,xy,800m,800,45-49,49,Gareth Harries,2:21.1,141.1,Prince of Wales Stadium,11/07/2018,20180711
+Track,Men,xy,800m,800,50-54,54,JJ Willson,2:37.5,157.5,Prince of Wales Stadium,24/07/2013,20130724
+Track,Men,xy,800m,800,55-59,59,John Willson,2:34.2,154.2,Prince of Wales Stadium,12/07/2017,20170712
+Track,Men,xy,800m,800,60-64,64,David James,3:09.1,189.1,Prince of Wales Stadium,04/07/2012,20120704
+Track,Men,xy,800m,800,65-69,69,,,99999,,,99999999
+Track,Men,xy,800m,800,70-74,74,,,99999,,,99999999
+Track,Men,xy,1000m,1000,U17,16,,,99999,,,99999999
+Track,Men,xy,1000m,1000,U20,19,,,99999,,,99999999
+Track,Men,xy,1000m,1000,Senior,34,JJ Willson,3:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
+Track,Men,xy,1000m,1000,35-39,39,,,99999,,,99999999
+Track,Men,xy,1000m,1000,40-44,44,,,99999,,,99999999
+Track,Men,xy,1000m,1000,45-49,49,,,99999,,,99999999
+Track,Men,xy,1000m,1000,50-54,54,JJ Willson,3:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
+Track,Men,xy,1000m,1000,55-59,59,,,99999,,,99999999
+Track,Men,xy,1000m,1000,60-64,64,,,99999,,,99999999
+Track,Men,xy,1000m,1000,65-69,69,,,99999,,,99999999
+Track,Men,xy,1000m,1000,70-74,74,,,99999,,,99999999
+Track,Men,xy,1500m,1500,U17,16,,,99999,,,99999999
+Track,Men,xy,1500m,1500,U20,19,Ben Pedley,4:23.1,263.1,Prince of Wales Stadium,09/05/2010,20100509
+Track,Men,xy,1500m,1500,Senior,34,Will Ferguson,4:09.4,249.4,"Iffley Rd Stadium, Oxford",29/07/2017,20170729
+Track,Men,xy,1500m,1500,35-39,39,John Parker,4:09.8,249.8,Prince of Wales Stadium,21/07/2010,20100721
+Track,Men,xy,1500m,1500,40-44,44,James Oram,4:24.6,264.6,"Jubilee Track, Gloucester",15/05/2016,20160515
+Track,Men,xy,1500m,1500,45-49,49,Gareth Harries,5:00.3,300.3,Cheltenham,18/07/2018,20180718
+Track,Men,xy,1500m,1500,50-54,54,JJ Willson,5:14.1,314.1,Prince of Wales Stadium,31/07/2013,20130731
+Track,Men,xy,1500m,1500,55-59,59,John Wilson,5:10.8,310.8,Cheltenham,18/07/2018,20180718
+Track,Men,xy,1500m,1500,60-64,64,,,99999,,,99999999
+Track,Men,xy,1500m,1500,65-69,69,,,99999,,,99999999
+Track,Men,xy,1500m,1500,70-74,74,,,99999,,,99999999
+Track,Men,xy,Mile,1609,U17,16,Ben Hodges,5:56.5,356.5,CLC,24/06/2009,20090624
+Track,Men,xy,Mile,1609,U20,19,Ollie Mosley,5:54.4,354.4,Prince of Wales Stadium,27/08/2014,20140827
+Track,Men,xy,Mile,1609,Senior,34,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
+Track,Men,xy,Mile,1609,35-39,39,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
+Track,Men,xy,Mile,1609,40-44,44,James Oram,4:54.7,294.7,Prince of Wales Stadium,03/08/2016,20160803
+Track,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:23.5,323.5,Prince of Wales Stadium,04/07/2018,20180704
+Track,Men,xy,Mile,1609,50-54,54,Charles Goodwin,5:21.7,321.7,Gloucester,01/09/2017,20170901
+Track,Men,xy,Mile,1609,55-59,59,JJ Willson,5:39.3,339.3,Gloucester,01/09/2017,20170901
+Track,Men,xy,Mile,1609,60-64,64,,,99999,,,99999999
+Track,Men,xy,Mile,1609,65-69,69,,,99999,,,99999999
+Track,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
+Track,Men,xy,3000m,3000,U17,16,,,99999,,,99999999
+Track,Men,xy,3000m,3000,U20,19,George Parker,12:32.9,752.9,Prince of Wales Stadium,02/07/2014,20140702
+Track,Men,xy,3000m,3000,Senior,34,Will Ferguson,8:57.2,537.2,Yate,03/04/2011,20110403
+Track,Men,xy,3000m,3000,35-39,39,Chris Driskell,10:24.2,624.2,Prince of Wales Stadium,02/05/2016,20160502
+Track,Men,xy,3000m,3000,40-44,44,Juan Moreno,9:30.7,570.7,Granada,20/05/2017,20170520
+Track,Men,xy,3000m,3000,45-49,49,Richard Shardlow,10:47.5,647.5,Prince of Wales Stadium,12/07/2017,20170712
+Track,Men,xy,3000m,3000,50-54,54,Paul Northup,10:48.5,648.5,Prince of Wales Stadium,01/05/2017,20170501
+Track,Men,xy,3000m,3000,55-59,59,JJ Willson,11:25.6,685.6,Prince of Wales Stadium,20/07/2016,20160720
+Track,Men,xy,3000m,3000,60-64,64,,,99999,,,99999999
+Track,Men,xy,3000m,3000,65-69,69,,,99999,,,99999999
+Track,Men,xy,3000m,3000,70-74,74,,,99999,,,99999999
+Track,Men,xy,2mi,3218,U17,16,,,99999,,,99999999
+Track,Men,xy,2mi,3218,U20,19,,,99999,,,99999999
+Track,Men,xy,2mi,3218,Senior,34,Chris Hale,11:21.0,681,Birmingham,17/04/2010,20100417
+Track,Men,xy,2mi,3218,35-39,39,,,99999,,,99999999
+Track,Men,xy,2mi,3218,40-44,44,Chris Hale,11:21.0,681,Birmingham,17/04/2010,20100417
+Track,Men,xy,2mi,3218,45-49,49,,,99999,,,99999999
+Track,Men,xy,2mi,3218,50-54,54,,,99999,,,99999999
+Track,Men,xy,2mi,3218,55-59,59,,,99999,,,99999999
+Track,Men,xy,2mi,3218,60-64,64,,,99999,,,99999999
+Track,Men,xy,2mi,3218,65-69,69,,,99999,,,99999999
+Track,Men,xy,2mi,3218,70-74,74,,,99999,,,99999999
+Track,Men,xy,5km,5000,U17,16,,,99999,,,99999999
+Track,Men,xy,5km,5000,U20,19,George Parker,20:27.7,1227.7,Prince of Wales Stadium,13/05/2015,20150513
+Track,Men,xy,5km,5000,Senior,34,Will Ferguson,15:09,909,Yate,23/06/2018,20180623
+Track,Men,xy,5km,5000,35-39,39,Will Ferguson,15:09,909,Yate,23/06/2018,20180623
+Track,Men,xy,5km,5000,40-44,44,Juan Moreno,16:06.0,966,Malaga,27/05/2018,20180527
+Track,Men,xy,5km,5000,45-49,49,Richard Shardlow,18:16.8,1096.8,Prince of Wales Stadium,13/05/2015,20150513
+Track,Men,xy,5km,5000,50-54,54,Richard Shardlow,19:20.5,1160.5,Gloucester,03/09/2019,20190903
+Track,Men,xy,5km,5000,55-59,59,JJ Willson,19:51.3,1191.3,Prince of Wales Stadium,15/07/2015,20150715
+Track,Men,xy,5km,5000,60-64,64,,,99999,,,99999999
+Track,Men,xy,5km,5000,65-69,69,,,99999,,,99999999
+Track,Men,xy,5km,5000,70-74,74,,,99999,,,99999999
+Track,Men,xy,10km,10000,U17,16,,,99999,,,99999999
+Track,Men,xy,10km,10000,U20,19,,,99999,,,99999999
+Track,Men,xy,10km,10000,Senior,34,Will Ferguson,32:57.1,1977.1,Bedford,02/05/2010,20100502
+Track,Men,xy,10km,10000,35-39,39,Juan Moreno,36:27.3,2187.3,Prince of Wales Stadium,27/08/2014,20140827
+Track,Men,xy,10km,10000,40-44,44,Juan Moreno,34:16.9,2056.9,Ubeda,18/03/2017,20170318
+Track,Men,xy,10km,10000,45-49,49,Charles Goodwin,38:17.3,2297.3,Prince of Wales Stadium,24/08/2011,20110824
+Track,Men,xy,10km,10000,50-54,54,Richard Shardlow,40:57.8,2457.8,Redditch,30/08/2019,20190830
+Track,Men,xy,10km,10000,55-59,59,,,99999,,,99999999
+Track,Men,xy,10km,10000,60-64,64,,,99999,,,99999999
+Track,Men,xy,10km,10000,65-69,69,,,99999,,,99999999
+Track,Men,xy,10km,10000,70-74,74,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,U17,16,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,U20,19,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,Senior,34,"Jon Howes, Mike Speke, Eoin McQuone, Paul Lockyer",57.7,57.7,Prince of Wales Stadium,07/09/2018,20180907
+Track,Men,xy,4x100m relay,101,35-39,39,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,40-44,44,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,45-49,49,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,50-54,54,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,55-59,59,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,60-64,64,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,65-69,69,,,99999,,,99999999
+Track,Men,xy,4x100m relay,101,70-74,74,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,U17,16,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,U20,19,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,Senior,34,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,35-39,39,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,40-44,44,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,45-49,49,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,50-54,54,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,55-59,59,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,60-64,64,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,65-69,69,,,99999,,,99999999
+Track,Men,xy,4x400m relay,401,70-74,74,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,U17,16,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,U20,19,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,Senior,34,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,35-39,39,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,40-44,44,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,45-49,49,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,50-54,54,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,55-59,59,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,60-64,64,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,65-69,69,,,99999,,,99999999
+Track,Men,xy,100m hurdles,102,70-74,74,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,U17,16,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,U20,19,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,Senior,34,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,35-39,39,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,40-44,44,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,45-49,49,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,50-54,54,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,55-59,59,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,60-64,64,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,65-69,69,,,99999,,,99999999
+Track,Men,xy,1500m s/c,1501,70-74,74,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,U17,16,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,U20,19,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,Senior,34,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,35-39,39,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,40-44,44,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,45-49,49,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,50-54,54,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,55-59,59,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,60-64,64,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,65-69,69,,,99999,,,99999999
+Track,Men,xy,2000m s/c,2001,70-74,74,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,U17,16,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,U20,19,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,Senior,34,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,35-39,39,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,40-44,44,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,45-49,49,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,50-54,54,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,55-59,59,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,60-64,64,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,65-69,69,,,99999,,,99999999
+Track,Men,xy,3000m s/c,3001,70-74,74,,,99999,,,99999999
+Track,Women,xx,100m,100,U17,16,,,99999,,,99999999
+Track,Women,xx,100m,100,U20,19,,,99999,,,99999999
+Track,Women,xx,100m,100,Senior,34,Katie Butler,13.8,13.8,Prince of Wales Stadium,13/05/2012,20120513
+Track,Women,xx,100m,100,35-39,39,Helen Howes,17.36,17.36,Prince of Wales Stadium,01/07/2015,20150701
+Track,Women,xx,100m,100,40-44,44,Amelia Mullins,16.4,16.4,Prince of Wales Stadium,03/08/2016,20160803
+Track,Women,xx,100m,100,45-49,49,Amelia Mullins,16.6,16.6,Prince of Wales Stadium,19/07/2017,20170719
+Track,Women,xx,100m,100,50-54,54,,,99999,,,99999999
+Track,Women,xx,100m,100,55-59,59,Dawn Addinall,19.09,19.09,CLC,24/06/2009,20090624
+Track,Women,xx,100m,100,60-64,64,,,99999,,,99999999
+Track,Women,xx,100m,100,65-69,69,,,99999,,,99999999
+Track,Women,xx,100m,100,70-74,74,,,99999,,,99999999
+Track,Women,xx,150m,150,U17,16,,,99999,,,99999999
+Track,Women,xx,150m,150,U20,19,,,99999,,,99999999
+Track,Women,xx,150m,150,Senior,34,Hollie Wharton,22.8,22.8,Prince of Wales Stadium,18/07/2012,20120718
+Track,Women,xx,150m,150,35-39,39,,,99999,,,99999999
+Track,Women,xx,150m,150,40-44,44,Emma Abbey,27.17,27.17,Prince of Wales Stadium,13/07/2016,20160713
+Track,Women,xx,150m,150,45-49,49,Amelia Mullins,26.0,26,Cheltenham,25/07/2018,20180725
+Track,Women,xx,150m,150,50-54,54,,,99999,,,99999999
+Track,Women,xx,150m,150,55-59,59,,,99999,,,99999999
+Track,Women,xx,150m,150,60-64,64,,,99999,,,99999999
+Track,Women,xx,150m,150,65-69,69,,,99999,,,99999999
+Track,Women,xx,150m,150,70-74,74,,,99999,,,99999999
+Track,Women,xx,200m,200,U17,16,,,99999,,,99999999
+Track,Women,xx,200m,200,U20,19,,,99999,,,99999999
+Track,Women,xx,200m,200,Senior,34,Katie Butler,27.9,27.9,Prince of Wales Stadium,13/05/2012,20120513
+Track,Women,xx,200m,200,35-39,39,,,99999,,,99999999
+Track,Women,xx,200m,200,40-44,44,Amelia Mullins,34.1,34.1,Prince of Wales Stadium,03/08/2016,20160803
+Track,Women,xx,200m,200,45-49,49,Amelia Mullins,36.6,36.6,Prince of Wales Stadium,05/07/2017,20170705
+Track,Women,xx,200m,200,50-54,54,,,99999,,,99999999
+Track,Women,xx,200m,200,55-59,59,Dawn Addinall,40.87,40.87,CLC,13/05/2009,20090513
+Track,Women,xx,200m,200,60-64,64,Sylvia Koster,45.59,45.59,CLC,13/05/2009,20090513
+Track,Women,xx,200m,200,65-69,69,,,99999,,,99999999
+Track,Women,xx,200m,200,70-74,74,,,99999,,,99999999
+Track,Women,xx,300m,300,U17,16,,,99999,,,99999999
+Track,Women,xx,300m,300,U20,19,,,99999,,,99999999
+Track,Women,xx,300m,300,Senior,34,,,99999,,,99999999
+Track,Women,xx,300m,300,35-39,39,,,99999,,,99999999
+Track,Women,xx,300m,300,40-44,44,Amelia Mullins,59.4,59.4,Prince of Wales Stadium,20/07/2016,20160720
+Track,Women,xx,300m,300,45-49,49,,,99999,,,99999999
+Track,Women,xx,300m,300,50-54,54,,,99999,,,99999999
+Track,Women,xx,300m,300,55-59,59,,,99999,,,99999999
+Track,Women,xx,300m,300,60-64,64,,,99999,,,99999999
+Track,Women,xx,300m,300,65-69,69,,,99999,,,99999999
+Track,Women,xx,300m,300,70-74,74,,,99999,,,99999999
+Track,Women,xx,400m,400,U17,16,,,99999,,,99999999
+Track,Women,xx,400m,400,U20,19,,,99999,,,99999999
+Track,Women,xx,400m,400,Senior,34,Hollie Wharton,73.3,73.3,Worcester,26/04/2012,20120426
+Track,Women,xx,400m,400,35-39,39,Rachel Vines,76.6,76.6,Prince of Wales Stadium,12/07/2017,20170712
+Track,Women,xx,400m,400,40-44,44,Amelia Mullins,83.0,83,Prince of Wales Stadium,20/07/2016,20160720
+Track,Women,xx,400m,400,45-49,49,Amelia Mullins,83.3,83.3,Prince of Wales Stadium,11/07/2018,20180711
+Track,Women,xx,400m,400,50-54,54,,,99999,,,99999999
+Track,Women,xx,400m,400,55-59,59,,,99999,,,99999999
+Track,Women,xx,400m,400,60-64,64,,,99999,,,99999999
+Track,Women,xx,400m,400,65-69,69,,,99999,,,99999999
+Track,Women,xx,400m,400,70-74,74,,,99999,,,99999999
+Track,Women,xx,600m,600,U17,16,,,99999,,,99999999
+Track,Women,xx,600m,600,U20,19,,,99999,,,99999999
+Track,Women,xx,600m,600,Senior,34,Katie Butler,1:47.5,107.5,Prince of Wales Stadium,10/07/2013,20130710
+Track,Women,xx,600m,600,35-39,39,Rachel Vines,1:54.7,114.7,Prince of Wales Stadium,19/07/2017,20170719
+Track,Women,xx,600m,600,40-44,44,Helen Knight,1:59.4,119.4,Prince of Wales Stadium,17/07/2019,20190717
+Track,Women,xx,600m,600,45-49,49,Amelia Mullins,2:13.1,133.1,Prince of Wales Stadium,19/07/2017,20170719
+Track,Women,xx,600m,600,50-54,54,,,99999,,,99999999
+Track,Women,xx,600m,600,55-59,59,,,99999,,,99999999
+Track,Women,xx,600m,600,60-64,64,,,99999,,,99999999
+Track,Women,xx,600m,600,65-69,69,,,99999,,,99999999
+Track,Women,xx,600m,600,70-74,74,,,99999,,,99999999
+Track,Women,xx,800m,800,U17,16,,,99999,,,99999999
+Track,Women,xx,800m,800,U20,19,,,99999,,,99999999
+Track,Women,xx,800m,800,Senior,34,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
+Track,Women,xx,800m,800,35-39,39,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
+Track,Women,xx,800m,800,40-44,44,Helen Knight,2:41.3,161.3,Prince of Wales Stadium,24/07/2019,20190724
+Track,Women,xx,800m,800,45-49,49,Amelia Mullins,3:03.6,183.6,Cheltenham,25/07/2018,20180725
+Track,Women,xx,800m,800,50-54,54,,,99999,,,99999999
+Track,Women,xx,800m,800,55-59,59,Dawn Addinall,3:32.4,212.4,CLC,13/05/2009,20090513
+Track,Women,xx,800m,800,60-64,64,Sylvia Koster,3:44.2,224.2,CLC,13/05/2009,20090513
+Track,Women,xx,800m,800,65-69,69,,,99999,,,99999999
+Track,Women,xx,800m,800,70-74,74,,,99999,,,99999999
+Track,Women,xx,1000m,1000,U17,16,,,99999,,,99999999
+Track,Women,xx,1000m,1000,U20,19,,,99999,,,99999999
+Track,Women,xx,1000m,1000,Senior,34,Patricia Woods,3:25.2,205.2,Prince of Wales Stadium,04/06/2012,20120604
+Track,Women,xx,1000m,1000,35-39,39,,,99999,,,99999999
+Track,Women,xx,1000m,1000,40-44,44,,,99999,,,99999999
+Track,Women,xx,1000m,1000,45-49,49,,,99999,,,99999999
+Track,Women,xx,1000m,1000,50-54,54,,,99999,,,99999999
+Track,Women,xx,1000m,1000,55-59,59,,,99999,,,99999999
+Track,Women,xx,1000m,1000,60-64,64,,,99999,,,99999999
+Track,Women,xx,1000m,1000,65-69,69,,,99999,,,99999999
+Track,Women,xx,1000m,1000,70-74,74,,,99999,,,99999999
+Track,Women,xx,1500m,1500,U17,16,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
+Track,Women,xx,1500m,1500,U20,19,,,99999,,,99999999
+Track,Women,xx,1500m,1500,Senior,34,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
+Track,Women,xx,1500m,1500,35-39,39,Rachel Vines,4:59.9,299.9,Prince of Wales Stadium,19/07/2017,20170719
+Track,Women,xx,1500m,1500,40-44,44,Helen Knight,5:28.2,328.2,Brewer Games,17/07/2019,20190717
+Track,Women,xx,1500m,1500,45-49,49,Amanda Steer,5:35.4,335.4,Stourport,30/04/2015,20150430
+Track,Women,xx,1500m,1500,50-54,54,,,99999,,,99999999
+Track,Women,xx,1500m,1500,55-59,59,,,99999,,,99999999
+Track,Women,xx,1500m,1500,60-64,64,,,99999,,,99999999
+Track,Women,xx,1500m,1500,65-69,69,,,99999,,,99999999
+Track,Women,xx,1500m,1500,70-74,74,,,99999,,,99999999
+Track,Women,xx,Mile,1609,U17,16,,,99999,,,99999999
+Track,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
+Track,Women,xx,Mile,1609,Senior,34,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
+Track,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
+Track,Women,xx,Mile,1609,40-44,44,Helen Knight,5:51.1,351.1,Prince of Wales Stadium,03/07/2019,20190703
+Track,Women,xx,Mile,1609,45-49,49,Amelia Mullins,6:04.7,364.7,Prince of Wales Stadium,05/07/2017,20170705
+Track,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
+Track,Women,xx,Mile,1609,55-59,59,Dawn Addinall,7:42.3,462.3,CLC,24/06/2009,20090624
+Track,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
+Track,Women,xx,Mile,1609,65-69,69,,,99999,,,99999999
+Track,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
+Track,Women,xx,3000m,3000,U17,16,,,99999,,,99999999
+Track,Women,xx,3000m,3000,U20,19,,,99999,,,99999999
+Track,Women,xx,3000m,3000,Senior,34,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
+Track,Women,xx,3000m,3000,35-39,39,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
+Track,Women,xx,3000m,3000,40-44,44,Amelia Mullins,12:03.1,723.1,Prince of Wales Stadium,02/05/2016,20160502
+Track,Women,xx,3000m,3000,45-49,49,Amanda Steer,11:50.6,710.6,Nuneaton,04/09/2016,20160904
+Track,Women,xx,3000m,3000,50-54,54,,,99999,,,99999999
+Track,Women,xx,3000m,3000,55-59,59,Dawn Addinall,14:36.1,876.1,Prince of Wales Stadium,08/05/2009,20090508
+Track,Women,xx,3000m,3000,60-64,64,,,99999,,,99999999
+Track,Women,xx,3000m,3000,65-69,69,,,99999,,,99999999
+Track,Women,xx,3000m,3000,70-74,74,,,99999,,,99999999
+Track,Women,xx,2mi,3218,U17,16,,,99999,,,99999999
+Track,Women,xx,2mi,3218,U20,19,,,99999,,,99999999
+Track,Women,xx,2mi,3218,Senior,34,Natasha Poole,12:01.2,721.2,Birmingham,17/04/2010,20100417
+Track,Women,xx,2mi,3218,35-39,39,,,99999,,,99999999
+Track,Women,xx,2mi,3218,40-44,44,,,99999,,,99999999
+Track,Women,xx,2mi,3218,45-49,49,,,99999,,,99999999
+Track,Women,xx,2mi,3218,50-54,54,,,99999,,,99999999
+Track,Women,xx,2mi,3218,55-59,59,,,99999,,,99999999
+Track,Women,xx,2mi,3218,60-64,64,,,99999,,,99999999
+Track,Women,xx,2mi,3218,65-69,69,,,99999,,,99999999
+Track,Women,xx,2mi,3218,70-74,74,,,99999,,,99999999
+Track,Women,xx,5km,5000,U17,16,,,99999,,,99999999
+Track,Women,xx,5km,5000,U20,19,,,99999,,,99999999
+Track,Women,xx,5km,5000,Senior,34,Rachel Vines,18:48.5,1128.5,Yate,22/07/2017,20170722
+Track,Women,xx,5km,5000,35-39,39,Rachel Vines,18:48.5,1128.5,Yate,22/07/2017,20170722
+Track,Women,xx,5km,5000,40-44,44,Amelia Mullins,20:13.5,1213.5,Prince of Wales Stadium,13/07/2016,20160713
+Track,Women,xx,5km,5000,45-49,49,Amanda Steer,20:51.0,1251,Prince of Wales Stadium,13/05/2017,20170513
+Track,Women,xx,5km,5000,50-54,54,,,99999,,,99999999
+Track,Women,xx,5km,5000,55-59,59,Dawn Addinall,26:20.4,1580.4,CLC,10/06/2009,20090610
+Track,Women,xx,5km,5000,60-64,64,,,99999,,,99999999
+Track,Women,xx,5km,5000,65-69,69,,,99999,,,99999999
+Track,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
+Track,Women,xx,10km,10000,U17,16,,,99999,,,99999999
+Track,Women,xx,10km,10000,U20,19,,,99999,,,99999999
+Track,Women,xx,10km,10000,Senior,34,Hilary Agate,39:16.1,2356.1,Prince of Wales Stadium,24/08/2011,20110824
+Track,Women,xx,10km,10000,35-39,39,Rachel Vines,40:26.9,2426.9,Highgate,20/05/2017,20170520
+Track,Women,xx,10km,10000,40-44,44,Amelia Mullins,43:08.5,2588.5,Prince of Wales Stadium,19/08/2016,20160819
+Track,Women,xx,10km,10000,45-49,49,Amanda Steer,43:35.2,2615.2,Gloucester,01/09/2017,20170901
+Track,Women,xx,10km,10000,50-54,54,,,99999,,,99999999
+Track,Women,xx,10km,10000,55-59,59,,,99999,,,99999999
+Track,Women,xx,10km,10000,60-64,64,,,99999,,,99999999
+Track,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
+Track,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,U17,16,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,U20,19,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
+Track,Women,xx,4x100m relay,101,35-39,39,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,40-44,44,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,45-49,49,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,50-54,54,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,55-59,59,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,60-64,64,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,65-69,69,,,99999,,,99999999
+Track,Women,xx,4x100m relay,101,70-74,74,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,U17,16,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,U20,19,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,Senior,34,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",4:59.7,299.7,Prince of Wales Stadium,21/08/2013,20130821
+Track,Women,xx,4x400m relay,401,35-39,39,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,40-44,44,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,45-49,49,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,50-54,54,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,55-59,59,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,60-64,64,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,65-69,69,,,99999,,,99999999
+Track,Women,xx,4x400m relay,401,70-74,74,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,U17,16,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,U20,19,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,Senior,34,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,35-39,39,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,40-44,44,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,45-49,49,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,50-54,54,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,55-59,59,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,60-64,64,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,65-69,69,,,99999,,,99999999
+Track,Women,xx,100m hurdles,102,70-74,74,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,U17,16,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,U20,19,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,Senior,34,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,35-39,39,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,40-44,44,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,45-49,49,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,50-54,54,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,55-59,59,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,60-64,64,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,65-69,69,,,99999,,,99999999
+Track,Women,xx,1500m s/c,1501,70-74,74,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,U17,16,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,U20,19,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,Senior,34,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,35-39,39,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,40-44,44,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,45-49,49,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,50-54,54,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,55-59,59,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,60-64,64,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,65-69,69,,,99999,,,99999999
+Track,Women,xx,2000m s/c,2001,70-74,74,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,U17,16,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,U20,19,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,Senior,34,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,35-39,39,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,40-44,44,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,45-49,49,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,50-54,54,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,55-59,59,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,60-64,64,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,65-69,69,,,99999,,,99999999
+Track,Women,xx,3000m s/c,3001,70-74,74,,,99999,,,99999999
