@@ -15,7 +15,7 @@ We continue to recognise the importance of running for both the physical and men
 
 * Club coaches are producing weekly speed training sessions which will be shared with members for those who would like to continue to do the sessions independently. 
 * Club Captains are currently considering the next virtual race event – more information shortly.
-*	A really successful virtual quiz event took place on Friday 1 May – consideration will be given to potential future virtual events.
+* A really successful virtual quiz event took place on Friday 1 May – consideration will be given to potential future virtual events.
 
 Can we remind you all of the UK Government advice to support the UK's response by:
 
