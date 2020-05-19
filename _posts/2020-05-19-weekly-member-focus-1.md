@@ -2,7 +2,6 @@
 
 title: CLC Striders weekly member focus - Will Pearce
 layout: post
-date: 2020-05-19 17:10
 categories:
   - News
   
