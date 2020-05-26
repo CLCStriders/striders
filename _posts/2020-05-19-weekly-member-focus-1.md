@@ -17,4 +17,4 @@ Will noted that he could not have done it without being part of such a great clu
 
 Will is now aiming for an official PB in Manchester 2021.....
 
-Well done Will, keep up the amazing work and look forward to seeing you complete your next challenge
+Well done Will, keep up the amazing work and look forward to seeing you complete your next challenge.
