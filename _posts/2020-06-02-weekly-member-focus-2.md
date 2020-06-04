@@ -1,13 +1,11 @@
 ---
-
 title: CLC Striders weekly member focus - Eoin McQuone 
 layout: post
 categories:
   - News
-  
 ---
 
-Each week we are going to share an update on a member of the club and the activities they are undertaking to keep running during lockdown. 
+Each week we are going to share an update on a member of the club and the activities they are undertaking to keep running during lockdown.
 
 This week we focus on **Eoin McQuone** who serves as Club Treasurer, Staverton 10 mile Race Director and is a regular attendee at club training events and a participator in cross country and races for the club.
 
