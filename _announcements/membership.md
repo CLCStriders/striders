@@ -1,6 +1,6 @@
 ---
 title: Membership renewal 2020/21
-published: true
+published: false
 
 ---
 
