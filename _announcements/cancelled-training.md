@@ -1,6 +1,6 @@
 ---
 title: Cancelled Training
-published: true
+published: false
 
 ---
 
