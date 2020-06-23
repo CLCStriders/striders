@@ -14,6 +14,12 @@ New [members](/membership) are always welcome to join us for training, either [g
 
 The club is run by a [committee](/committee) of volunteers.
 
+##### Risk assessments
+
+The committee take the safety of Club members seriously and have produced risk assessments around activities:
+
+![Covid-19 risk assessment](/assets/Covid-19-risk-assessment-2020-06-22.pdf "Covid-19 risk assessment")
+
 ##### Affiliations
 
 - [England Athletics](https://www.englandathletics.org/)
