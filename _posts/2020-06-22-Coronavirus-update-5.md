@@ -1,6 +1,6 @@
 ---
 
-title: Cornonavirus update 22 May - return to socially distanced speed training
+title: Coronavirus update 22 May - return to socially distanced speed training
 layout: post
 categories:
   - Training
