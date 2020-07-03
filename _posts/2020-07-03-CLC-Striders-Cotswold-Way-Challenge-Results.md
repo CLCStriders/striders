@@ -21,7 +21,7 @@ In the Virtual Trail Half Marathon, Will Pearce was first man with a time of 1:4
 
 Thank you for taking part in this challenge, hopefully it has reminded us how lucky we are to have routes like the CW on our doorstep. 
 
-[Amelia Mullins and Nicola Weager](/images/2020/07/2020-07-03-Cotswold-way-1.jpg "Amelia Mullins and Nicola Weager")
+[Amelia Mullins](/images/2020/07/2020-07-03-Cotswold-way-1.jpg "Amelia Mullins and Nicola Weager")
 
 
 
