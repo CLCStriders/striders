@@ -2,7 +2,6 @@
 
 title: CLC Striders speed/interval training w/c 6 July 2020
 layout: post
-date: 2020-07-06 09:00 
 categories:
   - Training
   
