@@ -12,13 +12,13 @@ We hold organised [training sessions](/training) on Mondays and Wednesdays throu
 
 New [members](/membership) are always welcome to join us for training, either [get in touch](/contact) or just turn up.
 
-The club is run by a [committee](/committee) of volunteers.
+The club is run by a [committee](/committee) of volunteers and is [affiliated by England Athletics](/images/2020/07//Affiliation-certificate-2020-21.jpg).
 
 ##### Risk assessments
 
 The committee take the safety of Club members seriously and have produced risk assessments around activities:
 
-[Covid-19 risk assessment](/assets/Covid-19-risk-assessment-2020-06-22.pdf "Covid-19 risk assessment")
+[Covid-19 risk assessment](/assets/Covid-19-risk-assessment-2020-06-22.pdf)
 
 ##### Affiliations
 
