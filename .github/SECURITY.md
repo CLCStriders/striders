@@ -11,4 +11,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability please raise an [issue](https://github.com/ChelseaStats/striders/issues) or see the security.txt file and contact the webmaster by email.
+To report a vulnerability please raise an [issue](https://github.com/ChelseaStats/striders/issues) or see the [security.txt](https://github.com/CLCStriders/striders/blob/master/.well-known/security.txt) file and contact the webmaster by email.
