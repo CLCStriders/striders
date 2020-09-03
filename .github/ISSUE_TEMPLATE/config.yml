@@ -1,0 +1,4 @@
+contact_links:
+  - name: Need help?
+    url: https://github.com/CLCStriders/striders/wiki
+    about: Please read the wiki before creating an issue
