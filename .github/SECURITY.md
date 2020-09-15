@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We support the latest version of our website, 
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,4 +10,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability please raise an [issue](https://github.com/ChelseaStats/striders/issues) or see the security.txt file and contact the webmaster by email.
+To report a vulnerability please raise an [issue](https://github.com/ChelseaStats/striders/issues) or see the [security.txt](https://github.com/CLCStriders/striders/blob/master/.well-known/security.txt) file and contact the webmaster by email.
