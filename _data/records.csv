@@ -190,7 +190,7 @@ Road,Women,xx,20mi,32180,60-64,64,,,99999,,,99999999
 Road,Women,xx,20mi,32180,65-69,69,,,99999,,,99999999
 Road,Women,xx,20mi,32180,70-74,74,,,99999,,,99999999
 Road,Women,xx,Marathon,42188,U20,19,,,99999,,,99999999
-Road,Women,xx,Marathon,42188,Senior,34,Liza Barry,2:57:54,10674,London,25/04/2010,20100425
+Road,Women,xx,Marathon,42188,Senior,34,Liza Bradshaw,2:54:59,10499,Dorney Lake,04/10/2020,20201004
 Road,Women,xx,Marathon,42188,35-39,39,Liza Bradshaw,2:54:59,10499,Dorney Lake,04/10/2020,20201004
 Road,Women,xx,Marathon,42188,40-44,44,Amelia Mullins,3:31:34,12694,Abingdon,18/10/2015,20151018
 Road,Women,xx,Marathon,42188,45-49,49,Sarah Wilson,4:17:42,15462,London,28/04/2019,20190428
@@ -210,7 +210,6 @@ Track,Men,xy,100m,100,55-59,59,Andy Brookes,15.57,15.57,Tavistock,12/08/2018,201
 Track,Men,xy,100m,100,60-64,64,,,99999,,,99999999
 Track,Men,xy,100m,100,65-69,69,,,99999,,,99999999
 Track,Men,xy,100m,100,70-74,74,,,99999,,,99999999
-Track,Men,xy,150m,150,U17,16,,,99999,,,99999999
 Track,Men,xy,150m,150,U20,19,,,99999,,,99999999
 Track,Men,xy,150m,150,Senior,34,Nick O'Neil,18.2,18.2,Prince of Wales Stadium,21/07/2010,20100721
 Track,Men,xy,150m,150,35-39,39,Dan Harte,24.57,24.57,Prince of Wales Stadium,15/07/2015,20150715
@@ -232,7 +231,6 @@ Track,Men,xy,200m,200,55-59,59,Andy Brookes,31.6,31.6,Cheltenham,04/07/2018,2018
 Track,Men,xy,200m,200,60-64,64,,,99999,,,99999999
 Track,Men,xy,200m,200,65-69,69,,,99999,,,99999999
 Track,Men,xy,200m,200,70-74,74,,,99999,,,99999999
-Track,Men,xy,300m,300,U17,16,,,99999,,,99999999
 Track,Men,xy,300m,300,U20,19,,,99999,,,99999999
 Track,Men,xy,300m,300,Senior,34,Paul Lockyer,42.6,42.6,Cheltenham,12/07/2017,20170712
 Track,Men,xy,300m,300,35-39,39,,,99999,,,99999999
@@ -254,7 +252,6 @@ Track,Men,xy,400m,400,55-59,59,Andy Brookes,68.7,68.7,Cheltenham,12/08/2018,2018
 Track,Men,xy,400m,400,60-64,64,,,99999,,,99999999
 Track,Men,xy,400m,400,65-69,69,,,99999,,,99999999
 Track,Men,xy,400m,400,70-74,74,,,99999,,,99999999
-Track,Men,xy,600m,600,U17,16,,,99999,,,99999999
 Track,Men,xy,600m,600,U20,19,,,99999,,,99999999
 Track,Men,xy,600m,600,Senior,34,Joel Freeland,1:35.0,95,Prince of Wales Stadium,10/07/2013,20130710
 Track,Men,xy,600m,600,35-39,39,Richard Cannock,1:37.2,97.2,Prince of Wales Stadium,10/07/2013,20130710
@@ -276,7 +273,6 @@ Track,Men,xy,800m,800,55-59,59,John Willson,2:34.2,154.2,Prince of Wales Stadium
 Track,Men,xy,800m,800,60-64,64,David James,3:09.1,189.1,Prince of Wales Stadium,04/07/2012,20120704
 Track,Men,xy,800m,800,65-69,69,,,99999,,,99999999
 Track,Men,xy,800m,800,70-74,74,,,99999,,,99999999
-Track,Men,xy,1000m,1000,U17,16,,,99999,,,99999999
 Track,Men,xy,1000m,1000,U20,19,,,99999,,,99999999
 Track,Men,xy,1000m,1000,Senior,34,JJ Willson,3:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
 Track,Men,xy,1000m,1000,35-39,39,,,99999,,,99999999
@@ -287,7 +283,6 @@ Track,Men,xy,1000m,1000,55-59,59,,,99999,,,99999999
 Track,Men,xy,1000m,1000,60-64,64,,,99999,,,99999999
 Track,Men,xy,1000m,1000,65-69,69,,,99999,,,99999999
 Track,Men,xy,1000m,1000,70-74,74,,,99999,,,99999999
-Track,Men,xy,1500m,1500,U17,16,,,99999,,,99999999
 Track,Men,xy,1500m,1500,U20,19,Ben Pedley,4:23.1,263.1,Prince of Wales Stadium,09/05/2010,20100509
 Track,Men,xy,1500m,1500,Senior,34,Will Ferguson,4:09.4,249.4,"Iffley Rd Stadium, Oxford",29/07/2017,20170729
 Track,Men,xy,1500m,1500,35-39,39,John Parker,4:09.8,249.8,Prince of Wales Stadium,21/07/2010,20100721
@@ -309,7 +304,6 @@ Track,Men,xy,Mile,1609,55-59,59,JJ Willson,5:39.3,339.3,Gloucester,01/09/2017,20
 Track,Men,xy,Mile,1609,60-64,64,,,99999,,,99999999
 Track,Men,xy,Mile,1609,65-69,69,,,99999,,,99999999
 Track,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
-Track,Men,xy,3000m,3000,U17,16,,,99999,,,99999999
 Track,Men,xy,3000m,3000,U20,19,George Parker,12:32.9,752.9,Prince of Wales Stadium,02/07/2014,20140702
 Track,Men,xy,3000m,3000,Senior,34,Will Ferguson,8:57.2,537.2,Yate,03/04/2011,20110403
 Track,Men,xy,3000m,3000,35-39,39,Chris Driskell,10:24.2,624.2,Prince of Wales Stadium,02/05/2016,20160502
@@ -320,7 +314,6 @@ Track,Men,xy,3000m,3000,55-59,59,JJ Willson,11:25.6,685.6,Prince of Wales Stadiu
 Track,Men,xy,3000m,3000,60-64,64,,,99999,,,99999999
 Track,Men,xy,3000m,3000,65-69,69,,,99999,,,99999999
 Track,Men,xy,3000m,3000,70-74,74,,,99999,,,99999999
-Track,Men,xy,2mi,3218,U17,16,,,99999,,,99999999
 Track,Men,xy,2mi,3218,U20,19,,,99999,,,99999999
 Track,Men,xy,2mi,3218,Senior,34,Chris Hale,11:21.0,681,Birmingham,17/04/2010,20100417
 Track,Men,xy,2mi,3218,35-39,39,,,99999,,,99999999
@@ -331,7 +324,6 @@ Track,Men,xy,2mi,3218,55-59,59,,,99999,,,99999999
 Track,Men,xy,2mi,3218,60-64,64,,,99999,,,99999999
 Track,Men,xy,2mi,3218,65-69,69,,,99999,,,99999999
 Track,Men,xy,2mi,3218,70-74,74,,,99999,,,99999999
-Track,Men,xy,5km,5000,U17,16,,,99999,,,99999999
 Track,Men,xy,5km,5000,U20,19,George Parker,20:27.7,1227.7,Prince of Wales Stadium,13/05/2015,20150513
 Track,Men,xy,5km,5000,Senior,34,Will Ferguson,15:09,909,Yate,23/06/2018,20180623
 Track,Men,xy,5km,5000,35-39,39,Will Ferguson,15:09,909,Yate,23/06/2018,20180623
@@ -342,7 +334,6 @@ Track,Men,xy,5km,5000,55-59,59,JJ Willson,19:51.3,1191.3,Prince of Wales Stadium
 Track,Men,xy,5km,5000,60-64,64,,,99999,,,99999999
 Track,Men,xy,5km,5000,65-69,69,,,99999,,,99999999
 Track,Men,xy,5km,5000,70-74,74,,,99999,,,99999999
-Track,Men,xy,10km,10000,U17,16,,,99999,,,99999999
 Track,Men,xy,10km,10000,U20,19,,,99999,,,99999999
 Track,Men,xy,10km,10000,Senior,34,Will Ferguson,32:57.1,1977.1,Bedford,02/05/2010,20100502
 Track,Men,xy,10km,10000,35-39,39,Juan Moreno,36:27.3,2187.3,Prince of Wales Stadium,27/08/2014,20140827
@@ -353,7 +344,6 @@ Track,Men,xy,10km,10000,55-59,59,,,99999,,,99999999
 Track,Men,xy,10km,10000,60-64,64,,,99999,,,99999999
 Track,Men,xy,10km,10000,65-69,69,,,99999,,,99999999
 Track,Men,xy,10km,10000,70-74,74,,,99999,,,99999999
-Track,Men,xy,4x100m relay,101,U17,16,,,99999,,,99999999
 Track,Men,xy,4x100m relay,101,U20,19,,,99999,,,99999999
 Track,Men,xy,4x100m relay,101,Senior,34,"Jon Howes, Mike Speke, Eoin McQuone, Paul Lockyer",57.7,57.7,Prince of Wales Stadium,07/09/2018,20180907
 Track,Men,xy,4x100m relay,101,35-39,39,,,99999,,,99999999
@@ -364,7 +354,6 @@ Track,Men,xy,4x100m relay,101,55-59,59,,,99999,,,99999999
 Track,Men,xy,4x100m relay,101,60-64,64,,,99999,,,99999999
 Track,Men,xy,4x100m relay,101,65-69,69,,,99999,,,99999999
 Track,Men,xy,4x100m relay,101,70-74,74,,,99999,,,99999999
-Track,Men,xy,4x400m relay,401,U17,16,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,U20,19,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,Senior,34,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,35-39,39,,,99999,,,99999999
@@ -375,7 +364,6 @@ Track,Men,xy,4x400m relay,401,55-59,59,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,60-64,64,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,65-69,69,,,99999,,,99999999
 Track,Men,xy,4x400m relay,401,70-74,74,,,99999,,,99999999
-Track,Men,xy,100m hurdles,102,U17,16,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,U20,19,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,Senior,34,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,35-39,39,,,99999,,,99999999
@@ -386,7 +374,6 @@ Track,Men,xy,100m hurdles,102,55-59,59,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,60-64,64,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,65-69,69,,,99999,,,99999999
 Track,Men,xy,100m hurdles,102,70-74,74,,,99999,,,99999999
-Track,Men,xy,1500m s/c,1501,U17,16,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,U20,19,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,Senior,34,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,35-39,39,,,99999,,,99999999
@@ -397,7 +384,6 @@ Track,Men,xy,1500m s/c,1501,55-59,59,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,60-64,64,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,65-69,69,,,99999,,,99999999
 Track,Men,xy,1500m s/c,1501,70-74,74,,,99999,,,99999999
-Track,Men,xy,2000m s/c,2001,U17,16,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,U20,19,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,Senior,34,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,35-39,39,,,99999,,,99999999
@@ -408,7 +394,6 @@ Track,Men,xy,2000m s/c,2001,55-59,59,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,60-64,64,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,65-69,69,,,99999,,,99999999
 Track,Men,xy,2000m s/c,2001,70-74,74,,,99999,,,99999999
-Track,Men,xy,3000m s/c,3001,U17,16,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,U20,19,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,Senior,34,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,35-39,39,,,99999,,,99999999
@@ -419,7 +404,6 @@ Track,Men,xy,3000m s/c,3001,55-59,59,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,60-64,64,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,65-69,69,,,99999,,,99999999
 Track,Men,xy,3000m s/c,3001,70-74,74,,,99999,,,99999999
-Track,Women,xx,100m,100,U17,16,,,99999,,,99999999
 Track,Women,xx,100m,100,U20,19,,,99999,,,99999999
 Track,Women,xx,100m,100,Senior,34,Katie Butler,13.8,13.8,Prince of Wales Stadium,13/05/2012,20120513
 Track,Women,xx,100m,100,35-39,39,Helen Howes,17.36,17.36,Prince of Wales Stadium,01/07/2015,20150701
@@ -430,7 +414,6 @@ Track,Women,xx,100m,100,55-59,59,Dawn Addinall,19.09,19.09,CLC,24/06/2009,200906
 Track,Women,xx,100m,100,60-64,64,,,99999,,,99999999
 Track,Women,xx,100m,100,65-69,69,,,99999,,,99999999
 Track,Women,xx,100m,100,70-74,74,,,99999,,,99999999
-Track,Women,xx,150m,150,U17,16,,,99999,,,99999999
 Track,Women,xx,150m,150,U20,19,,,99999,,,99999999
 Track,Women,xx,150m,150,Senior,34,Hollie Wharton,22.8,22.8,Prince of Wales Stadium,18/07/2012,20120718
 Track,Women,xx,150m,150,35-39,39,,,99999,,,99999999
@@ -441,7 +424,6 @@ Track,Women,xx,150m,150,55-59,59,,,99999,,,99999999
 Track,Women,xx,150m,150,60-64,64,,,99999,,,99999999
 Track,Women,xx,150m,150,65-69,69,,,99999,,,99999999
 Track,Women,xx,150m,150,70-74,74,,,99999,,,99999999
-Track,Women,xx,200m,200,U17,16,,,99999,,,99999999
 Track,Women,xx,200m,200,U20,19,,,99999,,,99999999
 Track,Women,xx,200m,200,Senior,34,Katie Butler,27.9,27.9,Prince of Wales Stadium,13/05/2012,20120513
 Track,Women,xx,200m,200,35-39,39,,,99999,,,99999999
@@ -452,7 +434,6 @@ Track,Women,xx,200m,200,55-59,59,Dawn Addinall,40.87,40.87,CLC,13/05/2009,200905
 Track,Women,xx,200m,200,60-64,64,Sylvia Koster,45.59,45.59,CLC,13/05/2009,20090513
 Track,Women,xx,200m,200,65-69,69,,,99999,,,99999999
 Track,Women,xx,200m,200,70-74,74,,,99999,,,99999999
-Track,Women,xx,300m,300,U17,16,,,99999,,,99999999
 Track,Women,xx,300m,300,U20,19,,,99999,,,99999999
 Track,Women,xx,300m,300,Senior,34,,,99999,,,99999999
 Track,Women,xx,300m,300,35-39,39,,,99999,,,99999999
@@ -463,7 +444,6 @@ Track,Women,xx,300m,300,55-59,59,,,99999,,,99999999
 Track,Women,xx,300m,300,60-64,64,,,99999,,,99999999
 Track,Women,xx,300m,300,65-69,69,,,99999,,,99999999
 Track,Women,xx,300m,300,70-74,74,,,99999,,,99999999
-Track,Women,xx,400m,400,U17,16,,,99999,,,99999999
 Track,Women,xx,400m,400,U20,19,,,99999,,,99999999
 Track,Women,xx,400m,400,Senior,34,Hollie Wharton,73.3,73.3,Worcester,26/04/2012,20120426
 Track,Women,xx,400m,400,35-39,39,Rachel Vines,76.6,76.6,Prince of Wales Stadium,12/07/2017,20170712
@@ -474,7 +454,6 @@ Track,Women,xx,400m,400,55-59,59,,,99999,,,99999999
 Track,Women,xx,400m,400,60-64,64,,,99999,,,99999999
 Track,Women,xx,400m,400,65-69,69,,,99999,,,99999999
 Track,Women,xx,400m,400,70-74,74,,,99999,,,99999999
-Track,Women,xx,600m,600,U17,16,,,99999,,,99999999
 Track,Women,xx,600m,600,U20,19,,,99999,,,99999999
 Track,Women,xx,600m,600,Senior,34,Katie Butler,1:47.5,107.5,Prince of Wales Stadium,10/07/2013,20130710
 Track,Women,xx,600m,600,35-39,39,Rachel Vines,1:54.7,114.7,Prince of Wales Stadium,19/07/2017,20170719
@@ -485,7 +464,6 @@ Track,Women,xx,600m,600,55-59,59,,,99999,,,99999999
 Track,Women,xx,600m,600,60-64,64,,,99999,,,99999999
 Track,Women,xx,600m,600,65-69,69,,,99999,,,99999999
 Track,Women,xx,600m,600,70-74,74,,,99999,,,99999999
-Track,Women,xx,800m,800,U17,16,,,99999,,,99999999
 Track,Women,xx,800m,800,U20,19,,,99999,,,99999999
 Track,Women,xx,800m,800,Senior,34,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
 Track,Women,xx,800m,800,35-39,39,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
@@ -496,7 +474,6 @@ Track,Women,xx,800m,800,55-59,59,Dawn Addinall,3:32.4,212.4,CLC,13/05/2009,20090
 Track,Women,xx,800m,800,60-64,64,Sylvia Koster,3:44.2,224.2,CLC,13/05/2009,20090513
 Track,Women,xx,800m,800,65-69,69,,,99999,,,99999999
 Track,Women,xx,800m,800,70-74,74,,,99999,,,99999999
-Track,Women,xx,1000m,1000,U17,16,,,99999,,,99999999
 Track,Women,xx,1000m,1000,U20,19,,,99999,,,99999999
 Track,Women,xx,1000m,1000,Senior,34,Patricia Woods,3:25.2,205.2,Prince of Wales Stadium,04/06/2012,20120604
 Track,Women,xx,1000m,1000,35-39,39,,,99999,,,99999999
@@ -518,7 +495,6 @@ Track,Women,xx,1500m,1500,55-59,59,,,99999,,,99999999
 Track,Women,xx,1500m,1500,60-64,64,,,99999,,,99999999
 Track,Women,xx,1500m,1500,65-69,69,,,99999,,,99999999
 Track,Women,xx,1500m,1500,70-74,74,,,99999,,,99999999
-Track,Women,xx,Mile,1609,U17,16,,,99999,,,99999999
 Track,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
 Track,Women,xx,Mile,1609,Senior,34,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
 Track,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
@@ -529,7 +505,6 @@ Track,Women,xx,Mile,1609,55-59,59,Dawn Addinall,7:42.3,462.3,CLC,24/06/2009,2009
 Track,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
 Track,Women,xx,Mile,1609,65-69,69,,,99999,,,99999999
 Track,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
-Track,Women,xx,3000m,3000,U17,16,,,99999,,,99999999
 Track,Women,xx,3000m,3000,U20,19,,,99999,,,99999999
 Track,Women,xx,3000m,3000,Senior,34,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
 Track,Women,xx,3000m,3000,35-39,39,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
@@ -540,7 +515,6 @@ Track,Women,xx,3000m,3000,55-59,59,Dawn Addinall,14:36.1,876.1,Prince of Wales S
 Track,Women,xx,3000m,3000,60-64,64,,,99999,,,99999999
 Track,Women,xx,3000m,3000,65-69,69,,,99999,,,99999999
 Track,Women,xx,3000m,3000,70-74,74,,,99999,,,99999999
-Track,Women,xx,2mi,3218,U17,16,,,99999,,,99999999
 Track,Women,xx,2mi,3218,U20,19,,,99999,,,99999999
 Track,Women,xx,2mi,3218,Senior,34,Natasha Poole,12:01.2,721.2,Birmingham,17/04/2010,20100417
 Track,Women,xx,2mi,3218,35-39,39,,,99999,,,99999999
@@ -551,7 +525,6 @@ Track,Women,xx,2mi,3218,55-59,59,,,99999,,,99999999
 Track,Women,xx,2mi,3218,60-64,64,,,99999,,,99999999
 Track,Women,xx,2mi,3218,65-69,69,,,99999,,,99999999
 Track,Women,xx,2mi,3218,70-74,74,,,99999,,,99999999
-Track,Women,xx,5km,5000,U17,16,,,99999,,,99999999
 Track,Women,xx,5km,5000,U20,19,,,99999,,,99999999
 Track,Women,xx,5km,5000,Senior,34,Rachel Vines,18:48.5,1128.5,Yate,22/07/2017,20170722
 Track,Women,xx,5km,5000,35-39,39,Rachel Vines,18:48.5,1128.5,Yate,22/07/2017,20170722
@@ -562,7 +535,6 @@ Track,Women,xx,5km,5000,55-59,59,Dawn Addinall,26:20.4,1580.4,CLC,10/06/2009,200
 Track,Women,xx,5km,5000,60-64,64,,,99999,,,99999999
 Track,Women,xx,5km,5000,65-69,69,,,99999,,,99999999
 Track,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
-Track,Women,xx,10km,10000,U17,16,,,99999,,,99999999
 Track,Women,xx,10km,10000,U20,19,,,99999,,,99999999
 Track,Women,xx,10km,10000,Senior,34,Hilary Agate,39:16.1,2356.1,Prince of Wales Stadium,24/08/2011,20110824
 Track,Women,xx,10km,10000,35-39,39,Rachel Vines,40:26.9,2426.9,Highgate,20/05/2017,20170520
@@ -573,7 +545,6 @@ Track,Women,xx,10km,10000,55-59,59,,,99999,,,99999999
 Track,Women,xx,10km,10000,60-64,64,,,99999,,,99999999
 Track,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
 Track,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
-Track,Women,xx,4x100m relay,101,U17,16,,,99999,,,99999999
 Track,Women,xx,4x100m relay,101,U20,19,,,99999,,,99999999
 Track,Women,xx,4x100m relay,101,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
 Track,Women,xx,4x100m relay,101,35-39,39,,,99999,,,99999999
@@ -584,7 +555,6 @@ Track,Women,xx,4x100m relay,101,55-59,59,,,99999,,,99999999
 Track,Women,xx,4x100m relay,101,60-64,64,,,99999,,,99999999
 Track,Women,xx,4x100m relay,101,65-69,69,,,99999,,,99999999
 Track,Women,xx,4x100m relay,101,70-74,74,,,99999,,,99999999
-Track,Women,xx,4x400m relay,401,U17,16,,,99999,,,99999999
 Track,Women,xx,4x400m relay,401,U20,19,,,99999,,,99999999
 Track,Women,xx,4x400m relay,401,Senior,34,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",4:59.7,299.7,Prince of Wales Stadium,21/08/2013,20130821
 Track,Women,xx,4x400m relay,401,35-39,39,,,99999,,,99999999
@@ -595,7 +565,6 @@ Track,Women,xx,4x400m relay,401,55-59,59,,,99999,,,99999999
 Track,Women,xx,4x400m relay,401,60-64,64,,,99999,,,99999999
 Track,Women,xx,4x400m relay,401,65-69,69,,,99999,,,99999999
 Track,Women,xx,4x400m relay,401,70-74,74,,,99999,,,99999999
-Track,Women,xx,100m hurdles,102,U17,16,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,U20,19,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,Senior,34,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,35-39,39,,,99999,,,99999999
@@ -606,7 +575,6 @@ Track,Women,xx,100m hurdles,102,55-59,59,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,60-64,64,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,65-69,69,,,99999,,,99999999
 Track,Women,xx,100m hurdles,102,70-74,74,,,99999,,,99999999
-Track,Women,xx,1500m s/c,1501,U17,16,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,U20,19,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,Senior,34,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,35-39,39,,,99999,,,99999999
@@ -617,7 +585,6 @@ Track,Women,xx,1500m s/c,1501,55-59,59,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,60-64,64,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,65-69,69,,,99999,,,99999999
 Track,Women,xx,1500m s/c,1501,70-74,74,,,99999,,,99999999
-Track,Women,xx,2000m s/c,2001,U17,16,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,U20,19,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,Senior,34,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,35-39,39,,,99999,,,99999999
@@ -628,7 +595,6 @@ Track,Women,xx,2000m s/c,2001,55-59,59,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,60-64,64,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,65-69,69,,,99999,,,99999999
 Track,Women,xx,2000m s/c,2001,70-74,74,,,99999,,,99999999
-Track,Women,xx,3000m s/c,3001,U17,16,,,99999,,,99999999
 Track,Women,xx,3000m s/c,3001,U20,19,,,99999,,,99999999
 Track,Women,xx,3000m s/c,3001,Senior,34,,,99999,,,99999999
 Track,Women,xx,3000m s/c,3001,35-39,39,,,99999,,,99999999
