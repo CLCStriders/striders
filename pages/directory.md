@@ -247,4 +247,39 @@ Cheltenham and Gloucester.</td>
 </tr>
 </tbody>
 </table>
-          
+<table>
+<tbody>
+<tr>
+<td style="width: 200px;">Company Name:</td>
+<td><b>Inx Yoga</b></td>
+</tr>
+<tr>
+<td>Services Offered:</td>
+<td>Yoga, Yin Yoga</td>
+</tr>
+<tr>
+<td>Address:</td>
+<td>Sheaf House Farm, Draycott Road, Blockley, Gloucestershire, GL56</td>
+</tr>
+<tr>
+<td>Telephone:</td>
+<td>07388 5533272</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:linda.inxyoga@gmail.com">linda.inxyoga@gmail.com</a></td>
+</tr>
+<tr>
+<td>Website:</td>
+<td><a href="https://www.inxyoga.com/" target="_blank" rel="nofollow">https://www.inxyoga.com/</a></td>
+</tr>
+<tr>
+<td>Discount Offered to Club Members:</td>
+<td>N/A.</td>
+</tr>
+<tr>
+<td>Company Info:</td>
+<td>At INX Yoga we believe in living a life full of joy, gratitude, and free of judgement. These feelings guide our core teachings and practices. At INX Yoga, we focus on helping people better connect to themselves and their surroundings. We offer a variety of classes, workshops, and retreats in order to help all of our clients achieve healthier bodies and healthier minds. We specialise in Vinyasa (flow) yoga.</td>
+</tr>
+</tbody>
+</table>     
