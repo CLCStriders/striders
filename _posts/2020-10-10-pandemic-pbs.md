@@ -5,6 +5,7 @@ date: 2020-10-10 17:22
 author: Paul Northup
 categories:
     - Race Reports
+    
 ---
 
 If last weekend’s VLM suggested that Eluid Kipchoge might have lost his mojo since the global pandemic, the same cannot be said of CLC Striders running club and its members. In fact, it’s almost as if the pandemic has brought out the best in the club and its athletes.
