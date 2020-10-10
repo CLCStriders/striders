@@ -4,7 +4,7 @@ title: Coronavirus update 15 September
 layout: post
 categories:
   - news
-  
+
 ---
 
 The CLC Striders Committee has the health and wellbeing of club members at the forefront of all decisions in relation to training and club events. The Covid-19 pandemic resulted in a temporary pause to all training, followed by a return to more restricted training in small groups which have been running successfully for a few months now.

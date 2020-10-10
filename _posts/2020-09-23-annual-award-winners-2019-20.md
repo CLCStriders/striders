@@ -6,7 +6,7 @@ categories:
   - Awards
 ---
 
-As it was sadly not possible to hold our annual awards ceremony event this year, the Committee decided to present the awards by video. There are some fantastic achievements from the past year (and a bit) to celebrate 
+As it was sadly not possible to hold our annual awards ceremony event this year, the Committee decided to present the awards by video. There are some fantastic achievements from the past year (and a bit) to celebrate.
 
 It is therefore an absolute pleasure to present the CLC Striders 2020 Awards Ceremony video, kindly put together by the fantastic Joel Freeland. You can watch the ceremony on the [Club’s YouTube channel](https://youtu.be/nZ5L9UW27Uo).
 
