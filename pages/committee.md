@@ -34,22 +34,4 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 
 Committee minutes are available to club members. See the [news section](/news) for any public club announcements.
 
-#### LiRF qualified
-
-| Name |
-|--|
-| Amelia Mullins |
-| Eoin McQuone |
-| Joel Freeland |
-| Jon Howes |
-| Matt Ashman |
-| Martin Bick |
-| Nicola Weager |
-
-#### Safeguarding qualified
-
-| Name |
-|--|
-| Amanda Steer |
-| Matt Ashman |
 
