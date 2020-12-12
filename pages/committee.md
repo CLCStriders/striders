@@ -27,9 +27,11 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
 | Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
 | Paul Northup| Press Officer| <press@clcstriders-runningclub.co.uk> |
-| Jon Howes (or a member of the committee) | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
+| Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Tom Kabala | Social Secretary| <committee@clcstriders-runningclub.co.uk> |
 
 #### <br>Committee minutes
 
 Committee minutes are available to club members. See the [news section](/news) for any public club announcements.
+
+
