@@ -4,4 +4,4 @@ published: true
 
 ---
 
-Club led training will pause from 22 December to allow our coaches to have a well deserved break. Monday social runs will return on Monday 4 Janaury 2021, speed training on Wednesday 6 January 2021 and track training on Friday 8 January 2021. A very Merry Christmas to all our members.
+Following the recent accouncement that Gloucestershire will move into Tier 4, club led training will pause until further notice
