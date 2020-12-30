@@ -7,7 +7,7 @@ categories:
   
 ---
 
-In light of Gloucestershire moving into Tier 4 from 0001 tomorrowy, the committee has taken the unfortunate, but necessary, decision to cancel all club led training sessions on Monday and Wednesday evenings for the foreseeable future.
+In light of Gloucestershire moving into Tier 4 from 0001 tomorrow, the committee has taken the unfortunate, but necessary, decision to cancel all club led training sessions on Monday and Wednesday evenings for the foreseeable future.
 
 We continue to recognise the importance of running for both the physical and mental wellbeing of our members so we want to do our bit to encourage you to continue running either alone or in small groups. Weekly speed training sessions will be published on the website for those who would like to continue to do the sessions independently.
  
