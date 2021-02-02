@@ -1,5 +1,5 @@
 ---
-title: CLC Striders speed/interval training w/c 18 January 2021
+title: CLC Striders speed/interval training w/c 25 January 2021
 layout: post
 categories:
   - Training
