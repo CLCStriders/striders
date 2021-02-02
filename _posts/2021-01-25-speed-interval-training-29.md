@@ -12,7 +12,7 @@ Please see interval session below, this week set by coach Brendan Ward.
 * 4 x 2 minutes @5k pace (all 90seconds recovery/rest)
 * 10 minute Tempo @10mile pace (3 minutes recovery/rest)
 * 4 x 2 minutes @5k pace (all 90seconds recovery/rest)
-* (28minutes of effort total)
+* (26 minutes of effort total)
 
 1 mile easy jog cool down and stretches to finish.
 
