@@ -18,7 +18,7 @@ The club is run by a [committee](/committee) of volunteers and is [affiliated by
 
 The committee take the safety of Club members seriously and have produced risk assessments around activities:
 
-[Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf),
+[Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf).
 
 ##### Affiliations
 
