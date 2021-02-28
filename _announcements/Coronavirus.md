@@ -4,4 +4,4 @@ published: true
 
 ---
 
-The committee have published a [Coronavirus update (30 December 2020)](/news/2020-12-30-Coronavirus-update).
+The committee have published a [Coronavirus update (28 February 2021)](/news/2021-02-28-Coronavirus-update-9).
