@@ -15,7 +15,7 @@ However, this week we all received the welcome news about the reopening of the c
 
 From Monday 29 March 2021 
 * England Athletics have provided confirmation that affiliated athletics clubs such as ours can commence training in a Covid secure manner. They have set out some [detailed guidance](https://www.englandathletics.org/athletics-and-running/news/guidance-update-2021/) in this regard.
-* Monday night social runs - Meet at 1830 at the entrance to the Honeybourne Line next to the CLC sports centre car park on Malvern Road. You can use the car park but please don't go into the centre. Attendees should run in small groups and maintain social distancing where possible.
+* Monday night social runs - Meet at 1830 at the entrance to the Honeybourne Line next to the CLC sports centre car park on Malvern Road. Attendees should run in small groups and maintain social distancing where possible.
 * Wednesday night interval training - the sign up process for interval sessions will return with attendees asked to complete the attendance form on a weekly basis. This is so trainers can assign attendees into groups and ensure we maintain the rule of 6 and social distancing where possible.
 * Friday night track training - the committee will work with the Prince of Wales Stadium to determine when this can recommence.
 * The commmittee hope the return to training will enable members to enjoy their running and push themselves whilst enabling the club to welcome new runners to join in with our fantastic activities. 
