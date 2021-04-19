@@ -1,5 +1,5 @@
 ---
-title: WHereford Couriers 5k Series, race 1 and the Castle Coombe Chilly 10k
+title: Hereford Couriers 5k Series, race 1 and the Castle Coombe Chilly 10k
 layout: post
 categories:
   - Race reports
