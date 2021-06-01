@@ -165,6 +165,46 @@ As a team player herself, Madeleine understands the importance of reducing the r
 <table>
 <tbody>
 <tr>
+ <td style="width: 200px;">Company Name:</td>
+<td><b>Pilates Guy</b></td>
+</tr>
+<tr>
+<td>Services Offered:</td>
+<td>Whether you are looking for help with pain, to gain an edge with your sports performance, safeguarding against injury, enhancing your wellbeing or to help your employees stay healthy and happy at work, Pilates Guy has a number of solutions to offer. </td>
+</tr>
+<tr>
+<td>Address:</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Telephone:</td>
+<td>07980 698313</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:info@pilatesguy.co.uk">info@pilatesguy.co.uk</a></td>
+</tr>
+<tr>
+<td>Website:</td>
+<td><a href="https://www.pilatesguy.co.uk" target="_blank" rel="nofollow">www.pilatesguy.co.uk</a></td>
+</tr>
+<tr>
+<td>Discount Offered to Club Members:</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Company Info:</td>
+<td>I have a modern, technical and practical approach to Pilates which is the style which worked for me. Each exercise is functional and the benefits for pain, sports or just general life and wellbeing are outlined during the session, with a real focus on precision and control. <br/>
+Before becoming an instructor myself, I really struggled to find an instructor with an approach which made me feel comfortable and that made sense. Once I found that person I never left and still work with them to this day. There are so many different styles and approaches to Pilates out there that you may try a number and give up, I did on more than one occasion! But perhaps my approach is the style you have been looking for. <br/>
+After years of back problems to the point where I would struggle to get dressed in the mornings at age 29, weekly Pilates practice enabled me to get back to playing rugby, doing squats and deadlifts in the gym and even improved my mobility and performance. <br/>
+I still have good days and bad days, but I got my life back and for me it was absolutely game changing. You learn a lot that you can apply to every day life to improve your general health and wellness from Pilates, from sitting correctly and getting up from chairs more often, to engaging certain muscles when you lift things to protect your back. <br/>
+Everyone should be doing some variation of this type of work, whether it’s to deal with an existing issue, help prevent future issues or just to generally improve fitness and complement any current activity. I recently left my 14 year professional services career to start Pilates Guy and help more people like me get past their barriers.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
 <td style="width: 200px;">Company Name:</td>
 <td><b>The Rackhameffect</b></td>
 </tr>
