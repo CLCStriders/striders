@@ -199,7 +199,6 @@ Road,Women,xx,Marathon,42188,55-59,59,,,99999,,,99999999
 Road,Women,xx,Marathon,42188,60-64,64,Dawn Addinall,4:43:48,17028,Edinburgh,22/05/2011,20110522
 Road,Women,xx,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,Women,xx,Marathon,42188,70-74,74,,,99999,,,99999999
-Track,Men,xy,100m,100,U17,16,Ben Hodges,12.22,12.22,CLC,24/06/2009,20090624
 Track,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
@@ -220,9 +219,8 @@ Track,Men,xy,150m,150,55-59,59,Mike Speke,24.7,24.7,Prince of Wales Stadium,25/0
 Track,Men,xy,150m,150,60-64,64,,,99999,,,99999999
 Track,Men,xy,150m,150,65-69,69,,,99999,,,99999999
 Track,Men,xy,150m,150,70-74,74,,,99999,,,99999999
-Track,Men,xy,200m,200,U17,16,Ben Hodges,26.1,26.1,Prince of Wales Stadium,22/07/2009,20090722
 Track,Men,xy,200m,200,U20,19,,,99999,,,99999999
-Track,Men,xy,200m,200,Senior,34,Nick O'Neil,25.76,25.76,CLC,13/05/2009,20090513
+Track,Men,xy,200m,200,Senior,34,,,99999,,,99999999
 Track,Men,xy,200m,200,35-39,39,Chris Driskell,30.5,30.5,Prince of Wales Stadium,08/07/2015,20150708
 Track,Men,xy,200m,200,40-44,44,Paul Lockyer,26.5,26.5,Prince of Wales Stadium,04/07/2018,20180704
 Track,Men,xy,200m,200,45-49,49,Gareth Harries,28.5,28.5,Prince of Wales Stadium,07/05/2018,20180507
@@ -241,7 +239,6 @@ Track,Men,xy,300m,300,55-59,59,JJ Willson,49.9,49.9,Prince of Wales Stadium,20/0
 Track,Men,xy,300m,300,60-64,64,,,99999,,,99999999
 Track,Men,xy,300m,300,65-69,69,,,99999,,,99999999
 Track,Men,xy,300m,300,70-74,74,,,99999,,,99999999
-Track,Men,xy,400m,400,U17,16,Ben Hodges,59.57,59.57,CLC,27/05/2009,20090527
 Track,Men,xy,400m,400,U20,19,,,99999,,,99999999
 Track,Men,xy,400m,400,Senior,34,Joel Freeland,56.3,56.3,Prince of Wales Stadium,20/07/2011,20110720
 Track,Men,xy,400m,400,35-39,39,John Parker,57.7,57.7,Prince of Wales Stadium,07/07/2010,20100707
@@ -262,7 +259,6 @@ Track,Men,xy,600m,600,55-59,59,JJ Willson,1:53.4,113.4,Prince of Wales Stadium,1
 Track,Men,xy,600m,600,60-64,64,,,99999,,,99999999
 Track,Men,xy,600m,600,65-69,69,,,99999,,,99999999
 Track,Men,xy,600m,600,70-74,74,,,99999,,,99999999
-Track,Men,xy,800m,800,U17,16,Ben Hodges,2:36.0,156,CLC,13/05/2009,20090513
 Track,Men,xy,800m,800,U20,19,George Parker,2:41.1,161.1,Prince of Wales Stadium,16/07/2014,20140716
 Track,Men,xy,800m,800,Senior,34,Will Ferguson,1:59.0,119,Tipton,14/08/2018,20180814
 Track,Men,xy,800m,800,35-39,39,Will Ferguson,1:59.0,119,Tipton,14/08/2018,20180814
@@ -293,7 +289,6 @@ Track,Men,xy,1500m,1500,55-59,59,JJ Willson,5:10.8,310.8,Prince of Wales Stadium
 Track,Men,xy,1500m,1500,60-64,64,,,99999,,,99999999
 Track,Men,xy,1500m,1500,65-69,69,,,99999,,,99999999
 Track,Men,xy,1500m,1500,70-74,74,,,99999,,,99999999
-Track,Men,xy,Mile,1609,U17,16,Ben Hodges,5:56.5,356.5,CLC,24/06/2009,20090624
 Track,Men,xy,Mile,1609,U20,19,Ollie Mosley,5:54.4,354.4,Prince of Wales Stadium,27/08/2014,20140827
 Track,Men,xy,Mile,1609,Senior,34,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
 Track,Men,xy,Mile,1609,35-39,39,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
@@ -410,7 +405,7 @@ Track,Women,xx,100m,100,35-39,39,Helen Howes,17.36,17.36,Prince of Wales Stadium
 Track,Women,xx,100m,100,40-44,44,Amelia Mullins,16.4,16.4,Prince of Wales Stadium,03/08/2016,20160803
 Track,Women,xx,100m,100,45-49,49,Amelia Mullins,16.6,16.6,Prince of Wales Stadium,19/07/2017,20170719
 Track,Women,xx,100m,100,50-54,54,,,99999,,,99999999
-Track,Women,xx,100m,100,55-59,59,Dawn Addinall,19.09,19.09,CLC,24/06/2009,20090624
+Track,Women,xx,100m,100,55-59,59,,,99999,,,99999999
 Track,Women,xx,100m,100,60-64,64,,,99999,,,99999999
 Track,Women,xx,100m,100,65-69,69,,,99999,,,99999999
 Track,Women,xx,100m,100,70-74,74,,,99999,,,99999999
@@ -430,8 +425,8 @@ Track,Women,xx,200m,200,35-39,39,,,99999,,,99999999
 Track,Women,xx,200m,200,40-44,44,Amelia Mullins,34.1,34.1,Prince of Wales Stadium,03/08/2016,20160803
 Track,Women,xx,200m,200,45-49,49,Amelia Mullins,36.6,36.6,Prince of Wales Stadium,05/07/2017,20170705
 Track,Women,xx,200m,200,50-54,54,,,99999,,,99999999
-Track,Women,xx,200m,200,55-59,59,Dawn Addinall,40.87,40.87,CLC,13/05/2009,20090513
-Track,Women,xx,200m,200,60-64,64,Sylvia Koster,45.59,45.59,CLC,13/05/2009,20090513
+Track,Women,xx,200m,200,55-59,59,,,99999,,,99999999
+Track,Women,xx,200m,200,60-64,64,,,99999,,,99999999
 Track,Women,xx,200m,200,65-69,69,,,99999,,,99999999
 Track,Women,xx,200m,200,70-74,74,,,99999,,,99999999
 Track,Women,xx,300m,300,U20,19,,,99999,,,99999999
@@ -470,8 +465,8 @@ Track,Women,xx,800m,800,35-39,39,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,
 Track,Women,xx,800m,800,40-44,44,Helen Knight,2:41.3,161.3,Prince of Wales Stadium,24/07/2019,20190724
 Track,Women,xx,800m,800,45-49,49,Amelia Mullins,3:03.6,183.6,Prince of Wales Stadium,25/07/2018,20180725
 Track,Women,xx,800m,800,50-54,54,,,99999,,,99999999
-Track,Women,xx,800m,800,55-59,59,Dawn Addinall,3:32.4,212.4,CLC,13/05/2009,20090513
-Track,Women,xx,800m,800,60-64,64,Sylvia Koster,3:44.2,224.2,CLC,13/05/2009,20090513
+Track,Women,xx,800m,800,55-59,59,,,99999,,,99999999
+Track,Women,xx,800m,800,60-64,64,,,99999,,,99999999
 Track,Women,xx,800m,800,65-69,69,,,99999,,,99999999
 Track,Women,xx,800m,800,70-74,74,,,99999,,,99999999
 Track,Women,xx,1000m,1000,U20,19,,,99999,,,99999999
@@ -484,7 +479,6 @@ Track,Women,xx,1000m,1000,55-59,59,,,99999,,,99999999
 Track,Women,xx,1000m,1000,60-64,64,,,99999,,,99999999
 Track,Women,xx,1000m,1000,65-69,69,,,99999,,,99999999
 Track,Women,xx,1000m,1000,70-74,74,,,99999,,,99999999
-Track,Women,xx,1500m,1500,U17,16,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
 Track,Women,xx,1500m,1500,U20,19,,,99999,,,99999999
 Track,Women,xx,1500m,1500,Senior,34,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
 Track,Women,xx,1500m,1500,35-39,39,Rachel Vines,4:59.9,299.9,Prince of Wales Stadium,19/07/2017,20170719
@@ -501,14 +495,14 @@ Track,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:27.8,327.8,Prince of Wales Stad
 Track,Women,xx,Mile,1609,40-44,44,Helen Knight,5:51.1,351.1,Prince of Wales Stadium,03/07/2019,20190703
 Track,Women,xx,Mile,1609,45-49,49,Amelia Mullins,6:04.7,364.7,Prince of Wales Stadium,05/07/2017,20170705
 Track,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
-Track,Women,xx,Mile,1609,55-59,59,Dawn Addinall,7:42.3,462.3,CLC,24/06/2009,20090624
+Track,Women,xx,Mile,1609,55-59,59,,,99999,,,99999999
 Track,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
 Track,Women,xx,Mile,1609,65-69,69,,,99999,,,99999999
 Track,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
 Track,Women,xx,3000m,3000,U20,19,,,99999,,,99999999
 Track,Women,xx,3000m,3000,Senior,34,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
 Track,Women,xx,3000m,3000,35-39,39,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
-Track,Women,xx,3000m,3000,40-44,44,Helen Knight,11:22.3,682.3,"Jubilee Track, Gloucester",15/06/2016,20210615
+Track,Women,xx,3000m,3000,40-44,44,Helen Knight,11:22.3,682.3,"Jubilee Track, Gloucester",15/06/2021,20210615
 Track,Women,xx,3000m,3000,45-49,49,Amanda Steer,11:50.6,710.6,Nuneaton,04/09/2016,20160904
 Track,Women,xx,3000m,3000,50-54,54,,,99999,,,99999999
 Track,Women,xx,3000m,3000,55-59,59,Dawn Addinall,14:36.1,876.1,Prince of Wales Stadium,08/05/2009,20090508
@@ -531,7 +525,7 @@ Track,Women,xx,5km,5000,35-39,39,Rachel Vines,18:48.5,1128.5,Yate,22/07/2017,201
 Track,Women,xx,5km,5000,40-44,44,Helen Knight,19:34.3,1174.3,Prince of Wales Stadium,04/11/2020,20201104
 Track,Women,xx,5km,5000,45-49,49,Amanda Steer,20:51.0,1251,Prince of Wales Stadium,13/05/2017,20170513
 Track,Women,xx,5km,5000,50-54,54,,,99999,,,99999999
-Track,Women,xx,5km,5000,55-59,59,Dawn Addinall,26:20.4,1580.4,CLC,10/06/2009,20090610
+Track,Women,xx,5km,5000,55-59,59,,,99999,,,99999999
 Track,Women,xx,5km,5000,60-64,64,,,99999,,,99999999
 Track,Women,xx,5km,5000,65-69,69,,,99999,,,99999999
 Track,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
