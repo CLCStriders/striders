@@ -13,20 +13,19 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 {:.display}
 |Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
-|Softshell jacket|Photo coming soon|Unisex|Club colours|£26|
+|Softshell jacket| <a href="/images/kit/Softshell_jacket.jpg"><img src=" /images/kit/Softshell_jacket.jpg" width="100"> |Unisex|Club colours|£26|
 |Waterproof jacket|<a href="/images/kit/kit_2.jpg"><img src=" /images/kit/kit_2.jpg" width="100"></a>|Unisex|Club colours|£38|
 |Hoodie| <a href="/images/kit/kit_2.jpg"><img src=" /images/kit/kit_2.jpg" width="100"></a>|Unisex|Club colours|£32|
-|Buffs| Photo coming soon|Unisex|Club colours|£5|
+|Buffs| <a href="/images/kit/Buff.jpg"><img src=" /images/kit/Buff.jpg" width="100">|Unisex|Club colours|£5|
 
 ### Training Tops
 
 {:.display}
 |Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
-|Race vest| Photo coming soon|Unisex|Club colours|£22|
-|Plain vest|Photo Coming Soon|Mens & Ladies fit|Green, black, white, fluorescent yellow|£12|
+|Race vest| <a href="/images/kit/Race_vest_1.jpg"><img src=" /images/kit/Race_vest_1.jpg" width="100">|Unisex|Club colours|£22|
+|Plain vest| <a href="/images/kit/Plain_vest.jpg"><img src=" /images/kit/Plain_vest.jpg" width="100"> |Mens & Ladies fit|Green, black, white, fluorescent yellow|£12|
 |Plain short sleeved training t-shirt| <a href="/images/kit/Kit2018_01.jpg"><img src=" /images/kit/Kit2018_01.jpg" width="100"></a>|Mens & Ladies fit|Green, black, white, fluorescent yellow|£13|
-|Contrast vest|Photo Coming Soon|Unisex|Green & white, black & white|£13|
 
 You are able to personalise any of the training tops by adding your name on the back for £1.
 
