@@ -1,7 +1,7 @@
 ---
-title: Membership renewal 2020/21
-published: false
+title: Membership renewal 2021/22
+published: true
 
 ---
 
-CLC Striders club membership renewal is now open - see [membership renewals](/news/2020-04-01-Membership-renewal).
+CLC Striders club membership renewal is now open - please check your Inbox
