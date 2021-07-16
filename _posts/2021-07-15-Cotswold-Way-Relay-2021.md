@@ -10,7 +10,7 @@ When the world turned upside down in 2020, many of us in CLC Striders found sola
 
 This culminated in the Cotswold Way Challenge last June and then the virtual Cotswold Way Relay in July. But… it wasn’t quite the same… so it was with much enthusiasm and excitement that we signed up for the return of the real in person Cotswold Way Relay, entering a ladies, vet mens and mixed team. 
 
-As the day approached, the forecast looked pretty good – gone was the scorching heat of the last few years, and not even the scary midnight instructions for surviving lightning strikes or slightly temperamental timing app could dampen our spirits. 7am and we were off! 29 runners covered over 303 miles from Chipping Camden to Bath, and there were as ever some fab performances: 
+As the day approached, the forecast looked pretty good – gone was the scorching heat of the last few years, and not even the scary midnight instructions for surviving lightning strikes or slightly temperamental timing app could dampen our spirits. 7am and [leg one](/images/2021/07/2021-07-15-Cotswold-relay-8.jpg "leg one") were off, closely followed by [leg 2](/images/2021/07/2021-07-15-Cotswold-relay-6.jpg "leg two"), [leg gour](/images/2021/07/2021-07-15-Cotswold-relay-7.jpg "leg four"), [leg five](/images/2021/07/2021-07-15-Cotswold-relay-3.jpg "leg five"), [leg six](/images/2021/07/2021-07-15-Cotswold-relay-2.jpg "leg six"), [leg seven](/images/2021/07/2021-07-15-Cotswold-relay-1.jpg "leg seven"), [leg eight](/images/2021/07/2021-07-15-Cotswold-relay-4.jpg "leg eight") 29 runners covered over 303 miles from Chipping Camden to Bath, and there were as ever some fab performances: 
 
 * first V60 on leg 8 for [John (JJ) Willson](/images/2021/07/JJ_Willson_Cotswold_relay_MV60.jpg "John (JJ) Willson") turned in another fine performance to bag first in his V60 category in a time of 44:39
 * first lady on leg 7 for Liza
@@ -19,3 +19,5 @@ As the day approached, the forecast looked pretty good – gone was the scorchin
 * Sophie coming in a full 25 minutes inside the cutoff in spite of running for two (what a legend). 
  
 Overall, our ladies team finished second in 16.29.18 – our highest ever placing – our mixed team finished 32 of 50, and our vet men were 6 of 16. That’s a huge credit to the depth of quality we have in the club, and how much we love the hills in our local area. Well done also to Jon and Billy, newly crowned Kings of the Cotswolds and the first people to earn their crowns running exclusively for CLC Striders teams.
+
+
