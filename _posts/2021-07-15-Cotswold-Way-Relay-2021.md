@@ -12,7 +12,7 @@ This culminated in the Cotswold Way Challenge last June and then the virtual Cot
 
 As the day approached, the forecast looked pretty good – gone was the scorching heat of the last few years, and not even the scary midnight instructions for surviving lightning strikes or slightly temperamental timing app could dampen our spirits. 7am and we were off! 29 runners covered over 303 miles from Chipping Camden to Bath, and there were as ever some fab performances: 
 
-* first V60 on leg 8 for [John (JJ) Willson](/images/2021/07/2021-07-15-JJ_Willson_Cotswold_relay_MV60.jpg "John (JJ) Willson") turned in another fine performance to bag first in his V60 category in a time of 44:39
+* first V60 on leg 8 for [John (JJ) Willson](/images/2021/07/JJ_Willson_Cotswold_relay_MV60.jpg "John (JJ) Willson") turned in another fine performance to bag first in his V60 category in a time of 44:39
 * first lady on leg 7 for Liza
 * second lady on legs 2 and 10 for Helen Howes and Helen K, 
 * 3rd vet on stage 3 for Jon Howes, 
