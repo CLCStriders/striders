@@ -14,9 +14,9 @@ The route - often called the “granddaddy of ultra distance mountain routes” 
 
 The challenge was in aid of the [Dear Toby Trust](https://thedeartobytrust.org/ "Dear Toby Trust") which was established in 2017, in memory of Toby Hambrook-Skinner who passed away at Great Ormond Street Hospital after an epic battle with Acute Myeloid Leukaemia. He was just seven months old. Toby was diagnosed at eight weeks and began an aggressive treatment plan. Toby’s family and friends have set up this charity to find new ways to treat rare cancers and reduce the suffering of children enduring cancer treatment.
 
-Starting at 0700 on Tuesday 13 July, Will and Nathan set off from Keswick Moot Hall, [returning in elation](/images/2021/07/2021-07-16-Bob-Graham-5.jpg "returning in elation") but with legs truly feeling the effect of running on such arduous terrain.
+Starting at 0700, Will and Nathan set off from Keswick Moot Hall, [returning in elation](/images/2021/07/2021-07-16-Bob-Graham-5.jpg "returning in elation") but with legs truly feeling the effect of running on such arduous terrain.
 
-Will and Nathan raised a fantastic £2,605 to date for the [Dear Toby Trust](https://thedeartobytrust.org/ "Dear Toby Trust").
+Will and Nathan have raised a fantastic £2,605 to date for the [Dear Toby Trust](https://thedeartobytrust.org/ "Dear Toby Trust").
 
 The runners were inspired by Toby's fearless spirit to test their own fitness and resolve, and to add to his enduring legacy by raising more funds to help other seriously ill children.
 
