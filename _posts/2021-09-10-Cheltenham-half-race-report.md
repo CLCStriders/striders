@@ -26,4 +26,4 @@ Meanwhile, demonstrating the diversity and strength in depth of the club's runne
 
 -------------------------
 
-The club is proud to have such an inclusive and competitive set of runners and was thrilled to see such a strong turnout to represent CLC Striders locally. The hope is that the year ahead sees the return to a much fuller range of racing – including this winter's local and regional cross country season and, of course, the London and Manchester marathons.
+The club is proud to have such an inclusive and competitive set of runners and was thrilled to see such a strong turnout to represent CLC Striders locally. The hope is that the year ahead sees the return to a much fuller range of racing – including this winter's local and regional cross country season and, of course, the London and Manchester marathons
