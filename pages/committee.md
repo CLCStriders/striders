@@ -15,10 +15,6 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 |Name | Role | Email |
 |--|--|--|
 | Brendan Ward| Club President and Head Coach| |
-
-Honorary Officers
-|Name | Role | Email |
-|--|--|--|
 | Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
 | Eoin McQuone| Treasurer| <committee@clcstriders-runningclub.co.uk> |
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
@@ -26,10 +22,6 @@ Honorary Officers
 | Karlien Heyrman| Women’s Captain| <races@clcstriders-runningclub.co.uk> |
 | Matt Ashman| Club Secretary| <secretary@clcstriders-runningclub.co.uk>
 | Will Pearce| Men’s Captain| <races@clcstriders-runningclub.co.uk> |
-
-Ordinary committee members
-|Name | Role | Email |
-|--|--|--|
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
 | Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
