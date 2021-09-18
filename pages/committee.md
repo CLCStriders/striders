@@ -43,14 +43,17 @@ See the [news section](/news) for any public club announcements.
 #### <br>Committee minutes
 
 Committee minutes are available to club members below: 
-[2020-01-15](/assets/Committee-minutes/2020-01-15.pdf) 
-[2020-03-18](/assets/Committee-minutes/2020-03-18.pdf) 
-[2020-05-20](/assets/Committee-minutes/2020-05-20.pdf) 
-[2020-07-22](/assets/Committee-minutes/2020-07-22.pdf) 
-[2020-09-16](/assets/Committee-minutes/2020-09-16.pdf) 
-[AGM-2020](/assets/Committee-minutes/AGM-2020.pdf) 
-[2021-01-14](/assets/Committee-minutes/2021-01-14.pdf) 
-[2021-03-18](/assets/Committee-minutes/2021-03-18.pdf) 
-[AGM-2021](/assets/Committee-minutes/AGM-2021.pdf) 
-[2021-07-15](/assets/Committee-minutes/2021-07-15.pdf) 
+
+|Date | Minutes |
+|--|--|
+2020-01-15| [2020-01-15](/assets/Committee-minutes/2020-01-15.pdf) 
+2020-03-18| [2020-03-18](/assets/Committee-minutes/2020-03-18.pdf) 
+2020-05-20| [2020-05-20](/assets/Committee-minutes/2020-05-20.pdf) 
+2020-07-27| [2020-07-22](/assets/Committee-minutes/2020-07-22.pdf) 
+2020-09-16| [2020-09-16](/assets/Committee-minutes/2020-09-16.pdf) 
+2020-11-19| [AGM-2020](/assets/Committee-minutes/AGM-2020.pdf) 
+2021-01-14| [2021-01-14](/assets/Committee-minutes/2021-01-14.pdf) 
+2021-03-18| [2021-03-18](/assets/Committee-minutes/2021-03-18.pdf) 
+2021-05-20| [AGM-2021](/assets/Committee-minutes/AGM-2021.pdf) 
+2021-07-15| [2021-07-15](/assets/Committee-minutes/2021-07-15.pdf) 
 
