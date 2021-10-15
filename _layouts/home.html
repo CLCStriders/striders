@@ -28,7 +28,7 @@
           <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
           <span class="num-words">| {{ post.content | number_of_words }} words</span>
           <span class="read-time" title="Estimated read time">| {% assign words = post.content | number_of_words %}approx {% if words < 360 %} 1 min read. {% else %}{{ words | divided_by:180 }} mins read. {% endif %}</span>
-          <span class="categories">| Categories: {% if post.category != empty %}{% for category in post.categories %}<a href="{{site.url}}{{ post_url }}/categories/{{ category | slugify }}">{{ category }}</a>  {% endfor %}{% endif %}</span>
+          <span class="categories">| Categories: {% if post.category != empty %}{% for category in post.categories %}<a href="{{site.url}}{{ post_url }}/categories/#{{ category | slugify }}">{{ category }}</a>  {% endfor %}{% endif %}</span>
           </small>
           </li>
       {% endfor %}
