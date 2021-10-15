@@ -3,7 +3,7 @@
 title: Coronavirus update 3 November 2020
 layout: post
 categories:
-  - news
+  - News
 
 ---
 
