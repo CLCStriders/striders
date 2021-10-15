@@ -2,7 +2,7 @@
 title: Cheltenham half marathon 2021 - CLC Striders race report
 layout: post
 categories:
-  - Race reports
+  - Race Reports
 
 ---
 
