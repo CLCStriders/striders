@@ -2,7 +2,7 @@
 title: Upcote Five and Bedford Autodrome Marathon
 layout: post
 categories:
-  - Race reports
+  - Race Reports
 
 ---
 
