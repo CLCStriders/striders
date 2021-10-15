@@ -2,7 +2,7 @@
 title: Westonbirt 10k race report December 2020
 layout: post
 categories:
-  - Race reports
+  - Race Reports
 
 ---
 
