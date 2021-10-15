@@ -3,7 +3,7 @@
 title: CLC Striders Cotswold Way challenge results
 layout: post
 categories:
-  - news
+  - News
   
 ---
 
