@@ -3,7 +3,7 @@
 title: Coronavirus update 15 September
 layout: post
 categories:
-  - news
+  - News
 
 ---
 
