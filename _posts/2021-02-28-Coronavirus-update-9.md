@@ -3,7 +3,7 @@
 title: Coronavirus update 28 February
 layout: post
 categories:
-  - news
+  - News
 
 ---
 

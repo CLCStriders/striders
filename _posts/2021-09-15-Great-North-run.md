@@ -2,7 +2,7 @@
 title: CLC Striders take part in the Great North run 2021
 layout: post
 categories:
-  - Race reports
+  - Race Reports
 
 ---
 
