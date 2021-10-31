@@ -89,6 +89,7 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 ##### Run Leaders
 
 - Amanda Steer
+- Andy Brookes
 - Charlie Haward
 - Eoin McQuone
 - Gareth Harries
@@ -96,8 +97,9 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - Helen Rawcliffe
 - Jon Howes
 - Liza Bradshaw
+- Matt Ashman
 - Natalie Burfitt
 - Nicola Weager
-- Matt Ashman
+- Paul Northup
 - Rachel Vines
 - Tim Brock
