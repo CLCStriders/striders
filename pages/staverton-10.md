@@ -10,6 +10,7 @@ routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf
 state: Open
 
 ---
+
  {% if page.state == "open" %}
 <div class="alert alert-success" role="alert">
 [The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!]({{ page.signUpUrl }})
@@ -27,7 +28,12 @@ Entries for the Staverton 10 are currently closed.
 {% endif %}
 
 CLC Striders hold the Staverton 10 in January every year and with Race HQ being at The Aviator Inn, Gloucestershire Airport.
+
 This is a popular road race as it is a flat, fast road race which is aimed at helping runners prepare for the Spring Marathon season. 2020’s race will be held on Sunday 26th January, 2020, with a start time of 09:00.
+
+### Entries
+
+Sign up for entry via [Staverton 10 entries](https://www.entrycentral.com/staverton-10) Staverton 10 entries
 
 ### Course Description
 
