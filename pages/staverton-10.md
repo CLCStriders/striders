@@ -3,11 +3,11 @@ layout: default
 title: Staverton 10
 description: CLC Striders Staverton 10 mile race information and results page
 permalink: /staverton-10
-signUpUrl : https://www.entrycentral.com/event/111305
+signUpUrl : https://www.entrycentral.com/staverton-10
 signUpYear: 2020
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-state: closed
+state: Open
 
 ---
  {% if page.state == "open" %}
@@ -39,18 +39,12 @@ Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/ro
 
 This will be clearly marshalled. Please note that road closures have not been applied for so keep well to the left at all times. Please note that on the farmland section, good concentration is required due to uneven terrain. Also, there are likely to be cattle on the fields.
 
-### Thanks to our sponsors
-
-- [Willans LLP Solicitors](https://willans.co.uk/)
-- [Pentons Performance Therapy](https://pentonsperformancetherapy.co.uk/)
-- [Acorns Children's Hospice](https://www.acorns.org.uk/)
-- [Brewin Dolphin](https://www.brewin.co.uk/our-offices/cheltenham)
-- [The Libertine barbershop](https://thelibertinebarbers.co.uk/)
-- [Toe Jam Kicks](https://toejamkicks.co.uk/)
-
 ### Acknowledgements
 
-[The Aviator Inn](https://www.theaviatorglos.co.uk/), Gloucestershire Airport, Up and Running,
+[Up and Running](https://www.upandrunning.co.uk/) Cheltenham.
+
+[The Aviator Inn](https://www.theaviatorglos.co.uk/), Gloucestershire Airport.
+
 [CLC Health & Fitness Centre](https://fitness.cheltladiescollege.org/),  friends and members of CLC Striders.
 
 ### Previous results
