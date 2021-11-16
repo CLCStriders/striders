@@ -36,6 +36,7 @@ See the [news section](/news) for any public club announcements.
 
 Committee minutes are available to club members below: 
 
+{:.committee .display}
 |Minutes |
 |--|
 [2020-01-15](/assets/Committee-minutes/2020-01-15.pdf) 
