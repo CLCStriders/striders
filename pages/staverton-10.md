@@ -7,7 +7,7 @@ signUpUrl : https://www.entrycentral.com/staverton-10
 signUpYear: 2022
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-state: Open
+state: full
 
 ---
 
@@ -30,10 +30,6 @@ Entries for the Staverton 10 are currently closed.
 CLC Striders hold the Staverton 10 in January every year and with Race HQ being at The Aviator Inn, Gloucestershire Airport.
 
 This is a popular road race as it is a flat, fast road race which is aimed at helping runners prepare for the Spring Marathon season. 2022’s race will be held on Sunday 30th January 2022, with a start time of 09:00.
-
-### Entries
-
-Sign up for entry via [Staverton 10 entries](https://www.entrycentral.com/staverton-10).
 
 ### Course Description
 
