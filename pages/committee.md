@@ -46,4 +46,5 @@ Committee minutes are available to club members below:
 - [2021-03-18](/assets/Committee-minutes/2021-03-18.pdf) 
 - [AGM-2021](/assets/Committee-minutes/AGM-2021.pdf) 
 - [2021-07-15](/assets/Committee-minutes/2021-07-15.pdf) 
+- [2021-09-16](/assets/Committee-minutes/2021-09-16.pdf) 
 

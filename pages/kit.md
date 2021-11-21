@@ -29,4 +29,6 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 
 You are able to personalise any of the training tops by adding your name on the back for £1.
 
-To place an order, or for more details, please speak to a member of the committee at training or by email <kit@clcstriders-runningclub.co.uk>. You will need to advise your size and colour combination. Payment is to the CLC Striders bank account or cheque.
+To place an order for training t-shirts please order directly from <a href="https://www.gloucestersports.com/shop-category.php?Cat=62">Gloucester Sports.</a>
+  
+To place an order for anyting else, or for more details, please speak to a member of the committee at training or by email <kit@clcstriders-runningclub.co.uk>. You will need to advise your size and colour combination. Payment is to the CLC Striders bank account or cheque.
