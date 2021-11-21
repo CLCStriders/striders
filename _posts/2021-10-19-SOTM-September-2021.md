@@ -15,3 +15,4 @@ Sheer strength of body & mind, in what he described as his “toughest race to d
 Well done Rob, epic achievement.
 
 ![Strider of the month Rob Bircher](/images/2021/10/2021-10-19-SOTM-September-2021.jpg "CLC Strider of the month September 2021 Rob Bircher")
+
