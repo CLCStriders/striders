@@ -22,6 +22,10 @@ The Objectives of the Club are:
 
 The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-Constitution.pdf) is made available for review by all members.
 
+##### Club Welfare Policy
+
+CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All children and adults at risk are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of children and adults at risk.
+
 ##### Risk assessments
 
 The committee take the safety of Club members seriously and have produced risk assessments around activities:
