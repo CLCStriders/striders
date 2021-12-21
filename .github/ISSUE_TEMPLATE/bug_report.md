@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report if you think something is broken on the website
 title: ''
 labels: ''
-assignees: ''
+assignees: 'MatBenfield'
 
 ---
 

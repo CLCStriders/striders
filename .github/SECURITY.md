@@ -1,5 +1,7 @@
 # Security Policy
 
+
+
 ## Supported Versions
 
 We support the latest version of our website, 
@@ -10,4 +12,4 @@ We support the latest version of our website,
 
 ## Reporting a Vulnerability
 
-To report a vulnerability please raise an [issue](https://github.com/ChelseaStats/striders/issues) or see the [security.txt](https://github.com/CLCStriders/striders/blob/master/.well-known/security.txt) file and contact the webmaster by email.
+To report a vulnerability please raise an [issue](https://github.com/CLCStriders/striders/issues) or see the [security.txt](https://raw.githubusercontent.com/CLCStriders/striders/master/.well-known/security.txt) file and contact the webmaster by email.
