@@ -1,7 +1,7 @@
 ---
 title: Club training over Christmas
-published: false
+published: true
 
 ---
 
-Following the recent accouncement that Gloucestershire will move into Tier 4, club led training will pause until further notice
+There will be no club led training on Monday 27 or Wednesday 29 December, training resumes on Monday 3 January 2022.
