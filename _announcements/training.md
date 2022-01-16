@@ -1,6 +1,6 @@
 ---
 title: training
-published: false
+published: true
 
 ---
 

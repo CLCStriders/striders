@@ -1,6 +1,6 @@
 ---
 title: Welcome
-published: false
+published: true
 ---
 
-Welcome to our new look website! the home of CLC Striders running club.
+Welcome to the home of CLC Striders running club.
