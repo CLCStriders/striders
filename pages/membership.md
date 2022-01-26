@@ -24,7 +24,7 @@ In line with England Athletics registration, our membership is renewable annuall
 The 2021/22 membership fees are:
 
 - Full year membership - £28 &#x00B9;
-- Half year membership - £22 &#x00B9; (available from 1st October)
+- Half year membership - £16 &#x00B9; (available from 1st October)
 - Second claim membership - £13 &#x00B2;
 
   &#x00B9; Includes the £15 England Athletics registration fee.  
