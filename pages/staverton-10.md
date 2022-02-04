@@ -37,8 +37,8 @@ The race is a 2 lap course which heads out of the airport, and into Churchdown v
 
 ### Course Records
 
-_Men's_ : **James Bellward**, Royal Air Force, 26 January 2020 - **49:29**  
-_Women's_ : **Fiona Carter**, Lonely Goat Running Club, 30 January 2022 - **1:02:41**
+Men's - **James Bellward**, Royal Air Force, 26 January 2020 : **49:29**  
+Women's - **Fiona Carter**, Lonely Goat Running Club, 30 January 2022 : **1:02:41**
 
 ### Route
 
