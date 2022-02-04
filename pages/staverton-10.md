@@ -7,7 +7,7 @@ signUpUrl : https://www.entrycentral.com/staverton-10
 signUpYear: 2022
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-state: full
+state: closed
 
 ---
 
