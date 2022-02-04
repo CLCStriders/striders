@@ -35,6 +35,11 @@ This is a popular road race as it is a flat, fast road race which is aimed at he
 
 The race is a 2 lap course which heads out of the airport, and into Churchdown via Cheltenham Road East. From Churchdown the route passes Chosen Hill School and returns to the airport via a brief section through farmland.
 
+### Course Records
+
+_Men's_ : **James Bellward**, Royal Air Force, 26 January 2020 - **49:29**  
+_Women's_ : **Fiona Carter**, Lonely Goat Running Club, 30 January 2022 - **1:02:41**
+
 ### Route
 
 Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/routes/7184956)
