@@ -24,7 +24,9 @@ The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-C
 
 ##### Club Welfare Policy
 
-CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All children and adults at risk are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of children and adults at risk.
+CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All children and adults at risk are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of children and adults at risk. 
+
+The Club Welfare Officers are Matt Ashman and Amelia Mullins, any issues can be raised via <secretary@clcstriders-runningclub.co.uk>
 
 ##### Risk assessments
 
