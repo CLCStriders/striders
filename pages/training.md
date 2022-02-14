@@ -91,6 +91,7 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - Matt Ashman
 - Tim Brock
 - Andy Brookes
+- Natalie Burfitt
 - Laura Daubney
 - Gareth Harries
 - Charlie Haward

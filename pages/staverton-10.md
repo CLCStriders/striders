@@ -7,7 +7,7 @@ signUpUrl : https://www.entrycentral.com/staverton-10
 signUpYear: 2022
 routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
 # open / full /closed
-state: full
+state: closed
 
 ---
 
@@ -35,6 +35,11 @@ This is a popular road race as it is a flat, fast road race which is aimed at he
 
 The race is a 2 lap course which heads out of the airport, and into Churchdown via Cheltenham Road East. From Churchdown the route passes Chosen Hill School and returns to the airport via a brief section through farmland.
 
+### Course Records
+
+Men's - **James Bellward**, Royal Air Force, 26 January 2020 : **49:29**  
+Women's - **Fiona Carter**, Lonely Goat Running Club, 30 January 2022 : **1:02:41**
+
 ### Route
 
 Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/routes/7184956)
@@ -51,6 +56,7 @@ This will be clearly marshalled. Please note that road closures have not been ap
 
 ### Previous results
 
+- [Staverton 10 – 2022 Race Results](https://results.raceroster.com/en-US/results/ag7ub3ad9mx7r4ch)
 - [Staverton 10 – 2020 Race Results](/assets/staverton/staverton-10-mile-results-2020.pdf)
 - [Staverton 10 – 2019 Race Results](/assets/staverton/staverton-10-mile-results-2019.pdf)
 - [Staverton 10 – 2018 Race Results](/assets/staverton/staverton-10-mile-results-2018.pdf)
