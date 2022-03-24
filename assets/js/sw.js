@@ -24,7 +24,7 @@
         "{{site.url}}/categories/",
         "{{site.url}}/pages/membership",
         "{{site.url}}/pages/directory",
-        {% for post in site.posts | limit : 3 %}
+        {% for post in site.posts limit: 3 %}
         "{{ post.url }}",
         {% endfor %}
         "{{site.url}}/offline.html"
