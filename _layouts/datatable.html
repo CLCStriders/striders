@@ -129,6 +129,10 @@
         <script>
             recordsData = recordsData.filter(f => f.type_sort == "4") // field events only
         </script>
+    {% elsif page.datatype == "parkrun" %}
+    <script>
+        recordsData = recordsData.filter(f => f.type_sort == "5") // parkrun only
+    </script>
     {% endif %}
     {% if page.datagender == "men" %}
     <script>
@@ -196,6 +200,17 @@
                 },
             ],
         });
+    </script>
+    {% if page.datatype == "field" %}
+    <script>
+        $(recordsTable.column(4).header()).text('Event'); // field - rename Distance column to Event
+    </script>
+    {% elsif page.datatype == "parkrun" %}
+        <script>
+            recordsTable.column(4).visible(false); // parkrun - hide Distance column, they're all 5k
+        </script>
+    {% endif %}
+    <script>
         recordsTable.rows.add(recordsData).draw();
     </script>
 {% endif %}

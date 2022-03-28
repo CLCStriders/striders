@@ -13,6 +13,6 @@ permalink: /menroadrecords
 
 **Age groups:** U20, Senior, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75+.
 
-The table below includes all men's road records, use the search box to filter results. A missing distance or age group means no record has been set.
+The table below includes all men's road records, use the search box to filter results. A missing age group means a time has yet to be recorded for that distance.
 
 {% include recordstable.html %}
