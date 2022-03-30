@@ -213,4 +213,51 @@
     <script>
         recordsTable.rows.add(recordsData).draw();
     </script>
+{% elsif page.datatable == "cwr" %}
+    <script>
+        var cwrData =  {{ site.data.cwr | jsonify }} ;
+        var cwrTable = $("#site_data_cwr").DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Leg" },                // 0
+                { data: "leg_search" },         // 1
+                { data: "Team" },               // 2
+                { data: "Category" },           // 3
+                { data: "Name" },               // 4
+                { data: "Time" },               // 5
+                { data: "time_secs_sort" },     // 6
+                { data: "Distance" },           // 7
+                { data: "Start" },              // 8
+                { data: "Finish" },             // 9
+                { data: "Date" },               // 10
+                { data: "date_sort" },          // 11
+            ],
+            "pageLength": 25, // initial page length
+            "order": [[10, 'desc'], [0, 'asc'], [5, 'asc']], // initial sort - Date, Leg, Time
+            columnDefs: [
+                { // hidden columns
+                    "visible": false,
+                    "targets": [1, 6, 11]  // leg_search, time_secs_sort, date_sort
+                },
+                { // non-searchable columns
+                    "searchable": false,
+                    "targets": [0, 6, 11]  // Leg, time_secs_sort, date_sort
+                },
+                { // non-sortable columns
+                    "orderable": false,
+                    "targets": [2, 3, 8, 9] // Team, Category, Name, Start, Finish
+                },
+                { // column sort remapping
+                    targets: [5], // Time
+                    orderData: [6] // time_sort
+                },
+                { // column sort remapping
+                    targets: [10], // Date
+                    orderData: [11] // date_sort
+                },
+            ],
+        });
+        cwrTable.rows.add(cwrData).draw();
+    </script>
 {% endif %}
