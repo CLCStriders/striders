@@ -37,9 +37,9 @@ Use the search box to filter results:
             <th data-field="Team">Team</th>
             <th data-field="Category">Category</th>
             <th data-field="Name">Name</th>
-            <th data-field="Time">Time (h:mm:ss)</th>
+            <th data-field="Time">Time<br>(h:mm:ss)</th>
             <th data-field="time_secs_sort">time_secs_sort</th>
-            <th data-field="Distance">Distance (mi)</th>
+            <th data-field="Distance">Distance<br>(mi)</th>
             <th data-field="Start">Start</th>
             <th data-field="Finish">Finish</th>
             <th data-field="Date">Date</th>

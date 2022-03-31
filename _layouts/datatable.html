@@ -256,6 +256,12 @@
                     targets: [10], // Date
                     orderData: [11] // date_sort
                 },
+                // column widths 0px => width to fit data
+                { "width": "0px", "targets": 0 },   // Leg
+                { "width": "0px", "targets": 3 },   // Category
+                { "width": "0px", "targets": 5 },   // Time
+                { "width": "0px", "targets": 7 },   // Distance
+                { "width": "0px", "targets": 10 },  // Date
             ],
         });
         cwrTable.rows.add(cwrData).draw();
