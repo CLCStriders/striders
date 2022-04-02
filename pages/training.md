@@ -34,8 +34,8 @@ We change the route every few weeks but examples are:
 
 - Summer route with Pittville Park / Racecourse
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6584237) / GPX
-  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / [GPX](6m_Summer_Route_Pittville_Park_Racecourse.gpx)
-  - 8M - Gmap / [GPX](8m_Summer_Route_Pittville_Park_Racecourse.gpx)
+  - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / [GPX](assets/6m_Summer_Route_Pittville_Park_Racecourse.gpx)
+  - 8M - Gmap / [GPX](assets/8m_Summer_Route_Pittville_Park_Racecourse.gpx)
 
 - Warden Hill & Hatherley
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / [GPX](assets/gpx/4m_Warden_Hill_Hatherley.gpx)
