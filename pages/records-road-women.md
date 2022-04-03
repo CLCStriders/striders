@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: road
 datagender: women
 title: Club Road Records - Women

@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: multi
 datagender: men
 title: Club Multi-Terrain Records - Men

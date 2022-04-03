@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: field
 datagender: men
 title: Club Field Event Records - Men

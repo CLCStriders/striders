@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: parkrun
 datagender: women
 title: parkrun Fastest Times - Women

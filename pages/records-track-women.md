@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: track
 datagender: women
 title: Club Track Records - Women

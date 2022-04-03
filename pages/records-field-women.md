@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: field
 datagender: women
 title: Club Field Event Records - Women

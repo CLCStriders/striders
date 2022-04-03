@@ -1,6 +1,6 @@
 ---
 layout: datatable
-datatable: records2
+datatable: records
 datatype: multi
 datagender: women
 title: Club Multi-Terrain Records - Women
