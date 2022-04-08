@@ -9,7 +9,7 @@ permalink: /cwr
 
 The Cotswold Way Relay is an annual event hosted by Team Bath Athletic Club, usually on the last Saturday in June, and is a highlight of the running calendar year.
 
-The 103 mile route is completed by teams of 10 people, with each team member running a leg ranging from 7 to 13 miles. The race is operated as 10 back-to-back races, starting each stage with a mass start at the expected arrival time of the 1st runner from the previous stage. The first team member sets off from Chipping Campden at 7am. The last team member leaves Cold Ashton at 5pm, heading for the finish in Bath.
+The 102 mile route is completed by teams of 10 people, with each team member running a leg ranging from 7 to 13 miles. The race is operated as 10 back-to-back races, starting each stage with a mass start at the expected arrival time of the 1st runner from the previous stage. The first team member sets off from Chipping Campden at 7am. The last team member leaves Cold Ashton at 5pm, heading for the finish in Bath.
 
 A firm favourite with our members, the club usually enters 3 teams. However, the event has a limit of 100 teams, so if the race is oversubscribed the organisers may limit the number of teams a club may enter.
 

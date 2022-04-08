@@ -48,6 +48,5 @@ To claim or update a record contact the committee via our [contact form](/contac
 - the venue
 - the age group or date of birth
 - a link to the published results
-- a link to proof of the course measurement (multi-terrain only)
 
 **Note:** records are only shown for the age groups for which a time has been set. If an age group is missing it means no records has been set; if it's your age group, set a time and claim the record.
