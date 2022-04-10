@@ -8,21 +8,20 @@
 {% elsif page.datatable == "fixtures" %}
     <script>
         var cutoffDate = new Date();
-        //cutoffDate.setMonth(cutoffDate.getMonth() - 9); // display events from maximum 9 months ago
-        cutoffDate.setFullYear(cutoffDate.getFullYear() - 1); // display events from maximum 1 year ago
+        cutoffDate.setFullYear(cutoffDate.getFullYear(), 0, 0); // display events for current year (gives date 31/12/YYYY)
         var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
         var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
         var fixturesTable = $("#site_data_fixtures").DataTable({
             "paging": false,
             "info": true,
             "columns": [
-                { data: "Date" },
-                { data: "date_sort" },
-                { data: "Series", width: "10px" },
-                { data: "Race", width: "50%" },
-                { data: "Distance" },
-                { data: "distance_sort" },
-                { data: "Terrain" }
+                { data: "Date", width: "0px" },             // 0
+                { data: "date_sort", width: "0px" },        // 1
+                { data: "Series", width: "0px" },           // 2
+                { data: "Race"},                            // 3
+                { data: "Distance", width: "0px" },         // 4
+                { data: "distance_sort", width: "0px" },    // 5
+                { data: "Terrain", width: "0px" }           // 6
             ],
             columnDefs: [
                 { // hidden columns
@@ -31,7 +30,11 @@
                 },
                 { // non-searchable columns
                     "searchable": false,
-                    "targets": [1, 5] // date_sort, distance_sort
+                    "targets": [1, 2, 5] // date_sort, Series, distance_sort
+                },
+                { // non-sortable columns
+                    "orderable": false,
+                    "targets": [2, 3] // Series, Race
                 },
                 { // column sort remapping
                     targets: [0], // Date
