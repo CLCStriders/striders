@@ -76,8 +76,11 @@
 <script>
     $(document).ready(function() {
         $("#lightSlider").lightSlider({
-                item:3,
-                loop:true,
+                item: 3,
+                loop: true,
+                auto: true,
+                speed: 400,
+                pause: 2000,
                 onSliderLoad: function() {
                         $('#lightSlider').removeClass('cS-hidden');
         } 

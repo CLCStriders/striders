@@ -10,7 +10,7 @@
     {% endif %}
     {% if site.slider %}
     <div id="gallery">
-        <ul id="lightSlider">
+        <ul id="lightSlider" class="cS-hidden">
             {% assign image_files = site.static_files | where: "image", true %}
             {% for image in image_files %}
             <li><img src="{{ site.baseurl }}{{ image.path }}" alt="image {{image.name}}" /></li>  
