@@ -17,6 +17,13 @@
             {% endfor %}
         </ul>
     </div>
+    <script>
+        // randomise lightSlider image order
+        var imageList = document.querySelector('#lightSlider');
+        for (var i = imageList.children.length; i >= 0; i--) {
+            imageList.appendChild(imageList.children[Math.random() * i | 0]);
+        }
+    </script>
     {% endif %}
   <h2 id="main">Latest News</h2>      
    <ul class="posts">
