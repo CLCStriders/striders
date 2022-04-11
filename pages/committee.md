@@ -7,7 +7,7 @@ permalink: /committee
 
 ---
 
-The club is run on a volunteer basis and the committee is elected at the club AGM
+The club is run on a volunteer basis and the committee is elected at the club AGM.
 
 #### The Striders committee
 
@@ -29,6 +29,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Paul Northup| Press Officer| |
 | Tom Kabala | Social Secretary| |
 
+<br>
 See the [news section](/news) for any public club announcements.
 
 #### <br>Committee minutes

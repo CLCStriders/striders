@@ -3,13 +3,12 @@
 {% if page.datatable == "committee" %}
     <script>
         // committee page this code is more basic as its a standard markdown table
-        $(".committee").DataTable({ "paging": false, "info": false, "sorting": false,
-            columnDefs: [
-                { // non-sortable columns
-                    "orderable": false,
-                    "targets": [0, 1, 2] // all columns non-sortable
-                },
-            ],
+        $(".committee").DataTable({
+            "paging": false,
+            "info": false,
+            "searching": false,
+            "ordering": false,
+            "order": []
         });
     </script>
 {% elsif page.datatable == "fixtures" %}
