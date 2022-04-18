@@ -16,6 +16,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 |--|--|--|
 | Brendan Ward| Club President and Head Coach| |
 | Jon Howes| Chair| <chair@clcstriders-runningclub.co.uk> |
+| Matt Ashman| Club Secretary| <secretary@clcstriders-runningclub.co.uk> |
 | Eoin McQuone| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
 | Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
