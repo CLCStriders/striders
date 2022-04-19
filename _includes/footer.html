@@ -17,7 +17,7 @@
             | <a title="CLC Striders Contact us" href="/contact">Contact</a>
             | <a title="CLC Striders xml sitemap" href="/sitemap.xml">SiteMap</a>
             | <a title="CLC Striders RSS feed" href="/feed.xml">RSS</a>
-            | <a title="CLC Striders at parkrun" href="https://www.parkrun.com/results/consolidatedclub/?clubNum=19887">parkrun</a>
+            | <a title="CLC Striders at parkrun" href="/records#parkrun">parkrun</a>
         </span>
         <p>
         <span class="footer-icons"> {% github_edit_link "<i class="icon-github" aria-hidden="true"></i>" %}
@@ -76,8 +76,11 @@
 <script>
     $(document).ready(function() {
         $("#lightSlider").lightSlider({
-                item:3,
-                loop:true,
+                item: 3,
+                loop: true,
+                auto: true,
+                speed: 400,
+                pause: 2000,
                 onSliderLoad: function() {
                         $('#lightSlider').removeClass('cS-hidden');
         } 

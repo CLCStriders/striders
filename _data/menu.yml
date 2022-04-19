@@ -25,6 +25,10 @@ items:
   url: /records 
   display: Records
 
+- name: Cotswold Way Relay
+  url: /cwr
+  display: CWR
+
 - name: About CLC Striders
   url: /about 
   display: About

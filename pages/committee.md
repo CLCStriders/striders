@@ -7,7 +7,7 @@ permalink: /committee
 
 ---
 
-The club is run on a volunteer basis and the committee is elected at the club AGM
+The club is run on a volunteer basis and the committee is elected at the club AGM.
 
 #### The Striders committee
 
@@ -15,21 +15,22 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 |Name | Role | Email |
 |--|--|--|
 | Brendan Ward| Club President and Head Coach| |
-| Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
-| Eoin McQuone| Treasurer| <committee@clcstriders-runningclub.co.uk> |
+| Jon Howes| Chair| <chair@clcstriders-runningclub.co.uk> |
+| Matt Ashman| Club Secretary| <secretary@clcstriders-runningclub.co.uk> |
+| Eoin McQuone| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
-| Jon Howes| Chair| <committee@clcstriders-runningclub.co.uk> |
-| Karlien Heyrman| Women’s Captain| <races@clcstriders-runningclub.co.uk> |
-| Matt Ashman| Club Secretary| <secretary@clcstriders-runningclub.co.uk>
+| Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
 | Will Pearce| Men’s Captain| <races@clcstriders-runningclub.co.uk> |
+| Karlien Heyrman| Women’s Captain| <races@clcstriders-runningclub.co.uk> |
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
+| Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
+| Rachel Vines| Race Coordinator| <races@clcstriders-runningclub.co.uk> |
 | Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
-| Paul Northup| Press Officer| <press@clcstriders-runningclub.co.uk> |
-| Rachel Vines| Race Coordinator| <races@clcstriders-runningclub.co.uk> |
-| Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
-| Tom Kabala | Social Secretary| <committee@clcstriders-runningclub.co.uk> |
+| Paul Northup| Press Officer| |
+| Tom Kabala | Social Secretary| |
 
+<br>
 See the [news section](/news) for any public club announcements.
 
 #### <br>Committee minutes

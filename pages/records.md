@@ -1,5 +1,5 @@
 ---
-layout: datatable
+layout: default
 datatable: records
 title: Club Records
 description: CLC Striders running club records
@@ -7,38 +7,46 @@ permalink: /records
 
 ---
 
-The club is active in road, track, and cross country races, with the road and track offering our members the opportunity to set club records at a particular distance.
+The club is active in road, track, cross country, and trail races. The road, track, and multi-terrain events offer our members the opportunity to set club records at a particular distance or event. We also recognise field event records for members willing to try something other than running.
 
-Any records to be updated should be sent to the committee via our [contact form](/contact).
+[Men's Road Records](/menroadrecords)
 
-Record categories:
-- Road: Mile, 5km, 4mi, 5mi, 10km, 7mi, 10mi, Half Marathon, 20mi, Marathon
-- Track: 100m, 150m, 200m, 300m, 400m, 600m, 800m, 1000m, 1500m, Mile, 3000m, 2mi, 5km, 10km, 4x100m relay, 4x400m relay, 100m hurdles, 1500m s/c, 2000m s/c, 3000m s/c
-- Field: High Jump, Long Jump, Triple Jump, Javelin
+[Women's Road Records](/womenroadrecords)
 
-The table below includes all records for men and women, use the search box to filter results. Empty/missing details means no record has been set.
+[Men's Track Records](/mentrackrecords)
 
-Search hints:
-- 'xy' to display men only records
-- 'xx' or 'women' for women only records
-- 'road xx 40-44' for W40-44 road records
+[Women's Track Records](/womentrackrecords)
 
-<table id="site_data_records" style="width:100%">
-    <thead>
-        <tr>
-            <th data-field="Type">Type</th>
-            <th data-field="Gender">Gender</th>
-            <th data-field="gender_search">gender_search</th>
-            <th data-field="Distance">Distance</th>
-            <th data-field="distance_m_sort">distance_m_sort</th>
-            <th data-field="Age Group">Age Group</th>
-            <th data-field="age_sort">age_sort</th>
-            <th data-field="Holder">Holder</th>
-            <th data-field="Time">Time</th>
-            <th data-field="time_secs_sort">time_secs_sort</th>
-            <th data-field="Venue">Venue</th>
-            <th data-field="Date">Date</th>
-            <th data-field="date_sort">date_sort</th>
-        </tr>
-    </thead>
-</table>
+[Men's Multi-Terrain Records](/menmultirecords)
+
+[Women's Multi-Terrain Records](/womenmultirecords)
+
+[Men's Field Event Records](/menfieldrecords)
+
+[Women's Field Event Records](/womenfieldrecords)
+
+#### parkrun
+
+Although not officially a race, but a timed run, we also recognise parkrun fastest times.
+
+[Men's parkrun Fastest Times](/menparkrunrecords)
+
+[Women's parkrun Fastest Times](/womenparkrunrecords)
+
+parkrun's [website](https://www.parkrun.org.uk) also holds various data on members' performances including:
+
+[CLC Striders at Cheltenham parkrun](https://www.parkrun.org.uk/cheltenham/results/clubhistory/?clubNum=19887)
+
+[CLC Striders at King George V Playing Field parkrun, Cheltenham](https://www.parkrun.org.uk/kinggeorgevplayingfield/results/clubhistory/?clubNum=19887)
+
+[CLC Striders Consolidated club report for member participation at last Saturday's parkruns](https://www.parkrun.com/results/consolidatedclub/?clubNum=19887)
+
+#### Claims and Amendments
+To claim or update a record contact the committee via our [contact form](/contact), including:
+
+- the date
+- the venue
+- the age group or date of birth
+- a link to the published results
+
+**Note:** records are only shown for the age groups for which a time has been set. If an age group is missing it means no records has been set; if it's your age group, set a time and claim the record.

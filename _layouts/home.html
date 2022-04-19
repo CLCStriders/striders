@@ -10,17 +10,24 @@
     {% endif %}
     {% if site.slider %}
     <div id="gallery">
-        <ul id="lightSlider">
+        <ul id="lightSlider" class="cS-hidden">
             {% assign image_files = site.static_files | where: "image", true %}
             {% for image in image_files %}
             <li><img src="{{ site.baseurl }}{{ image.path }}" alt="image {{image.name}}" /></li>  
             {% endfor %}
         </ul>
     </div>
+    <script>
+        // randomise lightSlider image order
+        var imageList = document.querySelector('#lightSlider');
+        for (var i = imageList.children.length; i >= 0; i--) {
+            imageList.appendChild(imageList.children[Math.random() * i | 0]);
+        }
+    </script>
     {% endif %}
   <h2 id="main">Latest News</h2>      
    <ul class="posts">
-    {% for post in site.posts | limit: 3 %}
+    {% for post in site.posts limit: 3 %}
       <li class="{{ post.popular }} {{ post.new }}">
           <a href="{{ post.url }}">{{ post.title }}</a> 
           <br/>
@@ -28,11 +35,11 @@
           <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
           <span class="num-words">| {{ post.content | number_of_words }} words</span>
           <span class="read-time" title="Estimated read time">| {% assign words = post.content | number_of_words %}approx {% if words < 360 %} 1 min read. {% else %}{{ words | divided_by:180 }} mins read. {% endif %}</span>
-          <span class="categories">| Categories: {% if post.category != empty %}{% for category in post.categories %}<a href="{{site.url}}{{ post_url }}/categories/#{{ category | slugify }}">{{ category }}</a>  {% endfor %}{% endif %}</span>
+          <span class="categories">| Categories: {% if post.category != empty %}{% for category in post.categories %}<a href="{{ post_url }}/categories/#{{ category | slugify }}">{{ category }}</a>  {% endfor %}{% endif %}</span>
           </small>
           </li>
       {% endfor %}
     </ul>
-    <p><small><a href="{{site.url}}/news/">Read more</a></small></p>
+    <p><small><a href="/news/">Read more</a></small></p>
 </div>
 {% include footer.html %}
