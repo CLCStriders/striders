@@ -98,6 +98,7 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - Jon Howes
 - Eoin McQuone
 - Paul Northup
+- Hedley Phillips
 - Helen Rawcliffe
 - Amanda Steer
 - Nicola Weager
