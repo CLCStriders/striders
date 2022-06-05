@@ -24,7 +24,7 @@ The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-C
 
 ##### Club Awards
 
-The Club presents [awards](pages/awards.md) each year to recognise members achievements and contributions to the Club.
+The Club presents [awards](/awards.md) each year to recognise members achievements and contributions to the Club.
 
 ##### Club Welfare Policy
 
