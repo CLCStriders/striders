@@ -28,7 +28,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
 | Paul Northup| Press Officer| |
-| Tom Kabala | Social Secretary| |
+| Ryan O'Donnell | Social Coordinator| |
 
 <br>
 See the [news section](/news) for any public club announcements.
@@ -48,4 +48,7 @@ Committee minutes are available to club members below:
 - [AGM-2021](/assets/Committee-minutes/AGM-2021.pdf) 
 - [2021-07-15](/assets/Committee-minutes/2021-07-15.pdf) 
 - [2021-09-16](/assets/Committee-minutes/2021-09-16.pdf) 
+- [2021-11-11](assets/Committee-minutes/2021-11-11.pdf)
+- [2022-01-20](assets/Committee-minutes/2022-01-20.pdf)
+- [2022-04-07](assets/Committee-minutes/2022-04-07.pdf)
 
