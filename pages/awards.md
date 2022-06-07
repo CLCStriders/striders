@@ -25,5 +25,5 @@ The Club presents awards each year to recognise members achievements and contrib
 * Unsung hero
 
     {% for item in site.data.awards %}
-        - {{item.name}}
+        - {{item.Award}}
     {% endfor %}
