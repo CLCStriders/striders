@@ -1,14 +1,12 @@
 {% include default.html %}
 
-
 {% if page.datatable == "awards" %}
     <script>
         $("#site_data_awards").DataTable({
-            "paging": false,
-            "info": false,
-            "searching": false,
-            "ordering": false,
-            "order": []
+            "paging": true,
+            "info": true,
+            "searching": true,
+            "ordering": true
         });
     var awardsData =  {{ site.data.awards | jsonify }} ;
         awardsTable.rows.add(awardsData).draw();
