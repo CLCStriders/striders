@@ -3,8 +3,6 @@
 
 {% if page.datatable == "awards" %}
     <script>
-        var awardsData =  {{ site.data.awards | jsonify }} ;
-        awardsTable.rows.add(awardsData).draw();
         $("#site_data_awards").DataTable({
             "paging": false,
             "info": false,
@@ -12,6 +10,8 @@
             "ordering": false,
             "order": []
         });
+    var awardsData =  {{ site.data.awards | jsonify }} ;
+        awardsTable.rows.add(awardsData).draw();
     </script>
 {% elsif page.datatable == "committee" %}
     <script>
