@@ -38,7 +38,6 @@ The Club presents awards each year to recognise members achievements and contrib
             <th data-field="2015">2015</th>
             <th data-field="2014">2014</th>
             <th data-field="2013">2013</th>
-            <th data-field="2012">2012</th>
         </tr>
     </thead>
 </table>
