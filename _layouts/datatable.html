@@ -2,13 +2,14 @@
 
 {% if page.datatable == "awards" %}
     <script>
-        $("#site_data_awards").DataTable({
-            "paging": true,
-            "info": true,
+     var awardsData =  {{ site.data.awards | jsonify }} ;
+     var awardsTable = $("#site_data_awards").DataTable({
+            "paging": false,
+            "info": false,
             "searching": true,
-            "ordering": true
+            "ordering": true,
+            "order": []
         });
-    var awardsData =  {{ site.data.awards | jsonify }} ;
         awardsTable.rows.add(awardsData).draw();
     </script>
 {% elsif page.datatable == "committee" %}
