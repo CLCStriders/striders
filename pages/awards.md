@@ -24,4 +24,6 @@ The Club presents awards each year to recognise members achievements and contrib
 * The Dave Moorcroft award for outstanding contribution
 * Unsung hero
 
-{% include awards.csv %}
+    {% for item in site.data.awards %}
+        - {{item.name}}
+    {% endfor %}
