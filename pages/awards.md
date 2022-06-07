@@ -28,17 +28,17 @@ The Club presents awards each year to recognise members achievements and contrib
     <thead>
         <tr>
             <th data-field="Award">Award</th>
-            <th data-field="2022">2021-22</th>
-            <th data-field="2021">2020-21</th>
-            <th data-field="2020">2019-20</th>
-            <th data-field="2019">2018-19</th>
-            <th data-field="2018">2017-18</th>
-            <th data-field="2017">2016-17</th>
-            <th data-field="2016">2015-16</th>
-            <th data-field="2015">2014-15</th>
-            <th data-field="2014">2013-14</th>
-            <th data-field="2013">2012-13</th>
-            <th data-field="2012">2011-12</th>
+            <th data-field="2022">2022</th>
+            <th data-field="2021">2021</th>
+            <th data-field="2020">2020</th>
+            <th data-field="2019">2019</th>
+            <th data-field="2018">2018</th>
+            <th data-field="2017">2017</th>
+            <th data-field="2016">2016</th>
+            <th data-field="2015">2015</th>
+            <th data-field="2014">2014</th>
+            <th data-field="2013">2013</th>
+            <th data-field="2012">2012</th>
         </tr>
     </thead>
 </table>
