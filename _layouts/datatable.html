@@ -3,8 +3,9 @@
 
 {% if page.datatable == "awards" %}
     <script>
-        // awards page this code is more basic as its a standard markdown table
-        $(".award").DataTable({
+        var awardsData =  {{ site.data.awards | jsonify }} ;
+        awardsTable.rows.add(awardsData).draw();
+        $(".awards").DataTable({
             "paging": false,
             "info": false,
             "searching": false,
