@@ -41,3 +41,5 @@ The Club presents awards each year to recognise members achievements and contrib
         </tr>
     </thead>
 </table>
+
+*Awards did not take place in 2021 due to the Covid 19 pandemic
