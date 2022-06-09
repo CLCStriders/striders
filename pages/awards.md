@@ -29,7 +29,7 @@ The Club presents awards each year to recognise members achievements and contrib
         <tr>
             <th data-field="Award">Award</th>
             <th data-field="2022">2022</th>
-            <th data-field="2021">2021</th>
+            <th data-field="2021*">2021</th>
             <th data-field="2020">2020</th>
             <th data-field="2019">2019</th>
             <th data-field="2018">2018</th>
