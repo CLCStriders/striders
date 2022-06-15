@@ -16,11 +16,11 @@ A firm favourite with our members, the club usually enters 3 teams. However, the
 The official [Cotswold Relay website](https://cotswoldwayrelay.co.uk) has full information about the competition, the route, downloadable maps and GPX files, and historical records.
 
 Runners who have completed all 10 legs of the competition are awarded a **King or Queen of the Cotswolds Plaque**. The following club members have achieved this remarkable status:
-- **Amelia Mullins** - Queen of the Cotswold 29/06/2019
-- **Billy Bradshaw** - King of the Cotswold 03/07/2021
-- **Jon Howes** - King of the Cotswold 03/07/2021
+- **Amelia Mullins** - Queen of the Cotswolds 29/06/2019
+- **Billy Bradshaw** - King of the Cotswolds 03/07/2021
+- **Jon Howes** - King of the Cotswolds 03/07/2021
 
-The table below includes all CWR results since the club first entered teams into the competition in June 2011. Members may find it useful in planning their route to becoming King or Queen of the Cotswold.
+The table below includes all CWR results since the club first entered teams into the competition in June 2011. Members may find it useful in planning their route to becoming King or Queen of the Cotswolds.
 
 Use the search box to filter results:
 - 'leg1', 'leg2' etc. to display only a certain leg - use 'legx' for leg 10
