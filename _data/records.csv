@@ -201,10 +201,13 @@ Road,1,Women,xx,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,Marathon,42188,70-74,74,,,99999,,,99999999
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Iain Porter,1:21:58,4918,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Iain Porter,1:21:58,4918,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Eoin McQuone,2:22:23,8543,"Offa's Dyke 15",11/06/2022,20220611
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Ed Thompson,1:56:17,6977,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Men,xy,Marathon,42188,Senior,34,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
-Multi-Terrain,2,Men,xy,Marathon,42188,35-39,39,Iain Porter,5:42:03,20523,Snowdonia (28.9mi),02/04/2022,20220422
+Multi-Terrain,2,Men,xy,Marathon,42188,35-39,39,Iain Porter,5:42:03,20523,Snowdonia,02/04/2022,20220422
 Multi-Terrain,2,Men,xy,Marathon,42188,50-54,54,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
+Multi-Terrain,2,Men,xy,50k Ultra,50000,Senior,34,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
+Multi-Terrain,2,Men,xy,50k Ultra,50000,55-59,59,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
 Multi-Terrain,2,Men,xy,50mi Ultra,80467,Senior,34,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
 Multi-Terrain,2,Men,xy,50mi Ultra,80467,50-54,54,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
 Multi-Terrain,2,Men,xy,100mi Ultra,160934,Senior,34,Rob Bircher,29:18:35,105515,Cotswold Way Century (102mi),18/09/2021,20210918
@@ -213,8 +216,11 @@ Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Helen Knight,1:27:23
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Fiona Brady-Miller,1:44:18,6258,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Sarah Wilson,2:02:42,7362,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,8:45:20,31520,"Jurassic Coast Path, Dorset (45mi)",09/04/2022,20220409
+Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
 Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,8:45:20,31520,"Jurassic Coast Path, Dorset (45mi)",09/04/2022,20220409
+Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
@@ -625,7 +631,7 @@ parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,16:56,1016,"Pittville Park, Chelten
 parkrun,5,Men,xy,5km,5000,45-49,49,Jon Howes,19:25,1165,"King George V Playing Field, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,55-59,49,Paul Northup,19:53,1193,"Pittville Park, Cheltenham",23/04/2022,20220423
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Cheltenham",26/03/2022,20220326
-parkrun,5,Men,xy,5km,5000,70-74,74,David James,24:57,1497,Congleton,14/05/2022,20220514
+parkrun,5,Men,xy,5km,5000,70-74,74,David James,24:30,1470,Congleton,11/06/2022,20220611
 parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,24:49,1489,"Pittville Park, Cheltenham",02/04/2022,20220402
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:43,1183,"Pittville Park, Cheltenham",02/04/2022,20220402
 parkrun,5,Women,xx,5km,5000,45-49,49,Amelia Mullins,23:22,1402,"Pittville Park, Cheltenham",23/04/2022,20220423
