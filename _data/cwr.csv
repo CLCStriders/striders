@@ -291,13 +291,13 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 10,legx,CLC Lightning Bolts,Mixed,Sophie Longmore,Sophie Longmore,01:49:15,6555,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
 1,leg1,CLC Storm Clouds,Mixed,Jamie Hartnoll,Jamie Hartnoll,01:32:59,5579,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
 1,leg1,CLC Lightning Bolts,Veterans,Gavin Jerman,Gavin Jerman,01:50:03,6603,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
-1,leg1,CLC Thunderclaps,Mixed,- No Runner -,- No Runner -,02:45:00,9900,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
+1,leg1,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:45:00,9900,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
 2,leg2,CLC Storm Clouds,Mixed,Will Pearce,Will Pearce,01:37:55,5875,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
 2,leg2,CLC Lightning Bolts,Veterans,Eoin McQuone,Eoin McQuone,01:53:07,6787,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
 2,leg2,CLC Thunderclaps,Mixed,Fiona Brady-Miller,Fiona Brady-Miller,02:03:33,7413,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
 3,leg3,CLC Storm Clouds,Mixed,Rachael Cary,Rachael Cary,01:11:45,4305,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
 3,leg3,CLC Lightning Bolts,Veterans,Philip Abbey,Philip Abbey,01:23:49,5029,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
-3,leg3,CLC Thunderclaps,Mixed,- No Runner -,- No Runner -,02:00:00,7200,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
+3,leg3,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:00:00,7200,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
 4,leg4,CLC Storm Clouds,Mixed,Liza Bradshaw,Liza Bradshaw,01:35:14,5714,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
 4,leg4,CLC Lightning Bolts,Veterans,Nigel Bailey,Nigel Bailey,01:52:23,6743,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
 4,leg4,CLC Thunderclaps,Mixed,👑 Amelia Mullins,👑 Amelia Mullins,01:55:37,6937,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
@@ -309,7 +309,7 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 6,leg6,CLC Thunderclaps,Mixed,Sheng Peng,Sheng Peng,01:12:52,4372,8.6,Dudbridge,Dursley,02/07/2022,20220702
 7,leg7,CLC Storm Clouds,Mixed,Ryan O'Donnell,Ryan O'Donnell,01:03:52,3832,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
 7,leg7,CLC Lightning Bolts,Veterans,Mike Crossley,Mike Crossley,01:19:11,4751,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
-7,leg7,CLC Thunderclaps,Mixed,- No Runner -,- No Runner -,02:00:00,7200,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
+7,leg7,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:00:00,7200,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
 8,leg8,CLC Storm Clouds,Mixed,Emma Abbey,Emma Abbey,02:14:59,8099,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
 8,leg8,CLC Lightning Bolts,Veterans,Billy Bradshaw,Billy Bradshaw,02:07:17,7637,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
 8,leg8,CLC Thunderclaps,Mixed,Thomas Fletcher,Thomas Fletcher,01:44:52,6292,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
@@ -318,4 +318,4 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 9,leg9,CLC Thunderclaps,Mixed,Nikki Smith,Nikki Smith,01:32:05,5525,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
 10,legx,CLC Storm Clouds,Mixed,Laura Rose,Laura Rose,01:37:42,5862,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
 10,legx,CLC Lightning Bolts,Veterans,John Comer,John Comer,01:08:40,4120,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
-10,legx,CLC Thunderclaps,Mixed,- No Runner -,- No Runner -,02:15:00,8100,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
+10,legx,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:15:00,8100,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
