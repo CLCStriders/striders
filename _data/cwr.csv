@@ -1,321 +1,321 @@
 Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,Finish,Date,date_sort
-1,leg1,CLC Green,Mixed,David Smeath,David Smeath,1:29.01,5341,12,Chipping Campden,Stanway House,25/06/2011,20110625
-1,leg1,CLC Black,Mixed,Dawn Adinall,Dawn Adinall,2:02.00,7320,12,Chipping Campden,Stanway House,25/06/2011,20110625
-2,leg2,CLC Green,Mixed,Jo Wilkie,Jo Wilkie,1:54.26,6866,11.5,Stanway House,Cleeve Common,25/06/2011,20110625
-2,leg2,CLC Black,Mixed,Jill Harsent,Jill Harsent,2:12.00,7920,11.5,Stanway House,Cleeve Common,25/06/2011,20110625
-3,leg3,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,1:05.30,3930,8.2,Cleeve Common,Seven Springs,25/06/2011,20110625
-3,leg3,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,1:19.34,4774,8.2,Cleeve Common,Seven Springs,25/06/2011,20110625
-4,leg4,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,1:34.20,5660,12.7,Seven Springs,Cranham Corner,25/06/2011,20110625
-4,leg4,CLC Black,Mixed,Jon Howes,Jon Howes,1:43.08,6188,12.7,Seven Springs,Cranham Corner,25/06/2011,20110625
-5,leg5,CLC Black,Mixed,Ben Kerry,Ben Kerry,1:48.49,6529,11.7,Cranham Corner,Ebley Mill,25/06/2011,20110625
-5,leg5,CLC Green,Mixed,Simon Dee,Simon Dee,1:51.30,6690,11.7,Cranham Corner,Ebley Mill,25/06/2011,20110625
-6,leg6,CLC Green,Mixed,Chris Driskell,Chris Driskell,1:06.14,3974,8.8,Dudbridge,Dursley,25/06/2011,20110625
-6,leg6,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,1:22.02,4922,8.8,Dudbridge,Dursley,25/06/2011,20110625
-7,leg7,CLC Green,Mixed,Nikki Smith,Nikki Smith,1:10.25,4225,7.2,Dursley,Wotton U Edge,25/06/2011,20110625
-7,leg7,CLC Black,Mixed,Nicola Christian,Nicola Christian,1:17.44,4664,7.2,Dursley,Wotton U Edge,25/06/2011,20110625
-8,leg8,CLC Green,Mixed,Liza Barry,Liza Barry,1:33.52,5632,12,Wotton U Edge,Old Sodbury,25/06/2011,20110625
-8,leg8,CLC Black,Mixed,Rachel Vines,Rachel Vines,1:55.22,6922,12,Wotton U Edge,Old Sodbury,25/06/2011,20110625
-9,leg9,CLC Green,Mixed,Billy Bradshaw,Billy Bradshaw,1:11.38,4298,9.2,Old Sodbury,Cold Ashton,25/06/2011,20110625
-9,leg9,CLC Black,Mixed,- No Runner -,zzz,1:57.00,7020,9.2,Old Sodbury,Cold Ashton,25/06/2011,20110625
-10,legx,CLC Green,Mixed,Jess Straw,Jess Straw,1:20.51,4851,9.8,Cold Ashton,Bath Victoria Park,25/06/2011,20110625
-10,legx,CLC Black,Mixed,Carla Quiringetthi,Carla Quiringetthi,1:34.47,5687,9.8,Cold Ashton,Bath Victoria Park,25/06/2011,20110625
-1,leg1,CLC Green,Mixed,Laura Kent,Laura Kent,1:32.34,5554,12,Chipping Campden,Stanway House,30/06/2012,20120630
-1,leg1,CLC Black,Mixed,Billy Bradshaw,Billy Bradshaw,1:39.38,5978,12,Chipping Campden,Stanway House,30/06/2012,20120630
-1,leg1,CLC White,Mixed,Jill Harsent,Jill Harsent,2:02.00,7320,12,Chipping Campden,Stanway House,30/06/2012,20120630
-2,leg2,CLC Green,Mixed,David Smeath,David Smeath,1:34.04,5644,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
-2,leg2,CLC White,Mixed,Wayne Usher,Wayne Usher,1:37.12,5832,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
-2,leg2,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,2:07.21,7641,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
-3,leg3,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,1:07.34,4054,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
-3,leg3,CLC Black,Mixed,Nikki Smith,Nikki Smith,1:25.06,5106,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
-3,leg3,CLC White,Mixed,Becky Boulton,Becky Boulton,1:29.12,5352,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
-4,leg4,CLC Green,Mixed,Chris Driskell,Chris Driskell,1:28.57,5337,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
-4,leg4,CLC Black,Mixed,Richard Shardlow,Richard Shardlow,1:43.56,6236,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
-4,leg4,CLC White,Mixed,Ben Anderson,Ben Anderson,1:50.31,6631,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
-5,leg5,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,1:27.48,5268,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
-5,leg5,CLC Black,Mixed,Jeremy Wilde,Jeremy Wilde,1:39.33,5973,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
-5,leg5,CLC White,Mixed,- No Runner -,zzz,2:19.00,8340,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
-6,leg6,CLC Green,Mixed,Jon Howes,Jon Howes,1:15.32,4532,8.8,Dudbridge,Dursley,30/06/2012,20120630
-6,leg6,CLC Black,Mixed,Ruth Blakeborough,Ruth Blakeborough,1:50.23,6623,8.8,Dudbridge,Dursley,30/06/2012,20120630
-6,leg6,CLC White,Mixed,- No Runner -,zzz,2:14.00,8040,8.8,Dudbridge,Dursley,30/06/2012,20120630
-7,leg7,CLC Green,Mixed,Joel Freeland,Joel Freeland,1:01.48,3708,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
-7,leg7,CLC Black,Mixed,Eddie Macklin,Eddie Macklin,1:04.57,3897,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
-7,leg7,CLC White,Mixed,Duncan Kay,Duncan Kay,1:22.04,4924,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
-8,leg8,CLC Green,Mixed,Liza Barry,Liza Barry,1:36.05,5765,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
-8,leg8,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,1:48.39,6519,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
-8,leg8,CLC White,Mixed,Sian Holley,Sian Holley,1:57.28,7048,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
-9,leg9,CLC Green,Mixed,Adam Cary,Adam Cary,1:15.39,4539,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
-9,leg9,CLC White,Mixed,Elena Von Benzon,Elena Von Benzon,1:25.00,5100,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
-9,leg9,CLC Black,Mixed,Nicola Christian,Nicola Christian,1:34.22,5662,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
-10,legx,CLC Green,Mixed,Rachael Elkins,Rachael Elkins,1:17.56,4676,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
-10,legx,CLC White,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,1:24.57,5097,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
-10,legx,CLC Black,Mixed,Helen Howes,Helen Howes,1:31.52,5512,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
-1,leg1,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,1:34.09,5649,12,Chipping Campden,Stanway House,29/06/2013,20130629
-1,leg1,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,1:49.37,6577,12,Chipping Campden,Stanway House,29/06/2013,20130629
-1,leg1,CLC White,Mixed,Dawn Adinall,Dawn Adinall,2:02.00,7320,12,Chipping Campden,Stanway House,29/06/2013,20130629
-2,leg2,CLC Green,Mixed,Liza Barry,Liza Barry,1:39.28,5968,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
-2,leg2,CLC White,Mixed,Guy Sabey,Guy Sabey,1:48.50,6530,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
-2,leg2,CLC Black,Mixed,Jeremy Wilde,Jeremy Wilde,1:56.53,7013,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
-3,leg3,CLC Green,Mixed,Alice Johnston,Alice Johnston,1:10.06,4206,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
-3,leg3,CLC Black,Mixed,Nicola Christian,Nicola Christian,1:23.08,4988,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
-3,leg3,CLC White,Mixed,Becky Boulton,Becky Boulton,1:32.31,5551,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
-4,leg4,CLC Green,Mixed,Amanda Steer,Amanda Steer,1:51.26,6686,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
-4,leg4,CLC Black,Mixed,Rachel Beecham,Rachel Beecham,1:54.50,6890,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
-4,leg4,CLC White,Mixed,Rachel Marlow,Rachel Marlow,2:12.00,7920,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
-5,leg5,CLC White,Mixed,Ben Pedley,Ben Pedley,1:25.06,5106,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
-5,leg5,CLC Green,Mixed,Billy Bradshaw,Billy Bradshaw,1:29.54,5394,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
-5,leg5,CLC Black,Mixed,Natalie Greening,Natalie Greening,1:57.21,7041,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
-6,leg6,CLC Green,Mixed,David Billingham,David Billingham,1:17.30,4650,8.8,Dudbridge,Dursley,29/06/2013,20130629
-6,leg6,CLC White,Mixed,Ross Greening,Ross Greening,1:21.22,4882,8.8,Dudbridge,Dursley,29/06/2013,20130629
-6,leg6,CLC Black,Mixed,Helen Howes,Helen Howes,1:31.57,5517,8.8,Dudbridge,Dursley,29/06/2013,20130629
-7,leg7,CLC Green,Mixed,Helen Roberts,Helen Roberts,1:04.02,3842,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
-7,leg7,CLC White,Mixed,Rob Bircher,Rob Bircher,1:08.36,4116,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
-7,leg7,CLC Black,Mixed,Rachel Vines,Rachel Vines,1:11.40,4300,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
-8,leg8,CLC Green,Mixed,Chris Driskell,Chris Driskell,1:36.09,5769,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
-8,leg8,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,1:48.58,6538,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
-8,leg8,CLC White,Mixed,Nikki Smith,Nikki Smith,2:04.38,7478,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
-9,leg9,CLC Green,Mixed,Jon Howes,Jon Howes,1:11.12,4272,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
-9,leg9,CLC Black,Mixed,Andrew Paterson,Andrew Paterson,1:25.01,5101,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
-9,leg9,CLC White,Mixed,David James,David James,1:30.39,5439,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
-10,legx,CLC Green,Mixed,JJ Willson,JJ Willson,1:17.20,4640,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
-10,legx,CLC Black,Mixed,Adam Cary,Adam Cary,1:33.09,5589,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
-10,legx,CLC White,Mixed,- No Runner -,zzz,2:02.00,7320,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
-1,leg1,CLC Black,Mixed,David Smeath,David Smeath,1:35.11,5711,12,Chipping Campden,Stanway House,28/06/2014,20140628
-1,leg1,CLC White,Mixed,Adam Cary,Adam Cary,1:43.40,6220,12,Chipping Campden,Stanway House,28/06/2014,20140628
-1,leg1,CLC Green,Mixed,Dawn Adinall,Dawn Adinall,2:02.00,7320,12,Chipping Campden,Stanway House,28/06/2014,20140628
-2,leg2,CLC White,Mixed,Charles Goodwin,Charles Goodwin,1:33.35,5615,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
-2,leg2,CLC Black,Mixed,Rachael Cary,Rachael Cary,1:42.33,6153,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
-2,leg2,CLC Green,Mixed,Becky Boulton,Becky Boulton,2:12.00,7920,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
-3,leg3,CLC Black,Mixed,Glynn Bagnall,Glynn Bagnall,1:07.44,4064,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
-3,leg3,CLC White,Mixed,Vicky Lewis,Vicky Lewis,1:11.11,4271,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
-3,leg3,CLC Green,Mixed,Helen Howes,Helen Howes,1:28.27,5307,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
-4,leg4,CLC Black,Mixed,James Oram,James Oram,1:31.12,5472,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
-4,leg4,CLC White,Mixed,Amelia Mullins,Amelia Mullins,1:56.52,7012,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
-4,leg4,CLC Green,Mixed,Nicola Christian,Nicola Christian,2:04.42,7482,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
-5,leg5,CLC Black,Mixed,David Billingham,David Billingham,1:28.47,5327,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
-5,leg5,CLC White,Mixed,Ross Greening,Ross Greening,1:40.10,6010,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
-5,leg5,CLC Green,Mixed,Nicola Christian,Nicola Christian,2:03.40,7420,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
-6,leg6,CLC Black,Mixed,Richard Shardlow,Richard Shardlow,1:11.42,4302,8.8,Dudbridge,Dursley,28/06/2014,20140628
-6,leg6,CLC White,Mixed,Billy Bradshaw,Billy Bradshaw,1:15.18,4518,8.8,Dudbridge,Dursley,28/06/2014,20140628
-6,leg6,CLC Green,Mixed,Ian Bird,Ian Bird,1:28.21,5301,8.8,Dudbridge,Dursley,28/06/2014,20140628
-7,leg7,CLC Black,Mixed,Jon Howes,Jon Howes,56.41,3401,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
-7,leg7,CLC White,Mixed,Naomi Kellet,Naomi Kellet,1:07.38,4058,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
-7,leg7,CLC Green,Mixed,Jeremy Wilde,Jeremy Wilde,1:16.42,4602,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
-8,leg8,CLC Green,Mixed,Jon Cooke,Jon Cooke,1:32.01,5521,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
-8,leg8,CLC White,Mixed,Rob Bircher,Rob Bircher,1:42.38,6158,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
-8,leg8,CLC Black,Mixed,Rachel Vines,Rachel Vines,1:52.59,6779,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
-9,leg9,CLC Green,Mixed,Paul Harsent,Paul Harsent,1:15.10,4510,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
-9,leg9,CLC Black,Mixed,Jamie Paterson,Jamie Paterson,1:15.17,4517,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
-9,leg9,CLC White,Mixed,Vicky Veness,Vicky Veness,1:16.38,4598,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
-10,legx,CLC Black,Mixed,Alice Johnston,Alice Johnston,1:17.29,4649,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
-10,legx,CLC Green,Mixed,Liza Barry,Liza Barry,1:20.09,4809,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
-10,legx,CLC White,Mixed,David James,David James,1:32.17,5537,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
-1,leg1,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,1:28.15,5295,12,Chipping Campden,Stanway House,27/06/2015,20150627
-1,leg1,CLC White,Mixed,Rachael Cary,Rachael Cary,1:31.01,5461,12,Chipping Campden,Stanway House,27/06/2015,20150627
-1,leg1,CLC Black,Mixed,Dawn Adinall,Dawn Adinall,2:02.00,7320,12,Chipping Campden,Stanway House,27/06/2015,20150627
-2,leg2,CLC White,Mixed,Rachel Vines,Rachel Vines,1:43.48,6228,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
-2,leg2,CLC Green,Mixed,Amanda Steer,Amanda Steer,1:50.57,6657,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
-2,leg2,CLC Black,Mixed,Nikki Smith,Nikki Smith,2:09.17,7757,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
-3,leg3,CLC Green,Mixed,Andy Jones,Andy Jones,58.40,3520,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
-3,leg3,CLC White,Mixed,David Smeath,David Smeath,1:10.01,4201,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
-3,leg3,CLC Black,Mixed,Bradley Coates,Bradley Coates,1:16.53,4613,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
-4,leg4,CLC White,Mixed,Chris Hale,Chris Hale,1:32.38,5558,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
-4,leg4,CLC Black,Mixed,Raj Mahapatra,Raj Mahapatra,1:44.59,6299,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
-4,leg4,CLC Green,Mixed,Adam Cary,Adam Cary,1:55.29,6929,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
-5,leg5,CLC White,Mixed,Chris Driskell,Chris Driskell,1:23.55,5035,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
-5,leg5,CLC Green,Mixed,Alice Johnston,Alice Johnston,1:32.56,5576,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
-5,leg5,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,1:42.26,6146,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
-6,leg6,CLC White,Mixed,Liza Barry,Liza Barry,1:09.36,4176,8.8,Dudbridge,Dursley,27/06/2015,20150627
-6,leg6,CLC Green,Mixed,David Billingham,David Billingham,1:17.23,4643,8.8,Dudbridge,Dursley,27/06/2015,20150627
-6,leg6,CLC Black,Mixed,Helen Roberts,Helen Roberts,1:19.44,4784,8.8,Dudbridge,Dursley,27/06/2015,20150627
-7,leg7,CLC White,Mixed,Billy Bradshaw,Billy Bradshaw,58.18,3498,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
-7,leg7,CLC Green,Mixed,Katie Truslove,Katie Truslove,59.14,3554,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
-7,leg7,CLC Black,Mixed,David James,David James,1:14.20,4460,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
-8,leg8,CLC White,Mixed,Jon Howes,Jon Howes,1:37.23,5843,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
-8,leg8,CLC Black,Mixed,Helen Howes,Helen Howes,2:04.11,7451,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
-8,leg8,CLC Green,Mixed,Andrew Paterson,Andrew Paterson,2:06.32,7592,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
-9,leg9,CLC White,Mixed,Nick Barry,Nick Barry,1:10.33,4233,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
-9,leg9,CLC Green,Mixed,Rob Bircher,Rob Bircher,1:17.18,4638,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
-9,leg9,CLC Black,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,1:30.50,5450,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
-10,legx,CLC White,Mixed,JJ Willson,JJ Willson,1:23.25,5005,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
-10,legx,CLC Black,Mixed,Zoe Gough,Zoe Gough,1:24.37,5077,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
-10,legx,CLC Green,Mixed,Rachel Burdick,Rachel Burdick,1:24.39,5079,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
-1,leg1,CLC Green,Mixed,Will Pearce,Will Pearce,1:30.22,5422,12,Chipping Campden,Stanway House,25/06/2016,20160625
-1,leg1,CLC White,Ladies,Rachel Vines,Rachel Vines,1:41.45,6105,12,Chipping Campden,Stanway House,25/06/2016,20160625
-1,leg1,CLC Black,Veterans,Philip Abbey,Philip Abbey,1:54.43,6883,12,Chipping Campden,Stanway House,25/06/2016,20160625
-2,leg2,CLC Black,Veterans,Jon Howes,Jon Howes,1:34.39,5679,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
-2,leg2,CLC White,Ladies,Helen Hucker,Helen Hucker,1:49.53,6593,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
-2,leg2,CLC Green,Mixed,Jo Thomson,Jo Thomson,2:12.00,7920,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
-3,leg3,CLC Black,Veterans,Billy Bradshaw,Billy Bradshaw,1:09.20,4160,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
-3,leg3,CLC White,Ladies,Zoe Gough,Zoe Gough,1:16.24,4584,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
-3,leg3,CLC Green,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,1:22.08,4928,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
-4,leg4,CLC Black,Veterans,Richard Shardlow,Richard Shardlow,1:40.06,6006,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
-4,leg4,CLC White,Ladies,Alice Johnston,Alice Johnston,1:48.27,6507,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
-4,leg4,CLC Green,Mixed,Caroline Barnes,Caroline Barnes,2:12.00,7920,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
-5,leg5,CLC White,Ladies,Liza Barry,Liza Barry,1:27.22,5242,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
-5,leg5,CLC Black,Veterans,Rob Bircher,Rob Bircher,1:34.18,5658,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
-5,leg5,CLC Green,Mixed,Emma Abbey,Emma Abbey,1:47.26,6446,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
-6,leg6,CLC White,Ladies,Amelia Mullins,Amelia Mullins,1:18.17,4697,8.8,Dudbridge,Dursley,25/06/2016,20160625
-6,leg6,CLC Black,Veterans,Andrew Paterson,Andrew Paterson,1:18.26,4706,8.8,Dudbridge,Dursley,25/06/2016,20160625
-6,leg6,CLC Green,Mixed,Daniel Farrelly,Daniel Farrelly,1:26.26,5186,8.8,Dudbridge,Dursley,25/06/2016,20160625
-7,leg7,CLC Black,Veterans,David Billingham,David Billingham,1:00.22,3622,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
-7,leg7,CLC White,Ladies,Rachael Cary,Rachael Cary,1:01.03,3663,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
-7,leg7,CLC Green,Mixed,Adam Cary,Adam Cary,1:09.55,4195,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
-8,leg8,CLC Black,Veterans,Charles Goodwin,Charles Goodwin,1:30.24,5424,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
-8,leg8,CLC White,Ladies,Laura Gush,Laura Gush,1:53.17,6797,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
-8,leg8,CLC Green,Mixed,Tom Vickers,Tom Vickers,2:12.00,7920,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
-9,leg9,CLC Green,Mixed,Nick Barry,Nick Barry,1:04.35,3875,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
-9,leg9,CLC White,Ladies,Katie Truslove,Katie Truslove,1:12.21,4341,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
-9,leg9,CLC Black,Veterans,Paul Northup,Paul Northup,1:15.25,4525,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
-10,legx,CLC Black,Veterans,David Smeath,David Smeath,1:15.21,4521,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
-10,legx,CLC White,Ladies,Karlien Heyrman,Karlien Heyrman,1:15.23,4523,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
-10,legx,CLC Green,Mixed,Joel Freeland,Joel Freeland,1:21.04,4864,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
-1,leg1,CLC Cheetahs,Mixed,Jon Howes,Jon Howes,1:29.52,5392,12,Chipping Campden,Stanway House,24/06/2017,20170624
-1,leg1,CLC Gazelles,Ladies,Karlien Heyrman,Karlien Heyrman,1:33.59,5639,12,Chipping Campden,Stanway House,24/06/2017,20170624
-1,leg1,CLC Eagles,Mixed,Nikki Smith,Nikki Smith,1:58.55,7135,12,Chipping Campden,Stanway House,24/06/2017,20170624
-2,leg2,CLC Cheetahs,Mixed,Billy Bradshaw,Billy Bradshaw,1:45.03,6303,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
-2,leg2,CLC Gazelles,Ladies,Rachel Vines,Rachel Vines,1:47.31,6451,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
-2,leg2,CLC Eagles,Mixed,Dawn Adinall,Dawn Adinall,2:12.00,7920,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
-3,leg3,CLC Eagles,Mixed,Si Thomson,Si Thomson,1:12.02,4322,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
-3,leg3,CLC Gazelles,Ladies,Emma Abbey,Emma Abbey,1:21.12,4872,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
-3,leg3,CLC Cheetahs,Mixed,Jo Thomson,Jo Thomson,1:29.04,5344,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
-4,leg4,CLC Eagles,Mixed,Andrew Paterson,Andrew Paterson,1:48.23,6503,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
-4,leg4,CLC Cheetahs,Mixed,Rob Bircher,Rob Bircher,1:49.49,6589,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
-4,leg4,CLC Gazelles,Ladies,Paricia Sturgess,Paricia Sturgess,1:50.52,6652,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
-5,leg5,CLC Eagles,Mixed,Nick Barry,Nick Barry,1:15.39,4539,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
-5,leg5,CLC Gazelles,Ladies,Amanda Steer,Amanda Steer,1:41.03,6063,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
-5,leg5,CLC Cheetahs,Mixed,Jill Hooper,Jill Hooper,2:03.46,7426,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
-6,leg6,CLC Cheetahs,Mixed,Charles Goodwin,Charles Goodwin,1:09.17,4157,8.8,Dudbridge,Dursley,24/06/2017,20170624
-6,leg6,CLC Gazelles,Ladies,Sophie Longmore,Sophie Longmore,1:19.15,4755,8.8,Dudbridge,Dursley,24/06/2017,20170624
-6,leg6,CLC Eagles,Mixed,David Street,David Street,1:39.51,5991,8.8,Dudbridge,Dursley,24/06/2017,20170624
-7,leg7,CLC Gazelles,Ladies,Amelia Mullins,Amelia Mullins,1:04.37,3877,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
-7,leg7,CLC Cheetahs,Mixed,Kyle Sollars,Kyle Sollars,1:15.35,4535,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
-7,leg7,CLC Eagles,Mixed,Carla Quiringetthi,Carla Quiringetthi,1:20.23,4823,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
-8,leg8,CLC Cheetahs,Mixed,Chris Driskell,Chris Driskell,1:30.07,5407,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
-8,leg8,CLC Gazelles,Ladies,Helen Hucker,Helen Hucker,1:42.37,6157,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
-8,leg8,CLC Eagles,Mixed,Philip Abbey,Philip Abbey,2:01.03,7263,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
-9,leg9,CLC Gazelles,Ladies,Liza Barry,Liza Barry,1:16.13,4573,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
-9,leg9,CLC Cheetahs,Mixed,Adam Cary,Adam Cary,1:20.23,4823,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
-9,leg9,CLC Eagles,Mixed,Mike Speke,Mike Speke,1:41.25,6085,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
-10,legx,CLC Eagles,Mixed,Alex Monro,Alex Monro,1:13.51,4431,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
-10,legx,CLC Cheetahs,Mixed,Hannah Munro,Hannah Munro,1:31.33,5493,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
-10,legx,CLC Gazelles,Ladies,Charlie Haward,Charlie Haward,1:38.09,5889,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
-1,leg1,CLC Black,Senior Men,Nick Barry,Nick Barry,1:16.56,4616,12,Chipping Campden,Stanway House,30/06/2018,20180630
-1,leg1,CLC Green,Mixed,Eoin McQuone,Eoin McQuone,1:37.24,5844,12,Chipping Campden,Stanway House,30/06/2018,20180630
-1,leg1,CLC White,Ladies,Liza Barry,Liza Barry,1:38.24,5904,12,Chipping Campden,Stanway House,30/06/2018,20180630
-2,leg2,CLC Black,Senior Men,Thomas Fletcher,Thomas Fletcher,1:36.04,5764,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
-2,leg2,CLC White,Ladies,Amanda Steer,Amanda Steer,1:53.40,6820,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
-2,leg2,CLC Green,Mixed,Dawn Adinall,Dawn Adinall,2:22.00,8520,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
-3,leg3,CLC Black,Senior Men,Adam Cary,Adam Cary,1:20.27,4827,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
-3,leg3,CLC Green,Mixed,Hannah Munro,Hannah Munro,1:29.50,5390,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
-3,leg3,CLC White,Ladies,Rebecca Reynolds,Rebecca Reynolds,1:32.45,5565,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
-4,leg4,CLC White,Ladies,Karlien Heyrman,Karlien Heyrman,1:44.42,6282,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
-4,leg4,CLC Black,Senior Men,Billy Bradshaw,Billy Bradshaw,1:48.39,6519,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
-4,leg4,CLC Green,Mixed,Cerys Jones,Cerys Jones,2:09.52,7792,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
-5,leg5,CLC Black,Senior Men,Iain Porter,Iain Porter,1:28.08,5288,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
-5,leg5,CLC Green,Mixed,Hedley Phillips,Hedley Phillips,2:00.19,7219,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
-5,leg5,CLC White,Ladies,Nikki Smith,Nikki Smith,2:00.35,7235,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
-6,leg6,CLC Black,Senior Men,Rob Bircher,Rob Bircher,1:25.06,5106,8.8,Dudbridge,Dursley,30/06/2018,20180630
-6,leg6,CLC Green,Mixed,Ed Thompson,Ed Thompson,1:33.50,5630,8.8,Dudbridge,Dursley,30/06/2018,20180630
-6,leg6,CLC White,Ladies,Nicola Weager,Nicola Weager,1:34.18,5658,8.8,Dudbridge,Dursley,30/06/2018,20180630
-7,leg7,CLC Black,Senior Men,Will Pearce,Will Pearce,57.29,3449,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
-7,leg7,CLC Green,Mixed,Ed Collier,Ed Collier,1:07.44,4064,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
-7,leg7,CLC White,Ladies,Helen Howes,Helen Howes,1:14.36,4476,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
-8,leg8,CLC White,Ladies,Rachael Cary,Rachael Cary,1:56.50,7010,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
-8,leg8,CLC Black,Senior Men,Andrew Paterson,Andrew Paterson,2:07.09,7629,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
-8,leg8,CLC Green,Mixed,Gavin Jerman,Gavin Jerman,2:07.31,7651,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
-9,leg9,CLC White,Ladies,Amelia Mullins,Amelia Mullins,1:28.43,5323,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
-9,leg9,CLC Green,Mixed,Natalie Burfitt,Natalie Burfitt,1:31.10,5470,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
-9,leg9,CLC Black,Senior Men,Philip Abbey,Philip Abbey,1:39.02,5942,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
-10,legx,CLC Black,Senior Men,Jon Howes,Jon Howes,1:15.07,4507,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
-10,legx,CLC Green,Mixed,Miriam Davies,Miriam Davies,1:32.39,5559,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
-10,legx,CLC White,Ladies,Emma Abbey,Emma Abbey,1:39.22,5962,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
-1,leg1,CLC Striders Black,Women,Amanda Steer,Amanda Steer,1:44.52,6292,12,Chipping Campden,Stanway House,29/06/2019,20190629
-1,leg1,CLC Striders Green,Veterans,Tim Brook,Tim Brook,1:55.45,6945,12,Chipping Campden,Stanway House,29/06/2019,20190629
-1,leg1,CLC Striders White,Mixed,Chris Thomas,Chris Thomas,2:16.15,8175,12,Chipping Campden,Stanway House,29/06/2019,20190629
-2,leg2,CLC Striders White,Mixed,Tom Kabala,Tom Kabala,1:28.40,5320,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
-2,leg2,CLC Striders Green,Veterans,Richard Shardlow,Richard Shardlow,1:45.33,6333,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
-2,leg2,CLC Striders Black,Women,Karlien Heyrman,Karlien Heyrman,1:47.45,6465,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
-3,leg3,CLC Striders Green,Veterans,Gavin Jerman,Gavin Jerman,1:15.37,4537,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
-3,leg3,CLC Striders Black,Women,Rachel Vines,Rachel Vines,1:16.50,4610,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
-3,leg3,CLC Striders White,Mixed,Natalie Burfitt,Natalie Burfitt,1:23.22,5002,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
-4,leg4,CLC Striders Black,Women,Rachael Cary,Rachael Cary,1:50.37,6637,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
-4,leg4,CLC Striders Green,Veterans,James Babbage,James Babbage,2:05.31,7531,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
-4,leg4,CLC Striders White,Mixed,Nikki Smith,Nikki Smith,2:17.24,8244,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
-5,leg5,CLC Striders White,Mixed,Loius Fievet,Loius Fievet,1:32.55,5575,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
-5,leg5,CLC Striders Green,Veterans,Jon Howes,Jon Howes,1:33.45,5625,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
-5,leg5,CLC Striders Black,Women,Laura Fletcher,Laura Fletcher,2:09.24,7764,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
-6,leg6,CLC Striders Green,Veterans,Eoin McQuone,Eoin McQuone,1:27.02,5222,8.8,Dudbridge,Dursley,29/06/2019,20190629
-6,leg6,CLC Striders Black,Women,Helen Howes,Helen Howes,1:33.40,5620,8.8,Dudbridge,Dursley,29/06/2019,20190629
-6,leg6,CLC Striders White,Mixed,Cerys Jones,Cerys Jones,1:51.07,6667,8.8,Dudbridge,Dursley,29/06/2019,20190629
-7,leg7,CLC Striders White,Mixed,Si Thomson,Si Thomson,1:17.12,4632,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
-7,leg7,CLC Striders Green,Veterans,Ed Thompson,Ed Thompson,1:21.51,4911,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
-7,leg7,CLC Striders Black,Women,Emma Abbey,Emma Abbey,1:26.36,5196,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
-8,leg8,CLC Striders Green,Veterans,Billy Bradshaw,Billy Bradshaw,1:58.51,7131,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
-8,leg8,CLC Striders Black,Women,👑 Amelia Mullins,Amelia Mullins,2:09.00,7740,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
-8,leg8,CLC Striders White,Mixed,Ed Collier,Ed Collier,2:09.45,7785,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
-9,leg9,CLC Striders Green,Veterans,Rob Bircher,Rob Bircher,1:28.32,5312,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
-9,leg9,CLC Striders White,Mixed,Mike Crossley,Mike Crossley,1:40.29,6029,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
-9,leg9,CLC Striders Black,Women,Nicola Weager,Nicola Weager,2:00.52,7252,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
-10,legx,CLC Striders White,Mixed,Gary Smith,Gary Smith,1:43.51,6231,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
-10,legx,CLC Striders Green,Veterans,Philip Abbey,Philip Abbey,1:47.40,6460,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
-10,legx,CLC Striders Black,Women,Charlie Haward,Charlie Haward,2:03.29,7409,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
-1,leg1,CLC Lightning Bolts,Mixed,Thomas Fletcher,Thomas Fletcher,1:43.23,6203,12,Chipping Campden,Stanway House,03/07/2021,20210703
-1,leg1,CLC Lords,Veterans,James Babbage,James Babbage,1:45.14,6314,12,Chipping Campden,Stanway House,03/07/2021,20210703
-1,leg1,CLC Ladies,Women,Helen Howes,Helen Howes,1:50.29,6629,12,Chipping Campden,Stanway House,03/07/2021,20210703
-2,leg2,CLC Lords,Veterans,Ed Thompson,Ed Thompson,2:01.54,7314,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
-2,leg2,CLC Ladies,Women,Laura Leaver,Laura Leaver,2:18.33,8313,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
-2,leg2,CLC Lightning Bolts,Mixed,- No Runner -,zzz,2:45.00,9900,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
-3,leg3,CLC Lords,Veterans,👑 Jon Howes,Jon Howes,1:09.25,4165,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
-3,leg3,CLC Ladies,Women,Laura Daubney,Laura Daubney,1:20.02,4802,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
-3,leg3,CLC Lightning Bolts,Mixed,Mike Crossley,Mike Crossley,1:22.02,4922,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
-4,leg4,CLC Lords,Veterans,Nigel Bailey,Nigel Bailey,1:56.23,6983,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
-4,leg4,CLC Lightning Bolts,Mixed,Rob Bircher,Rob Bircher,2:04.15,7455,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
-4,leg4,CLC Ladies,Women,Rachel Vines,Rachel Vines,2:06.08,7568,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
-5,leg5,CLC Ladies,Women,👑 Amelia Mullins,Amelia Mullins,1:43.55,6235,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
-5,leg5,CLC Lords,Veterans,Gavin Jerman,Gavin Jerman,1:49.38,6578,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
-5,leg5,CLC Lightning Bolts,Mixed,Philip Abbey,Philip Abbey,1:58.38,7118,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
-6,leg6,CLC Lords,Veterans,Ed Collier,Ed Collier,1:31.28,5488,8.8,Dudbridge,Dursley,03/07/2021,20210703
-6,leg6,CLC Lightning Bolts,Mixed,Nikki Smith,Nikki Smith,1:37.48,5868,8.8,Dudbridge,Dursley,03/07/2021,20210703
-6,leg6,CLC Ladies,Women,Emma Abbey,Emma Abbey,1:42.08,6128,8.8,Dudbridge,Dursley,03/07/2021,20210703
-7,leg7,CLC Ladies,Women,Liza Bradshaw,Liza Bradshaw,1:00.59,3659,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
-7,leg7,CLC Lords,Veterans,Eoin McQuone,Eoin McQuone,1:04.27,3867,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
-7,leg7,CLC Lightning Bolts,Mixed,Natalie Burfitt,Natalie Burfitt,1:15.43,4543,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
-8,leg8,CLC Lightning Bolts,Mixed,Tom Kabala,Tom Kabala,1:45.11,6311,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
-8,leg8,CLC Lords,Veterans,JJ Willson,JJ Willson,1:52.06,6726,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
-8,leg8,CLC Ladies,Women,Fiona Brady-Miller,Fiona Brady-Miller,1:56.02,6962,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
-9,leg9,CLC Lords,Veterans,Paul Lockyer,Paul Lockyer,1:13.34,4414,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
-9,leg9,CLC Ladies,Women,Rachael Cary,Rachael Cary,1:18.53,4733,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
-9,leg9,CLC Lightning Bolts,Mixed,David Orme,David Orme,1:28.31,5311,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
-10,legx,CLC Ladies,Women,Helen Knight,Helen Knight,1:12.09,4329,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
-10,legx,CLC Lords,Veterans,👑 Billy Bradshaw,Billy Bradshaw,1:21.48,4908,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
-10,legx,CLC Lightning Bolts,Mixed,Sophie Longmore,Sophie Longmore,1:49.15,6555,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
-1,leg1,CLC Black,Mixed,Jamie Hartnoll,Jamie Hartnoll,,,12,Chipping Campden,Stanway House,02/07/2022,20220702
-1,leg1,CLC Green,Veterans,Gavin Jerman,Gavin Jerman,,,12,Chipping Campden,Stanway House,02/07/2022,20220702
-1,leg1,CLC White,Mixed,Billy Bradshaw,Billy Bradshaw,,,12,Chipping Campden,Stanway House,02/07/2022,20220702
-2,leg2,CLC Black,Mixed,Will Pearce,Will Pearce,,,11.9,Stanway House,Cleeve Common,02/07/2022,20220702
-2,leg2,CLC Green,Veterans,Eoin McQuone,Eoin McQuone,,,11.9,Stanway House,Cleeve Common,02/07/2022,20220702
-2,leg2,CLC White,Mixed,Fiona Brady-Miller,Fiona Brady-Miller,,,11.9,Stanway House,Cleeve Common,02/07/2022,20220702
-3,leg3,CLC Black,Mixed,Rachael Cary,Rachael Cary,,,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
-3,leg3,CLC Green,Veterans,Philip Abbey,Philip Abbey,,,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
-3,leg3,CLC White,Mixed,Sam Howe,Sam Howe,,,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
-4,leg4,CLC Black,Mixed,Liza Bradshaw,Liza Bradshaw,,,12.8,Seven Springs,Cranham Corner,02/07/2022,20220702
-4,leg4,CLC Green,Veterans,Nigel Bailey,Nigel Bailey,,,12.8,Seven Springs,Cranham Corner,02/07/2022,20220702
-4,leg4,CLC White,Mixed,👑 Amelia Mullins,👑 Amelia Mullins,,,12.8,Seven Springs,Cranham Corner,02/07/2022,20220702
-5,leg5,CLC Black,Mixed,Paul Northup,Paul Northup,,,11.8,Cranham Corner,Ebley Mill,02/07/2022,20220702
-5,leg5,CLC Green,Veterans,Ed Thompson,Ed Thompson,,,11.8,Cranham Corner,Ebley Mill,02/07/2022,20220702
-5,leg5,CLC White,Mixed,Helen Howes,Helen Howes,,,11.8,Cranham Corner,Ebley Mill,02/07/2022,20220702
-6,leg6,CLC Black,Mixed,Kate Telford,Kate Telford,,,8.8,Dudbridge,Dursley,02/07/2022,20220702
-6,leg6,CLC Green,Veterans,Rob Bircher,Rob Bircher,,,8.8,Dudbridge,Dursley,02/07/2022,20220702
-6,leg6,CLC White,Mixed,Sheng Peng,Sheng Peng,,,8.8,Dudbridge,Dursley,02/07/2022,20220702
-7,leg7,CLC Black,Mixed,Ryan O'Donnell,Ryan O'Donnell,,,7.3,Dursley,Wotton U Edge,02/07/2022,20220702
-7,leg7,CLC Green,Veterans,Mike Crossley,Mike Crossley,,,7.3,Dursley,Wotton U Edge,02/07/2022,20220702
-7,leg7,CLC White,Mixed,- No Runner -,- No Runner -,,,7.3,Dursley,Wotton U Edge,02/07/2022,20220702
-8,leg8,CLC Black,Mixed,Emma Abbey,Emma Abbey,,,12.1,Wotton U Edge,Old Sodbury,02/07/2022,20220702
-8,leg8,CLC Green,Veterans,Ed Collier,Ed Collier,,,12.1,Wotton U Edge,Old Sodbury,02/07/2022,20220702
-8,leg8,CLC White,Mixed,- No Runner -,- No Runner -,,,12.1,Wotton U Edge,Old Sodbury,02/07/2022,20220702
-9,leg9,CLC Black,Mixed,Helen Knight,Helen Knight,,,9.3,Old Sodbury,Cold Ashton,02/07/2022,20220702
-9,leg9,CLC Green,Veterans,James Babbage,James Babbage,,,9.3,Old Sodbury,Cold Ashton,02/07/2022,20220702
-9,leg9,CLC White,Mixed,Nikki Smith,Nikki Smith,,,9.3,Old Sodbury,Cold Ashton,02/07/2022,20220702
-10,legx,CLC Black,Mixed,Laura Rose,Laura Rose,,,8.9,Cold Ashton (new route),Bath Victoria Park,02/07/2022,20220702
-10,legx,CLC Green,Veterans,John Comer,John Comer,,,8.9,Cold Ashton (new route),Bath Victoria Park,02/07/2022,20220702
-10,legx,CLC White,Mixed,- No Runner -,- No Runner -,,,8.9,Cold Ashton (new route),Bath Victoria Park,02/07/2022,20220702
+1,leg1,CLC Green,Mixed,David Smeath,David Smeath,01:29:01,5341,12,Chipping Campden,Stanway House,25/06/2011,20110625
+1,leg1,CLC Black,Mixed,Dawn Adinall,Dawn Adinall,02:02:00,7320,12,Chipping Campden,Stanway House,25/06/2011,20110625
+2,leg2,CLC Green,Mixed,Jo Wilkie,Jo Wilkie,01:54:26,6866,11.5,Stanway House,Cleeve Common,25/06/2011,20110625
+2,leg2,CLC Black,Mixed,Jill Harsent,Jill Harsent,02:12:00,7920,11.5,Stanway House,Cleeve Common,25/06/2011,20110625
+3,leg3,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,01:05:30,3930,8.2,Cleeve Common,Seven Springs,25/06/2011,20110625
+3,leg3,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,01:19:34,4774,8.2,Cleeve Common,Seven Springs,25/06/2011,20110625
+4,leg4,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,01:34:20,5660,12.7,Seven Springs,Cranham Corner,25/06/2011,20110625
+4,leg4,CLC Black,Mixed,Jon Howes,Jon Howes,01:43:08,6188,12.7,Seven Springs,Cranham Corner,25/06/2011,20110625
+5,leg5,CLC Black,Mixed,Ben Kerry,Ben Kerry,01:48:49,6529,11.7,Cranham Corner,Ebley Mill,25/06/2011,20110625
+5,leg5,CLC Green,Mixed,Simon Dee,Simon Dee,01:51:30,6690,11.7,Cranham Corner,Ebley Mill,25/06/2011,20110625
+6,leg6,CLC Green,Mixed,Chris Driskell,Chris Driskell,01:06:14,3974,8.8,Dudbridge,Dursley,25/06/2011,20110625
+6,leg6,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,01:22:02,4922,8.8,Dudbridge,Dursley,25/06/2011,20110625
+7,leg7,CLC Green,Mixed,Nikki Smith,Nikki Smith,01:10:25,4225,7.2,Dursley,Wotton U Edge,25/06/2011,20110625
+7,leg7,CLC Black,Mixed,Nicola Christian,Nicola Christian,01:17:44,4664,7.2,Dursley,Wotton U Edge,25/06/2011,20110625
+8,leg8,CLC Green,Mixed,Liza Barry,Liza Barry,01:33:52,5632,12,Wotton U Edge,Old Sodbury,25/06/2011,20110625
+8,leg8,CLC Black,Mixed,Rachel Vines,Rachel Vines,01:55:22,6922,12,Wotton U Edge,Old Sodbury,25/06/2011,20110625
+9,leg9,CLC Green,Mixed,Billy Bradshaw,Billy Bradshaw,01:11:38,4298,9.2,Old Sodbury,Cold Ashton,25/06/2011,20110625
+9,leg9,CLC Black,Mixed,- No Runner -,zzz,01:57:00,7020,9.2,Old Sodbury,Cold Ashton,25/06/2011,20110625
+10,legx,CLC Green,Mixed,Jess Straw,Jess Straw,01:20:51,4851,9.8,Cold Ashton,Bath Victoria Park,25/06/2011,20110625
+10,legx,CLC Black,Mixed,Carla Quiringetthi,Carla Quiringetthi,01:34:47,5687,9.8,Cold Ashton,Bath Victoria Park,25/06/2011,20110625
+1,leg1,CLC Green,Mixed,Laura Kent,Laura Kent,01:32:34,5554,12,Chipping Campden,Stanway House,30/06/2012,20120630
+1,leg1,CLC Black,Mixed,Billy Bradshaw,Billy Bradshaw,01:39:38,5978,12,Chipping Campden,Stanway House,30/06/2012,20120630
+1,leg1,CLC White,Mixed,Jill Harsent,Jill Harsent,02:02:00,7320,12,Chipping Campden,Stanway House,30/06/2012,20120630
+2,leg2,CLC Green,Mixed,David Smeath,David Smeath,01:34:04,5644,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
+2,leg2,CLC White,Mixed,Wayne Usher,Wayne Usher,01:37:12,5832,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
+2,leg2,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,02:07:21,7641,11.5,Stanway House,Cleeve Common,30/06/2012,20120630
+3,leg3,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,01:07:34,4054,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
+3,leg3,CLC Black,Mixed,Nikki Smith,Nikki Smith,01:25:06,5106,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
+3,leg3,CLC White,Mixed,Becky Boulton,Becky Boulton,01:29:12,5352,8.2,Cleeve Common,Seven Springs,30/06/2012,20120630
+4,leg4,CLC Green,Mixed,Chris Driskell,Chris Driskell,01:28:57,5337,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
+4,leg4,CLC Black,Mixed,Richard Shardlow,Richard Shardlow,01:43:56,6236,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
+4,leg4,CLC White,Mixed,Ben Anderson,Ben Anderson,01:50:31,6631,12.7,Seven Springs,Cranham Corner,30/06/2012,20120630
+5,leg5,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,01:27:48,5268,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
+5,leg5,CLC Black,Mixed,Jeremy Wilde,Jeremy Wilde,01:39:33,5973,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
+5,leg5,CLC White,Mixed,- No Runner -,zzz,02:19:00,8340,11.7,Cranham Corner,Ebley Mill,30/06/2012,20120630
+6,leg6,CLC Green,Mixed,Jon Howes,Jon Howes,01:15:32,4532,8.8,Dudbridge,Dursley,30/06/2012,20120630
+6,leg6,CLC Black,Mixed,Ruth Blakeborough,Ruth Blakeborough,01:50:23,6623,8.8,Dudbridge,Dursley,30/06/2012,20120630
+6,leg6,CLC White,Mixed,- No Runner -,zzz,02:14:00,8040,8.8,Dudbridge,Dursley,30/06/2012,20120630
+7,leg7,CLC Green,Mixed,Joel Freeland,Joel Freeland,01:01:48,3708,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
+7,leg7,CLC Black,Mixed,Eddie Macklin,Eddie Macklin,01:04:57,3897,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
+7,leg7,CLC White,Mixed,Duncan Kay,Duncan Kay,01:22:04,4924,7.2,Dursley,Wotton U Edge,30/06/2012,20120630
+8,leg8,CLC Green,Mixed,Liza Barry,Liza Barry,01:36:05,5765,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
+8,leg8,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,01:48:39,6519,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
+8,leg8,CLC White,Mixed,Sian Holley,Sian Holley,01:57:28,7048,12,Wotton U Edge,Old Sodbury,30/06/2012,20120630
+9,leg9,CLC Green,Mixed,Adam Cary,Adam Cary,01:15:39,4539,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
+9,leg9,CLC White,Mixed,Elena Von Benzon,Elena Von Benzon,01:25:00,5100,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
+9,leg9,CLC Black,Mixed,Nicola Christian,Nicola Christian,01:34:22,5662,9.2,Old Sodbury,Cold Ashton,30/06/2012,20120630
+10,legx,CLC Green,Mixed,Rachael Elkins,Rachael Elkins,01:17:56,4676,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
+10,legx,CLC White,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,01:24:57,5097,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
+10,legx,CLC Black,Mixed,Helen Howes,Helen Howes,01:31:52,5512,9.8,Cold Ashton,Bath Victoria Park,30/06/2012,20120630
+1,leg1,CLC Green,Mixed,Glynn Bagnall,Glynn Bagnall,01:34:09,5649,12,Chipping Campden,Stanway House,29/06/2013,20130629
+1,leg1,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,01:49:37,6577,12,Chipping Campden,Stanway House,29/06/2013,20130629
+1,leg1,CLC White,Mixed,Dawn Adinall,Dawn Adinall,02:02:00,7320,12,Chipping Campden,Stanway House,29/06/2013,20130629
+2,leg2,CLC Green,Mixed,Liza Barry,Liza Barry,01:39:28,5968,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
+2,leg2,CLC White,Mixed,Guy Sabey,Guy Sabey,01:48:50,6530,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
+2,leg2,CLC Black,Mixed,Jeremy Wilde,Jeremy Wilde,01:56:53,7013,11.5,Stanway House,Cleeve Common,29/06/2013,20130629
+3,leg3,CLC Green,Mixed,Alice Johnston,Alice Johnston,01:10:06,4206,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
+3,leg3,CLC Black,Mixed,Nicola Christian,Nicola Christian,01:23:08,4988,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
+3,leg3,CLC White,Mixed,Becky Boulton,Becky Boulton,01:32:31,5551,8.2,Cleeve Common,Seven Springs,29/06/2013,20130629
+4,leg4,CLC Green,Mixed,Amanda Steer,Amanda Steer,01:51:26,6686,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
+4,leg4,CLC Black,Mixed,Rachel Beecham,Rachel Beecham,01:54:50,6890,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
+4,leg4,CLC White,Mixed,Rachel Marlow,Rachel Marlow,02:12:00,7920,12.7,Seven Springs,Cranham Corner,29/06/2013,20130629
+5,leg5,CLC White,Mixed,Ben Pedley,Ben Pedley,01:25:06,5106,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
+5,leg5,CLC Green,Mixed,Billy Bradshaw,Billy Bradshaw,01:29:54,5394,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
+5,leg5,CLC Black,Mixed,Natalie Greening,Natalie Greening,01:57:21,7041,11.7,Cranham Corner,Ebley Mill,29/06/2013,20130629
+6,leg6,CLC Green,Mixed,David Billingham,David Billingham,01:17:30,4650,8.8,Dudbridge,Dursley,29/06/2013,20130629
+6,leg6,CLC White,Mixed,Ross Greening,Ross Greening,01:21:22,4882,8.8,Dudbridge,Dursley,29/06/2013,20130629
+6,leg6,CLC Black,Mixed,Helen Howes,Helen Howes,01:31:57,5517,8.8,Dudbridge,Dursley,29/06/2013,20130629
+7,leg7,CLC Green,Mixed,Helen Roberts,Helen Roberts,01:04:02,3842,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
+7,leg7,CLC White,Mixed,Rob Bircher,Rob Bircher,01:08:36,4116,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
+7,leg7,CLC Black,Mixed,Rachel Vines,Rachel Vines,01:11:40,4300,7.2,Dursley,Wotton U Edge,29/06/2013,20130629
+8,leg8,CLC Green,Mixed,Chris Driskell,Chris Driskell,01:36:09,5769,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
+8,leg8,CLC Black,Mixed,Naomi Kellet,Naomi Kellet,01:48:58,6538,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
+8,leg8,CLC White,Mixed,Nikki Smith,Nikki Smith,02:04:38,7478,12,Wotton U Edge,Old Sodbury,29/06/2013,20130629
+9,leg9,CLC Green,Mixed,Jon Howes,Jon Howes,01:11:12,4272,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
+9,leg9,CLC Black,Mixed,Andrew Paterson,Andrew Paterson,01:25:01,5101,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
+9,leg9,CLC White,Mixed,David James,David James,01:30:39,5439,9.2,Old Sodbury,Cold Ashton,29/06/2013,20130629
+10,legx,CLC Green,Mixed,JJ Willson,JJ Willson,01:17:20,4640,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
+10,legx,CLC Black,Mixed,Adam Cary,Adam Cary,01:33:09,5589,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
+10,legx,CLC White,Mixed,- No Runner -,zzz,02:02:00,7320,9.8,Cold Ashton,Bath Victoria Park,29/06/2013,20130629
+1,leg1,CLC Black,Mixed,David Smeath,David Smeath,01:35:11,5711,12,Chipping Campden,Stanway House,28/06/2014,20140628
+1,leg1,CLC White,Mixed,Adam Cary,Adam Cary,01:43:40,6220,12,Chipping Campden,Stanway House,28/06/2014,20140628
+1,leg1,CLC Green,Mixed,Dawn Adinall,Dawn Adinall,02:02:00,7320,12,Chipping Campden,Stanway House,28/06/2014,20140628
+2,leg2,CLC White,Mixed,Charles Goodwin,Charles Goodwin,01:33:35,5615,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
+2,leg2,CLC Black,Mixed,Rachael Cary,Rachael Cary,01:42:33,6153,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
+2,leg2,CLC Green,Mixed,Becky Boulton,Becky Boulton,02:12:00,7920,11.5,Stanway House,Cleeve Common,28/06/2014,20140628
+3,leg3,CLC Black,Mixed,Glynn Bagnall,Glynn Bagnall,01:07:44,4064,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
+3,leg3,CLC White,Mixed,Vicky Lewis,Vicky Lewis,01:11:11,4271,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
+3,leg3,CLC Green,Mixed,Helen Howes,Helen Howes,01:28:27,5307,8.2,Cleeve Common,Seven Springs,28/06/2014,20140628
+4,leg4,CLC Black,Mixed,James Oram,James Oram,01:31:12,5472,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
+4,leg4,CLC White,Mixed,Amelia Mullins,Amelia Mullins,01:56:52,7012,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
+4,leg4,CLC Green,Mixed,Nicola Christian,Nicola Christian,02:04:42,7482,12.7,Seven Springs,Cranham Corner,28/06/2014,20140628
+5,leg5,CLC Black,Mixed,David Billingham,David Billingham,01:28:47,5327,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
+5,leg5,CLC White,Mixed,Ross Greening,Ross Greening,01:40:10,6010,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
+5,leg5,CLC Green,Mixed,Nicola Christian,Nicola Christian,02:03:40,7420,11.7,Cranham Corner,Ebley Mill,28/06/2014,20140628
+6,leg6,CLC Black,Mixed,Richard Shardlow,Richard Shardlow,01:11:42,4302,8.8,Dudbridge,Dursley,28/06/2014,20140628
+6,leg6,CLC White,Mixed,Billy Bradshaw,Billy Bradshaw,01:15:18,4518,8.8,Dudbridge,Dursley,28/06/2014,20140628
+6,leg6,CLC Green,Mixed,Ian Bird,Ian Bird,01:28:21,5301,8.8,Dudbridge,Dursley,28/06/2014,20140628
+7,leg7,CLC Black,Mixed,Jon Howes,Jon Howes,00:56:41,3401,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
+7,leg7,CLC White,Mixed,Naomi Kellet,Naomi Kellet,01:07:38,4058,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
+7,leg7,CLC Green,Mixed,Jeremy Wilde,Jeremy Wilde,01:16:42,4602,7.2,Dursley,Wotton U Edge,28/06/2014,20140628
+8,leg8,CLC Green,Mixed,Jon Cooke,Jon Cooke,01:32:01,5521,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
+8,leg8,CLC White,Mixed,Rob Bircher,Rob Bircher,01:42:38,6158,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
+8,leg8,CLC Black,Mixed,Rachel Vines,Rachel Vines,01:52:59,6779,12,Wotton U Edge,Old Sodbury,28/06/2014,20140628
+9,leg9,CLC Green,Mixed,Paul Harsent,Paul Harsent,01:15:10,4510,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
+9,leg9,CLC Black,Mixed,Jamie Paterson,Jamie Paterson,01:15:17,4517,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
+9,leg9,CLC White,Mixed,Vicky Veness,Vicky Veness,01:16:38,4598,9.2,Old Sodbury,Cold Ashton,28/06/2014,20140628
+10,legx,CLC Black,Mixed,Alice Johnston,Alice Johnston,01:17:29,4649,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
+10,legx,CLC Green,Mixed,Liza Barry,Liza Barry,01:20:09,4809,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
+10,legx,CLC White,Mixed,David James,David James,01:32:17,5537,9.8,Cold Ashton,Bath Victoria Park,28/06/2014,20140628
+1,leg1,CLC Green,Mixed,Charles Goodwin,Charles Goodwin,01:28:15,5295,12,Chipping Campden,Stanway House,27/06/2015,20150627
+1,leg1,CLC White,Mixed,Rachael Cary,Rachael Cary,01:31:01,5461,12,Chipping Campden,Stanway House,27/06/2015,20150627
+1,leg1,CLC Black,Mixed,Dawn Adinall,Dawn Adinall,02:02:00,7320,12,Chipping Campden,Stanway House,27/06/2015,20150627
+2,leg2,CLC White,Mixed,Rachel Vines,Rachel Vines,01:43:48,6228,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
+2,leg2,CLC Green,Mixed,Amanda Steer,Amanda Steer,01:50:57,6657,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
+2,leg2,CLC Black,Mixed,Nikki Smith,Nikki Smith,02:09:17,7757,11.5,Stanway House,Cleeve Common,27/06/2015,20150627
+3,leg3,CLC Green,Mixed,Andy Jones,Andy Jones,00:58:40,3520,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
+3,leg3,CLC White,Mixed,David Smeath,David Smeath,01:10:01,4201,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
+3,leg3,CLC Black,Mixed,Bradley Coates,Bradley Coates,01:16:53,4613,8.2,Cleeve Common,Seven Springs,27/06/2015,20150627
+4,leg4,CLC White,Mixed,Chris Hale,Chris Hale,01:32:38,5558,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
+4,leg4,CLC Black,Mixed,Raj Mahapatra,Raj Mahapatra,01:44:59,6299,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
+4,leg4,CLC Green,Mixed,Adam Cary,Adam Cary,01:55:29,6929,12.7,Seven Springs,Cranham Corner,27/06/2015,20150627
+5,leg5,CLC White,Mixed,Chris Driskell,Chris Driskell,01:23:55,5035,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
+5,leg5,CLC Green,Mixed,Alice Johnston,Alice Johnston,01:32:56,5576,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
+5,leg5,CLC Black,Mixed,Amelia Mullins,Amelia Mullins,01:42:26,6146,11.7,Cranham Corner,Ebley Mill,27/06/2015,20150627
+6,leg6,CLC White,Mixed,Liza Barry,Liza Barry,01:09:36,4176,8.8,Dudbridge,Dursley,27/06/2015,20150627
+6,leg6,CLC Green,Mixed,David Billingham,David Billingham,01:17:23,4643,8.8,Dudbridge,Dursley,27/06/2015,20150627
+6,leg6,CLC Black,Mixed,Helen Roberts,Helen Roberts,01:19:44,4784,8.8,Dudbridge,Dursley,27/06/2015,20150627
+7,leg7,CLC White,Mixed,Billy Bradshaw,Billy Bradshaw,00:58:18,3498,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
+7,leg7,CLC Green,Mixed,Katie Truslove,Katie Truslove,00:59:14,3554,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
+7,leg7,CLC Black,Mixed,David James,David James,01:14:20,4460,7.2,Dursley,Wotton U Edge,27/06/2015,20150627
+8,leg8,CLC White,Mixed,Jon Howes,Jon Howes,01:37:23,5843,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
+8,leg8,CLC Black,Mixed,Helen Howes,Helen Howes,02:04:11,7451,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
+8,leg8,CLC Green,Mixed,Andrew Paterson,Andrew Paterson,02:06:32,7592,12,Wotton U Edge,Old Sodbury,27/06/2015,20150627
+9,leg9,CLC White,Mixed,Nick Barry,Nick Barry,01:10:33,4233,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
+9,leg9,CLC Green,Mixed,Rob Bircher,Rob Bircher,01:17:18,4638,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
+9,leg9,CLC Black,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,01:30:50,5450,9.2,Old Sodbury,Cold Ashton,27/06/2015,20150627
+10,legx,CLC White,Mixed,JJ Willson,JJ Willson,01:23:25,5005,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
+10,legx,CLC Black,Mixed,Zoe Gough,Zoe Gough,01:24:37,5077,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
+10,legx,CLC Green,Mixed,Rachel Burdick,Rachel Burdick,01:24:39,5079,9.8,Cold Ashton,Bath Victoria Park,27/06/2015,20150627
+1,leg1,CLC Green,Mixed,Will Pearce,Will Pearce,01:30:22,5422,12,Chipping Campden,Stanway House,25/06/2016,20160625
+1,leg1,CLC White,Ladies,Rachel Vines,Rachel Vines,01:41:45,6105,12,Chipping Campden,Stanway House,25/06/2016,20160625
+1,leg1,CLC Black,Veterans,Philip Abbey,Philip Abbey,01:54:43,6883,12,Chipping Campden,Stanway House,25/06/2016,20160625
+2,leg2,CLC Black,Veterans,Jon Howes,Jon Howes,01:34:39,5679,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
+2,leg2,CLC White,Ladies,Helen Hucker,Helen Hucker,01:49:53,6593,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
+2,leg2,CLC Green,Mixed,Jo Thomson,Jo Thomson,02:12:00,7920,11.5,Stanway House,Cleeve Common,25/06/2016,20160625
+3,leg3,CLC Black,Veterans,Billy Bradshaw,Billy Bradshaw,01:09:20,4160,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
+3,leg3,CLC White,Ladies,Zoe Gough,Zoe Gough,01:16:24,4584,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
+3,leg3,CLC Green,Mixed,Nicholas Von Benzon,Nicholas Von Benzon,01:22:08,4928,8.2,Cleeve Common,Seven Springs,25/06/2016,20160625
+4,leg4,CLC Black,Veterans,Richard Shardlow,Richard Shardlow,01:40:06,6006,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
+4,leg4,CLC White,Ladies,Alice Johnston,Alice Johnston,01:48:27,6507,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
+4,leg4,CLC Green,Mixed,Caroline Barnes,Caroline Barnes,02:12:00,7920,12.7,Seven Springs,Cranham Corner,25/06/2016,20160625
+5,leg5,CLC White,Ladies,Liza Barry,Liza Barry,01:27:22,5242,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
+5,leg5,CLC Black,Veterans,Rob Bircher,Rob Bircher,01:34:18,5658,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
+5,leg5,CLC Green,Mixed,Emma Abbey,Emma Abbey,01:47:26,6446,11.7,Cranham Corner,Ebley Mill,25/06/2016,20160625
+6,leg6,CLC White,Ladies,Amelia Mullins,Amelia Mullins,01:18:17,4697,8.8,Dudbridge,Dursley,25/06/2016,20160625
+6,leg6,CLC Black,Veterans,Andrew Paterson,Andrew Paterson,01:18:26,4706,8.8,Dudbridge,Dursley,25/06/2016,20160625
+6,leg6,CLC Green,Mixed,Daniel Farrelly,Daniel Farrelly,01:26:26,5186,8.8,Dudbridge,Dursley,25/06/2016,20160625
+7,leg7,CLC Black,Veterans,David Billingham,David Billingham,01:00:22,3622,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
+7,leg7,CLC White,Ladies,Rachael Cary,Rachael Cary,01:01:03,3663,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
+7,leg7,CLC Green,Mixed,Adam Cary,Adam Cary,01:09:55,4195,7.2,Dursley,Wotton U Edge,25/06/2016,20160625
+8,leg8,CLC Black,Veterans,Charles Goodwin,Charles Goodwin,01:30:24,5424,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
+8,leg8,CLC White,Ladies,Laura Gush,Laura Gush,01:53:17,6797,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
+8,leg8,CLC Green,Mixed,Tom Vickers,Tom Vickers,02:12:00,7920,12,Wotton U Edge,Old Sodbury,25/06/2016,20160625
+9,leg9,CLC Green,Mixed,Nick Barry,Nick Barry,01:04:35,3875,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
+9,leg9,CLC White,Ladies,Katie Truslove,Katie Truslove,01:12:21,4341,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
+9,leg9,CLC Black,Veterans,Paul Northup,Paul Northup,01:15:25,4525,9.2,Old Sodbury,Cold Ashton,25/06/2016,20160625
+10,legx,CLC Black,Veterans,David Smeath,David Smeath,01:15:21,4521,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
+10,legx,CLC White,Ladies,Karlien Heyrman,Karlien Heyrman,01:15:23,4523,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
+10,legx,CLC Green,Mixed,Joel Freeland,Joel Freeland,01:21:04,4864,9.8,Cold Ashton,Bath Victoria Park,25/06/2016,20160625
+1,leg1,CLC Cheetahs,Mixed,Jon Howes,Jon Howes,01:29:52,5392,12,Chipping Campden,Stanway House,24/06/2017,20170624
+1,leg1,CLC Gazelles,Ladies,Karlien Heyrman,Karlien Heyrman,01:33:59,5639,12,Chipping Campden,Stanway House,24/06/2017,20170624
+1,leg1,CLC Eagles,Mixed,Nikki Smith,Nikki Smith,01:58:55,7135,12,Chipping Campden,Stanway House,24/06/2017,20170624
+2,leg2,CLC Cheetahs,Mixed,Billy Bradshaw,Billy Bradshaw,01:45:03,6303,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
+2,leg2,CLC Gazelles,Ladies,Rachel Vines,Rachel Vines,01:47:31,6451,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
+2,leg2,CLC Eagles,Mixed,Dawn Adinall,Dawn Adinall,02:12:00,7920,11.5,Stanway House,Cleeve Common,24/06/2017,20170624
+3,leg3,CLC Eagles,Mixed,Si Thomson,Si Thomson,01:12:02,4322,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
+3,leg3,CLC Gazelles,Ladies,Emma Abbey,Emma Abbey,01:21:12,4872,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
+3,leg3,CLC Cheetahs,Mixed,Jo Thomson,Jo Thomson,01:29:04,5344,8.2,Cleeve Common,Seven Springs,24/06/2017,20170624
+4,leg4,CLC Eagles,Mixed,Andrew Paterson,Andrew Paterson,01:48:23,6503,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
+4,leg4,CLC Cheetahs,Mixed,Rob Bircher,Rob Bircher,01:49:49,6589,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
+4,leg4,CLC Gazelles,Ladies,Paricia Sturgess,Paricia Sturgess,01:50:52,6652,12.7,Seven Springs,Cranham Corner,24/06/2017,20170624
+5,leg5,CLC Eagles,Mixed,Nick Barry,Nick Barry,01:15:39,4539,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
+5,leg5,CLC Gazelles,Ladies,Amanda Steer,Amanda Steer,01:41:03,6063,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
+5,leg5,CLC Cheetahs,Mixed,Jill Hooper,Jill Hooper,02:03:46,7426,11.7,Cranham Corner,Ebley Mill,24/06/2017,20170624
+6,leg6,CLC Cheetahs,Mixed,Charles Goodwin,Charles Goodwin,01:09:17,4157,8.8,Dudbridge,Dursley,24/06/2017,20170624
+6,leg6,CLC Gazelles,Ladies,Sophie Longmore,Sophie Longmore,01:19:15,4755,8.8,Dudbridge,Dursley,24/06/2017,20170624
+6,leg6,CLC Eagles,Mixed,David Street,David Street,01:39:51,5991,8.8,Dudbridge,Dursley,24/06/2017,20170624
+7,leg7,CLC Gazelles,Ladies,Amelia Mullins,Amelia Mullins,01:04:37,3877,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
+7,leg7,CLC Cheetahs,Mixed,Kyle Sollars,Kyle Sollars,01:15:35,4535,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
+7,leg7,CLC Eagles,Mixed,Carla Quiringetthi,Carla Quiringetthi,01:20:23,4823,7.2,Dursley,Wotton U Edge,24/06/2017,20170624
+8,leg8,CLC Cheetahs,Mixed,Chris Driskell,Chris Driskell,01:30:07,5407,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
+8,leg8,CLC Gazelles,Ladies,Helen Hucker,Helen Hucker,01:42:37,6157,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
+8,leg8,CLC Eagles,Mixed,Philip Abbey,Philip Abbey,02:01:03,7263,12,Wotton U Edge,Old Sodbury,24/06/2017,20170624
+9,leg9,CLC Gazelles,Ladies,Liza Barry,Liza Barry,01:16:13,4573,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
+9,leg9,CLC Cheetahs,Mixed,Adam Cary,Adam Cary,01:20:23,4823,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
+9,leg9,CLC Eagles,Mixed,Mike Speke,Mike Speke,01:41:25,6085,9.2,Old Sodbury,Cold Ashton,24/06/2017,20170624
+10,legx,CLC Eagles,Mixed,Alex Monro,Alex Monro,01:13:51,4431,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
+10,legx,CLC Cheetahs,Mixed,Hannah Munro,Hannah Munro,01:31:33,5493,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
+10,legx,CLC Gazelles,Ladies,Charlie Haward,Charlie Haward,01:38:09,5889,9.8,Cold Ashton,Bath Victoria Park,24/06/2017,20170624
+1,leg1,CLC Black,Senior Men,Nick Barry,Nick Barry,01:16:56,4616,12,Chipping Campden,Stanway House,30/06/2018,20180630
+1,leg1,CLC Green,Mixed,Eoin McQuone,Eoin McQuone,01:37:24,5844,12,Chipping Campden,Stanway House,30/06/2018,20180630
+1,leg1,CLC White,Ladies,Liza Barry,Liza Barry,01:38:24,5904,12,Chipping Campden,Stanway House,30/06/2018,20180630
+2,leg2,CLC Black,Senior Men,Thomas Fletcher,Thomas Fletcher,01:36:04,5764,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
+2,leg2,CLC White,Ladies,Amanda Steer,Amanda Steer,01:53:40,6820,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
+2,leg2,CLC Green,Mixed,Dawn Adinall,Dawn Adinall,02:22:00,8520,11.5,Stanway House,Cleeve Common,30/06/2018,20180630
+3,leg3,CLC Black,Senior Men,Adam Cary,Adam Cary,01:20:27,4827,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
+3,leg3,CLC Green,Mixed,Hannah Munro,Hannah Munro,01:29:50,5390,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
+3,leg3,CLC White,Ladies,Rebecca Reynolds,Rebecca Reynolds,01:32:45,5565,8.2,Cleeve Common,Seven Springs,30/06/2018,20180630
+4,leg4,CLC White,Ladies,Karlien Heyrman,Karlien Heyrman,01:44:42,6282,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
+4,leg4,CLC Black,Senior Men,Billy Bradshaw,Billy Bradshaw,01:48:39,6519,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
+4,leg4,CLC Green,Mixed,Cerys Jones,Cerys Jones,02:09:52,7792,12.7,Seven Springs,Cranham Corner,30/06/2018,20180630
+5,leg5,CLC Black,Senior Men,Iain Porter,Iain Porter,01:28:08,5288,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
+5,leg5,CLC Green,Mixed,Hedley Phillips,Hedley Phillips,02:00:19,7219,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
+5,leg5,CLC White,Ladies,Nikki Smith,Nikki Smith,02:00:35,7235,11.7,Cranham Corner,Ebley Mill,30/06/2018,20180630
+6,leg6,CLC Black,Senior Men,Rob Bircher,Rob Bircher,01:25:06,5106,8.8,Dudbridge,Dursley,30/06/2018,20180630
+6,leg6,CLC Green,Mixed,Ed Thompson,Ed Thompson,01:33:50,5630,8.8,Dudbridge,Dursley,30/06/2018,20180630
+6,leg6,CLC White,Ladies,Nicola Weager,Nicola Weager,01:34:18,5658,8.8,Dudbridge,Dursley,30/06/2018,20180630
+7,leg7,CLC Black,Senior Men,Will Pearce,Will Pearce,00:57:29,3449,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
+7,leg7,CLC Green,Mixed,Ed Collier,Ed Collier,01:07:44,4064,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
+7,leg7,CLC White,Ladies,Helen Howes,Helen Howes,01:14:36,4476,7.2,Dursley,Wotton U Edge,30/06/2018,20180630
+8,leg8,CLC White,Ladies,Rachael Cary,Rachael Cary,01:56:50,7010,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
+8,leg8,CLC Black,Senior Men,Andrew Paterson,Andrew Paterson,02:07:09,7629,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
+8,leg8,CLC Green,Mixed,Gavin Jerman,Gavin Jerman,02:07:31,7651,12,Wotton U Edge,Old Sodbury,30/06/2018,20180630
+9,leg9,CLC White,Ladies,Amelia Mullins,Amelia Mullins,01:28:43,5323,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
+9,leg9,CLC Green,Mixed,Natalie Burfitt,Natalie Burfitt,01:31:10,5470,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
+9,leg9,CLC Black,Senior Men,Philip Abbey,Philip Abbey,01:39:02,5942,9.2,Old Sodbury,Cold Ashton,30/06/2018,20180630
+10,legx,CLC Black,Senior Men,Jon Howes,Jon Howes,01:15:07,4507,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
+10,legx,CLC Green,Mixed,Miriam Davies,Miriam Davies,01:32:39,5559,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
+10,legx,CLC White,Ladies,Emma Abbey,Emma Abbey,01:39:22,5962,9.8,Cold Ashton,Bath Victoria Park,30/06/2018,20180630
+1,leg1,CLC Striders Black,Women,Amanda Steer,Amanda Steer,01:44:52,6292,12,Chipping Campden,Stanway House,29/06/2019,20190629
+1,leg1,CLC Striders Green,Veterans,Tim Brook,Tim Brook,01:55:45,6945,12,Chipping Campden,Stanway House,29/06/2019,20190629
+1,leg1,CLC Striders White,Mixed,Chris Thomas,Chris Thomas,02:16:15,8175,12,Chipping Campden,Stanway House,29/06/2019,20190629
+2,leg2,CLC Striders White,Mixed,Tom Kabala,Tom Kabala,01:28:40,5320,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
+2,leg2,CLC Striders Green,Veterans,Richard Shardlow,Richard Shardlow,01:45:33,6333,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
+2,leg2,CLC Striders Black,Women,Karlien Heyrman,Karlien Heyrman,01:47:45,6465,11.9,Stanway House,Cleeve Common,29/06/2019,20190629
+3,leg3,CLC Striders Green,Veterans,Gavin Jerman,Gavin Jerman,01:15:37,4537,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
+3,leg3,CLC Striders Black,Women,Rachel Vines,Rachel Vines,01:16:50,4610,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
+3,leg3,CLC Striders White,Mixed,Natalie Burfitt,Natalie Burfitt,01:23:22,5002,8.3,Cleeve Common,Seven Springs,29/06/2019,20190629
+4,leg4,CLC Striders Black,Women,Rachael Cary,Rachael Cary,01:50:37,6637,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
+4,leg4,CLC Striders Green,Veterans,James Babbage,James Babbage,02:05:31,7531,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
+4,leg4,CLC Striders White,Mixed,Nikki Smith,Nikki Smith,02:17:24,8244,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
+5,leg5,CLC Striders White,Mixed,Loius Fievet,Loius Fievet,01:32:55,5575,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
+5,leg5,CLC Striders Green,Veterans,Jon Howes,Jon Howes,01:33:45,5625,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
+5,leg5,CLC Striders Black,Women,Laura Fletcher,Laura Fletcher,02:09:24,7764,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
+6,leg6,CLC Striders Green,Veterans,Eoin McQuone,Eoin McQuone,01:27:02,5222,8.8,Dudbridge,Dursley,29/06/2019,20190629
+6,leg6,CLC Striders Black,Women,Helen Howes,Helen Howes,01:33:40,5620,8.8,Dudbridge,Dursley,29/06/2019,20190629
+6,leg6,CLC Striders White,Mixed,Cerys Jones,Cerys Jones,01:51:07,6667,8.8,Dudbridge,Dursley,29/06/2019,20190629
+7,leg7,CLC Striders White,Mixed,Si Thomson,Si Thomson,01:17:12,4632,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
+7,leg7,CLC Striders Green,Veterans,Ed Thompson,Ed Thompson,01:21:51,4911,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
+7,leg7,CLC Striders Black,Women,Emma Abbey,Emma Abbey,01:26:36,5196,7.3,Dursley,Wotton U Edge,29/06/2019,20190629
+8,leg8,CLC Striders Green,Veterans,Billy Bradshaw,Billy Bradshaw,01:58:51,7131,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
+8,leg8,CLC Striders Black,Women,👑 Amelia Mullins,Amelia Mullins,02:09:00,7740,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
+8,leg8,CLC Striders White,Mixed,Ed Collier,Ed Collier,02:09:45,7785,12.1,Wotton U Edge,Old Sodbury,29/06/2019,20190629
+9,leg9,CLC Striders Green,Veterans,Rob Bircher,Rob Bircher,01:28:32,5312,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
+9,leg9,CLC Striders White,Mixed,Mike Crossley,Mike Crossley,01:40:29,6029,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
+9,leg9,CLC Striders Black,Women,Nicola Weager,Nicola Weager,02:00:52,7252,9.3,Old Sodbury,Cold Ashton,29/06/2019,20190629
+10,legx,CLC Striders White,Mixed,Gary Smith,Gary Smith,01:43:51,6231,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
+10,legx,CLC Striders Green,Veterans,Philip Abbey,Philip Abbey,01:47:40,6460,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
+10,legx,CLC Striders Black,Women,Charlie Haward,Charlie Haward,02:03:29,7409,8.9,Cold Ashton (new route),Bath Victoria Park,29/06/2019,20190629
+1,leg1,CLC Lightning Bolts,Mixed,Thomas Fletcher,Thomas Fletcher,01:43:23,6203,12,Chipping Campden,Stanway House,03/07/2021,20210703
+1,leg1,CLC Lords,Veterans,James Babbage,James Babbage,01:45:14,6314,12,Chipping Campden,Stanway House,03/07/2021,20210703
+1,leg1,CLC Ladies,Women,Helen Howes,Helen Howes,01:50:29,6629,12,Chipping Campden,Stanway House,03/07/2021,20210703
+2,leg2,CLC Lords,Veterans,Ed Thompson,Ed Thompson,02:01:54,7314,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
+2,leg2,CLC Ladies,Women,Laura Leaver,Laura Leaver,02:18:33,8313,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
+2,leg2,CLC Lightning Bolts,Mixed,- No Runner -,zzz,02:45:00,9900,11.9,Stanway House,Cleeve Common,03/07/2021,20210703
+3,leg3,CLC Lords,Veterans,👑 Jon Howes,Jon Howes,01:09:25,4165,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
+3,leg3,CLC Ladies,Women,Laura Daubney,Laura Daubney,01:20:02,4802,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
+3,leg3,CLC Lightning Bolts,Mixed,Mike Crossley,Mike Crossley,01:22:02,4922,8.3,Cleeve Common,Seven Springs,03/07/2021,20210703
+4,leg4,CLC Lords,Veterans,Nigel Bailey,Nigel Bailey,01:56:23,6983,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
+4,leg4,CLC Lightning Bolts,Mixed,Rob Bircher,Rob Bircher,02:04:15,7455,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
+4,leg4,CLC Ladies,Women,Rachel Vines,Rachel Vines,02:06:08,7568,12.8,Seven Springs,Cranham Corner,03/07/2021,20210703
+5,leg5,CLC Ladies,Women,👑 Amelia Mullins,Amelia Mullins,01:43:55,6235,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
+5,leg5,CLC Lords,Veterans,Gavin Jerman,Gavin Jerman,01:49:38,6578,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
+5,leg5,CLC Lightning Bolts,Mixed,Philip Abbey,Philip Abbey,01:58:38,7118,11.8,Cranham Corner,Ebley Mill,03/07/2021,20210703
+6,leg6,CLC Lords,Veterans,Ed Collier,Ed Collier,01:31:28,5488,8.8,Dudbridge,Dursley,03/07/2021,20210703
+6,leg6,CLC Lightning Bolts,Mixed,Nikki Smith,Nikki Smith,01:37:48,5868,8.8,Dudbridge,Dursley,03/07/2021,20210703
+6,leg6,CLC Ladies,Women,Emma Abbey,Emma Abbey,01:42:08,6128,8.8,Dudbridge,Dursley,03/07/2021,20210703
+7,leg7,CLC Ladies,Women,Liza Bradshaw,Liza Bradshaw,01:00:59,3659,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
+7,leg7,CLC Lords,Veterans,Eoin McQuone,Eoin McQuone,01:04:27,3867,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
+7,leg7,CLC Lightning Bolts,Mixed,Natalie Burfitt,Natalie Burfitt,01:15:43,4543,7.3,Dursley,Wotton U Edge,03/07/2021,20210703
+8,leg8,CLC Lightning Bolts,Mixed,Tom Kabala,Tom Kabala,01:45:11,6311,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
+8,leg8,CLC Lords,Veterans,JJ Willson,JJ Willson,01:52:06,6726,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
+8,leg8,CLC Ladies,Women,Fiona Brady-Miller,Fiona Brady-Miller,01:56:02,6962,12.1,Wotton U Edge,Old Sodbury,03/07/2021,20210703
+9,leg9,CLC Lords,Veterans,Paul Lockyer,Paul Lockyer,01:13:34,4414,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
+9,leg9,CLC Ladies,Women,Rachael Cary,Rachael Cary,01:18:53,4733,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
+9,leg9,CLC Lightning Bolts,Mixed,David Orme,David Orme,01:28:31,5311,9.3,Old Sodbury,Cold Ashton,03/07/2021,20210703
+10,legx,CLC Ladies,Women,Helen Knight,Helen Knight,01:12:09,4329,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
+10,legx,CLC Lords,Veterans,👑 Billy Bradshaw,Billy Bradshaw,01:21:48,4908,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
+10,legx,CLC Lightning Bolts,Mixed,Sophie Longmore,Sophie Longmore,01:49:15,6555,8.9,Cold Ashton (new route),Bath Victoria Park,03/07/2021,20210703
+1,leg1,CLC Storm Clouds,Mixed,Jamie Hartnoll,Jamie Hartnoll,01:32:59,5579,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
+1,leg1,CLC Lightning Bolts,Veterans,Gavin Jerman,Gavin Jerman,01:50:03,6603,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
+1,leg1,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:45:00,9900,11.9,Chipping Campden,Stanway House,02/07/2022,20220702
+2,leg2,CLC Storm Clouds,Mixed,Will Pearce,Will Pearce,01:37:55,5875,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
+2,leg2,CLC Lightning Bolts,Veterans,Eoin McQuone,Eoin McQuone,01:53:07,6787,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
+2,leg2,CLC Thunderclaps,Mixed,Fiona Brady-Miller,Fiona Brady-Miller,02:03:33,7413,11.7,Stanway House,Cleeve Common,02/07/2022,20220702
+3,leg3,CLC Storm Clouds,Mixed,Rachael Cary,Rachael Cary,01:11:45,4305,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
+3,leg3,CLC Lightning Bolts,Veterans,Philip Abbey,Philip Abbey,01:23:49,5029,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
+3,leg3,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:00:00,7200,8.3,Cleeve Common,Seven Springs,02/07/2022,20220702
+4,leg4,CLC Storm Clouds,Mixed,Liza Bradshaw,Liza Bradshaw,01:35:14,5714,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
+4,leg4,CLC Lightning Bolts,Veterans,Nigel Bailey,Nigel Bailey,01:52:23,6743,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
+4,leg4,CLC Thunderclaps,Mixed,👑 Amelia Mullins,Amelia Mullins,01:55:37,6937,12.2,Seven Springs (new length),Cranham Corner,02/07/2022,20220702
+5,leg5,CLC Storm Clouds,Mixed,Paul Northup,Paul Northup,01:36:05,5765,11.8,Cranham Corner (new length),Ebley Mill,02/07/2022,20220702
+5,leg5,CLC Lightning Bolts,Veterans,Ed Thompson,Ed Thompson,01:49:01,6541,11.8,Cranham Corner (new length),Ebley Mill,02/07/2022,20220702
+5,leg5,CLC Thunderclaps,Mixed,Helen Howes,Helen Howes,01:48:41,6521,11.8,Cranham Corner (new length),Ebley Mill,02/07/2022,20220702
+6,leg6,CLC Storm Clouds,Mixed,Kate Telford,Kate Telford,01:18:26,4706,8.6,Dudbridge,Dursley,02/07/2022,20220702
+6,leg6,CLC Lightning Bolts,Veterans,Rob Bircher,Rob Bircher,01:37:05,5825,8.6,Dudbridge,Dursley,02/07/2022,20220702
+6,leg6,CLC Thunderclaps,Mixed,Sheng Peng,Sheng Peng,01:12:52,4372,8.6,Dudbridge,Dursley,02/07/2022,20220702
+7,leg7,CLC Storm Clouds,Mixed,Ryan O'Donnell,Ryan O'Donnell,01:03:52,3832,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
+7,leg7,CLC Lightning Bolts,Veterans,Mike Crossley,Mike Crossley,01:19:11,4751,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
+7,leg7,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:00:00,7200,7.5,Dursley,Wotton U Edge,02/07/2022,20220702
+8,leg8,CLC Storm Clouds,Mixed,Emma Abbey,Emma Abbey,02:14:59,8099,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
+8,leg8,CLC Lightning Bolts,Veterans,👑 Billy Bradshaw,Billy Bradshaw,02:07:17,7637,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
+8,leg8,CLC Thunderclaps,Mixed,Thomas Fletcher,Thomas Fletcher,01:44:52,6292,11.9,Wotton U Edge,Old Sodbury,02/07/2022,20220702
+9,leg9,CLC Storm Clouds,Mixed,Helen Knight,Helen Knight,01:16:04,4564,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
+9,leg9,CLC Lightning Bolts,Veterans,James Babbage,James Babbage,01:23:07,4987,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
+9,leg9,CLC Thunderclaps,Mixed,Nikki Smith,Nikki Smith,01:32:05,5525,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
+10,legx,CLC Storm Clouds,Mixed,Laura Rose,Laura Rose,01:37:42,5862,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
+10,legx,CLC Lightning Bolts,Veterans,John Comer,John Comer,01:08:40,4120,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
+10,legx,CLC Thunderclaps,Mixed,- No Runner -,zzz,02:15:00,8100,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
