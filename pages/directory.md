@@ -12,7 +12,7 @@ Note that the CLC Striders Running Club do not endorse or recommend any commerci
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
-<td><b>Gloucester Sportsk</b></td>
+<td><b>Gloucester Sports</b></td>
 </tr>
 <tr>
 <td>Services Offered:</td>
@@ -36,7 +36,6 @@ Note that the CLC Striders Running Club do not endorse or recommend any commerci
 </tr>
 <tr>
 <td>Discount Offered to Club Members:</td>
-<td>
 </tr>
 <tr>
 <td>Company Info:</td>
