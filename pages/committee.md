@@ -21,10 +21,10 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
 | Amelia Mullins| Coach| <training@clcstriders-runningclub.co.uk> |
 | Will Pearce| Men’s Captain| <races@clcstriders-runningclub.co.uk> |
-| Karlien Heyrman| Women’s Captain| <races@clcstriders-runningclub.co.uk> |
+| Karlien Heyrman| xx | <races@clcstriders-runningclub.co.uk> |
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
 | Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
-| Rachel Vines| Race Coordinator| <races@clcstriders-runningclub.co.uk> |
+| Rachel Vines| Womens Captain | <races@clcstriders-runningclub.co.uk> |
 | Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
 | Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
 | Paul Northup| Press Officer| |
@@ -51,4 +51,5 @@ Committee minutes are available to club members below:
 - [2021-11-11](assets/Committee-minutes/2021-11-11.pdf)
 - [2022-01-20](assets/Committee-minutes/2022-01-20.pdf)
 - [2022-04-07](assets/Committee-minutes/2022-04-07.pdf)
+- [AGM-2022](/assets/Committee-minutes/AGM-2022.pdf) 
 
