@@ -4,4 +4,4 @@ published: true
 
 ---
 
-CLC Striders have [training runs](/training) on Monday and Wednesday, and Friday during track season.
+CLC Striders have [training runs](/training) on a Monday evening and intervals on a Wednesday evening, both starting at 1830.
