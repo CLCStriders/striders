@@ -76,6 +76,8 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 
 ##### Coaches
 
+- Matt Ashman
+  - Joined CLC Striders in 2019, CiRF since 2022
 - Martin Bick
   - Joined CLC Striders in 2013, CiRF since 2017
 - Joel Freeland
@@ -88,15 +90,12 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 
 ##### Run Leaders
 
-- Matt Ashman
 - Tim Brock
 - Andy Brookes
 - Laura Daubney
-- Charlie Haward
 - Jon Howes
 - Eoin McQuone
 - Paul Northup
-- Hedley Phillips
 - Helen Rawcliffe
 - Amanda Steer
 - Nicola Weager
