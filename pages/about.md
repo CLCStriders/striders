@@ -22,21 +22,23 @@ The Objectives of the Club are:
 
 The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-Constitution.pdf) is made available for review by all members.
 
-##### Club Awards
-
-The Club presents [awards](/pages/awards.md) each year, at its AGM, to recognise members achievements and contributions to the Club. 
-
-##### Club Welfare Policy
+##### Club Policies
 
 CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All children and adults at risk are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of children and adults at risk. 
 
 The Club Welfare Officers are Matt Ashman and Amelia Mullins, any issues can be raised via <secretary@clcstriders-runningclub.co.uk>
+
+CLC Striders embraces diversity and difference and is committed to providing opportunities that are safe, inclusive, accessible and equitable. Where possible, we want our club to be accessible to all members of society, whatever their age, disability, gender, race, ethnicity, sexuality or social/economic status. The [Club Inclusion Policy](/assets/Policies/CLC-Striders-Inclusion-Policy.pdf) outlines the club's approach to inclusion.
 
 ##### Risk assessments
 
 The committee take the safety of Club members seriously and have produced risk assessments around activities:
 
 [Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf).
+
+##### Club Awards
+
+The Club presents [awards](/awards) each year, at its AGM, to recognise members achievements and contributions to the Club. 
 
 ##### Affiliations
 
