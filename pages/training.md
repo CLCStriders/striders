@@ -69,20 +69,26 @@ To make sure our club runs are safe and enjoyable for everyone, please follow th
 Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked.  Please talk to them about your personal training goals, general running queries or any concerns you may have.  You can also ask about attending a LiRF or CiRF training course yourself.
 
 ##### Head Coach – Brendan Ward
-
+&emsp;&emsp;![Brendan Ward](/images/coaches/brendan-ward.jpg)
 - Founded CLC Striders in 2008
 - CiRF since 2010, with many previous years’ coaching experience
 - Awarded England Athletics’ South West Coach of the Year 2012
 
 ##### Coaches
 
-- Matt Ashman
-  - Joined CLC Striders in 2019, CiRF since 2022
-- Joel Freeland
-  - Joined CLC Striders in 2010, CiRF since 2017
-- Amelia Mullins
-  - Joined CLC Striders in 2009, CiRF since 2019.  
-  - Co-ordinator of Monday night club runs
+&emsp;&emsp;**Matt Ashman**  
+&emsp;&emsp;![Matt Ashman](/images/coaches/matt-ashman.jpg)
+- Joined CLC Striders in 2019, CiRF since 2022
+
+&emsp;&emsp;**Joel Freeland**  
+&emsp;&emsp;![Joel Freeland](/images/coaches/joel-freeland.jpg)
+- Joined CLC Striders in 2010, CiRF since 2017
+
+&emsp;&emsp;**Amelia Mullins**  
+&emsp;&emsp;![Amelia Mullins](/images/coaches/amelia-mullins.jpg)
+- Joined CLC Striders in 2009, CiRF since 2019
+- Co-ordinator of Monday night club runs
+  <br>
 
 ##### Run Leaders
 
