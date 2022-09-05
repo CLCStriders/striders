@@ -78,12 +78,8 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 
 - Matt Ashman
   - Joined CLC Striders in 2019, CiRF since 2022
-- Martin Bick
-  - Joined CLC Striders in 2013, CiRF since 2017
 - Joel Freeland
   - Joined CLC Striders in 2010, CiRF since 2017
-- Phil Jowett
-  - Joined CLC Striders in 2008, CiRF since 2010
 - Amelia Mullins
   - Joined CLC Striders in 2009, CiRF since 2019.  
   - Co-ordinator of Monday night club runs
