@@ -20,6 +20,23 @@ Runners who have completed all 10 legs of the competition are awarded a **King o
 - **Billy Bradshaw** - King of the Cotswolds 03/07/2021
 - **Jon Howes** - King of the Cotswolds 03/07/2021
 
+<br>
+The club members' fastest times for each leg are:  
+
+| Leg | Name | Time | Distance | Start | Finish | Date |
+| -- | -- | -- | -- | -- | -- | -- |
+| 1 | Nick Barry | 1:16:56 | 12 mi | Chipping Campden | Stanway House | 30/06/2018 |
+| 2 | Tom Kabala | 1:28:40 | 11.9 mi | Stanway House | Cleeve Common | 29/06/2019 |
+| 3 | Andy Jones | 58:40 | 8.2 mi | Cleeve Common | Seven Springs | 27/06/2015 |
+| 4 | Chris Driskell | 1:28:57 | 12.7 mi | Seven Springs | Cranham Corner | 30/06/2012 |
+| 5 | Nick Barry | 1:15:39 | 11.7 mi | Cranham Corner | Ebley Mill | 24/06/2017 |
+| 6 | Chris Driskell | 1:06:14 | 8.8 mi | Dudbridge | Dursley | 25/06/2011 |
+| 7 | 👑 Jon Howes | 56:41 | 7.2 mi | Dursley | Wotton U Edge | 28/06/2014 |
+| 8 | Chris Driskell | 1:30:07 | 12 mi | Wotton U Edge | Old Sodbury | 24/06/2017 |
+| 9 | Nick Barry | 1:04:35 | 9.2 mi | Old Sodbury | Cold Ashton | 25/06/2016 |
+| 10 | John Comer | 1:08:40 | 9.3 mi | Cold Ashton (new length) | Bath Victoria Park | 02/07/2022 |
+
+<br>
 The table below includes all CWR results since the club first entered teams into the competition in June 2011. Members may find it useful in planning their route to becoming King or Queen of the Cotswolds.
 
 Use the search box to filter results:
