@@ -10,7 +10,7 @@ Our training benefits those who are fairly new to running, regular runners wanti
 
 The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining.  Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
-On both Mondays and Wednesdays, we meet at the [CLC Health & Fitness Centre]({{ site.mapUrl_CLC }}) on Malvern Road. We usually gather downstairs - just ask at reception for the running club and they will point you in the right direction.  There is plenty of free parking and changing rooms and lockers are available (20p required).
+We are based at the [CLC Health & Fitness Centre]({{ site.mapUrl_CLC }}) on Malvern Road. We usually meet outside the building, on the paved area just inside the main gate. There is plenty of free parking behind the centre, and toilet facilities are available inside (just ask at reception and let them know you're with the running club). 
 
 #### Mondays – Social run
 
@@ -47,9 +47,9 @@ Meet at 6.30pm, CLC Health & Fitness Centre
 
 Our speed work sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park.
 
-#### Fridays
+#### Other sessions
 
-We run blocks of training sessions at the [Prince of Wales track]({{ site.mapUrl_POW }}) on Friday evenings in spring and summer, before and during the main track season.  Keep an eye on our [Facebook page]({{site.facebook}}) for updates or [contact us](/contact) for more details on these sessions.  We ask all attendees to contribute £3 per session towards the cost of hiring the track.
+From time to time we may organise other training sessions, for example interval sessions at the [Prince of Wales track]({{ site.mapUrl_POW }}), or hill repeats at [Pittville Park]({{ site.mapUrl_PittvillePark }}). These are fun, add variety and help with event-specific training for track or cross-country races. Keep an eye on our [Facebook page]({{site.facebook}}) or [contact us](/contact) for more details on these sessions. We may ask attendees for a small contribution to cover the cost of track hire.
 
 ##### Tips for club runs
 
