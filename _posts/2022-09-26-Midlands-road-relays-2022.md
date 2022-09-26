@@ -10,7 +10,7 @@ On Saturday 24 September two teams of women and two teams of men from CLC Stride
 
 Conditions proved pretty prefect for a relatively short blast over the undulating, closed roads of the park (which had played host to the Commonwealth Games triathlon earlier in the summer). All the runners representing CLC Striders left everything out on the roads, with gutsy, pacey performances right across the board.
 
-###Ladies###
+### Ladies ###
 
 The ladies relay saw two teams, each competing over four legs, with a Masters and Senior team racing. 
 
@@ -18,7 +18,7 @@ For the Masters, Amelia Mullins got the team off to a solid start on leg one in 
 
 The ladies Senior team was led off by Rachel Vines, who clocked 19:07, followed by Rebecca Reynolds, in a time of 22:15. Just coming back from injury, Laura Dabney ran a good third leg in a time of 20:14, and debutante Rachael Sycamore anchored the team home in a quick time of 18:39.
 
-###Men###
+### Men ###
 
 Not to be outdone, the Striders men pulled out all the stops too, with the A Team clocking their fastest ever combined time (over their six legs) of 2:02:39 on the day for 33rd place overall – qualifying for the National Road Relay Competition at the start of October as a result.
 
