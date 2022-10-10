@@ -1,5 +1,5 @@
 ---
-title: 'Cheltenaham half marathon 2022'
+title: 'Cheltenham half marathon 2022'
 layout: post
 categories:
   - News
