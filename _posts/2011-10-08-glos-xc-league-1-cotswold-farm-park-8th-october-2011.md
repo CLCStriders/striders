@@ -6,8 +6,6 @@ excerpt: '<p>Striders get the Cross Country season off to a strong start at Cots
 layout: post
 permalink: /2011/10/glos-xc-league-1-cotswold-farm-park-8th-october-2011/
 ---
-</p> 
-
 Laura Kent made a welcome comeback to racing by finishing in an impressive 6th place to lead CLC Striders ladies to a clear team win in the first county league fixture of the season. Kent was backed superbly by Sian Holley in 10th place, and Emma Skeen in 12th who had her best ever run on the country. The Striders vet ladies team also took team victory.
 
 The men's team were led home by John Parker in 4th place, JP was in contact with the leading group most of the way, and he was followed home by Strider new boy Rich Evershed who made a massive impact on his Striders debut to finish in 10th place. Chris Hale followed Evershed in 49th, Joel Freeland finished 71st, Vet Glyn Bagnall 84th, and final A team scorer was Billy Bradshaw in 89th place. Other notable performances from the ladies were had by debutante Alice Johnson who finished 26th, Amanda Steer in 32nd, and Harpreet Chawla who battled all the way to the finish. Meanwhile from the men, Duncan Kay deserves a big pat on the back for his efforts in getting round this tough course.
@@ -86,6 +84,4 @@ Teams (18 finished)
 
 6 - CLC A = 307 points
 
-16 - CLC B = 791 points</p> 
-
-Full results will be on <a href="https://www.glosaaa.org.uk/GAAA_newresultstable.htm" target="_blank" rel="nofollow">Glos AAA's website</a>when available
+16 - CLC B = 791 points

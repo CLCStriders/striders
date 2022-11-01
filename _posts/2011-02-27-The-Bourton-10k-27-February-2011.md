@@ -6,10 +6,10 @@ excerpt: '<p>DJ Vines and Rachel Elkins pictured with GB International Dan Robin
 layout: post
 permalink: /2011/02/The-Bourton-10k-27-February-2011/
 ---
-</p> 
+**Report**
+CLC Striders had a fantastic turnout at the Bourton 10k on Sunday 27th February 2011. John Parker put in an excellent effort to take 3rd place overall and notch up his second fastest ever time over the distance recording a time of 32 minutes exactly. Darren Milne returned to action for the club and ran well to record 35.48, Dave Smeath had the run of his life to achieve a big pb time of 36.29, Rachel Elkins smashed through the 40 minute barrier to record 39.30, Vet Charles Goodwin followed in a fine 39.37, Jon Howes recorded an excellent pb of 39.42, DJ Vines dipped under the 40 minute for the first time recording 39.47. Many more striders put in great performances over this very popular distance. Click on results to see how they got on. Well done to all of you today. Keep it going! Brendan
 
-**Report**CLC Striders had a fantastic turnout at the Bourton 10k on Sunday 27th February 2011. John Parker put in an excellent effort to take 3rd place overall and notch up his second fastest ever time over the distance recording a time of 32 minutes exactly. Darren Milne returned to action for the club and ran well to record 35.48, Dave Smeath had the run of his life to achieve a big pb time of 36.29, Rachel Elkins smashed through the 40 minute barrier to record 39.30, Vet Charles Goodwin followed in a fine 39.37, Jon Howes recorded an excellent pb of 39.42, DJ Vines dipped under the 40 minute for the first time recording 39.47. Many more striders put in great performances over this very popular distance. Click on results to see how they got on. Well done to all of you today. Keep it going! Brendan **Results**
-
+**Results**
 <table>
   <colgroup> <col> <col> <col> <col> <col> <col> <col> <col> <col> <col> 
   
@@ -1013,5 +1013,3 @@ permalink: /2011/02/The-Bourton-10k-27-February-2011/
     </td>
   </tr></colgroup>
 </table>
-
-Click <a href="https://www.bourtonroadrunners.co.uk/race_results/10k_results_2011.htm" target="_blank" rel="nofollow">here</a>for official the results Here's a video clip from YouTube (we hope Nick Hitchings from Malvern Joggers doesn't mind us posting this here&#8230;)

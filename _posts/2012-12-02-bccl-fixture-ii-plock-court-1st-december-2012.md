@@ -6,8 +6,6 @@ excerpt: "<p>There was an exceptionally strong turnout for Striders'men in the s
 layout: post
 permalink: /2012/12/bccl-fixture-ii-plock-court-1st-december-2012/
 ---
-</p> 
-
 19 Striders turned out to run for their club which was enough for three teams on the day, an impressive achievement for only the club's second season in the league.  
 Having placed 11th after the first race, the Striders'team put in another solid performance to finish 10th on the day and move to 10th place in the league overall.  
 First back for Team Striders was Rich Dare who shrugged off a bad cough to put in a gutsy performance and finish in 29th place, and he was followed by Will Ferguson running in his first race for the club since January. Ferguson made a steady start but worked his way through to finish in 36th place. Next back was Driskell who got stuck in and went some way to maikng amends for a below par performance at Leamington to finish in 42nd place. He was followed by Dave Smeath, who ran well to finish in 80th place; Jamie Paterson who ran well and finished impressively to take 104th place, and the final first team scorer was Rich Shardlow who as always gave 110% to claim 110th place.  
@@ -53,7 +51,3 @@ Striders results:
 202) Andrew Paterson - 50:42
 
 203) Dave Mayo - 50:44
-
-<a href="https://www.youtube.com/watch?v=_WFeTRYaCrQ" target="_blank" rel="nofollow">video</a>
-
-<a href="/assets/pdf/results/bcclplockcourtresults01122012.pdf" target="_blank" rel="nofollow">results</a>
