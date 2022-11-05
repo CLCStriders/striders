@@ -4,7 +4,6 @@ title: 'Midsummer Open - 15 July 2015'
 date: 2015-07-15T16:49:48+01:00
 author: Clark Lawson
 layout: post
-guid: https://www.clcstriders-runningclub.co.uk/wplive/?p=669
 permalink: /2015/07/midsummer-open-15-july-2015/
 categories:
   - Track Reports
@@ -36,4 +35,4 @@ Rusty Helmsley 19.33
 Bradley Coates20.57  
 Dan Harte 21.42  
 Becky Reynolds 22.25  
-Helen Howes 23.38
+Helen Howes 23.38  
