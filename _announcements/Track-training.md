@@ -1,6 +1,6 @@
 ---
 title: Wednesday track training
-published: true
+published: false
 
 ---
 
