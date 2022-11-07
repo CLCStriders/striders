@@ -8,7 +8,7 @@ categories:
 
 CLC Striders made a strong return to racing through the mud as the cross country season kicked off with the opening fixture of the Gloucestershire League on Saturday 5 November 2022.
 
-With both the [Men's](/images/2022/11/2022-11-07-Mens-XC.jpg "Men's") and [Women's](/images/2022/11/2022-11-07-Womens-XC.jpg "Women's") teams in action, it was great to have a mix of seasoned veterans, cross country debutants and new club members lacing up their spikes to represent the club.
+With both the [Men's](/images/2022/11/2022-11-07-Mens-XC.jpg "Men's") and [Women's](/images/2022/11/2022-11-07-Ladies-XC.jpg "Women's") teams in action, it was great to have a mix of seasoned veterans, cross country debutants and new club members lacing up their spikes to represent the club.
 
 Given that it had (seemingly) rained non-stop for the past week or so, those turning out expected some challenging conditions underfoot. But the superbly planned course, in the stunning Cirencester Park, held up pretty well – and no lifeguard was required on the day!
 
