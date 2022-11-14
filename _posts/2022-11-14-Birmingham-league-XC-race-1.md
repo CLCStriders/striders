@@ -1,14 +1,14 @@
 ---
-title: 'Race reports for the Ladies Midland and Men’s Birmingham Cross Country Leagues Race 1 of Division 2, 12 November 2022 - Park Hall Country Park, Stoke and Plock Court respectively'
+title: 'Race reports for the Ladies Midland and Men’s Birmingham Cross Country Leagues Race 1 of Division 2, 12 November 2022 - Park Hall Country Park, Stoke and Plock Court'
 layout: post
 categories:
   - News
 
 ---
 
-*** Race reports for the Ladies Midland and Men’s Birmingham Cross Country Leagues Race 1 of Division 2, held on 12 November 2022
-*** At Park Hall Country Park, Stoke and Plock Court respectively
-*** And British and Irish Masters cross country international in Dublin, Ireland 
+#### Race reports for the Ladies Midland and Men’s Birmingham Cross Country Leagues Race 1 of Division 2, held on 12 November 2022
+#### At Park Hall Country Park, Stoke and Plock Court respectively
+#### And British and Irish Masters cross country international in Dublin, Ireland 
 
 On an unseasonably mild mid-November morning it was time for CLC Striders to return to their respective regional cross country racing, with the ladies travelling to Park Hall Country Park, Stoke, in a Midland League Division 2 fixture hosted by Trentham RC, while the men stayed closer to home to run at Plock Court in Gloucester in their Birmingham League Division 2 fixture, hosted by Severn AC.
 
