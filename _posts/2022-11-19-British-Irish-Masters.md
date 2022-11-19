@@ -18,8 +18,8 @@ Liza was up next, finishing 2nd for the England W35 team, which sadly finished b
 
 Happily both Men and Womens England teams finished in silver medal position overall. Overall it was an enjoyable experience and a big honour to wear a national vest, and run with some incredible athletes right up the age groups. For anyone interested in seeking qualification next year, the selection race is back at Markeaton Park (which we are happy to report packs a few punchy climbs into its 3-lap course!) on 14th October 2023.
 
-![Liza Bradshaw](/images/2022/11/2022-11-15-England-1.jpg "Liza Bradshaw")
-![David James](/images/2022/11/2022-11-15-England-2.jpg "David James")
-![CLC Striders](/images/2022/11/2022-11-15-England-3.jpg "CLC Striders")
-![England team](/images/2022/11/2022-11-15-England-4.jpg "England team")
+![Liza Bradshaw](/images/2022/11/2022-11-19-England-1.jpg "Liza Bradshaw")
+![David James](/images/2022/11/2022-11-19-England-2.jpg "David James")
+![CLC Striders](/images/2022/11/2022-11-19-England-3.jpg "CLC Striders")
+![England team](/images/2022/11/2022-11-19-England-4.jpg "England team")
 
