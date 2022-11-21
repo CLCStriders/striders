@@ -14,7 +14,7 @@ Leading the Striders home over the marathon distance was the ever-impressive Hel
 
 In the half marathon, Joanna Thomson ran her first race since May 2019, finishing in 2:50:37 in 100th position, with her husband Simon crossing the line alongside her in an identical time.
 
-![Broadway half and full marathon](/images/2022/11/2022-11-21-Broadway-marathon.jpg "Broadway half and full marathon")
+![Broadway half and full marathon](/images/2022/11/2022-11-21-Broadway-marathon.jpeg "Broadway half and full marathon")
 Pictured from left to right, Striders who competed the broadway Marathon and Half Marathon:
 Amelia Mullins, Joanna Thomson, Simon Thomson, Helen Knight, Rob Bircher, Gavin Jerman and Rachael Sycamore
 
