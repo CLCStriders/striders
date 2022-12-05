@@ -29,8 +29,4 @@ Full results of the mens race are available on the [Race Tec Results website](ht
 
 And, while the CLC ladies and men’s teams battled it out here in the Midland and Birmingham cross country leagues, two members of the club were representing England in the British and Irish Masters cross country international in Dublin, Ireland – Liza Bradshaw in the women’s V35 category and David James in the men’s V70 category. The entire membership is incredibly proud of Liza and David in representing the club on the international stage – an amazing achievement for a relatively small and inclusive local running club.
 
-![Ladies Midlands Cross Country League division 2 team](/images/2022/12/2022-12-05-Ladies-XC-Pittville.jpg "Ladies Midlands Cross Country League division 2 team")
-From left to right: Anja Whelan, Liza Bradshaw, Kate Telford, Amelia Mullins, Nicola Weager, Helen Knight, Sophie Longmore, Rachel Vines, Rachael Cary
 
-![Mens Birmingham Cross Country League division 2 team](/images/2022/12/2022-12-05-Mens-XC-Pittville.jpg "Mens Birmingham Cross Country League division 2 team")
-Back row, from left to right: Matt Ashman, Javid Norat, Ryan O’Donnell (not running on the day), Adam Greenwood, Nick Ledwold, Rob Barnett (not running on the day), John Comer, Jamie Hartnoll, Sheng Peng, Rustam Hemsley, Sam Baylis, Will Ferguson, Chris Driskell. Front row, left to right: Paul Lockyer, Will Pearce, Eoin McQuone, Brendan Ward (Head Coach), Joel Freeland, Paul Northup

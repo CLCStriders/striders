@@ -26,3 +26,8 @@ In the team competition, the A Team seniors finished 7th and the B Team finished
  
 Full results of the mens race are available on the [Race Tec Results website](https://www.birminghamccleague.co.uk/images/stories/bdccl/articlepdfs/XC_League_Archive/2022-23/2022-12-03-M2.pdf "Race Tec Results website")
 
+![Ladies Midlands Cross Country League division 2 team](/images/2022/12/2022-12-05-Ladies-XC-Pittville.jpg "Ladies Midlands Cross Country League division 2 team")
+From left to right: Anja Whelan, Liza Bradshaw, Kate Telford, Amelia Mullins, Nicola Weager, Helen Knight, Sophie Longmore, Rachel Vines, Rachael Cary
+
+![Mens Birmingham Cross Country League division 2 team](/images/2022/12/2022-12-05-Mens-XC-Pittville.jpg "Mens Birmingham Cross Country League division 2 team")
+Back row, from left to right: Matt Ashman, Javid Norat, Ryan O’Donnell (not running on the day), Adam Greenwood, Nick Ledwold, Rob Barnett (not running on the day), John Comer, Jamie Hartnoll, Sheng Peng, Rustam Hemsley, Sam Baylis, Will Ferguson, Chris Driskell. Front row, left to right: Paul Lockyer, Will Pearce, Eoin McQuone, Brendan Ward (Head Coach), Joel Freeland, Paul Northup
