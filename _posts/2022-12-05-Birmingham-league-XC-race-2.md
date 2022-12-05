@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders members take part in the Broadway Trail Marathon and Half Marathon'
+title: 'Midland and Birmingham Cross Country League Division 2, Race Day 2'
 layout: post
 categories:
   - Reports
