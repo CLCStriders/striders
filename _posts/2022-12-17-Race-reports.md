@@ -6,8 +6,6 @@ categories:
 
 ---
 
-### CLC Striders Race reports – for the weekend of 10-11 December 2022
-
 The second weekend in December saw another good couple of days for CLC Strider’s runners competing in different disciplines. With the temperatures beginning to fall over the weekend, conditions varied from cold and crisp to falling snow, slush and ice.
 
 #### Gloucestershire Cross Country League – Race Day 2
