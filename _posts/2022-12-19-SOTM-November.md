@@ -14,5 +14,5 @@ On the 20th November, Amelia took to the cotswold trails to complete the very hi
 
 On top of all this, Amelia continued to coach club sessions throughout November in some dismal conditions which we are all very grateful for! Thanks Amelia and well done.
 
-[Strider of the month Amelia Mullins](/images/2022/12/2022-12-19-SOTM-November-2022.jpg "CLC Strider of the month November 2022 Amelia Mullins")
+![Strider of the month Amelia Mullins](/images/2022/12/2022-12-19-SOTM-November-2022.jpg "CLC Strider of the month November 2022 Amelia Mullins")
 
