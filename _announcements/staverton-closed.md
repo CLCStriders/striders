@@ -1,7 +1,7 @@
 ---
 title: staverton
-published: true
+published: false
 
 ---
 
-The CLC Striders hosted the [Staverton 10 mile](/staverton-10) race places have sold out
+The CLC Striders hosted [Staverton 10 mile](/staverton-10) race places have sold out
