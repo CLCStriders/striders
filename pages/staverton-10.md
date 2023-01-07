@@ -81,11 +81,7 @@ Race Headquarters is located OUTSIDE The Aviator Inn on the site of Gloucestersh
 
 Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/routes/7184956)
 
-### Car Parking
-
-From 07:45, members of CLC Striders will be helping runners find suitable car parking. We will be using the main terminal car park of the airport along with a number of car parks at the Bamfurlong Industrial Estate. We request that runners do not park outside of Race HQ as we would like to ensure that these spaces are reserved for race officials, volunteers and other customers of The Aviator Inn. We would suggest that runners allow plenty of time to walk from the car park as some of our secondary parking at the office car parks are a 10 minute walk from Race HQ. Please do not park anywhere other than guided by the marshals, participants must not park on any of the airport grounds.
-
-### Race Information
+### Race details / at the start
 
 The start line for the race is opposite the main entrance to the Gloucestershire Airport building. Please remember that the Airport will be operational, so be mindful that vehicles will be using the roads around the airport. 
  
@@ -103,6 +99,10 @@ If you drop out of the race, please notify one of the officials at the finish li
  
 Once you have crossed the finish line, please make sure you return the timing chip. 
  
+### Car Parking
+
+From 07:45, members of CLC Striders will be helping runners find suitable car parking. We will be using the main terminal car park of the airport along with a number of car parks at the Bamfurlong Industrial Estate. We request that runners do not park outside of Race HQ as we would like to ensure that these spaces are reserved for race officials, volunteers and other customers of The Aviator Inn. We would suggest that runners allow plenty of time to walk from the car park as some of our secondary parking at the office car parks are a 10 minute walk from Race HQ. Please do not park anywhere other than guided by the marshals, participants must not park on any of the airport grounds.
+
 ### Results
 
 As long as there is a good signal at Race HQ, live results will be available at [Race Roster](https://results.raceroster.com/results/ag7ub3ad9mx7r4ch).
