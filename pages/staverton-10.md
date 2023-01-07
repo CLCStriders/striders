@@ -77,11 +77,11 @@ Your race number entitles you to 15% off at Up & Running (one of our race sponso
 
 Race Headquarters is located OUTSIDE The Aviator Inn on the site of Gloucestershire Airport and the postcode for Race HQ is GL51 6SR. Members of CLC Striders will be there from 08:00 for collection of race numbers. 
 
-### Route
+#### Route
 
 Route Map: [Map]({{ page.routeMap }}) & [Strava Route](https://www.strava.com/routes/7184956)
 
-### Race details / at the start
+#### Race details / at the start
 
 The start line for the race is opposite the main entrance to the Gloucestershire Airport building. Please remember that the Airport will be operational, so be mindful that vehicles will be using the roads around the airport. 
  
@@ -91,7 +91,7 @@ There will be a large number of CLC Striders members out marshalling on the cour
  
 There will be one drinks station outside The Aviator Inn, at about five miles. We are aiming to make this a low waste event so please carry your own water bottle if you need it. There will be the facility to refill your bottle at the water station.
  
-### At the Finish
+#### At the Finish
 
 After you cross the finish line, you will notice a group of timekeepers. Please do not distract the them, as they need to concentrate and ensure everyone gets the correct result. 
  
@@ -102,6 +102,8 @@ Once you have crossed the finish line, please make sure you return the timing ch
 ### Car Parking
 
 From 07:45, members of CLC Striders will be helping runners find suitable car parking. We will be using the main terminal car park of the airport along with a number of car parks at the Bamfurlong Industrial Estate. We request that runners do not park outside of Race HQ as we would like to ensure that these spaces are reserved for race officials, volunteers and other customers of The Aviator Inn. We would suggest that runners allow plenty of time to walk from the car park as some of our secondary parking at the office car parks are a 10 minute walk from Race HQ. Please do not park anywhere other than guided by the marshals, participants must not park on any of the airport grounds.
+
+We are aware of roadworks taking place on the south of Bamfurlong Lane resulting in the closure of the bridge across the M5. Access to Staverton airport is therefore via the B4036 only using the [route detailed on the map](/images/2023/01/2023-01-07-Staverton-10-access.jpeg "route detailed on the map") .
 
 ### Results
 
