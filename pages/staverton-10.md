@@ -64,6 +64,8 @@ As we are running under UK Athletic Rules and do not have full road closures alo
 * The race starts at 09:00 outside of the main airport terminal building. 
  
 * Runners will be disqualified if they wear headphones (UKA Rules). 
+
+* For the wellbeing of marshals, runners who do not complete the first lap within 1 hour will be asked to stop the race.
  
 * At the finish, don’t forget to return the timing chip. 
  
