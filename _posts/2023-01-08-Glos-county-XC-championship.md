@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders Race Report from Race 2 of the Gloucestershire Cross Country League on Saturday 7 January held at Cotswold Farm Park'
+title: 'CLC Striders Race Report from Gloucestershire County Cross Country Championship held on Saturday 7th January at Cotswold Farm Park'
 layout: post
 categories:
   - News
