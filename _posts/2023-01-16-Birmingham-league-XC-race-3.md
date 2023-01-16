@@ -31,9 +31,9 @@ Full results of the mens race are available on the [Race Tec Results website](ht
 
 Both the Ladies and Men are looking forward to turning out their strongest possible teams and competing as hard as they can in the fourth and final race of the season in their respective Midland and Birmingham Leagues, with both aiming to win promotion to Division One next season – an amazing achievement for a relatively small local club. 
 
-![Ladies Midlands Cross Country League division 2 team](/images/2023/01/2023-01-16-Ladies-XC-race-3 "Ladies Midlands Cross Country League division 2 team")
+![Ladies Midlands Cross Country League division 2 team](/images/2023/01/2023-01-16-Ladies-XC-race-3.jpg "Ladies Midlands Cross Country League division 2 team")
 From left to right: Kate Telford, Rachel Vines, Helen Knight, Liza Bradshaw, Fiona Brady-Miller and Amelia Mullins
 
-![Mens Birmingham Cross Country League division 2 team](/images/2023/01/2023-01-16-Mens-XC-race-3 "Mens Birmingham Cross Country League division 2 team")
+![Mens Birmingham Cross Country League division 2 team](/images/2023/01/2023-01-16-Mens-XC-race-3.jpg "Mens Birmingham Cross Country League division 2 team")
 Back row from left to right: Will Ferguson, Alex Johnston, Rob Green, John Comer, Sam Baylis, Rustam Hemsley, Joe Willgoss, Ryan O’Donnell, Rob Finch, Ollie Watkins, Jon Howes, Paul Northup, Chris Driskell and David James.
 Front row, from left to right: Nick Ledwold, Tom Burgess, Coach Brendan Ward, Jamie Hartnoll, Eoin McQuone and Joel Freeland.
