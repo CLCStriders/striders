@@ -84,6 +84,10 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 &emsp;&emsp;![Joel Freeland](/images/coaches/joel-freeland.jpg "Joel Freeland")
 - Joined CLC Striders in 2010, CiRF since 2017
 
+&emsp;&emsp;**Jamie Hartnoll**  
+&emsp;&emsp;![Jamie Hartnoll](/images/coaches/jamie-hartnoll.jpg "Jamie Hartnoll")
+- Joined CLC Striders in 2022, CiRF since 2023
+
 &emsp;&emsp;**Amelia Mullins**  
 &emsp;&emsp;![Amelia Mullins](/images/coaches/amelia-mullins.jpg "Amelia Mullins")
 - Joined CLC Striders in 2009, CiRF since 2019
