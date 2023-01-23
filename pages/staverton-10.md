@@ -119,7 +119,7 @@ If there comes a situation, such as poor weather conditions, where we have to ma
 
 ### Official race photos
 
-Dig Deep Race Photography will be taking official race photos during the event, they will be available via their [website]((https://linktr.ee/digdeepracephotography).
+Dig Deep Race Photography will be taking official race photos during the event, they will be available via their [website](https://linktr.ee/digdeepracephotography).
 
 ### Acknowledgements
 
