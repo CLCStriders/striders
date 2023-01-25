@@ -99,7 +99,6 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
 - Tim Brock
 - Andy Brookes
 - Laura Daubney
-- Jamie Hartnoll
 - Charlie Haward
 - Jon Howes
 - Eoin McQuone
