@@ -18,8 +18,8 @@ Helen Knight finished in 5th overall and as 2nd in her Masters category to lead 
 
 With such gutsy performances on the day, the ladies secured 3rd team place and 1st in the Masters category. Overall for the season, the ladies bagged 3rd position in Division Two and were the 1st Masters team across the winter. Liza Bradshaw earned 3rd place in the Masters for the season. And the ladies achieved their goal of promotion back to the heady heights of Division One in the Midland Cross Country League – where athletes of their class belong.
 
-Full results of the senior ladies race are available on the [Race Tec Results website]https://www.racetecresults.com/results.aspx?CId=16418&RId=3091&EId=8 "Race Tec Results website"), the full results of the Masters is available at
-[Race Tec Results website]https://www.racetecresults.com/results.aspx?CId=16418&RId=3091&EId=9 "Race Tec Results website - Masters")
+Full results of the senior ladies race are available on the [Race Tec Results website](https://www.racetecresults.com/results.aspx?CId=16418&RId=3091&EId=8 "Race Tec Results website"), the full results of the Masters is available at
+[Race Tec Results website](https://www.racetecresults.com/results.aspx?CId=16418&RId=3091&EId=9 "Race Tec Results website - Masters")
 
 Meanwhile, the CLC Striders men journeyed to Burton Dassett Country Park in Warwickshire for their final race of the Birmingham cross country League Division Two to do battle over some of the most testing terrain in the region in an event hosted by Spa Striders. Having first entered Division 3 in the Birmingham League way back in the 2011-12 season, not long after its founding in 2008, could this small, inclusive running club from a provincial town in Gloucestershire finally make it to Division One? Once again, the men turned out in force and 18 runners lined up to face the brutal landscape to hopefully make the dream come true.
  
