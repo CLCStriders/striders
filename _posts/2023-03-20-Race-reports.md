@@ -36,7 +36,7 @@ Max Harrison-Tossato, a CLC Striders second-claim runner, finished in a strong 5
 
 Full results of the race are available on the [Rogue nation Google account](https://drive.google.com/file/d/13kCglDOPohX5RYskDjBh1xqwnwZ86e4V/view  "Rogue nation Google account").
 
-![Fission 20 mile and half marathon](/images/2023/03/2023-03-20-Fission.jpg "Fission 20 mile and half marathon")
+![Fission 20 mile and half marathon](/images/2023/03/2023-03-20-Fission.png "Fission 20 mile and half marathon")
 
 Pictured from left to right - Paul Northup, Matt Ashman, Will Pearce, Tom Burgess, Joe Willgoss, Rob Barnett, Ryan O’Donnell, Rob Green, Helen Knight and Kate Telford
 
@@ -52,7 +52,7 @@ Rob Bircher, meanwhile, took part in the Caincross race, running the Magnificent
 
 Full results of the race are available on the [Ready set go timing website](https://www.readysetgotiming.co.uk/s/mag7-2023-dogs.pdf "Ready set go timing website").
 
-![Eastnor Seven](/images/2023/03/2023-03-20-2023-03-20-Eastnor-seven.jpg "Eastnor seven")
+![Eastnor Seven](/images/2023/03/2023-03-20-Eastnor-seven.jpg "Eastnor seven")
 
 Pictured - Amelia Mullins
 
@@ -60,7 +60,7 @@ Pictured - Amelia Mullins
 
 On what was a busy racing weekend for him, Rob Bircher took part in the Devon Pies and Pasty challenge on Saturday 18 March. Using an old train line, the event comprised laps of 5.3k out-and-back, the aim being to complete as many laps as possible within seven hours. Rob completed 42.48 kms in just 4 hours 31 minutes, effectively running a marathon. And at the end, instead of a goody-bag runners got to choose which pasty or pie they would prefer. Tasty!
 
-![Eastnor Seven caincross](/images/2023/03/2023-03-20-2023-03-20-Eastnor-seven-caincross.jpg "Eastnor seven caincross")
+![Eastnor Seven caincross](/images/2023/03/2023-03-20-Eastnor-seven-caincross.jpg "Eastnor seven caincross")
 
 Pictured - Rob Bircher
 
