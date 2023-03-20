@@ -36,7 +36,7 @@ Max Harrison-Tossato, a CLC Striders second-claim runner, finished in a strong 5
 
 Full results of the race are available on the [Rogue nation Google account](https://drive.google.com/file/d/13kCglDOPohX5RYskDjBh1xqwnwZ86e4V/view  "Rogue nation Google account").
 
-![Fission 20 mile and half marathon](/2023/03/2023-03-20-Fission.PNG "Fission 20 mile and half marathon")
+![Fission 20 mile and half marathon](/images/2023/03/2023-03-20-Fission.PNG "Fission 20 mile and half marathon")
 
 Pictured from left to right - Paul Northup, Matt Ashman, Will Pearce, Tom Burgess, Joe Willgoss, Rob Barnett, Ryan O’Donnell, Rob Green, Helen Knight and Kate Telford
 
