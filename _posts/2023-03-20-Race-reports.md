@@ -6,7 +6,7 @@ categories:
 
 ---
 
-#### Gloucestershire Cross Country League
+### Gloucestershire Cross Country League
 
 At the close of the 2022/23 Gloucestershire Cross Country League the CLC Striders Ladies Masters team finished in 1st place, with the Ladies Open team finishing 6th overall – a fantastic achievement and a credit to all who participated across the season. In the individual competition, Kate Telford was 3rd LV35, Helen Knight was 2nd LV40, Rachel Vines was 5th LV40, and Amelia Mullins was 1st LV50.
 
