@@ -62,7 +62,7 @@ On what was a busy racing weekend for him, Rob Bircher took part in the Devon Pi
 
 ![Eastnor Seven caincross](/images/2023/03/2023-03-20-Eastnor-seven-caincross.jpg "Eastnor seven caincross")
 
-Pictured - Rob Bircher
+Pictured - Rob Bircher.
 
 
 
