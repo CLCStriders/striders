@@ -20,7 +20,7 @@ Representing the men were Rob Green and Tom Burgess. Rob was first man home for 
 
 Pictured - Rob Green, Tom Burgess, Helen Knight, Liza Bradshaw, Rachel Vines, Kate Telford 
 
-#### Fission 20 mile and Half Marathon – Saturday 18 March 2023
+### Fission 20 mile and Half Marathon – Saturday 18 March 2023
 
 A good group of Striders took to the quiet lanes around Berkeley in south Gloucestershire  on Saturday 18 March for the 20-mile and Half Marathon distances.
 
@@ -40,7 +40,7 @@ Full results of the race are available on the [Rogue nation Google account](http
 
 Pictured from left to right - Paul Northup, Matt Ashman, Will Pearce, Tom Burgess, Joe Willgoss, Rob Barnett, Ryan O’Donnell, Rob Green, Helen Knight and Kate Telford
 
-#### Eastnor Seven – Sunday 19 March 2023
+### Eastnor Seven – Sunday 19 March 2023
 
 Three Striders took to the picturesque footpaths and woodland trails around Eastnor Castle for the ‘Magnificent Eastnor Castle Seven’, culminating in a climb to the famous obelisk for some spectacular views before the steep descent back to the finish.
 
@@ -56,7 +56,7 @@ Full results of the race are available on the [Ready set go timing website](http
 
 Pictured - Amelia Mullins
 
-#### Devon Pies and Pasty challenge trail marathon
+### Devon Pies and Pasty challenge trail marathon
 
 On what was a busy racing weekend for him, Rob Bircher took part in the Devon Pies and Pasty challenge on Saturday 18 March. Using an old train line, the event comprised laps of 5.3k out-and-back, the aim being to complete as many laps as possible within seven hours. Rob completed 42.48 kms in just 4 hours 31 minutes, effectively running a marathon. And at the end, instead of a goody-bag runners got to choose which pasty or pie they would prefer. Tasty!
 
