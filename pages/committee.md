@@ -14,7 +14,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 {:.committee .display}
 |Name | Role | Email |
 |--|--|--|
-| Brendan Ward| Club President and Head Coach| |
+| Brendan Ward| Club President | |
 | Jon Howes| Chair| <chair@clcstriders-runningclub.co.uk> |
 | Matt Ashman| Club Secretary, Welfare Officer and Coach| <secretary@clcstriders-runningclub.co.uk> |
 | Eoin McQuone| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
@@ -51,4 +51,7 @@ Committee minutes are available to club members below:
 - [2022-01-20](assets/Committee-minutes/2022-01-20.pdf)
 - [2022-04-07](assets/Committee-minutes/2022-04-07.pdf)
 - [AGM-2022](/assets/Committee-minutes/AGM-2022.pdf) 
+- [2022-09-06](/assets/Committee-minutes/2022-09-06.pdf) 
+- [2022-11-08](/assets/Committee-minutes/2022-11-08.pdf) 
+- [2023-01-24](/assets/Committee-minutes/2023-01-24.pdf) 
 
