@@ -1,5 +1,5 @@
 ---
-title: 'Race reports – 5 and 7 April 2023
+title: 'Race reports - 5 and 7 April 2023
 layout: post
 categories:
   - Race reports
