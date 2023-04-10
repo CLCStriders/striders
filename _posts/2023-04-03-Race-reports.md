@@ -18,7 +18,7 @@ It was Anja Whelan’s road debut for the club and run of the day was from Kate 
 
 Full results are available at https://www.race-results.co.uk/results/2023/m6w23.htm
 
-![Ladies road relays team](/images/2023/04/2023-04-10-Ladies-road-relays.jpg "Ladies road relays team")
+![Ladies road relays team](/images/2023/04/2023-04-10-ladies-road-relays.jpg "Ladies road relays team")
 
 #### Anglo Celtic Plate 100km and 50km - South Lake Leisure Centre, Craigavon, N. Ireland, 2 April 2023
 
