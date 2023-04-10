@@ -21,15 +21,15 @@ Membership benefits include:
 
 In line with England Athletics registration, our membership is renewable annually on 1st April.
 
-The 2022/23 membership fees are:
+The 2023/24 membership fees are:
 
-- Full year membership - £30 &#x00B9; (available from 1st April to 30th September)
-- Half year membership - £22 &#x00B9; (available from 1st October)
-- Second claim membership - £15 &#x00B2;
+- Full year membership - £35 &#x00B9; (available from 1st April to 30th September)
+- Half year membership - £25 &#x00B9; (available from 1st October)
+- Second claim membership - £20 &#x00B2;
 
-  &#x00B9; Includes the £16 England Athletics registration fee.  
+  &#x00B9; Includes the £17 England Athletics registration fee.  
   &#x00B2; Second claim members are those already registered with another England Athletics club.
 
-When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website. Membership fees are due within 28 days of receipt of the payment link. 
+When you've decided you want to join, please complete the online [membership form](/membership-form). Once your application has been processed you will be emailed a link allowing you to pay your membership fee securely online via the England Athletics website. Membership fees are due within 28 days of receipt of the payment link.
 
 The club's privacy statement can be found [here](/privacy). For further information please email <membership@clcstriders-runningclub.co.uk>.

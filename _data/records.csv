@@ -80,9 +80,9 @@ Road,1,Men,xy,Half&nbsp;Marathon,21094,60-64,64,Edward Collier,1:34:57,5697,Chel
 Road,1,Men,xy,Half&nbsp;Marathon,21094,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,Half&nbsp;Marathon,21094,70-74,74,David James,1:46:07,6367,"Bath, Two Tunnels",15/08/2021,20210815
 Road,1,Men,xy,20mi,32180,U20,19,George Parker,2:50:54,10254,Gloucester,08/03/2015,20150308
-Road,1,Men,xy,20mi,32180,Senior,34,James Oram,2:02:18,7338,Gloucester,08/03/2015,20150308
-Road,1,Men,xy,20mi,32180,35-39,39,Wayne Usher,2:06:51,7611,Gloucester,13/03/2011,20110313
-Road,1,Men,xy,20mi,32180,40-44,44,James Oram,2:02:18,7338,Gloucester,08/03/2015,20150308
+Road,1,Men,xy,20mi,32180,Senior,34,Joe Willgoss &amp; Rob Green,1:59:16,7156,Berkeley,18/03/2023,20230318
+Road,1,Men,xy,20mi,32180,35-39,39,Joe Willgoss,1:59:16,7156,Berkeley,18/03/2023,20230318
+Road,1,Men,xy,20mi,32180,40-44,44,Rob Green,1:59:16,7156,Berkeley,18/03/2023,20230318
 Road,1,Men,xy,20mi,32180,45-49,49,Paul Northup,2:26:52,8812,Gloucester,08/03/2015,20150308
 Road,1,Men,xy,20mi,32180,50-54,54,Paul Northup,2:20:52,8452,Gloucester,13/03/2016,20160313
 Road,1,Men,xy,20mi,32180,55-59,59,Gavin Jerman,2:38:54,9534,Berkeley,16/03/2019,20190316
@@ -112,7 +112,7 @@ Road,1,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,5km,5000,U20,19,,,99999,,,99999999
 Road,1,Women,xx,5km,5000,Senior,34,Hilary Mott,17:51,1071,White Horse,19/08/2014,20140819
 Road,1,Women,xx,5km,5000,35-39,39,Laura Kent,18:12,1092,White Horse,20/08/2009,20090820
-Road,1,Women,xx,5km,5000,40-44,44,Helen Knight,19:11,1151,"Odd Down, Bath",23/04/2022,20220423
+Road,1,Women,xx,5km,5000,40-44,44,Helen Knight,18:34,1114,Hereford,05/04/2023,20230405
 Road,1,Women,xx,5km,5000,45-49,49,Amanda Steer,20:46,1246,Pomphrey,30/04/2019,20190430
 Road,1,Women,xx,5km,5000,50-54,54,Jill Harsent,25:19,1519,White Horse,20/05/2010,20100520
 Road,1,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13,1513,White Horse,18/06/2009,20090618
@@ -175,7 +175,7 @@ Road,1,Women,xx,Half&nbsp;Marathon,21094,35-39,39,Liza Bradshaw,1:21:58,4915,Che
 Road,1,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:48,5268,Bath,16/10/2022,20221016
 Road,1,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Amanda Steer,1:32:46,5566,Cheltenham,27/09/2015,20150927
 Road,1,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Amanda Steer,1:37:03,5823,Bath,15/03/2020,20200315
-Road,1,Women,xx,Half&nbsp;Marathon,21094,55-59,59,Dawn Addinall,1:53:36,6816,Tewkesbury,09/05/2010,20100509
+Road,1,Women,xx,Half&nbsp;Marathon,21094,55-59,59,Nikki Smith,1:41:34,6094,Reading,02/04/2023,20230402
 Road,1,Women,xx,Half&nbsp;Marathon,21094,60-64,64,Dawn Addinall,1:52:36,6756,Cardiff (short),16/10/2010,20101016
 Road,1,Women,xx,Half&nbsp;Marathon,21094,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,Half&nbsp;Marathon,21094,70-74,74,,,99999,,,99999999
@@ -629,6 +629,7 @@ Field,4,Women,xx,High&nbsp;Jump,90001,Senior,34,Nicola Weager,1.15,1.15,Prince o
 Field,4,Women,xx,Long&nbsp;Jump,90002,Senior,34,Nicola Weager,4.17,4.17,"Jubilee Track, Gloucester",12/05/2018,20180512
 Field,4,Women,xx,Triple&nbsp;Jump,90003,Senior,34,Nicola Weager,8.85,8.85,Prince of Wales Stadium,18/07/2018,20180718
 Field,4,Women,xx,Javelin,90004,Senior,34,Hollie Wharton,21.36,21.36,Prince of Wales Stadium,13/05/2012,20120513
+parkrun,5,Men,xy,5km,5000,U20,19,Kai Hamer,18:53,1133,"Pittville Park, Cheltenham",08/04/2023,20230408
 parkrun,5,Men,xy,5km,5000,Senior,34,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
 parkrun,5,Men,xy,5km,5000,35-39,39,Rob Barnett,18:19,1099,"Pittville Park, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
@@ -637,7 +638,7 @@ parkrun,5,Men,xy,5km,5000,55-59,49,Paul Northup,19:53,1193,"Pittville Park, Chel
 parkrun,5,Men,xy,5km,5000,60-64,64,Mike Speke,23:14,1394,"Gloucester North",03/12/2022,20221203
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,"Congleton",18/03/2023,20230318
-parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,24:49,1489,"Pittville Park, Cheltenham",02/04/2022,20220402
-parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:43,1183,"Pittville Park, Cheltenham",02/04/2022,20220402
+parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,"Berkeley Green",08/04/2023,20230408
+parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park, Cheltenham",08/04/2023,20230408
 parkrun,5,Women,xx,5km,5000,45-49,49,Amelia Mullins,23:22,1402,"Pittville Park, Cheltenham",23/04/2022,20220423
 parkrun,5,Women,xx,5km,5000,50-54,54,Amanda Steer,23:45,1425,"Pittville Park, Cheltenham",02/04/2022,20220402

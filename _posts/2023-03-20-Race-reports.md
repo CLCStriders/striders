@@ -6,7 +6,7 @@ categories:
 
 ---
 
-#### Gloucestershire Cross Country League
+### Gloucestershire Cross Country League
 
 At the close of the 2022/23 Gloucestershire Cross Country League the CLC Striders Ladies Masters team finished in 1st place, with the Ladies Open team finishing 6th overall – a fantastic achievement and a credit to all who participated across the season. In the individual competition, Kate Telford was 3rd LV35, Helen Knight was 2nd LV40, Rachel Vines was 5th LV40, and Amelia Mullins was 1st LV50.
 
@@ -20,7 +20,7 @@ Representing the men were Rob Green and Tom Burgess. Rob was first man home for 
 
 Pictured - Rob Green, Tom Burgess, Helen Knight, Liza Bradshaw, Rachel Vines, Kate Telford 
 
-#### Fission 20 mile and Half Marathon – Saturday 18 March 2023
+### Fission 20 mile and Half Marathon – Saturday 18 March 2023
 
 A good group of Striders took to the quiet lanes around Berkeley in south Gloucestershire  on Saturday 18 March for the 20-mile and Half Marathon distances.
 
@@ -36,11 +36,11 @@ Max Harrison-Tossato, a CLC Striders second-claim runner, finished in a strong 5
 
 Full results of the race are available on the [Rogue nation Google account](https://drive.google.com/file/d/13kCglDOPohX5RYskDjBh1xqwnwZ86e4V/view  "Rogue nation Google account").
 
-![Fission 20 mile and half marathon](/images/2023/03/2023-03-20-Fission.jpg "Fission 20 mile and half marathon")
+![Fission 20 mile and half marathon](/images/2023/03/2023-03-20-Fission.PNG "Fission 20 mile and half marathon")
 
 Pictured from left to right - Paul Northup, Matt Ashman, Will Pearce, Tom Burgess, Joe Willgoss, Rob Barnett, Ryan O’Donnell, Rob Green, Helen Knight and Kate Telford
 
-#### Eastnor Seven – Sunday 19 March 2023
+### Eastnor Seven – Sunday 19 March 2023
 
 Three Striders took to the picturesque footpaths and woodland trails around Eastnor Castle for the ‘Magnificent Eastnor Castle Seven’, culminating in a climb to the famous obelisk for some spectacular views before the steep descent back to the finish.
 
@@ -52,17 +52,17 @@ Rob Bircher, meanwhile, took part in the Caincross race, running the Magnificent
 
 Full results of the race are available on the [Ready set go timing website](https://www.readysetgotiming.co.uk/s/mag7-2023-dogs.pdf "Ready set go timing website").
 
-![Eastnor Seven](/images/2023/03/2023-03-20-2023-03-20-Eastnor-seven.jpg "Eastnor seven")
+![Eastnor Seven](/images/2023/03/2023-03-20-Eastnor-seven.JPG "Eastnor seven")
 
 Pictured - Amelia Mullins
 
-#### Devon Pies and Pasty challenge trail marathon
+### Devon Pies and Pasty challenge trail marathon
 
 On what was a busy racing weekend for him, Rob Bircher took part in the Devon Pies and Pasty challenge on Saturday 18 March. Using an old train line, the event comprised laps of 5.3k out-and-back, the aim being to complete as many laps as possible within seven hours. Rob completed 42.48 kms in just 4 hours 31 minutes, effectively running a marathon. And at the end, instead of a goody-bag runners got to choose which pasty or pie they would prefer. Tasty!
 
-![Eastnor Seven caincross](/images/2023/03/2023-03-20-2023-03-20-Eastnor-seven-caincross.jpg "Eastnor seven caincross")
+![Eastnor Seven caincross](/images/2023/03/2023-03-20-Eastnor-seven-caincross.JPG "Eastnor seven caincross")
 
-Pictured - Rob Bircher
+Pictured - Rob Bircher.
 
 
 
