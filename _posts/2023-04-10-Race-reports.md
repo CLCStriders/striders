@@ -1,12 +1,12 @@
 ---
-title: 'Race reports – 5 and 7 April 2023
+title: 'Race reports - 5 and 7 April 2023'
 layout: post
 categories:
   - Race reports
 
 ---
 
-#### Playing the short game 
+#### Playing the short game.
 
 As Easter weekend approached, CLC Striders athletes fixed their sights on the shorter 5k distance. On Wednesday 5 April two competed in the first race in the Hereford Couriers 5k series and on Friday 7 April three took part in the first Bristol Track 5k of the season at Odd Down in Bath.
 
