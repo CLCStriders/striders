@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders: Strider of the Month March 2023 - Ryan O'Donnell'
+title: 'CLC Striders: Strider of the Month March 2023 - Ryan ODonnell'
 layout: post
 categories:
   - Awards
