@@ -1,5 +1,5 @@
 ---
-title: 'Race reports - 16 April 2023'
+title: 'Race reports - 16 April 2023: Manchester marathon'
 layout: post
 categories:
   - Race reports
