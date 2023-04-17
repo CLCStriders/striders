@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders: Strider of the Month March 2023 - Ryan O'Donnell'
+title: 'CLC Striders: Strider of the Month March 2023 - Ryan ODonnell'
 layout: post
 categories:
   - Awards
@@ -14,6 +14,6 @@ Ryan has been a regular at training & club speed sessions in recent months, so t
 
 Well done Ryan. 
 
-![Strider of the month Ryan O'Donnell](/images/2023/04/2023-04-13-SOTM-March-2023.jpg "CLC Strider of the month March 2023 Ryan O'Donnell")
+![Strider of the month Ryan O'Donnell](/images/2023/04/2023-04-12-SOTM-March-2023.jpg "CLC Strider of the month March 2023 Ryan O'Donnell")
 
 
