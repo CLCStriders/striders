@@ -17,7 +17,7 @@ Meanwhile, having both earned championship starts, Liza Bradshaw and Helen Knigh
         
 Fiona Brady-Miller ran a solid 3:43:54 – finishing in almost exactly the same time as she achieved in last year’s London Marathon, once again loving the whole experience. After deferring her place from last year due to a horrid hip fracture, Deborah Rees made her return to marathon running with a gutsy 3:45:10 – an incredible achievement after months of rehab and re-building.
 
-And finally, after a promising first half, in his first marathon, Javid Norat ran into all sorts of issues with his feet – which were soaked before he even started. Norat discovered just how brutal and unforgiving the marathon can be when things don’t go smoothly. But he didn’t give in and battled home in 4:16:18.
+And finally, after a promising first half, Javid Norat ran into all sorts of issues with his feet – which were soaked before he even started. Norat discovered just how brutal and unforgiving the marathon can be when things don’t go smoothly. But he didn’t give in and battled home in 4:16:18.
 
 Full results of the marathon are available on the [TCS London marathon website](https://www.tcslondonmarathon.com/results/2023-results "TCS London marathon website")
 
