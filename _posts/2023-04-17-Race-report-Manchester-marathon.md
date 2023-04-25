@@ -1,5 +1,5 @@
 ---
-title: 'Race reports - 16 April 2023'
+title: 'Manchester marathon race report - 16 April 2023'
 layout: post
 categories:
   - Race reports
@@ -23,6 +23,8 @@ Alex Johnston finished his debut marathon in a time of 2:52:01, despite having t
 One of the performances of the day came from Nick Ledwold, whose celebrations as he crossed the finish line in a time of 2:54:16 told us everything about how well he'd run and what his achievement meant to him. And the last CLC Strider to finish in under three hours was club captain Will Pearce in a time of 02:56:56 – once again proving his solid consistency over this testing distance.
 
 Liza Bradshaw was next home for the club, just outside the three-hour mark, in a solid time of 03:03:19 and in 7th place in her FV35 age category. Next home was one of the club’s coaches Jamie Hartnoll in a PB time of 3:13:57 and marathon debutant Adam Greenwood, one of the club’s fastest-improving runners and trained for the event by Hartnoll, in a time of 3:15:48.
+
+Tom Fletcher was a late entrant, running 3:27:18 on the day, while the club's last finisher probably achieved one of the best results of the day, as Nikki Smith completed the marathon in 3:33:18 as the 7th FV55 finisher, smashing the club record for her age category in the process.
 
 ![Manchester marathon 2023](/images/2023/04/2023-04-17-Manchester-marathon-3.jpg "Manchester marathon 2023")
 
