@@ -2,7 +2,7 @@ Type,type_sort,Gender,gender_search,Distance,distance_m_sort,Age Group,age_sort,
 Road,1,Men,xy,Mile,1609,U20,19,George Parker,6:05,365,Bourton,19/07/2014,20140719
 Road,1,Men,xy,Mile,1609,Senior,34,John Parker,4:32,272,Bourton,17/07/2010,20100717
 Road,1,Men,xy,Mile,1609,35-39,39,John Parker,4:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,40-44,44,Paul Lockyer,5:20,320,Bourton,18/07/2015,20150718
+Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,5:15,315,Bourton,12/05/2023,20230512
 Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:25,325,Bourton,21/07/2018,20180721
 Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,5:26,326,Meteor Mile,02/09/2017,20170902
 Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,5:40,340,Bourton,01/07/2022,20220701
@@ -101,7 +101,7 @@ Road,1,Men,xy,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,Marathon,42188,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,Senior,34,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
-Road,1,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:44,344,Bourton,10/07/2021,20210710
+Road,1,Women,xx,Mile,1609,35-39,39,Kate Telford,5:37,337,Bourton,12/05/2023,20230512
 Road,1,Women,xx,Mile,1609,40-44,44,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
 Road,1,Women,xx,Mile,1609,45-49,49,Amanda Steer,6:05,365,Bourton,16/07/2016,20160716
 Road,1,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
