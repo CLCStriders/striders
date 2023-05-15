@@ -2,7 +2,7 @@ Type,type_sort,Gender,gender_search,Distance,distance_m_sort,Age Group,age_sort,
 Road,1,Men,xy,Mile,1609,U20,19,George Parker,6:05,365,Bourton,19/07/2014,20140719
 Road,1,Men,xy,Mile,1609,Senior,34,John Parker,4:32,272,Bourton,17/07/2010,20100717
 Road,1,Men,xy,Mile,1609,35-39,39,John Parker,4:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,40-44,44,Paul Lockyer,5:20,320,Bourton,18/07/2015,20150718
+Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,5:15,315,Bourton,12/05/2023,20230512
 Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:25,325,Bourton,21/07/2018,20180721
 Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,5:26,326,Meteor Mile,02/09/2017,20170902
 Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,5:40,340,Bourton,01/07/2022,20220701
@@ -101,7 +101,7 @@ Road,1,Men,xy,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,Marathon,42188,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,Senior,34,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
-Road,1,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:44,344,Bourton,10/07/2021,20210710
+Road,1,Women,xx,Mile,1609,35-39,39,Kate Telford,5:37,337,Bourton,12/05/2023,20230512
 Road,1,Women,xx,Mile,1609,40-44,44,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
 Road,1,Women,xx,Mile,1609,45-49,49,Amanda Steer,6:05,365,Bourton,16/07/2016,20160716
 Road,1,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
@@ -231,7 +231,7 @@ Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
 Track,3,Men,xy,100m,100,40-44,44,Paul Lockyer,13.0,13,Prince of Wales Stadium,20/07/2016,20160720
-Track,3,Men,xy,100m,100,45-49,49,Gareth Harries,14.1,14.1,Prince of Wales Stadium,04/07/2018,20180704
+Track,3,Men,xy,100m,100,45-49,49,Paul Lockyer,13.3,13.3,Prince of Wales Stadium,15/05/2022,20220515
 Track,3,Men,xy,100m,100,50-54,54,Martin Bick,14.62,14.62,Prince of Wales Stadium,22/07/2015,20150722
 Track,3,Men,xy,100m,100,55-59,59,Andy Brookes,15.57,15.57,Tavistock,12/08/2018,20180812
 Track,3,Men,xy,100m,100,60-64,64,,,99999,,,99999999
@@ -251,7 +251,7 @@ Track,3,Men,xy,200m,200,U20,19,,,99999,,,99999999
 Track,3,Men,xy,200m,200,Senior,34,,,99999,,,99999999
 Track,3,Men,xy,200m,200,35-39,39,Chris Driskell,30.5,30.5,Prince of Wales Stadium,08/07/2015,20150708
 Track,3,Men,xy,200m,200,40-44,44,Paul Lockyer,26.5,26.5,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,200m,200,45-49,49,Gareth Harries,28.5,28.5,Prince of Wales Stadium,07/05/2018,20180507
+Track,3,Men,xy,200m,200,45-49,49,Paul Lockyer,27.7,27.7,Prince of Wales Stadium,15/05/2022,20220515
 Track,3,Men,xy,200m,200,50-54,54,JJ Willson,30.1,30.1,Prince of Wales Stadium,24/07/2013,20130724
 Track,3,Men,xy,200m,200,55-59,59,Andy Brookes,31.6,31.6,Prince of Wales Stadium,04/07/2018,20180704
 Track,3,Men,xy,200m,200,60-64,64,,,99999,,,99999999
@@ -635,7 +635,7 @@ parkrun,5,Men,xy,5km,5000,U20,19,Kai Hamer,18:29,1109,"Pittville Park, Cheltenha
 parkrun,5,Men,xy,5km,5000,Senior,34,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
 parkrun,5,Men,xy,5km,5000,35-39,39,Rob Barnett,18:19,1099,"Pittville Park, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
-parkrun,5,Men,xy,5km,5000,45-49,49,Jon Howes,19:25,1165,"King George V Playing Field, Cheltenham",26/03/2022,20220326
+parkrun,5,Men,xy,5km,5000,45-49,49,Paul Lockyer,19:21,1161,"Worcester Pitchcroft",08/04/2023,20230408
 parkrun,5,Men,xy,5km,5000,55-59,49,Paul Northup,19:53,1193,"Pittville Park, Cheltenham",23/04/2022,20220423
 parkrun,5,Men,xy,5km,5000,60-64,64,Mike Speke,23:14,1394,"Gloucester North",03/12/2022,20221203
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Cheltenham",26/03/2022,20220326
