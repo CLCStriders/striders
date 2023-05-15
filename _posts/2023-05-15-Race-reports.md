@@ -16,7 +16,7 @@ On a grey and gusty evening, seven CLC Striders athletes lined up among the fiel
 
 Full results are available on the [RaceRoster website](https://results.raceroster.com/v2/en-US/results/u3gwjpk6p7vhgrs6/results?subEvent= "RaceRoster website") 
 
-![Bourton 1 mile runners](/images/2023/05/2023-05-15-Bourton-1-mile.jpg "Bourton 1 mile runners")
+![Bourton 1 mile runners](/images/2023/05/2023-05-15-Bourton-1-mile.jpg "Bourton 1 mile runners" width=50)
 Pictured at the Bourton Mile, from left to right: Paul Lockyer, Kate Telford, Joel Freeland, Rachel Vines, Paul Northup, Rusty Hemsley and Julia Rose
 
 #### Bristol Half Marathon and 10k, Sunday 14 May
