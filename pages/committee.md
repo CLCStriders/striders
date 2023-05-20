@@ -15,17 +15,17 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 |Name | Role | Email |
 |--|--|--|
 | Brendan Ward| Club President | |
-| Jon Howes| Chair| <chair@clcstriders-runningclub.co.uk> |
-| Matt Ashman| Club Secretary, Welfare Officer and Coach| <secretary@clcstriders-runningclub.co.uk> |
-| Eoin McQuone| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
+| Matt Ashman| Chair| <chair@clcstriders-runningclub.co.uk> |
+| Matt Ashman| Club Secretary, Welfare Officer and Coach | <secretary@clcstriders-runningclub.co.uk> |
+| Tom Burgess| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
 | Gavin Jerman| Membership Secretary|<membership@clcstriders-runningclub.co.uk>
 | Amelia Mullins| Welfare Officer and Coach| <training@clcstriders-runningclub.co.uk> |
 | Will Pearce| Men’s Captain| <races@clcstriders-runningclub.co.uk> |
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
 | Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
 | Rachel Vines| Womens Captain | <races@clcstriders-runningclub.co.uk> |
-| Laura Daubney | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
-| Mat Benfield| Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
+| Rob Barnett | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
+| Nick Ledwold | Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
 | Paul Northup| Press Officer| |
 | Ryan O'Donnell | Social Coordinator| |
 
