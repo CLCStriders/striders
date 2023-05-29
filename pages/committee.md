@@ -54,4 +54,5 @@ Committee minutes are available to club members below:
 - [2022-09-06](/assets/Committee-minutes/2022-09-06.pdf) 
 - [2022-11-08](/assets/Committee-minutes/2022-11-08.pdf) 
 - [2023-01-24](/assets/Committee-minutes/2023-01-24.pdf) 
+- [2023-03-28](/assets/Committee-minutes/2023-03-28.pdf)
 
