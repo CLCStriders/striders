@@ -1,5 +1,5 @@
 ---
-title: 'Race Report from a wide variety of races across 12, 13 and 14 May 2023'
+title: 'Race Report from 31 May - 4 June'
 layout: post
 categories:
   - Race reports
