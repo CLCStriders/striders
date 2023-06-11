@@ -31,7 +31,7 @@ Two Striders ran in the final event of the Hereford 5k Series. Helen Knight cloc
 
 CLC Striders took to Pittville Park on the morning of Saturday 10 June to do a ‘parkrun takeover’ – a good way to support this fantastic and inclusive weekly event and promote the club. We received a really warm welcome – on a very warm morning – marshalling, timing, scanning and supporting 532 parkrunners around the 5k course. And we aim to do another takeover later in the year. 
 
-![Parkrun takeover](/images/2023/06/2023-06-08-Parkrun-takeover.jpg "Parkrun takeover")
+![Parkrun takeover](/images/2023/06/2023-06-11-Parkrun-takeover.jpg "Parkrun takeover")
 
 ### Cheltenham Running Festival - Sunday 11 June
 
