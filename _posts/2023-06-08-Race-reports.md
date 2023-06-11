@@ -6,7 +6,7 @@ categories:
 
 ---
 
-The past two weeks have been a busy one for CLC Striders athletes, as they competed in a really wide range of different events, both near and far – further demonstrating the club’s inclusivity, diversity and endeavour.
+The past two weeks have been a busy one for CLC Striders athletes, as they competed in a really wide range of different events, both near and far.
 
 ### Stroud Beer Race - Wednesday 31 May 2023
 
