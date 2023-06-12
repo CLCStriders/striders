@@ -82,7 +82,7 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 12/07/2023,2023-07-12,,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 2 - Blackbridge Track Gloucester</a>,"100m,&nbsp;3000m,&nbsp;1500m",0,Track
 19/07/2023,2023-07-19,,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 3 - Blackbridge Track Gloucester</a>,"800m,&nbsp;5000m",0,Track
 24/07/2022,2022-07-24,,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader (Oldbury)</a>,"5mi",5,Road
-26/07/2023,2023-07-26,,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"400m,&nbsp;Mile,&nbsp;1500m",0,Track
+26/07/2023,2023-07-26,,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"400m,&nbsp;Mile",0,Track
 06/08/2022,2022-08-06,,<a href='https://eventswerun.co.uk/cranham-boundary-chase'>Cranham Boundary Chase</a>,"6mi",6,MT
 07/08/2022,2022-08-07,,<a href='https://stroudac.co.uk/standish-woodland-chase'>Standish Woodland Chase</a>,"10mi",10,MT
 10/08/2022,2022-08-10,,<a href='https://www.entrycentral.com/Bugatti10k'>Bugatti 10km</a>,"10km",6.2,Road
@@ -138,3 +138,6 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 19/07/2023,2023-07-19,,South West PB Series 2023 - Race 2 5km</a>,"5km",3.1,Road
 23/08/2023,2023-08-23,,South West PB Series 2023 - Race 2 5km</a>,"5km",3.1,Road
 07/10/2023,2023-10-07,,National 4 & 6 Stage  Road Relays (contact club captains),"_",,Road
+22/06/2023,2023-06-22,,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"200m,&nbsp;800m,&nbsp;3000m,",0,Track
+15/08/2023,2023-08-15,,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
+28/08/2023,2023-08-28,,<a href='https://www.ksacmikelambertopen.co.uk/home'>Mike Lambert Open - Stourport</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
