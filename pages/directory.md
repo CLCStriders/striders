@@ -131,6 +131,43 @@ Having played sport to a high level and having treated elite athletes for many y
 <tbody>
 <tr>
 <td style="width: 200px;">Company Name:</td>
+<td><b>Pentons Performance Therapy</b></td>
+</tr>
+<tr>
+<td>Services Offered:</td>
+<td>Sports therapy, sports massage and rehabilitation.</td>
+</tr>
+<tr>
+<td>Address:</td>
+<td>Real Life Fitness, Cheltenham Film Studios, Hatherley Lane, Cheltenham, GL51 6PN</td>
+</tr>
+<tr>
+<td>Telephone:</td>
+<td>07871 841538</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td><a href="mailto:info@pentonsperformancetherapy.co.uk">info@pentonsperformancetherapy.co.uk</a></td>
+</tr>
+<tr>
+<td>Website:</td>
+<td><a href="https://www.pentonsperformancetherapy.co.uk/" target="_blank" rel="nofollow">https://www.pentonsperformancetherapy.co.uk/</a></td>
+</tr>
+<tr>
+<td>Discount Offered to Club Members:</td>
+<td></td>
+</tr>
+<tr>
+<td>Company Info:</td>
+<td>At Pentons Performance Therapy we offer a wide range of services aimed at keeping your body in perfect working order. The beauty of the way we work is that we are able to modify our services and use them in conjunction with each other to cater for every need, from Stress relief, injury treatment and Prehabilitation, to get you back to sport/exercise stronger than you've ever been before. We use a vast range of skills and expertise to get you back to optimal performance including Sports Massage, Manual Therapy, Joint Mobilisation, Dry Needling, Dry Cupping, and Kinesiology Taping to name a few.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td style="width: 200px;">Company Name:</td>
 <td><b>Cotswold Physiotherapy Centre LLP</b></td>
 </tr>
 <tr>

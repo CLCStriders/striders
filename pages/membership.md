@@ -19,7 +19,7 @@ Membership benefits include:
 - Supportive and experienced running club members to help you improve your fitness and performance
 - The opportunity to complete in a variety of different events from road racing, cross country, track and relays (road and cross country)
 
-In line with England Athletics registration, our membership is renewable annually on 1st April.
+In line with England Athletics registration, membership is renewable annually on 1st April.
 
 The 2023/24 membership fees are:
 
