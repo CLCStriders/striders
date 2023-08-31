@@ -24,17 +24,31 @@ The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-C
 
 ##### Club Policies
 
-CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All children and adults at risk are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of children and adults at risk. 
+###### Health and Safety Policy
 
-The Club Welfare Officers are Matt Ashman and Amelia Mullins, any issues can be raised via <secretary@clcstriders-runningclub.co.uk>
+The committee take the safety of Club members seriously, as a club with no employees (solely volunteers), Health and Safety Law does not generally apply.The [Club Health and Safety Policy](/assets/Policies/CLC-Striders-HandS-Policy.pdf) details this further. 
+
+####### Risk assessments
+
+The ensure the safety of Club members, risk assessments have been produced around club activities:
+
+[Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf).
+
+###### Inclusion Policy
 
 CLC Striders embraces diversity and difference and is committed to providing opportunities that are safe, inclusive, accessible and equitable. Where possible, we want our club to be accessible to all members of society, whatever their age, disability, gender, race, ethnicity, sexuality or social/economic status. The [Club Inclusion Policy](/assets/Policies/CLC-Striders-Inclusion-Policy.pdf) outlines the club's approach to inclusion.
 
-##### Risk assessments
+###### Privacy Policy
 
-The committee take the safety of Club members seriously and have produced risk assessments around activities:
+CLC Striders are committed to protecting and respecting the privacy of its members. For any personal data provided for the purposes of membership, CLC Striders is the Data Controller and is responsible for storing and otherwise processing that data in a fair, lawful, secure and transparent way. The Club take the protection of the data that we hold about you as a member seriously and will do everything possible to ensure that data is collected, stored, processed, maintained, cleansed and retained in accordance with current and future UK data protection legislation.
 
-[Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf).
+The [Club Privacy Policy](/assets/Policies/CLC-Striders-Privacy-Policy.pdf) details the full principles around privacy, what data is held and processed and the rights of data subjects.
+
+###### Welfare Policy
+
+CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All members are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of all members. 
+
+The Club Welfare Officers are Matt Ashman and Amelia Mullins, any issues can be raised via <secretary@clcstriders-runningclub.co.uk>
 
 ##### Club Awards
 
