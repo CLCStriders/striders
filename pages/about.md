@@ -10,9 +10,9 @@ Welcome to the CLC Striders website, we are a inclusive and competitive running 
 
 We hold organised [training sessions](/training) on Mondays and Wednesdays throughout the year, and have an enthusatic and strong, mens and womens team racing on the road, track, and cross country.
 
-New [members](/membership) are always welcome to join us for training, either [get in touch](/contact) or just turn up.
+New [members](/membership) are always welcome to join us for training, either [get in touch](/contact) or come along on a Monday or Wednesday.
 
-The club is run by a [committee](/committee) of volunteers and is [affiliated by England Athletics](/images/2020/07//Affiliation-certificate-2020-21.jpg).
+The club is run by a [committee](/committee) of volunteers and is [affiliated by England Athletics](/assets/affiliation-certificate.pdf).
 
 #### Club Constitution
 
@@ -26,7 +26,7 @@ The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-C
 
 ##### Health and Safety Policy
 
-The committee take the safety of Club members seriously, as a club with no employees (solely volunteers), Health and Safety Law does not generally apply.The [Club Health and Safety Policy](/assets/Policies/CLC-Striders-HandS-Policy.pdf) details this further. 
+The committee take the safety of Club members seriously, as a club with no employees (solely volunteers), Health and Safety Law does not generally apply. The [Club Health and Safety Policy](/assets/Policies/CLC-Striders-HandS-policy.pdf) details this further. 
 
 ###### Risk assessments
 
