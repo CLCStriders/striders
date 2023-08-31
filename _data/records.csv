@@ -36,7 +36,7 @@ Road,1,Men,xy,5mi,8045,40-44,44,Chris Hale,29:28,1768,Tewkesbury,07/11/2010,2010
 Road,1,Men,xy,5mi,8045,45-49,49,Will Miles,30:00,1800,White Horse,25/05/2009,20090525
 Road,1,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53,1793,Linda Franks,21/01/2018,20180121
 Road,1,Men,xy,5mi,8045,55-59,59,Paul Northup,31:42,1902,Linda Franks,23/01/2022,20220123
-Road,1,Men,xy,5mi,8045,60-64,64,John Willson,32:47,1967,Shepperdine,25/07/2021,20210725
+Road,1,Men,xy,5mi,8045,60-64,64,JJ Willson,32:47,1967,Shepperdine,25/07/2021,20210725
 Road,1,Men,xy,5mi,8045,65-69,69,Ed Collier,37:46,2266,Linda Franks,22/01/2023,20230122
 Road,1,Men,xy,5mi,8045,70-74,74,David James,35:10.6,2110.6,Tewkesbury,06/11/2021,20211106
 Road,1,Men,xy,10km,10000,U20,19,Ben Pedley,35:23,2123,White Horse,03/04/2010,20100403
@@ -219,13 +219,15 @@ Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Helen Knight,1:27:23
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Fiona Brady-Miller,1:44:18,6258,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Sarah Wilson,2:02:42,7362,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,65-69,69,Jill Harsent,2:30:47,9047,South Downs,17/06/2023,20230617
 Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
 Multi-Terrain,2,Women,xx,Marathon,42188,40-44,44,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
 Multi-Terrain,2,Women,xx,Marathon,42188,50-54,54,Amelia Mullins,5:13:11,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
-Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,8:45:20,31520,"Jurassic Coast Path, Dorset (45mi)",09/04/2022,20220409
+Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:58:06,21486,"Trail Events Company Exmoor Ultra",22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,5:58:06,21486,"Trail Events Company Exmoor Ultra",22/07/2023,20230722
 Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
-Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,"Roseland August Trails (RAT) - The Plague 100k",05/08/2023,20230805
+Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,"Roseland August Trails (RAT) - The Plague 100k",05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
@@ -271,7 +273,7 @@ Track,3,Men,xy,400m,400,U20,19,,,99999,,,99999999
 Track,3,Men,xy,400m,400,Senior,34,Joel Freeland,56.3,56.3,Prince of Wales Stadium,20/07/2011,20110720
 Track,3,Men,xy,400m,400,35-39,39,John Parker,57.7,57.7,Prince of Wales Stadium,07/07/2010,20100707
 Track,3,Men,xy,400m,400,40-44,44,Paul Lockyer,59.7,59.7,Prince of Wales Stadium,25/07/2018,20180725
-Track,3,Men,xy,400m,400,45-49,49,Gareth Harries,63.0,63,"Jubilee Track, Gloucester",13/05/2018,20180513
+Track,3,Men,xy,400m,400,45-49,49,Gareth Harries,63.0,63,"Blackbridge Jubilee Track, Gloucester",13/05/2018,20180513
 Track,3,Men,xy,400m,400,50-54,54,Gavin Jerman,78.6,78.6,Prince of Wales Stadium,26/07/2017,20170726
 Track,3,Men,xy,400m,400,55-59,59,Andy Brookes,68.7,68.7,Prince of Wales Stadium,12/08/2018,20180812
 Track,3,Men,xy,400m,400,60-64,64,JJ Willson,68.3,68.3,Prince of Wales Stadium,28/07/2021,20210728
@@ -292,9 +294,9 @@ Track,3,Men,xy,800m,800,Senior,34,Will Ferguson,1:58.97,118.97,Tipton,14/08/2018
 Track,3,Men,xy,800m,800,35-39,39,Will Ferguson,1:58.97,118.97,Tipton,14/08/2018,20180814
 Track,3,Men,xy,800m,800,40-44,44,Phil Jowett,2:08.1,128.1,Birmingham,17/04/2010,20100417
 Track,3,Men,xy,800m,800,45-49,49,Gareth Harries,2:21.1,141.1,Prince of Wales Stadium,11/07/2018,20180711
-Track,3,Men,xy,800m,800,50-54,54,Eoin McQuone,2:30.6,150.6,"Jubilee Track, Gloucester",16/05/2021,20210516
+Track,3,Men,xy,800m,800,50-54,54,Eoin McQuone,2:30.6,150.6,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
 Track,3,Men,xy,800m,800,55-59,59,JJ Willson,2:34.2,154.2,Prince of Wales Stadium,12/07/2017,20170712
-Track,3,Men,xy,800m,800,60-64,64,JJ Willson,2:31.9,151.9,"Jubilee Track, Gloucester",16/05/2021,20210516
+Track,3,Men,xy,800m,800,60-64,64,JJ Willson,2:31.9,151.9,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
 Track,3,Men,xy,800m,800,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,800m,800,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,U20,19,,,99999,,,99999999
@@ -310,11 +312,11 @@ Track,3,Men,xy,1000m,1000,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,1500m,1500,U20,19,Ben Pedley,4:23.1,263.1,Prince of Wales Stadium,09/05/2010,20100509
 Track,3,Men,xy,1500m,1500,Senior,34,Will Ferguson,4:09.4,249.4,"Iffley Rd Stadium, Oxford",29/07/2017,20170729
 Track,3,Men,xy,1500m,1500,35-39,39,John Parker,4:09.8,249.8,Prince of Wales Stadium,21/07/2010,20100721
-Track,3,Men,xy,1500m,1500,40-44,44,James Oram,4:24.6,264.6,"Jubilee Track, Gloucester",15/05/2016,20160515
+Track,3,Men,xy,1500m,1500,40-44,44,James Oram,4:24.6,264.6,"Blackbridge Jubilee Track, Gloucester",15/05/2016,20160515
 Track,3,Men,xy,1500m,1500,45-49,49,Gareth Harries,5:00.3,300.3,Prince of Wales Stadium,18/07/2018,20180718
 Track,3,Men,xy,1500m,1500,50-54,54,Eoin McQuone,5:12.6,312.6,Prince of Wales Stadium,14/07/2021,20210714
 Track,3,Men,xy,1500m,1500,55-59,59,JJ Willson,5:10.8,310.8,Prince of Wales Stadium,18/07/2018,20180718
-Track,3,Men,xy,1500m,1500,60-64,64,,,99999,,,99999999
+Track,3,Men,xy,1500m,1500,60-64,64,JJ Willson,5:35.3,335.3,"Blackbridge Jubilee Track, Gloucester",15/05/2022,20220515
 Track,3,Men,xy,1500m,1500,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,1500m,1500,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,Mile,1609,U20,19,Ollie Mosley,5:54.4,354.4,Prince of Wales Stadium,27/08/2014,20140827
@@ -322,9 +324,9 @@ Track,3,Men,xy,Mile,1609,Senior,34,Will Ferguson,4:27.7,267.7,Prince of Wales St
 Track,3,Men,xy,Mile,1609,35-39,39,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
 Track,3,Men,xy,Mile,1609,40-44,44,James Oram,4:54.7,294.7,Prince of Wales Stadium,03/08/2016,20160803
 Track,3,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:23.5,323.5,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,50-54,54,Charles Goodwin,5:21.7,321.7,"Jubilee Track, Gloucester",01/09/2017,20170901
+Track,3,Men,xy,Mile,1609,50-54,54,Charles Goodwin,5:21.7,321.7,"Blackbridge Jubilee Track, Gloucester",01/09/2017,20170901
 Track,3,Men,xy,Mile,1609,55-59,59,JJ Willson,5:36.3,336.3,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,60-64,64,JJ Willson,5:53.2,353.2,Prince of Wales Stadium,07/07/2021,20210707
+Track,3,Men,xy,Mile,1609,60-64,64,JJ Willson,5:49.0,349.0,"Blackbridge Jubilee Track, Gloucester",24/06/2022,20220024
 Track,3,Men,xy,Mile,1609,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,3000m,3000,U20,19,George Parker,12:32.9,752.9,Prince of Wales Stadium,02/07/2014,20140702
@@ -334,7 +336,7 @@ Track,3,Men,xy,3000m,3000,40-44,44,Juan Moreno,9:30.7,570.7,Granada,20/05/2017,2
 Track,3,Men,xy,3000m,3000,45-49,49,Richard Shardlow,10:47.5,647.5,Prince of Wales Stadium,12/07/2017,20170712
 Track,3,Men,xy,3000m,3000,50-54,54,Paul Northup,10:48.5,648.5,Prince of Wales Stadium,01/05/2017,20170501
 Track,3,Men,xy,3000m,3000,55-59,59,Paul Northup,11:08.56,668.08,Prince of Wales Stadium,02/05/2022,20220502
-Track,3,Men,xy,3000m,3000,60-64,64,,,99999,,,99999999
+Track,3,Men,xy,3000m,3000,60-64,64,JJ Willson,11:36.6,696.6,"Blackbridge Jubilee Track, Gloucester",07/06/2022,20220007
 Track,3,Men,xy,3000m,3000,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,3000m,3000,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,2mi,3218,U20,19,,,99999,,,99999999
@@ -452,7 +454,7 @@ Track,3,Women,xx,200m,200,Senior,34,Katie Butler,27.9,27.9,Prince of Wales Stadi
 Track,3,Women,xx,200m,200,35-39,39,,,99999,,,99999999
 Track,3,Women,xx,200m,200,40-44,44,Amelia Mullins,34.1,34.1,Prince of Wales Stadium,03/08/2016,20160803
 Track,3,Women,xx,200m,200,45-49,49,Amelia Mullins,36.6,36.6,Prince of Wales Stadium,05/07/2017,20170705
-Track,3,Women,xx,200m,200,50-54,54,,,99999,,,99999999
+Track,3,Women,xx,200m,200,50-54,54,Amelia Mullins,37.28,37.28,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
 Track,3,Women,xx,200m,200,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,200m,200,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,200m,200,65-69,69,,,99999,,,99999999
@@ -481,7 +483,7 @@ Track,3,Women,xx,600m,600,U20,19,,,99999,,,99999999
 Track,3,Women,xx,600m,600,Senior,34,Katie Butler,1:47.5,107.5,Prince of Wales Stadium,10/07/2013,20130710
 Track,3,Women,xx,600m,600,35-39,39,Rachel Vines,1:54.7,114.7,Prince of Wales Stadium,19/07/2017,20170719
 Track,3,Women,xx,600m,600,40-44,44,Helen Knight,1:59.4,119.4,Prince of Wales Stadium,17/07/2019,20190717
-Track,3,Women,xx,600m,600,45-49,49,Amelia Mullins,2:13.1,133.1,Prince of Wales Stadium,19/07/2017,20170719
+Track,3,Women,xx,600m,600,45-49,49,Fiona Brady-Miller,2:11.44,131.44,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
 Track,3,Women,xx,600m,600,50-54,54,Amelia Mullins,2:14.7,134.7,Prince of Wales Stadium,06/07/2022,20220706
 Track,3,Women,xx,600m,600,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,600m,600,60-64,64,,,99999,,,99999999
@@ -491,8 +493,8 @@ Track,3,Women,xx,800m,800,U20,19,,,99999,,,99999999
 Track,3,Women,xx,800m,800,Senior,34,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
 Track,3,Women,xx,800m,800,35-39,39,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
 Track,3,Women,xx,800m,800,40-44,44,Helen Knight,2:41.3,161.3,Prince of Wales Stadium,24/07/2019,20190724
-Track,3,Women,xx,800m,800,45-49,49,Amelia Mullins,3:03.6,183.6,Prince of Wales Stadium,25/07/2018,20180725
-Track,3,Women,xx,800m,800,50-54,54,,,99999,,,99999999
+Track,3,Women,xx,800m,800,45-49,49,Fiona Brady-Miller,2:59.8,179.8,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
+Track,3,Women,xx,800m,800,50-54,54,Amelia Mullins,3:05.86,185.66,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
 Track,3,Women,xx,800m,800,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,800m,800,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,800m,800,65-69,69,,,99999,,,99999999
@@ -510,9 +512,9 @@ Track,3,Women,xx,1000m,1000,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,U20,19,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,Senior,34,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
 Track,3,Women,xx,1500m,1500,35-39,39,Rachel Vines,4:59.9,299.9,Prince of Wales Stadium,19/07/2017,20170719
-Track,3,Women,xx,1500m,1500,40-44,44,Rachel Vines,5:21.88,321.88,"Blackbridge Jubilee Track, Gloucester",23/04/2023,20230423
+Track,3,Women,xx,1500m,1500,40-44,44,Rachel Vines,5:20.65,320.65,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
 Track,3,Women,xx,1500m,1500,45-49,49,Amanda Steer,5:35.4,335.4,Stourport,30/04/2015,20150430
-Track,3,Women,xx,1500m,1500,50-54,54,,,99999,,,99999999
+Track,3,Women,xx,1500m,1500,50-54,54,Amelia Mullins,6:20.34,380.34,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
 Track,3,Women,xx,1500m,1500,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,65-69,69,,,99999,,,99999999
@@ -560,13 +562,15 @@ Track,3,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,U20,19,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,Senior,34,Hilary Agate,39:16.1,2356.1,Prince of Wales Stadium,24/08/2011,20110824
 Track,3,Women,xx,10km,10000,35-39,39,Rachel Vines,40:26.9,2426.9,Highgate,20/05/2017,20170520
-Track,3,Women,xx,10km,10000,40-44,44,Helen Knight,41:02.9,2462.9,"Jubilee Track, Gloucester",24/06/2022,20220624
-Track,3,Women,xx,10km,10000,45-49,49,Amanda Steer,43:35.2,2615.2,"Jubilee Track, Gloucester",01/09/2017,20170901
+Track,3,Women,xx,10km,10000,40-44,44,Helen Knight,41:02.9,2462.9,"Blackbridge Jubilee Track, Gloucester",24/06/2022,20220624
+Track,3,Women,xx,10km,10000,45-49,49,Amanda Steer,43:35.2,2615.2,"Blackbridge Jubilee Track, Gloucester",01/09/2017,20170901
 Track,3,Women,xx,10km,10000,50-54,54,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
+Track,3,Women,xx,50km,50000,Senior,34,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
+Track,3,Women,xx,50km,50000,40-44,44,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
 Track,3,Women,xx,4x100m&nbsp;relay,11100,U20,19,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
 Track,3,Women,xx,4x100m&nbsp;relay,11100,35-39,39,,,99999,,,99999999
@@ -628,7 +632,7 @@ Track,3,Women,xx,3000m&nbsp;s/c,15000,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,3000m&nbsp;s/c,15000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,3000m&nbsp;s/c,15000,70-74,74,,,99999,,,99999999
 Field,4,Women,xx,High&nbsp;Jump,90001,Senior,34,Nicola Weager,1.15,1.15,Prince of Wales Stadium,11/07/2018,20180711
-Field,4,Women,xx,Long&nbsp;Jump,90002,Senior,34,Nicola Weager,4.17,4.17,"Jubilee Track, Gloucester",12/05/2018,20180512
+Field,4,Women,xx,Long&nbsp;Jump,90002,Senior,34,Nicola Weager,4.17,4.17,"Blackbridge Jubilee Track, Gloucester",12/05/2018,20180512
 Field,4,Women,xx,Triple&nbsp;Jump,90003,Senior,34,Nicola Weager,8.85,8.85,Prince of Wales Stadium,18/07/2018,20180718
 Field,4,Women,xx,Javelin,90004,Senior,34,Hollie Wharton,21.36,21.36,Prince of Wales Stadium,13/05/2012,20120513
 parkrun,5,Men,xy,5km,5000,U20,19,Kai Hamer,18:00,1080,Victoria Dock,20/05/2023,20230520
@@ -637,7 +641,7 @@ parkrun,5,Men,xy,5km,5000,35-39,39,Rob Barnett,18:19,1099,"Pittville Park, Chelt
 parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
 parkrun,5,Men,xy,5km,5000,45-49,49,Paul Lockyer,19:21,1161,"Worcester Pitchcroft",08/04/2023,20230408
 parkrun,5,Men,xy,5km,5000,55-59,49,Paul Northup,19:53,1193,"Pittville Park, Cheltenham",23/04/2022,20220423
-parkrun,5,Men,xy,5km,5000,60-64,64,Mike Speke,23:14,1394,"Gloucester North",03/12/2022,20221203
+parkrun,5,Men,xy,5km,5000,60-64,64,JJ Willson,21:45,1305,"KGV, Cheltenham",07/05/2022,20220507
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,"Congleton",18/03/2023,20230318
 parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,"Berkeley Green",27/08/2022,20220827

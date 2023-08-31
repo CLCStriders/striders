@@ -31,7 +31,7 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 30/06/2020,2020-06-30,,<a href='http://www.bristolandwestac.org/competitions-and-racing/events/pomphrey-5k/'>Pomphrey 5km (Bristol)</a> - VIRTUAL EVENT,"5km",3.1,Road
 17/10/2020,2020-10-17,,<a href='https://runupcote.co.uk/autumn-trail-2020'>Run Upcote Autumn Trail</a>,"5mi",5,MT
 25/07/2021,2021-07-25,,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader (Oldbury)</a>,"5mi",5,Road
-06/08/2021,2021-08-06,,<a href='https://eventswerun.co.uk/cranham-boundary-chase'>Cranham Boundary Chase</a>,"5.6mi",5.6,MT
+09/09/2021,2021-08-06,,<a href='https://eventswerun.co.uk/cranham-boundary-chase'>Cranham Boundary Chase</a>,"5.6mi",5.6,MT
 08/08/2021,2021-08-08,,<a href='https://stroudac.co.uk/standish-woodland-chase'>Standish Woodland Chase</a>,"10mi",6.2,MT
 11/08/2021,2021-08-11,,<a href='https://www.entrycentral.com/Bugatti10k'>Bugatti 10km</a>,"10km",6.2,Road
 21/08/2021,2021-08-21,,<a href='https://www.race-results.co.uk/onlineentries/uploads/entry4073.pdf'>Short Course Cross Country Championships</a>,"2mi",2,XC
@@ -107,8 +107,7 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 05/03/2023,2023-03-05,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Over Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 18/03/2023,2023-03-18,,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission Half</a>,"HM",13.1,Road
 18/03/2023,2023-03-18,,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission 20</a>,"20mi",20,Road
-01/04/2023,2023-04-01,,Spring 6 & 12 Stage Midland Road 
-(contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
+01/04/2023,2023-04-01,,Spring 6 & 12 Stage Midland Road (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
 16/08/2023,2023-08-16,,<a href='https://runabc.co.uk/gloucester-5k-haresfield'>Gloucester 5k Haresfield</a>,"5km",3.1,Road
 02/04/2023,2023-04-02,,<a href='https://runabc.co.uk/cleevewold-14'>Cleevewold 14</a>,"14mi",14,MT
 29/04/2023,2023-04-29,,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 1</a>,"400m,&nbsp;800m,&nbsp;3000m,&nbsp;5000m",0,Track
@@ -124,7 +123,7 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 03/07/2023,2023-07-03,,<a href='https://stroudac.co.uk/frampton-10k/'>Frampton 10k</a>,"10km",6.2,Road
 13/07/2023,2023-07-13,,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Red Hart Blaisdon 10k</a>,"10km",6.2,Road
 23/07/2023,2023-07-23,,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader</a>,"5mi",5,Road
-05/08/2023,2023-08-05,,<a href='https://eventswerun.co.uk/cranham-boundary-chase'>Cranham Boundary Chase</a>,"5.6mi",5.6,MT
+09/09/2023,2023-09-09,,<a href='https://severnac.com/cranham-boundary-chase/'>Cranham Boundary Chase</a>,"5.6mi",5.6,Road
 06/08/2023,2023-08-06,,<a href='https://stroudac.co.uk/standish-woodland-chase/'>Standish Woodland Chase</a>,"10mi",10,MT
 09/08/2023,2023-08-09,,<a href='https://almostathletes.co.uk/bugatti-10k.html'>Bugatti 10k</a>,"10km",6.2,Road
 27/08/2023,2023-08-27,,<a href='https://sites.google.com/site/severnbridgehalfmarathon/'>Severn Bridge 10km & Half Marathon</a>,"10km,&nbsp;HM",6.2,Road
@@ -135,10 +134,12 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 16/09/2023,2023-09-16,,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
 29/10/2023,2023-10-29,,<a href='https://www.stroudhalf.com'>Stroud Half Marathon</a>,"HM",13.1,Road
 05/11/2023,2023-11-05,,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a>,"5mi",5,Road
-19/07/2023,2023-07-19,,South West PB Series 2023 - Race 2 5km</a>,"5km",3.1,Road
-23/08/2023,2023-08-23,,South West PB Series 2023 - Race 2 5km</a>,"5km",3.1,Road
-07/10/2023,2023-10-07,,National 4 & 6 Stage  Road Relays (contact club captains),"_",,Road
+19/07/2023,2023-07-19,,<a href='https://data.opentrack.run/en-gb/x/2023/GBR/july-23-road-southwest-5km/competitor'>South West PB Series 2023 - Race 2 5km</a>,"5km",3.1,Road
+23/08/2023,2023-08-23,,South West PB Series 2023 - Race 3 5km</a>,"5km",3.1,Road
+07/10/2023,2023-10-07,,National 4 & 6 Stage Road Relays (contact club captains),"_",,Road
 22/06/2023,2023-06-22,,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"200m,&nbsp;800m,&nbsp;3000m,",0,Track
 15/08/2023,2023-08-15,,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
 28/08/2023,2023-08-28,,<a href='https://www.ksacmikelambertopen.co.uk/home'>Mike Lambert Open - Stourport</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
 29/06/2023,2023-06-29,,<a href='https://thornburyrc.fullonsport.com/event/thornbury-10k-2023/profile'>Thornbury 10k</a>,"10km",6.2,Road
+12/08/2023,2023-08-12,,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=20558'>Avon/Yate AC Masters Open 2023</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m,&nbsp;5000m",0,Track
+15/07/2023,2023-07-15,,<a href='https://leamingtonathletics.club/2023/06/11/leamington-cycling-athletics-club-summer-open/'>Leamington Summer Open</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
