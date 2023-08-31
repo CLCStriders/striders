@@ -6,9 +6,9 @@ permalink: /training
 
 ---
 
-Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs. We have two main sessions: a social run on Mondays and speed work on Wednesdays. We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
+Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs. We have two main sessions: a social run on Mondays and interval training on Wednesdays. We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
 
-The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining.  Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
+The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining. Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
 We are based at the [CLC Health & Fitness Centre]({{ site.mapUrl_CLC }}) on Malvern Road. We usually meet outside the building, on the paved area just inside the main gate. There is plenty of free parking behind the centre, and toilet facilities are available inside (just ask at reception and let them know you're with the running club). 
 
@@ -16,7 +16,7 @@ We are based at the [CLC Health & Fitness Centre]({{ site.mapUrl_CLC }}) on Malv
 
 Meet at 6.30pm, CLC Health & Fitness Centre
 
-This is a 4 or 6 mile sociable run in groups, at paces from about 6.5 to 9.5 minute/miles (approx. 4 to 6 minute/km), each group with an experienced leader. We start and finish at the CLC Health & Fitness Centre, using well-lit pavements around Cheltenham in the winter months, and Pittville Park and the Racecourse in the summer.
+This is a 4 or 6 mile sociable run in groups, at varying paces, each group with an experienced leader. We start and finish at the CLC Health & Fitness Centre, using well-lit pavements around Cheltenham in the winter months, and Pitville Park and the Racecourse in the summer.
 
 We change the route every few weeks but examples are:
 
@@ -66,13 +66,7 @@ To make sure our club runs are safe and enjoyable for everyone, please follow th
 
 #### Meet Our Coaches
 
-Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked.  Please talk to them about your personal training goals, general running queries or any concerns you may have.  You can also ask about attending a LiRF or CiRF training course yourself.
-
-##### Head Coach – Brendan Ward
-&emsp;&emsp;![Brendan Ward](/images/coaches/brendan-ward.jpg "Brendan Ward")
-- Founded CLC Striders in 2008
-- CiRF since 2010, with many previous years’ coaching experience
-- Awarded England Athletics’ South West Coach of the Year 2012
+Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked. Please talk to them about your personal training goals, general running queries or any concerns you may have.  You can also ask about attending a LiRF or CiRF training course yourself.
 
 ##### Coaches
 
