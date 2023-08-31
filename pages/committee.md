@@ -14,7 +14,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 {:.committee .display}
 |Name | Role | Email |
 |--|--|--|
-| Brendan Ward| Club President | |
+| Brendan Ward| Club President and Founder | |
 | Matt Ashman| Chair| <chair@clcstriders-runningclub.co.uk> |
 | Matt Ashman| Club Secretary, Welfare Officer and Coach | <secretary@clcstriders-runningclub.co.uk> |
 | Tom Burgess| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
