@@ -11,13 +11,13 @@ After a cool, damp and dismal July and August, summer finally returned to the UK
 
 In all, 21 Striders lined up to run the 13.1 miles around the streets of Cheltenham. Starting from a new location at Cheltenham Racecourse, all lined up in their timing pens ready for the 9am start. In the end, the race didn’t set off until almost 9.25am – by which time runners were already hot and bothered, after standing, with no shade, for half an hour or more in the strong sunshine.
 
-Once the race was finally off, [Rob Green](/images/2021/09/2023-09-08-Rob-Green-Cheltenham-half.jpg "Rob Green") and [Joe Willgoss](/images/2021/09/2023-09-08-Joe-Willgoss-Cheltenham-half.jpg "Joe Willgoss") made their way to the front of the field where they battled hard to run really well in the heat for 4th and 7th place respectively, Rob finishing in 1:15:04 (as 2nd in his MV40 category) and Joe in 1:15:40. Second claim runner Max Harrison-Tosatto was not too far behind in 1:18:23.
+Once the race was finally off, [Rob Green](/images/2023/09/2023-09-08-Rob-Green-Cheltenham-half.jpg "Rob Green") and [Joe Willgoss](/images/2023/09/2023-09-08-Joe-Willgoss-Cheltenham-half.jpg "Joe Willgoss") made their way to the front of the field where they battled hard to run really well in the heat for 4th and 7th place respectively, Rob finishing in 1:15:04 (as 2nd in his MV40 category) and Joe in 1:15:40. Second claim runner Max Harrison-Tosatto was not too far behind in 1:18:23.
 
 The next three Striders home all came in under the 90-minute mark with club debutante Claire Kennedy finishing in 1:28:30 in her first ever half marathon and as second lady overall. Club captain Will Pearce finished in 1:29:27, despite pulling a hamstring at about the 7-mile mark, and Adam Greenwood gritted his teeth to finish in 1:29:41.
 
 Just outside the 90-minute mark were Alex Monro in 1:31:14 and Richard Tilson in 1:32:21. Making a return from injury, Sheng Peng battled for 1:37:25, with Aled Leaver not far behind and running a big PB of 1:37:55. Veterans Tim Brock and Paul Northup finished together but were given different times of 1:38:14 and 1:38:24 respectively. 
 
-Club newcomer Liam Richardson clocked 1:40:14, Nigel Bailey finished in 1:41:30, [Deborah Rees](/images/2021/09/2023-09-08-Deborah-Rees-Cheltenham-half.jpg "Deborah Rees") was next home in 1:41:42 as 2nd in her LV45 category, Sergio Arnau Cano ran 1:42:03, and the ever-smiling Fiona Brady-Miller registered 1:47:27.
+Club newcomer Liam Richardson clocked 1:40:14, Nigel Bailey finished in 1:41:30, [Deborah Rees](/images/2023/09/2023-09-08-Deborah-Rees-Cheltenham-half.jpg "Deborah Rees") was next home in 1:41:42 as 2nd in her LV45 category, Sergio Arnau Cano ran 1:42:03, and the ever-smiling Fiona Brady-Miller registered 1:47:27.
 
 Nick Ledwold and Matt Ashman both came home in 1:54:24, but their time masked a much bigger story as they stopped to assist a collapsed runner on the final racecourse loop, staying with him for 20 minutes or so until adequate medical support had arrived. Last but not least were Anja Whelan in 1:57:24, Daniel Koschalka in 2:07:48 and Charlie Haward in 2:17:57.
 
