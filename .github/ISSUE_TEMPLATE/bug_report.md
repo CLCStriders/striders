@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report if you think something is broken on the website
 title: ''
 labels: ''
-assignees: 'MatBenfield'
+assignees: ''
 
 ---
 

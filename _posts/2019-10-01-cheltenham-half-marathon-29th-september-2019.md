@@ -22,6 +22,6 @@ In the next five-minute wave, Tim Brock (MV50) clocked 1:36:15, Stuart Barr (MV4
 
 They were followed by a batch of 1 hour, 40-minute finishers – James Coull (MV45) in 1:41:15, Fiona Brady-Miller (FV40) in 1:40:58, Ed Thompson (MV50) in 1:41:51, Ed Collier (MV60) in 1:43:35, Rachel Vines (FV35) in 1:44:25 and Phil Jowett (MV50) in 1:45:23.
 
-All coming in under two hours were John JJ Willson (MV55) in 1:51:26, Nigel Bailey (MV45) in 1:52:33, Mike Speke (MV55) in 1:52:33, Mat Benfield in 1:55:37, Laura Daubney in 1:54:56 and Sarah Wilson (FV45) in 1:54:57.
+All coming in under two hours were John JJ Willson (MV55) in 1:51:26, Nigel Bailey (MV45) in 1:52:33, Mike Speke (MV55) in 1:52:33, Laura Daubney in 1:54:56 and Sarah Wilson (FV45) in 1:54:57.
 
 Last but not least were a crew of Striders who battled round to register times of just over 2 hours on the day – Alex Goodlock (MV45) in 2:01:41, Sue Clark (FV65) in 2:02:58, Bradley Coates (MV45) in 2:03:49, Fiona Woods (FV50) in 2:11:07, Alison Egan (FV50) in 2:12:56 and Megan Jones in 2:38:07.

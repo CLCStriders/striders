@@ -38,6 +38,6 @@ Well done to all of our fantastic award winners below for 2019/2020:
 
 **SPIRIT OF THE CLUB** - Amelia Mullins
 
-**THE DAVE MOORCROFT AWARD FOR OUTSTANDING CONTRIBUTION** - Matt Ashman and Mat Benfield
+**THE DAVE MOORCROFT AWARD FOR OUTSTANDING CONTRIBUTION** - Matt Ashman and Mat B
 
 Special thanks to the committee members who presented the awards virtually and huge congratulations to all of the award winners.
