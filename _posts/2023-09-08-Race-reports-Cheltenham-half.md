@@ -13,7 +13,7 @@ In all, 21 Striders lined up to run the 13.1 miles around the streets of Chelten
 
 Once the race was finally off, [Rob Green](/images/2023/09/2023-09-08-Rob-Green-Cheltenham-half.jpg "Rob Green") and [Joe Willgoss](/images/2023/09/2023-09-08-Joe-Willgoss-Cheltenham-half.jpg "Joe Willgoss") made their way to the front of the field where they battled hard to run really well in the heat for 4th and 7th place respectively, Rob finishing in 1:15:04 (as 2nd in his MV40 category) and Joe in 1:15:40. Second claim runner Max Harrison-Tosatto was not too far behind in 1:18:23.
 
-The next three Striders home all came in under the 90-minute mark with club debutante Claire Kennedy finishing in 1:28:30 in her first ever half marathon and as second lady overall. Club captain Will Pearce finished in 1:29:27, despite pulling a hamstring at about the 7-mile mark, and Adam Greenwood gritted his teeth to finish in 1:29:41.
+The next three Striders home all came in under the 90-minute mark with club debutante [Claire Kennedy](/images/2023/09/2023-09-08-Claire-Kennedy-Cheltenham-half.jpg "Claire Kennedy") finishing in 1:28:30 in her first ever half marathon and as second lady overall. Club captain Will Pearce finished in 1:29:27, despite pulling a hamstring at about the 7-mile mark, and Adam Greenwood gritted his teeth to finish in 1:29:41.
 
 Just outside the 90-minute mark were Alex Monro in 1:31:14 and Richard Tilson in 1:32:21. Making a return from injury, Sheng Peng battled for 1:37:25, with Aled Leaver not far behind and running a big PB of 1:37:55. Veterans Tim Brock and Paul Northup finished together but were given different times of 1:38:14 and 1:38:24 respectively. 
 
