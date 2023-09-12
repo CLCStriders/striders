@@ -18,7 +18,7 @@ On the eve of the Cheltenham Half a few Striders popped over to take part in the
 #### Gloucester Track Open
 Rachel Vines had one last crack at the mile at the Gloucester Track Open, finishing in a time of 5:50.4 on the night.
 
-###Saturday 9 September
+### Saturday 9 September
 
 #### Beacons to Blacks 50m Ultra
 On what turned out to be the hottest day of the year, Oliver Watkins gritted his teeth and battled up and down dale to finish an incredible 2nd in this gruelling ultra event across the Brecon Beacons to the Black Mountains. Having had to withdraw from his Snowdon trail marathon earlier in the year (on what was another really hot day), this was a massive achievement for Ollie.
