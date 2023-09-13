@@ -23,7 +23,7 @@ Out of the 106 members currently with the club, 12 have been members since the e
 * Rachael Cary
 * Rachel Vines
 * Rebecca Reynolds
-* Will Ferguson
+* Will Ferguson.
 
 We hope to speak to some of these members and share their founding stories this autumn as we remember our club history - more to follow.
 
