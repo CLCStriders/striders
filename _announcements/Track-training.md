@@ -1,7 +1,7 @@
 ---
 title: Wednesday track training
-published: false
+published: true
 
 ---
 
-Track is back, weekly track training will take place from Wednesday 7 September through to Wednesday 26 October, Prince of Wales Stadium @ 2000
+Track is back, weekly track training will take place from Wednesday 6 September through to Wednesday 8 November, Prince of Wales Stadium @ 2000
