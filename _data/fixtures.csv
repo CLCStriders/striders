@@ -47,17 +47,17 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 25/09/2021,2021-09-25,,Midlands Road Relays (contact Rachel Vines or Will Pearce),"",,Road
 03/10/2021,2021-10-03,,<a href='https://www.runbritain.com/RaceDetail.aspx?eventid=7ebe0cc9596c&raceid=7abf0acc596a'>Berkeley 10k</a>,"10km",6.2,Road
 17/10/2021,2021-10-17,,<a href='https://cheltenhamharriers.co.uk/pages/cleevewold'>Cleevewold</a>,"14.2mi",14.2,MT
-30/10/2021,2021-10-30,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #1 - Cirencester Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+04/11/2023,2023-11-04,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #1 - Cirencester Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 31/10/2021,2021-10-31,,<a href='https://runupcote.co.uk/run-upcote-autumn-trail-2021-2/'>Run Upcote Autumn Trail</a>,"5mi",5,MT
-13/11/2021,2021-11-13,,Midland/Birmingham cross country league #1,"4mi&nbsp;/&nbsp;6mi",4,XC
-04/12/2021,2021-12-04,,Midland/Birmingham cross country league #2,"4mi&nbsp;/&nbsp;6mi",4,XC
-12/12/2021,2021-12-12,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #2 - Wotton PARC</a> - CANCELLED,"4mi&nbsp;/&nbsp;6mi",4,XC
+11/11/2023,2023-11-11,,Midland/Birmingham cross country league #1 - Pittville Park,"4mi&nbsp;/&nbsp;6mi",4,XC
+02/12/2023,2023-12-02,,Midland/Birmingham cross country league #2 - Wolverhampton,"4mi&nbsp;/&nbsp;6mi",4,XC
+10/12/2023,2023-12-10,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #2 - Incorporating County Championships- Bath</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 19/12/2021,2021-12-19,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire AAA Open Short Course - Stratford Park Stroud</a>,"4km",2.2,XC
 08/01/2022,2022-01-08,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire County Championships - Cotswold Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
-15/01/2022,2022-01-15,,Midland/Birmingham cross country league #3,"4mi&nbsp;/&nbsp;6mi",4,XC
-13/02/2022,2022-02-13,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Pittville Park Cheltenham</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
-16/02/2022,2022-02-16,,Midland/Birmingham cross country league #4,"4mi&nbsp;/&nbsp;6mi",4,XC
-05/03/2022,2022-03-05,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Old Down Estate</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+13/01/2024,2024-01-13,,Midland/Birmingham cross country league #3 - Warley Woods,"4mi&nbsp;/&nbsp;6mi",4,XC
+06/01/2024,2024-01-06,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Cotswold Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+10/02/2024,2024-02-10,,Midland/Birmingham cross country league #4 - Burton Dassett/Northampton,"4mi&nbsp;/&nbsp;6mi",4,XC
+17/02/2024,2024-02-17,,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Pittville Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 26/03/2022,2022-03-26,,Spring 6 & 12 Stage Midland Road Relays (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
 03/04/2022,2022-04-03,,<a href='https://cheltenhamharriers.co.uk/pages/cleevewold'>Cleevewold</a> - CANCELLED,"14.2mi",14.2,MT
 07/04/2023,2023-04-07,,<a href='https://data.opentrack.run/en-gb/x/2023/GBR/apr-23-road-btc-5km/'>Bristol Track Club 5K Race Day</a>,"5km",3.1,Road
@@ -143,3 +143,4 @@ Date,date_sort,Series,Race,Distance,distance_sort,Terrain
 29/06/2023,2023-06-29,,<a href='https://thornburyrc.fullonsport.com/event/thornbury-10k-2023/profile'>Thornbury 10k</a>,"10km",6.2,Road
 12/08/2023,2023-08-12,,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=20558'>Avon/Yate AC Masters Open 2023</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m,&nbsp;5000m",0,Track
 15/07/2023,2023-07-15,,<a href='https://leamingtonathletics.club/2023/06/11/leamington-cycling-athletics-club-summer-open/'>Leamington Summer Open</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
+19/11/2023,2023-11-19,,<a href='https://newentrunners.com/the-mandy-whittington-newent-9-2023/'>Newent 9</a>,"9.5km",,Road
