@@ -35,7 +35,7 @@ On a baking hot Sunday, Ryan O’Donnell jogged round the marathon distance in 4
 Helen Knight and Rachel Vines ran in the second of this new, local 5k road race series hosted by Cheltenham Harriers. Helen was first lady home, winning £50. At the time of writing, results have not yet been posted.
 
 #### Chedworth Roman Trail
-In a bizarre and painful turn of events, Eoin Mcquone had to retire from this local trail race having been stung twice by hornets after only a few miles. Ouch.
+In a bizarre and painful turn of events, Eoin McQuone had to retire from this local trail race having been stung twice by hornets after only a few miles. Ouch!
 
 #### Lake District Mountain Trial - Classic Course 
 Last but not least, orienteering and fell running specialist Rob Finch pulled out of this testing event after struggling on the early climbs. He still had a long run to get back and he wasn’t the only one not to complete in an event that saw only four finish of 50 that started.
