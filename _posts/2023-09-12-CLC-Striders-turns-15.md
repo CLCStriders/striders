@@ -29,7 +29,7 @@ We hope to speak to some of these members and share their founding stories this 
 
 The club would not be what it is today without each and every one of its members who have been such a part of the club over the years. The club exists for its members and its members are the club. 15 years on from humble beginnings, it’s inspirational to see so many Striders racing on a regular basis, attending training, training together and dedicating themselves to continual improvement. For a small club, we really do punch above our weight.
 
-Here is to the next 15 years! We can’t wait to see what is yet to come.
+Here is to the next 15 years! We can’t wait to see what is yet to come....
 
 ![CLC Striders turns 15](/images/2023/09/2023-09-12-CLC-Striders-15-1.jpg "CLC Striders turns 15")
 ![CLC Striders turns 15](/images/2023/09/2023-09-12-CLC-Striders-15-2.jpg "CLC Striders turns 15")
