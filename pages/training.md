@@ -53,7 +53,7 @@ From time to time we may organise other training sessions, for example interval 
 
 ![Wednesday training](/images/2023-09-13-Wednesday-training.jpg "Wednesday training") 
 
-##### Tips for club runs
+#### Tips for club runs
 
 To make sure our club runs are safe and enjoyable for everyone, please follow these tips:
 
