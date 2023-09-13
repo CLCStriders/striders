@@ -51,6 +51,8 @@ Our speed work sessions are brilliant for developing fitness, running efficiency
 
 From time to time we may organise other training sessions, for example interval sessions at the [Prince of Wales track]({{ site.mapUrl_POW }}), or hill repeats at [Pittville Park]({{ site.mapUrl_PittvillePark }}). These are fun, add variety and help with event-specific training for track or cross-country races. Keep an eye on our [Facebook page]({{site.facebook}}) or [contact us](/contact) for more details on these sessions. We may ask attendees for a small contribution to cover the cost of track hire.
 
+![Wednesday training](/images/2023-09-13-Wednesday-training.jpg "Wednesday training") 
+
 ##### Tips for club runs
 
 To make sure our club runs are safe and enjoyable for everyone, please follow these tips:
