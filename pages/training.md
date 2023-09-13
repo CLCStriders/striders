@@ -90,7 +90,7 @@ Our Coaches hold the England Athletics’ Coach in Running Fitness (CiRF) qualif
 
 ##### Run Leaders
 
-Our Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked
+Our Run Leaders hold the England Athletics’ Leadership in Running Fitness (LiRF) qualifications and are DBS-checked
 
 - Tim Brock
 - Andy Brookes
