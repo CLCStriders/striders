@@ -53,7 +53,7 @@ From time to time we may organise other training sessions, for example interval 
 
 ![Wednesday training](/images/2023-09-13-Wednesday-training.jpg "Wednesday training") 
 
-##### Tips for club runs
+#### Tips for club runs
 
 To make sure our club runs are safe and enjoyable for everyone, please follow these tips:
 
@@ -68,9 +68,7 @@ To make sure our club runs are safe and enjoyable for everyone, please follow th
 
 #### Meet Our Coaches
 
-Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitness (CiRF) or Leadership in Running Fitness (LiRF) qualifications and are DBS-checked. Please talk to them about your personal training goals, general running queries or any concerns you may have.  You can also ask about attending a LiRF or CiRF training course yourself.
-
-##### Coaches
+Our Coaches hold the England Athletics’ Coach in Running Fitness (CiRF) qualifications and are DBS-checked. Please talk to them about your personal training goals, general running queries or any concerns you may have.
 
 &emsp;&emsp;**Matt Ashman**  
 &emsp;&emsp;![Matt Ashman](/images/coaches/matt-ashman.jpg "Matt Ashman")
@@ -91,6 +89,8 @@ Our Coaches and Run Leaders hold the England Athletics’ Coach in Running Fitne
   <br>
 
 ##### Run Leaders
+
+Our Run Leaders hold the England Athletics’ Leadership in Running Fitness (LiRF) qualifications and are DBS-checked
 
 - Tim Brock
 - Andy Brookes
