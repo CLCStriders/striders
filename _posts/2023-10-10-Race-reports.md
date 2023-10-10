@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders race round up - Saturday 7 and Sunday 8 Oct 2023'
+title: 'CLC Striders race round up - Saturday 7 and Sunday 8 October 2023'
 layout: post
 categories:
   - Race reports
