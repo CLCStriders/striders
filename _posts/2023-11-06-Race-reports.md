@@ -30,7 +30,7 @@ Also registering on the day was another club debutante Richard Aarons in 111th, 
 
 With the course flooded for only the third time in the event's 30-year history, Tewkesbury AC had to move their annual five-mile event across to an alternative out and back route on the day. In the end, the weather was kind, with bright skies and just a slight headwind on the ‘out’. As the last race in the Gloucestershire Road Race series for 2023, the stakes were high.
 
-[Joe Willgoss](/images/2023/11/2023-11-06-GF5.heic "Joe Willgoss") turned in a fantastic performance on the day to finish a strong second in a rapid time of 26:59:6 and secure himself second place in the overall Road Race Series at the same time. Matt Ashman secured a new PB for the five-mile distance in 34:24:8 as the next Strider home. Steph Parker was next for the club in 36:03:8, with Mike Speke finishing in 38:15:0 and Laura Daubney in 38:50:9. Paul Northup pulled up with a calf strain at four miles and hobbled the remainder of the course to cross the line in 38:20:0.
+[Joe Willgoss](/images/2023/11/2023-11-06-GF5.jpg "Joe Willgoss") turned in a fantastic performance on the day to finish a strong second in a rapid time of 26:59:6 and secure himself second place in the overall Road Race Series at the same time. Matt Ashman secured a new PB for the five-mile distance in 34:24:8 as the next Strider home. Steph Parker was next for the club in 36:03:8, with Mike Speke finishing in 38:15:0 and Laura Daubney in 38:50:9. Paul Northup pulled up with a calf strain at four miles and hobbled the remainder of the course to cross the line in 38:20:0.
 
 Kate Telford was elsewhere, but had already bagged first place in the overall Gloucestershire Road Race Series for the year. 
 
