@@ -18,7 +18,7 @@ Also running were Fiona Brady-Miller, finishing in 97th place in a time of 36:38
 
 Running in the same race over the two laps, club super-vet David James made a solid start to his season with 2nd place overall in his MV70 category in a time of 35:29.
 
-With the ground well and truly churned up – after all the junior races and the ladies event – it was the turn of the [men](/images/2023/11/2023-11-06-Mens-XC.jpg "men") to do battle over three laps.
+With the ground well and truly churned up – after all the junior races and the ladies event – it was the turn of the [men](/images/2023/11/2023-11-06-Mens-XC.JPG "men") to do battle over three laps.
 
 Once again, it was Rob Green who brought the club's first place home, finishing in 12th overall as 1st in his MV40 category in a really strong field in a time of 38:55. Next was Tom Burgess, delivering a gritty performance for 55th place overall in 44:24. Making his club debut, an impressive Mike Thompson lead a trio of Striders in, finishing in 90th place in 48:00 and followed closely by Jamie Hartnoll in 94th and 48:24 and Aled Leaver in 99th and 48:52. Completing the scoring six, Nick Ledwold was 105th in a time of 49:35.
 
