@@ -24,7 +24,19 @@ The [CLC Striders Running Club Constitution](/assets/CLC-Striders-Running-Club-C
 
 #### Club Policies
 
-##### Health and Safety Policy
+##### Anti-bullying policy
+
+CLC Striders Running Club is committed to providing a caring, friendly, and safe environment for all of our members so they can participate in an inclusive sport where everyone belongs and can flourish.
+
+The [Club anti-bullying policy](/assets/Policies/CLC-Striders-anti-bullying-policy.pdf) details how the club will approach any claims of bullying.
+
+##### Grievance and Disciplinary policy
+
+The Club shall not tolerate any physical or mental abuse, harassment, discrimination or defamation of any of its Members during, or subsequent to, club events, races, training sessions or club social events. 
+
+The [Club grievance and disciplinary policy](/assets/Policies/CLC-Striders-Grievance-and-Disciplinary-Policy.pdf) details how the club will handle any instances of grievance or matters of a disciplinary nature.
+
+##### Health and Safety policy
 
 The committee take the safety of Club members seriously, as a club with no employees (solely volunteers), Health and Safety Law does not generally apply. The [Club Health and Safety Policy](/assets/Policies/CLC-Striders-HandS-policy.pdf) details this further. 
 
@@ -34,17 +46,21 @@ The ensure the safety of Club members, risk assessments have been produced aroun
 
 [Covid-19 risk assessment](/assets/Covid-19-risk-assessment.pdf).
 
-##### Inclusion Policy
+##### Inclusion policy
 
 CLC Striders embraces diversity and difference and is committed to providing opportunities that are safe, inclusive, accessible and equitable. Where possible, we want our club to be accessible to all members of society, whatever their age, disability, gender, race, ethnicity, sexuality or social/economic status. The [Club Inclusion Policy](/assets/Policies/CLC-Striders-Inclusion-Policy.pdf) outlines the club's approach to inclusion.
 
-##### Privacy Policy
+##### Privacy policy
 
 CLC Striders are committed to protecting and respecting the privacy of its members. For any personal data provided for the purposes of membership, CLC Striders is the Data Controller and is responsible for storing and otherwise processing that data in a fair, lawful, secure and transparent way. The Club take the protection of the data that we hold about you as a member seriously and will do everything possible to ensure that data is collected, stored, processed, maintained, cleansed and retained in accordance with current and future UK data protection legislation.
 
 The [Club Privacy Policy](/assets/Policies/CLC-Striders-Privacy-Policy.pdf) details the full principles around privacy, what data is held and processed and the rights of data subjects.
 
-##### Welfare Policy
+##### Social media policy
+
+This [Club social media policy](/assets/Policies/CLC-Striders-Social-media-policy.pdf) has been developed to inform our club members about using social media (Facebook, YouTube, X (formerly Twitter), TikTok, Instagram and all other social networking sites and forums) so people feel enabled to participate, while being mindful of their responsibilities and obligations. In particular, this policy provides practical guidance allowing all parties to benefit from the use of social media, while minimising potential risks and protecting those involved
+
+##### Welfare policy
 
 CLC Striders is committed to ensuring that all members can participate in club activities in an enjoyable and safe environment. All members are entitled to a duty of care and to be protected from abuse. The [Club Welfare Policy](/assets/Policies/CLC-Striders-Welfare-Policy.pdf) outlines the club’s approach, responsibilities and policy & procedures to safeguarding of all members. 
 
