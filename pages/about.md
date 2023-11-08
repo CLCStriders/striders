@@ -58,7 +58,7 @@ The [Club Privacy Policy](/assets/Policies/CLC-Striders-Privacy-Policy.pdf) deta
 
 ##### Social media policy
 
-This [Club social media policy](/assets/Policies/CLC-Striders-Social-media-policy.pdf) has been developed to inform our club members about using social media (Facebook, YouTube, X (formerly Twitter), TikTok, Instagram and all other social networking sites and forums) so people feel enabled to participate, while being mindful of their responsibilities and obligations. In particular, this policy provides practical guidance allowing all parties to benefit from the use of social media, while minimising potential risks and protecting those involved
+The [Club social media policy](/assets/Policies/CLC-Striders-Social-media-policy.pdf) has been developed to inform our club members about using social media (Facebook, YouTube, X (formerly Twitter), TikTok, Instagram and all other social networking sites and forums) so people feel enabled to participate, while being mindful of their responsibilities and obligations. In particular, this policy provides practical guidance allowing all parties to benefit from the use of social media, while minimising potential risks and protecting those involved
 
 ##### Welfare policy
 
