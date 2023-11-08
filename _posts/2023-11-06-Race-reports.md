@@ -12,9 +12,9 @@ categories:
 
 After a month of heavy rain, conditions were as wet and muddy as anyone could remember for the opening fixture of the 23/24 Gloucestershire Cross Country League. Held over the technical and challenging course in the beautiful but soggy grounds of Cirencester Park, the race contained woodland trails, boggy valleys, steep inclines and adverse cambers across soaking grassland and meadow. It was not for the faint-hearted.
 
-First, it was the turn of the [ladies](/images/2023/11/2023-11-06-Ladies-XC.jpg "ladies"), defending their Masters win from last season. Over their two laps, the ladies were led home by Helen Knight in 25th place overall and as 2nd in her LV40 category in a time of 30:35. Next home, 4th in the LV40 category and 41st overall, was Liza Bradshaw in 32:04. Ladies captain Rachel Vines was 54th overall and 6th in her LV40 category in 33:17 to make up CLC’s three scoring finishers. The CLC Striders Ladies Masters were second in the team event, just behind Team Bath.
+First, it was the turn of the [ladies](/images/2023/11/2023-11-06-Ladies-XC.jpg "ladies"), defending their Masters win from last season. Over their two laps, the ladies were led home by Helen Knight in 11th place overall and as 2nd in her LV40 category in a time of 30:35. Next home, 4th in the LV40 category and 27th overall, was Liza Bradshaw in 32:04. Ladies captain Rachel Vines was 40th overall and 6th in her LV40 category in 33:17 to make up CLC’s three scoring finishers. The CLC Striders Ladies Masters were second in the team event, just behind Team Bath.
 
-Also running were Fiona Brady-Miller, finishing in 97th place in a time of 36:38, Laura Leaver in 39:52, Emma Abbey in 40:22, Rebecca Reynolds in 41:55 and Nicola Weager 42:13. 
+Also running were Fiona Brady-Miller, finishing in 75th place in a time of 36:38, Laura Leaver in 39:52, Emma Abbey in 40:22, Rebecca Reynolds in 41:55 and Nicola Weager 42:13. 
 
 Running in the same race over the two laps, club super-vet David James made a solid start to his season with 2nd place overall in his MV70 category in a time of 35:29.
 
