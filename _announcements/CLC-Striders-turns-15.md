@@ -1,6 +1,6 @@
 ---
 title: CLC Striders turns 15
-published: true
+published: false
 
 ---
 
