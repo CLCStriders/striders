@@ -81,8 +81,7 @@ The club has the following social media pages:
 
 * Facebook: CLC Striders Running Club
 * Facebook: CLC Striders - Members
-* Facebook: CLC Striders - Leaders
-* Twitter: @CLCStriders
+* X (formerly Twitter): @CLCStriders
 * Strava: CLC Striders
 * Instagram: clcstriders
 

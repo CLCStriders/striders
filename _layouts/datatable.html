@@ -39,7 +39,7 @@
 {% elsif page.datatable == "fixtures" %}
     <script>
         var cutoffDate = new Date();
-        cutoffDate.setFullYear(cutoffDate.getFullYear(), 0, 0); // display events for current year (gives date 31/12/YYYY)
+        cutoffDate.setFullYear(cutoffDate.getFullYear(), cutoffDate.getMonth() - 1); // display events from 1 month ago forwards
         var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
         var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
         var fixturesTable = $("#site_data_fixtures").DataTable({
