@@ -1,13 +1,13 @@
 Type,type_sort,Gender,gender_search,Distance,distance_m_sort,Age Group,age_sort,Holder,Time,time_secs_sort,Venue,Date,date_sort
-Road,1,Men,xy,Mile,1609,U20,19,George Parker,6:05,365,Bourton,19/07/2014,20140719
-Road,1,Men,xy,Mile,1609,Senior,34,John Parker,4:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,35-39,39,John Parker,4:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,5:15,315,Bourton,12/05/2023,20230512
-Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:25,325,Bourton,21/07/2018,20180721
-Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,5:26,326,Meteor Mile,02/09/2017,20170902
-Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,5:40,340,Bourton,01/07/2022,20220701
-Road,1,Men,xy,Mile,1609,60-64,64,JJ Willson,5:38,338,Bourton,10/07/2021,20210710
-Road,1,Men,xy,Mile,1609,65-69,69,David James,6:44,404,Staverton,31/08/2019,20190831
+Road,1,Men,xy,Mile,1609,U20,19,George Parker,06:05,365,Bourton,19/07/2014,20140719
+Road,1,Men,xy,Mile,1609,Senior,34,John Parker,04:32,272,Bourton,17/07/2010,20100717
+Road,1,Men,xy,Mile,1609,35-39,39,John Parker,04:32,272,Bourton,17/07/2010,20100717
+Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,05:15,315,Bourton,12/05/2023,20230512
+Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,05:25,325,Bourton,21/07/2018,20180721
+Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,05:26,326,Meteor Mile,02/09/2017,20170902
+Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,05:40,340,Bourton,01/07/2022,20220701
+Road,1,Men,xy,Mile,1609,60-64,64,JJ Willson,05:38,338,Bourton,10/07/2021,20210710
+Road,1,Men,xy,Mile,1609,65-69,69,David James,06:44,404,Staverton,31/08/2019,20190831
 Road,1,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
 Road,1,Men,xy,5km,5000,U20,19,George Parker,21:03,1263,White Horse,19/08/2014,20140819
 Road,1,Men,xy,5km,5000,Senior,34,Will Ferguson,15:07,907,Aztec West,26/05/2015,20150526
@@ -19,92 +19,92 @@ Road,1,Men,xy,5km,5000,55-59,59,JJ Willson,19:02,1142,Aztec West,26/07/2016,2016
 Road,1,Men,xy,5km,5000,60-64,64,JJ Willson,19:01,1141,Hereford,05/05/2021,20210505
 Road,1,Men,xy,5km,5000,65-69,69,David James,22:34,1354,Aztec West,26/05/2015,20150526
 Road,1,Men,xy,5km,5000,70-74,74,David James,20:57,1257,Hereford,07/04/2021,20210407
-Road,1,Men,xy,4mi,6436,U20,19,Ollie Mosley,29:58,1798,Aviator,11/05/2014,20140511
+Road,1,Men,xy,4mi,6436,U20,19,Ollie Mosley,29:58:00,1798,Aviator,11/05/2014,20140511
 Road,1,Men,xy,4mi,6436,Senior,34,John Parker,20:20,1220,White Horse,10/04/2010,20100410
 Road,1,Men,xy,4mi,6436,35-39,39,John Parker,20:20,1220,White Horse,10/04/2010,20100410
 Road,1,Men,xy,4mi,6436,40-44,44,Phil Jowett,23:14,1394,White Horse,10/04/2010,20100410
-Road,1,Men,xy,4mi,6436,45-49,49,Billy Bradshaw,25:21,1521,"Pilot Inn, Gloucester",03/06/2010,20100603
-Road,1,Men,xy,4mi,6436,50-54,54,JJ Willson,25:26,1526,Aviator,12/05/2013,20130512
-Road,1,Men,xy,4mi,6436,55-59,59,Nicholas Von Benzon,27:48,1668,Aviator,06/05/2012,20120506
-Road,1,Men,xy,4mi,6436,60-64,64,David James,28:26,1706,Aviator,06/05/2012,20120506
+Road,1,Men,xy,4mi,6436,45-49,49,Billy Bradshaw,25:21:00,1521,"Pilot Inn, Gloucester",03/06/2010,20100603
+Road,1,Men,xy,4mi,6436,50-54,54,JJ Willson,25:26:00,1526,Aviator,12/05/2013,20130512
+Road,1,Men,xy,4mi,6436,55-59,59,Nicholas Von Benzon,27:48:00,1668,Aviator,06/05/2012,20120506
+Road,1,Men,xy,4mi,6436,60-64,64,David James,28:26:00,1706,Aviator,06/05/2012,20120506
 Road,1,Men,xy,4mi,6436,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,4mi,6436,70-74,74,,,99999,,,99999999
-Road,1,Men,xy,5mi,8045,U20,19,Ben Pedley,28:54,1734,"Pilot Inn, Gloucester",01/01/2010,20100101
-Road,1,Men,xy,5mi,8045,Senior,34,Will Ferguson,25:30,1530,"Pilot Inn, Gloucester",01/01/2011,20110101
-Road,1,Men,xy,5mi,8045,35-39,39,John Parker,26:16,1576,Aero,01/07/2010,20100701
-Road,1,Men,xy,5mi,8045,40-44,44,Chris Hale,29:28,1768,Tewkesbury,07/11/2010,20101107
-Road,1,Men,xy,5mi,8045,45-49,49,Will Miles,30:00,1800,White Horse,25/05/2009,20090525
-Road,1,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53,1793,Linda Franks,21/01/2018,20180121
-Road,1,Men,xy,5mi,8045,55-59,59,Paul Northup,31:42,1902,Linda Franks,23/01/2022,20220123
-Road,1,Men,xy,5mi,8045,60-64,64,JJ Willson,32:47,1967,Shepperdine,25/07/2021,20210725
-Road,1,Men,xy,5mi,8045,65-69,69,Ed Collier,37:46,2266,Linda Franks,22/01/2023,20230122
+Road,1,Men,xy,5mi,8045,U20,19,Ben Pedley,28:54:00,1734,"Pilot Inn, Gloucester",01/01/2010,20100101
+Road,1,Men,xy,5mi,8045,Senior,34,Will Ferguson,25:30:00,1530,"Pilot Inn, Gloucester",01/01/2011,20110101
+Road,1,Men,xy,5mi,8045,35-39,39,John Parker,26:16:00,1576,Aero,01/07/2010,20100701
+Road,1,Men,xy,5mi,8045,40-44,44,Chris Hale,29:28:00,1768,Tewkesbury,07/11/2010,20101107
+Road,1,Men,xy,5mi,8045,45-49,49,Will Miles,30:00:00,1800,White Horse,25/05/2009,20090525
+Road,1,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53:00,1793,Linda Franks,21/01/2018,20180121
+Road,1,Men,xy,5mi,8045,55-59,59,Paul Northup,31:42:00,1902,Linda Franks,23/01/2022,20220123
+Road,1,Men,xy,5mi,8045,60-64,64,JJ Willson,32:47:00,1967,Shepperdine,25/07/2021,20210725
+Road,1,Men,xy,5mi,8045,65-69,69,Ed Collier,37:46:00,2266,Linda Franks,22/01/2023,20230122
 Road,1,Men,xy,5mi,8045,70-74,74,David James,35:10.6,2110.6,Tewkesbury,06/11/2021,20211106
-Road,1,Men,xy,10km,10000,U20,19,Ben Pedley,35:23,2123,White Horse,03/04/2010,20100403
-Road,1,Men,xy,10km,10000,Senior,34,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
-Road,1,Men,xy,10km,10000,35-39,39,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
-Road,1,Men,xy,10km,10000,40-44,44,Rob Green,32:57,1977,Cricklade,08/10/2023,20231008
-Road,1,Men,xy,10km,10000,45-49,49,Brendan Ward,36:31,2191,Blaisdon,04/05/2009,20090504
-Road,1,Men,xy,10km,10000,50-54,54,Charles Goodwin,37:50,2270,Berkeley,15/05/2017,20170515
-Road,1,Men,xy,10km,10000,55-59,59,JJ Willson,39:42,2382,Berkeley,09/05/2016,20160509
+Road,1,Men,xy,10km,10000,U20,19,Ben Pedley,35:23:00,2123,White Horse,03/04/2010,20100403
+Road,1,Men,xy,10km,10000,Senior,34,Will Ferguson,31:39:00,1899,Telford,09/12/2018,20181209
+Road,1,Men,xy,10km,10000,35-39,39,Will Ferguson,31:39:00,1899,Telford,09/12/2018,20181209
+Road,1,Men,xy,10km,10000,40-44,44,Rob Green,32:57:00,1977,Cricklade,08/10/2023,20231008
+Road,1,Men,xy,10km,10000,45-49,49,Brendan Ward,36:31:00,2191,Blaisdon,04/05/2009,20090504
+Road,1,Men,xy,10km,10000,50-54,54,Charles Goodwin,37:50:00,2270,Berkeley,15/05/2017,20170515
+Road,1,Men,xy,10km,10000,55-59,59,JJ Willson,39:42:00,2382,Berkeley,09/05/2016,20160509
 Road,1,Men,xy,10km,10000,60-64,64,JJ Willson,41:20.2,2480.2,Castle Combe,06/12/2020,20201206
-Road,1,Men,xy,10km,10000,65-69,69,David James,47:25,2845,Aviator,14/06/2015,20150614
-Road,1,Men,xy,10km,10000,70-74,74,David James,44:37,2677,Berkeley,03/10/2021,20211003
+Road,1,Men,xy,10km,10000,65-69,69,David James,47:25:00,2845,Aviator,14/06/2015,20150614
+Road,1,Men,xy,10km,10000,70-74,74,David James,44:37:00,2677,Berkeley,03/10/2021,20211003
 Road,1,Men,xy,7mi,11263,U20,19,,,99999,,,99999999
-Road,1,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
+Road,1,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03:00,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
 Road,1,Men,xy,7mi,11263,35-39,39,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,40-44,44,,,99999,,,99999999
-Road,1,Men,xy,7mi,11263,45-49,49,Charles Goodwin,45:59,2759,"Pilot Inn, Gloucester",26/07/2012,20120726
+Road,1,Men,xy,7mi,11263,45-49,49,Charles Goodwin,45:59:00,2759,"Pilot Inn, Gloucester",26/07/2012,20120726
 Road,1,Men,xy,7mi,11263,50-54,54,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,55-59,59,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,60-64,64,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,70-74,74,,,99999,,,99999999
 Road,1,Men,xy,10mi,16090,U20,19,,,99999,,,99999999
-Road,1,Men,xy,10mi,16090,Senior,34,Will Ferguson,53:39,3219,Staverton,28/01/2018,20180128
-Road,1,Men,xy,10mi,16090,35-39,39,Will Ferguson,53:39,3219,Staverton,28/01/2018,20180128
-Road,1,Men,xy,10mi,16090,40-44,44,Rob Green,53:56,3236,Staverton,30/01/2022,20220130
-Road,1,Men,xy,10mi,16090,45-49,49,Robert Shute,1:06:32,3992,Gloucester,04/01/2009,20090104
-Road,1,Men,xy,10mi,16090,50-54,54,Paul Northup,1:04:47,3887,Staverton,29/01/2017,20170129
-Road,1,Men,xy,10mi,16090,55-59,59,Gavin Jerman,1:13:14,4394,Oldbury,09/09/2018,20180909
-Road,1,Men,xy,10mi,16090,60-64,64,JJ Willson,1:13:54,4434,Gloucester,29/12/2019,20191229
+Road,1,Men,xy,10mi,16090,Senior,34,Will Ferguson,53:39:00,3219,Staverton,28/01/2018,20180128
+Road,1,Men,xy,10mi,16090,35-39,39,Will Ferguson,53:39:00,3219,Staverton,28/01/2018,20180128
+Road,1,Men,xy,10mi,16090,40-44,44,Rob Green,53:56:00,3236,Staverton,30/01/2022,20220130
+Road,1,Men,xy,10mi,16090,45-49,49,Robert Shute,01:06:32,3992,Gloucester,04/01/2009,20090104
+Road,1,Men,xy,10mi,16090,50-54,54,Paul Northup,01:04:47,3887,Staverton,29/01/2017,20170129
+Road,1,Men,xy,10mi,16090,55-59,59,Gavin Jerman,01:13:14,4394,Oldbury,09/09/2018,20180909
+Road,1,Men,xy,10mi,16090,60-64,64,JJ Willson,01:13:54,4434,Gloucester,29/12/2019,20191229
 Road,1,Men,xy,10mi,16090,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,10mi,16090,70-74,74,,,99999,,,99999999
-Road,1,Men,xy,Half&nbsp;Marathon,21094,U20,19,George Parker,1:43:37,6217,Stroud,26/10/2014,20141026
-Road,1,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
-Road,1,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
-Road,1,Men,xy,Half&nbsp;Marathon,21094,40-44,44,Rob Green,1:11:41,4301,Berkeley,19/03/2022,20220319
-Road,1,Men,xy,Half&nbsp;Marathon,21094,45-49,49,Jon Howes,1:23:10,4990,Berkeley,19/03/2022,20220319
-Road,1,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Charles Goodwin,1:22:02,4922,Cheltenham,27/09/2015,20150927
-Road,1,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Andy Brookes,1:26:58,5218,Cheltenham,30/09/2018,20180930
-Road,1,Men,xy,Half&nbsp;Marathon,21094,60-64,64,Edward Collier,1:34:57,5697,Cheltenham,30/09/2018,20180930
+Road,1,Men,xy,Half&nbsp;Marathon,21094,U20,19,George Parker,01:43:37,6217,Stroud,26/10/2014,20141026
+Road,1,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Will Ferguson,01:09:54,4194,Reading,17/03/2019,20190317
+Road,1,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Will Ferguson,01:09:54,4194,Reading,17/03/2019,20190317
+Road,1,Men,xy,Half&nbsp;Marathon,21094,40-44,44,Rob Green,01:11:41,4301,Berkeley,19/03/2022,20220319
+Road,1,Men,xy,Half&nbsp;Marathon,21094,45-49,49,Jon Howes,01:23:10,4990,Berkeley,19/03/2022,20220319
+Road,1,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Charles Goodwin,01:22:02,4922,Cheltenham,27/09/2015,20150927
+Road,1,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Andy Brookes,01:26:58,5218,Cheltenham,30/09/2018,20180930
+Road,1,Men,xy,Half&nbsp;Marathon,21094,60-64,64,Edward Collier,01:34:57,5697,Cheltenham,30/09/2018,20180930
 Road,1,Men,xy,Half&nbsp;Marathon,21094,65-69,69,,,99999,,,99999999
-Road,1,Men,xy,Half&nbsp;Marathon,21094,70-74,74,David James,1:46:07,6367,"Bath, Two Tunnels",15/08/2021,20210815
-Road,1,Men,xy,20mi,32180,U20,19,George Parker,2:50:54,10254,Gloucester,08/03/2015,20150308
-Road,1,Men,xy,20mi,32180,Senior,34,Joe Willgoss &amp; Rob Green,1:59:16,7156,Berkeley,18/03/2023,20230318
-Road,1,Men,xy,20mi,32180,35-39,39,Joe Willgoss,1:59:16,7156,Berkeley,18/03/2023,20230318
-Road,1,Men,xy,20mi,32180,40-44,44,Rob Green,1:59:16,7156,Berkeley,18/03/2023,20230318
-Road,1,Men,xy,20mi,32180,45-49,49,Paul Northup,2:26:52,8812,Gloucester,08/03/2015,20150308
-Road,1,Men,xy,20mi,32180,50-54,54,Paul Northup,2:20:52,8452,Gloucester,13/03/2016,20160313
-Road,1,Men,xy,20mi,32180,55-59,59,Gavin Jerman,2:38:54,9534,Berkeley,16/03/2019,20190316
+Road,1,Men,xy,Half&nbsp;Marathon,21094,70-74,74,David James,01:46:07,6367,"Bath, Two Tunnels",15/08/2021,20210815
+Road,1,Men,xy,20mi,32180,U20,19,George Parker,02:50:54,10254,Gloucester,08/03/2015,20150308
+Road,1,Men,xy,20mi,32180,Senior,34,Joe Willgoss &amp; Rob Green,01:59:16,7156,Berkeley,18/03/2023,20230318
+Road,1,Men,xy,20mi,32180,35-39,39,Joe Willgoss,01:59:16,7156,Berkeley,18/03/2023,20230318
+Road,1,Men,xy,20mi,32180,40-44,44,Rob Green,01:59:16,7156,Berkeley,18/03/2023,20230318
+Road,1,Men,xy,20mi,32180,45-49,49,Paul Northup,02:26:52,8812,Gloucester,08/03/2015,20150308
+Road,1,Men,xy,20mi,32180,50-54,54,Paul Northup,02:20:52,8452,Gloucester,13/03/2016,20160313
+Road,1,Men,xy,20mi,32180,55-59,59,Gavin Jerman,02:38:54,9534,Berkeley,16/03/2019,20190316
 Road,1,Men,xy,20mi,32180,60-64,64,,,99999,,,99999999
 Road,1,Men,xy,20mi,32180,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,20mi,32180,70-74,74,,,99999,,,99999999
-Road,1,Men,xy,Marathon,42188,U20,19,George Parker,3:52:46,13966,London,26/04/2015,20150426
-Road,1,Men,xy,Marathon,42188,Senior,34,Juan Javier Moreno Elías,2:29:28,8968,London,23/04/2023,20230423
-Road,1,Men,xy,Marathon,42188,35-39,39,Will Ferguson,2:30:20,9020,London,28/04/2019,20190428
-Road,1,Men,xy,Marathon,42188,40-44,44,Oliver Watkins,2:42:53,9773,Manchester,03/04/2022,20220403
-Road,1,Men,xy,Marathon,42188,45-49,49,Juan Javier Moreno Elías,2:29:28,8968,London,23/04/2023,20230423
-Road,1,Men,xy,Marathon,42188,50-54,54,Paul Northup,3:10:06,11406,London,24/04/2016,20160424
-Road,1,Men,xy,Marathon,42188,55-59,59,Gavin Jerman,3:31:14,12674,Abingdon,21/10/2018,20181021
-Road,1,Men,xy,Marathon,42188,60-64,64,Gavin Jerman,3:46:58,13618,Abingdon,22/10/2023,20231022
+Road,1,Men,xy,Marathon,42188,U20,19,George Parker,03:52:46,13966,London,26/04/2015,20150426
+Road,1,Men,xy,Marathon,42188,Senior,34,Juan Javier Moreno Elías,02:29:28,8968,London,23/04/2023,20230423
+Road,1,Men,xy,Marathon,42188,35-39,39,Will Ferguson,02:30:20,9020,London,28/04/2019,20190428
+Road,1,Men,xy,Marathon,42188,40-44,44,Oliver Watkins,02:42:53,9773,Manchester,03/04/2022,20220403
+Road,1,Men,xy,Marathon,42188,45-49,49,Juan Javier Moreno Elías,02:29:28,8968,London,23/04/2023,20230423
+Road,1,Men,xy,Marathon,42188,50-54,54,Paul Northup,03:10:06,11406,London,24/04/2016,20160424
+Road,1,Men,xy,Marathon,42188,55-59,59,Gavin Jerman,03:31:14,12674,Abingdon,21/10/2018,20181021
+Road,1,Men,xy,Marathon,42188,60-64,64,Gavin Jerman,03:46:58,13618,Abingdon,22/10/2023,20231022
 Road,1,Men,xy,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,Marathon,42188,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
-Road,1,Women,xx,Mile,1609,Senior,34,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
-Road,1,Women,xx,Mile,1609,35-39,39,Kate Telford,5:37,337,Bourton,12/05/2023,20230512
-Road,1,Women,xx,Mile,1609,40-44,44,Helen Knight,5:41,341,Berkeley,08/05/2023,20230508
-Road,1,Women,xx,Mile,1609,45-49,49,Amanda Steer,6:05,365,Bourton,16/07/2016,20160716
-Road,1,Women,xx,Mile,1609,50-54,54,Amelia Mullins,6:55,415,"Meteor Mile, Staverton",02/09/2023,20230902
+Road,1,Women,xx,Mile,1609,Senior,34,Helen Knight,05:41,341,Berkeley,08/05/2023,20230508
+Road,1,Women,xx,Mile,1609,35-39,39,Kate Telford,05:37,337,Bourton,12/05/2023,20230512
+Road,1,Women,xx,Mile,1609,40-44,44,Helen Knight,05:41,341,Berkeley,08/05/2023,20230508
+Road,1,Women,xx,Mile,1609,45-49,49,Amanda Steer,06:05,365,Bourton,16/07/2016,20160716
+Road,1,Women,xx,Mile,1609,50-54,54,Amelia Mullins,06:55,415,"Meteor Mile, Staverton",02/09/2023,20230902
 Road,1,Women,xx,Mile,1609,55-59,59,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
 Road,1,Women,xx,Mile,1609,65-69,69,,,99999,,,99999999
@@ -115,44 +115,44 @@ Road,1,Women,xx,5km,5000,35-39,39,Laura Kent,18:12,1092,White Horse,20/08/2009,2
 Road,1,Women,xx,5km,5000,40-44,44,Helen Knight,18:34,1114,Hereford,05/04/2023,20230405
 Road,1,Women,xx,5km,5000,45-49,49,Amanda Steer,20:46,1246,Pomphrey,30/04/2019,20190430
 Road,1,Women,xx,5km,5000,50-54,54,Amelia Mullins,22:46,1366,Haresfield,18/06/2023,20230618
-Road,1,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13,1513,White Horse,18/06/2009,20090618
-Road,1,Women,xx,5km,5000,60-64,64,Dawn Addinall,24:13,1453,White Horse,15/07/2010,20100715
+Road,1,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13:00,1513,White Horse,18/06/2009,20090618
+Road,1,Women,xx,5km,5000,60-64,64,Dawn Addinall,24:13:00,1453,White Horse,15/07/2010,20100715
 Road,1,Women,xx,5km,5000,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,5km,5000,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,4mi,6436,U20,19,,,99999,,,99999999
-Road,1,Women,xx,4mi,6436,Senior,34,Eloise du Luart,25:30,1530,Aviator,08/05/2011,20110508
-Road,1,Women,xx,4mi,6436,35-39,39,Lucy McNulty,26:38,1598,Aviator,06/05/2012,20120506
-Road,1,Women,xx,4mi,6436,40-44,44,Amanda Steer,26:54,1614,"Pilot Inn, Gloucester",27/12/2011,20111227
+Road,1,Women,xx,4mi,6436,Senior,34,Eloise du Luart,25:30:00,1530,Aviator,08/05/2011,20110508
+Road,1,Women,xx,4mi,6436,35-39,39,Lucy McNulty,26:38:00,1598,Aviator,06/05/2012,20120506
+Road,1,Women,xx,4mi,6436,40-44,44,Amanda Steer,26:54:00,1614,"Pilot Inn, Gloucester",27/12/2011,20111227
 Road,1,Women,xx,4mi,6436,45-49,49,,,99999,,,99999999
 Road,1,Women,xx,4mi,6436,50-54,54,,,99999,,,99999999
-Road,1,Women,xx,4mi,6436,55-59,59,Dawn Addinall,34:37,2077,"Pilot Inn, Gloucester",27/12/2009,20091227
-Road,1,Women,xx,4mi,6436,60-64,64,Sylvia Koster,32:57,1977,White Horse,21/03/2009,20090321
+Road,1,Women,xx,4mi,6436,55-59,59,Dawn Addinall,34:37:00,2077,"Pilot Inn, Gloucester",27/12/2009,20091227
+Road,1,Women,xx,4mi,6436,60-64,64,Sylvia Koster,32:57:00,1977,White Horse,21/03/2009,20090321
 Road,1,Women,xx,4mi,6436,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,4mi,6436,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,5mi,8045,U20,19,,,99999,,,99999999
-Road,1,Women,xx,5mi,8045,Senior,34,Laura Kent,29:46,1786,Tewkesbury,01/11/2009,20091101
-Road,1,Women,xx,5mi,8045,35-39,39,Laura Kent,29:46,1786,Tewkesbury,01/11/2009,20091101
-Road,1,Women,xx,5mi,8045,40-44,44,Helen Knight,30:58,1858,Linda Franks,22/01/2023,20230122
-Road,1,Women,xx,5mi,8045,45-49,49,Amanda Steer,33:06,1986,Linda Franks,25/01/2015,20150125
-Road,1,Women,xx,5mi,8045,50-54,54,Amelia Mullins,37:33,2253,Linda Franks,22/01/2023,20230122
-Road,1,Women,xx,5mi,8045,55-59,59,Sue Clark,40:43,2443,Linda Franks,13/05/2012,20120513
-Road,1,Women,xx,5mi,8045,60-64,64,Dawn Addinall,39:06,2346,Tewkesbury,07/11/2010,20101107
+Road,1,Women,xx,5mi,8045,Senior,34,Laura Kent,29:46:00,1786,Tewkesbury,01/11/2009,20091101
+Road,1,Women,xx,5mi,8045,35-39,39,Laura Kent,29:46:00,1786,Tewkesbury,01/11/2009,20091101
+Road,1,Women,xx,5mi,8045,40-44,44,Helen Knight,30:58:00,1858,Linda Franks,22/01/2023,20230122
+Road,1,Women,xx,5mi,8045,45-49,49,Amanda Steer,33:06:00,1986,Linda Franks,25/01/2015,20150125
+Road,1,Women,xx,5mi,8045,50-54,54,Amelia Mullins,37:33:00,2253,Linda Franks,22/01/2023,20230122
+Road,1,Women,xx,5mi,8045,55-59,59,Sue Clark,40:43:00,2443,Linda Franks,13/05/2012,20120513
+Road,1,Women,xx,5mi,8045,60-64,64,Dawn Addinall,39:06:00,2346,Tewkesbury,07/11/2010,20101107
 Road,1,Women,xx,5mi,8045,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,5mi,8045,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,10km,10000,U20,19,,,99999,,,99999999
-Road,1,Women,xx,10km,10000,Senior,34,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
-Road,1,Women,xx,10km,10000,35-39,39,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
-Road,1,Women,xx,10km,10000,40-44,44,Helen Knight,38:48,2328,Bourton,26/02/2023,20230226
-Road,1,Women,xx,10km,10000,45-49,49,Amanda Steer,41:05,2465,Bourton,22/02/2015,20150222
+Road,1,Women,xx,10km,10000,Senior,34,Laura Kent,37:34:00,2254,Bourton,28/02/2010,20100228
+Road,1,Women,xx,10km,10000,35-39,39,Laura Kent,37:34:00,2254,Bourton,28/02/2010,20100228
+Road,1,Women,xx,10km,10000,40-44,44,Helen Knight,38:48:00,2328,Bourton,26/02/2023,20230226
+Road,1,Women,xx,10km,10000,45-49,49,Amanda Steer,41:05:00,2465,Bourton,22/02/2015,20150222
 Road,1,Women,xx,10km,10000,50-54,54,Amanda Steer,43:26.7,2606.7,Bourton,23/02/2020,20200223
-Road,1,Women,xx,10km,10000,55-59,59,Dawn Addinall,48:31,2911,Moreton-in-Marsh,11/04/2010,20100411
-Road,1,Women,xx,10km,10000,60-64,64,Sylvia Koster,52:31,3151,Beacon,06/09/2009,20090906
+Road,1,Women,xx,10km,10000,55-59,59,Dawn Addinall,48:31:00,2911,Moreton-in-Marsh,11/04/2010,20100411
+Road,1,Women,xx,10km,10000,60-64,64,Sylvia Koster,52:31:00,3151,Beacon,06/09/2009,20090906
 Road,1,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,7mi,11263,U20,19,,,99999,,,99999999
-Road,1,Women,xx,7mi,11263,Senior,34,Liza Barry,47:29,2849,"Pilot Inn, Gloucester",30/07/2009,20090730
+Road,1,Women,xx,7mi,11263,Senior,34,Liza Barry,47:29:00,2849,"Pilot Inn, Gloucester",30/07/2009,20090730
 Road,1,Women,xx,7mi,11263,35-39,39,,,99999,,,99999999
-Road,1,Women,xx,7mi,11263,40-44,44,Amanda Steer,51:20,3080,"Pilot Inn, Gloucester",26/07/2012,20120726
+Road,1,Women,xx,7mi,11263,40-44,44,Amanda Steer,51:20:00,3080,"Pilot Inn, Gloucester",26/07/2012,20120726
 Road,1,Women,xx,7mi,11263,45-49,49,,,99999,,,99999999
 Road,1,Women,xx,7mi,11263,50-54,54,,,99999,,,99999999
 Road,1,Women,xx,7mi,11263,55-59,59,,,99999,,,99999999
@@ -160,79 +160,79 @@ Road,1,Women,xx,7mi,11263,60-64,64,,,99999,,,99999999
 Road,1,Women,xx,7mi,11263,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,7mi,11263,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,10mi,16090,U20,19,,,99999,,,99999999
-Road,1,Women,xx,10mi,16090,Senior,34,Edwina Sutton,1:02:50,3770,Gloucester,04/01/2009,20090104
-Road,1,Women,xx,10mi,16090,35-39,39,Kate Telford,1:04:28,3868,Staverton,30/01/2022,20220130
-Road,1,Women,xx,10mi,16090,40-44,44,Helen Knight,1:09:12,4152,Oldbury,01/09/2019,20190901
-Road,1,Women,xx,10mi,16090,45-49,49,Amanda Steer,1:11:01,4261,Oldbury,11/09/2016,20160911
+Road,1,Women,xx,10mi,16090,Senior,34,Edwina Sutton,01:02:50,3770,Gloucester,04/01/2009,20090104
+Road,1,Women,xx,10mi,16090,35-39,39,Kate Telford,01:04:28,3868,Staverton,30/01/2022,20220130
+Road,1,Women,xx,10mi,16090,40-44,44,Helen Knight,01:09:12,4152,Oldbury,01/09/2019,20190901
+Road,1,Women,xx,10mi,16090,45-49,49,Amanda Steer,01:11:01,4261,Oldbury,11/09/2016,20160911
 Road,1,Women,xx,10mi,16090,50-54,54,,,99999,,,99999999
 Road,1,Women,xx,10mi,16090,55-59,59,,,99999,,,99999999
 Road,1,Women,xx,10mi,16090,60-64,64,,,99999,,,99999999
 Road,1,Women,xx,10mi,16090,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,10mi,16090,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,Half&nbsp;Marathon,21094,U20,19,,,99999,,,99999999
-Road,1,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Liza Bradshaw,1:21:58,4915,Cheshire,25/05/2021,20210525
-Road,1,Women,xx,Half&nbsp;Marathon,21094,35-39,39,Liza Bradshaw,1:21:58,4915,Cheshire,25/05/2021,20210525
-Road,1,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:24:47,5087,Bath,15/10/2023,20231015
-Road,1,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Amanda Steer,1:32:46,5566,Cheltenham,27/09/2015,20150927
-Road,1,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Amanda Steer,1:37:03,5823,Bath,15/03/2020,20200315
-Road,1,Women,xx,Half&nbsp;Marathon,21094,55-59,59,Nikki Smith,1:41:34,6094,Reading,02/04/2023,20230402
-Road,1,Women,xx,Half&nbsp;Marathon,21094,60-64,64,Dawn Addinall,1:52:36,6756,Cardiff (short),16/10/2010,20101016
+Road,1,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Liza Bradshaw,01:21:58,4915,Cheshire,25/05/2021,20210525
+Road,1,Women,xx,Half&nbsp;Marathon,21094,35-39,39,Liza Bradshaw,01:21:58,4915,Cheshire,25/05/2021,20210525
+Road,1,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,01:24:47,5087,Bath,15/10/2023,20231015
+Road,1,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Amanda Steer,01:32:46,5566,Cheltenham,27/09/2015,20150927
+Road,1,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Amanda Steer,01:37:03,5823,Bath,15/03/2020,20200315
+Road,1,Women,xx,Half&nbsp;Marathon,21094,55-59,59,Nikki Smith,01:41:34,6094,Reading,02/04/2023,20230402
+Road,1,Women,xx,Half&nbsp;Marathon,21094,60-64,64,Dawn Addinall,01:52:36,6756,Cardiff (short),16/10/2010,20101016
 Road,1,Women,xx,Half&nbsp;Marathon,21094,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,Half&nbsp;Marathon,21094,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,20mi,32180,U20,19,,,99999,,,99999999
-Road,1,Women,xx,20mi,32180,Senior,34,Helen Knight,2:19:00,8340,Berkeley,18/03/2023,20230318
-Road,1,Women,xx,20mi,32180,35-39,39,Alice Johnston,2:26:19,8779,Stafford,11/03/2012,20120311
-Road,1,Women,xx,20mi,32180,40-44,44,Helen Knight,2:19:00,8340,Berkeley,18/03/2023,20230318
-Road,1,Women,xx,20mi,32180,45-49,49,Janet Mustoe,3:50:07,13807,Berkeley,11/03/2017,20170311
+Road,1,Women,xx,20mi,32180,Senior,34,Helen Knight,02:19:00,8340,Berkeley,18/03/2023,20230318
+Road,1,Women,xx,20mi,32180,35-39,39,Alice Johnston,02:26:19,8779,Stafford,11/03/2012,20120311
+Road,1,Women,xx,20mi,32180,40-44,44,Helen Knight,02:19:00,8340,Berkeley,18/03/2023,20230318
+Road,1,Women,xx,20mi,32180,45-49,49,Janet Mustoe,03:50:07,13807,Berkeley,11/03/2017,20170311
 Road,1,Women,xx,20mi,32180,50-54,54,,,99999,,,99999999
-Road,1,Women,xx,20mi,32180,55-59,59,Nikki Smith,2:49:28,10168,Berkeley,18/03/2023,20230318
+Road,1,Women,xx,20mi,32180,55-59,59,Nikki Smith,02:49:28,10168,Berkeley,18/03/2023,20230318
 Road,1,Women,xx,20mi,32180,60-64,64,,,99999,,,99999999
 Road,1,Women,xx,20mi,32180,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,20mi,32180,70-74,74,,,99999,,,99999999
 Road,1,Women,xx,Marathon,42188,U20,19,,,99999,,,99999999
-Road,1,Women,xx,Marathon,42188,Senior,34,Liza Bradshaw,2:54:59,10499,Dorney Lake,04/10/2020,20201004
-Road,1,Women,xx,Marathon,42188,35-39,39,Liza Bradshaw,2:54:59,10499,Dorney Lake,04/10/2020,20201004
-Road,1,Women,xx,Marathon,42188,40-44,44,Helen Knight,3:07:58,11278,London,23/04/2023,20230423
-Road,1,Women,xx,Marathon,42188,45-49,49,Fiona Brady-Miller,3:43:41,13421,London,02/10/2022,20221002
+Road,1,Women,xx,Marathon,42188,Senior,34,Liza Bradshaw,02:54:59,10499,Dorney Lake,04/10/2020,20201004
+Road,1,Women,xx,Marathon,42188,35-39,39,Liza Bradshaw,02:54:59,10499,Dorney Lake,04/10/2020,20201004
+Road,1,Women,xx,Marathon,42188,40-44,44,Helen Knight,03:07:58,11278,London,23/04/2023,20230423
+Road,1,Women,xx,Marathon,42188,45-49,49,Fiona Brady-Miller,03:43:41,13421,London,02/10/2022,20221002
 Road,1,Women,xx,Marathon,42188,50-54,54,,,99999,,,99999999
-Road,1,Women,xx,Marathon,42188,55-59,59,Nikki Smith,3:33:18,12798,Manchester,16/04/2023,20230416
-Road,1,Women,xx,Marathon,42188,60-64,64,Dawn Addinall,4:43:48,17028,Edinburgh,22/05/2011,20110522
+Road,1,Women,xx,Marathon,42188,55-59,59,Nikki Smith,03:33:18,12798,Manchester,16/04/2023,20230416
+Road,1,Women,xx,Marathon,42188,60-64,64,Dawn Addinall,04:43:48,17028,Edinburgh,22/05/2011,20110522
 Road,1,Women,xx,Marathon,42188,65-69,69,,,99999,,,99999999
 Road,1,Women,xx,Marathon,42188,70-74,74,,,99999,,,99999999
-Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Iain Porter,1:21:58,4918,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Iain Porter,1:21:58,4918,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Rob Bircher,2:07:46,7666,Newbold Comyn,06/10/2022,20221006
-Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Ed Thompson,1:56:17,6977,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Men,xy,Marathon,42188,Senior,34,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
-Multi-Terrain,2,Men,xy,Marathon,42188,35-39,39,Iain Porter,5:42:03,20523,Snowdonia,02/04/2022,20220422
-Multi-Terrain,2,Men,xy,Marathon,42188,50-54,54,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
-Multi-Terrain,2,Men,xy,Marathon,42188,55-59,54,Gavin Jerman,4:47:52,17272,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Men,xy,50k Ultra,50000,Senior,34,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
-Multi-Terrain,2,Men,xy,50k Ultra,50000,55-59,59,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
-Multi-Terrain,2,Men,xy,50mi Ultra,80467,Senior,34,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
-Multi-Terrain,2,Men,xy,50mi Ultra,80467,50-54,54,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
+Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Iain Porter,01:21:58,4918,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Iain Porter,01:21:58,4918,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Rob Bircher,02:07:46,7666,Newbold Comyn,06/10/2022,20221006
+Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Ed Thompson,01:56:17,6977,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Men,xy,Marathon,42188,Senior,34,Rob Bircher,04:31:54,16314,Walton-on-Thames,28/05/2022,20220528
+Multi-Terrain,2,Men,xy,Marathon,42188,35-39,39,Iain Porter,05:42:03,20523,Snowdonia,02/04/2022,20220422
+Multi-Terrain,2,Men,xy,Marathon,42188,50-54,54,Rob Bircher,04:31:54,16314,Walton-on-Thames,28/05/2022,20220528
+Multi-Terrain,2,Men,xy,Marathon,42188,55-59,54,Gavin Jerman,04:47:52,17272,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Men,xy,50k Ultra,50000,Senior,34,Gavin Jerman,05:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
+Multi-Terrain,2,Men,xy,50k Ultra,50000,55-59,59,Gavin Jerman,05:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
+Multi-Terrain,2,Men,xy,50mi Ultra,80467,Senior,34,Rob Bircher,09:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
+Multi-Terrain,2,Men,xy,50mi Ultra,80467,50-54,54,Rob Bircher,09:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
 Multi-Terrain,2,Men,xy,100km Ultra,100000,Senior,34,Rob Bircher,15:22:54,55374,"Steel City, Sheffield (60m)",22/04/2023,20230422
 Multi-Terrain,2,Men,xy,100km Ultra,100000,50-54,54,Rob Bircher,15:22:54,55374,"Steel City, Sheffield (60m)",22/04/2023,20230422
 Multi-Terrain,2,Men,xy,100mi Ultra,160934,Senior,34,Rob Bircher,29:18:35,105515,Cotswold Way Century (102mi),18/09/2021,20210918
 Multi-Terrain,2,Men,xy,100mi Ultra,160934,50-54,54,Rob Bircher,29:18:35,105515,Cotswold Way Century (102mi),18/09/2021,20210918
-Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Fiona Brady-Miller,1:44:18,6258,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Sarah Wilson,2:02:42,7362,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,65-69,69,Jill Harsent,2:30:47,9047,South Downs,17/06/2023,20230617
-Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,Marathon,42188,40-44,44,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,Marathon,42188,50-54,54,Amelia Mullins,5:13:11,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:58:06,21486,"Trail Events Company Exmoor Ultra",22/07/2023,20230722
-Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,5:58:06,21486,"Trail Events Company Exmoor Ultra",22/07/2023,20230722
-Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
-Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,"Roseland August Trails (RAT) - The Plague 100k",05/08/2023,20230805
-Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,"Roseland August Trails (RAT) - The Plague 100k",05/08/2023,20230805
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Helen Knight,01:27:23,5243,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,01:27:23,5243,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Fiona Brady-Miller,01:44:18,6258,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Sarah Wilson,02:02:42,7362,Forest of Dean,20/03/2022,20220320
+Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,65-69,69,Jill Harsent,02:30:47,9047,South Downs,17/06/2023,20230617
+Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,03:57:35,14255,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Women,xx,Marathon,42188,40-44,44,Helen Knight,03:57:35,14255,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Women,xx,Marathon,42188,50-54,54,Amelia Mullins,05:13:11,14255,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,05:58:06,21486,Trail Events Company Exmoor Ultra,22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,05:58:06,21486,Trail Events Company Exmoor Ultra,22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,07:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
+Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
-Track,3,Men,xy,100m,100,40-44,44,Paul Lockyer,13.0,13,Prince of Wales Stadium,20/07/2016,20160720
+Track,3,Men,xy,100m,100,40-44,44,Paul Lockyer,13,13,Prince of Wales Stadium,20/07/2016,20160720
 Track,3,Men,xy,100m,100,45-49,49,Paul Lockyer,13.3,13.3,Prince of Wales Stadium,15/05/2022,20220515
 Track,3,Men,xy,100m,100,50-54,54,Martin Bick,14.62,14.62,Prince of Wales Stadium,22/07/2015,20150722
 Track,3,Men,xy,100m,100,55-59,59,Andy Brookes,15.57,15.57,Tavistock,12/08/2018,20180812
@@ -273,69 +273,69 @@ Track,3,Men,xy,400m,400,U20,19,,,99999,,,99999999
 Track,3,Men,xy,400m,400,Senior,34,Joel Freeland,56.3,56.3,Prince of Wales Stadium,20/07/2011,20110720
 Track,3,Men,xy,400m,400,35-39,39,John Parker,57.7,57.7,Prince of Wales Stadium,07/07/2010,20100707
 Track,3,Men,xy,400m,400,40-44,44,Paul Lockyer,59.7,59.7,Prince of Wales Stadium,25/07/2018,20180725
-Track,3,Men,xy,400m,400,45-49,49,Gareth Harries,63.0,63,"Blackbridge Jubilee Track, Gloucester",13/05/2018,20180513
+Track,3,Men,xy,400m,400,45-49,49,Gareth Harries,63,63,"Blackbridge Jubilee Track, Gloucester",13/05/2018,20180513
 Track,3,Men,xy,400m,400,50-54,54,Gavin Jerman,78.6,78.6,Prince of Wales Stadium,26/07/2017,20170726
 Track,3,Men,xy,400m,400,55-59,59,Andy Brookes,68.7,68.7,Prince of Wales Stadium,12/08/2018,20180812
 Track,3,Men,xy,400m,400,60-64,64,JJ Willson,68.3,68.3,Prince of Wales Stadium,28/07/2021,20210728
 Track,3,Men,xy,400m,400,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,400m,400,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,600m,600,U20,19,,,99999,,,99999999
-Track,3,Men,xy,600m,600,Senior,34,Joel Freeland,1:35.0,95,Prince of Wales Stadium,10/07/2013,20130710
-Track,3,Men,xy,600m,600,35-39,39,Richard Cannock,1:37.2,97.2,Prince of Wales Stadium,10/07/2013,20130710
-Track,3,Men,xy,600m,600,40-44,44,Phil Jowett,1:36.6,96.6,Prince of Wales Stadium,08/07/2009,20090708
-Track,3,Men,xy,600m,600,45-49,49,Gareth Harries,1:42.2,102.2,Prince of Wales Stadium,18/07/2018,20180718
-Track,3,Men,xy,600m,600,50-54,54,Gordon Bendall,1:59.7,119.7,Prince of Wales Stadium,10/07/2013,20130710
-Track,3,Men,xy,600m,600,55-59,59,JJ Willson,1:53.4,113.4,Prince of Wales Stadium,19/07/2017,20170719
-Track,3,Men,xy,600m,600,60-64,64,JJ Willson,1:52.5,112.5,Prince of Wales Stadium,14/07/2021,20210714
+Track,3,Men,xy,600m,600,Senior,34,Joel Freeland,01:35.0,95,Prince of Wales Stadium,10/07/2013,20130710
+Track,3,Men,xy,600m,600,35-39,39,Richard Cannock,01:37.2,97.2,Prince of Wales Stadium,10/07/2013,20130710
+Track,3,Men,xy,600m,600,40-44,44,Phil Jowett,01:36.6,96.6,Prince of Wales Stadium,08/07/2009,20090708
+Track,3,Men,xy,600m,600,45-49,49,Gareth Harries,01:42.2,102.2,Prince of Wales Stadium,18/07/2018,20180718
+Track,3,Men,xy,600m,600,50-54,54,Gordon Bendall,01:59.7,119.7,Prince of Wales Stadium,10/07/2013,20130710
+Track,3,Men,xy,600m,600,55-59,59,JJ Willson,01:53.4,113.4,Prince of Wales Stadium,19/07/2017,20170719
+Track,3,Men,xy,600m,600,60-64,64,JJ Willson,01:52.5,112.5,Prince of Wales Stadium,14/07/2021,20210714
 Track,3,Men,xy,600m,600,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,600m,600,70-74,74,,,99999,,,99999999
-Track,3,Men,xy,800m,800,U20,19,George Parker,2:41.1,161.1,Prince of Wales Stadium,16/07/2014,20140716
-Track,3,Men,xy,800m,800,Senior,34,Will Ferguson,1:58.97,118.97,Tipton,14/08/2018,20180814
-Track,3,Men,xy,800m,800,35-39,39,Will Ferguson,1:58.97,118.97,Tipton,14/08/2018,20180814
-Track,3,Men,xy,800m,800,40-44,44,Phil Jowett,2:08.1,128.1,Birmingham,17/04/2010,20100417
-Track,3,Men,xy,800m,800,45-49,49,Gareth Harries,2:21.1,141.1,Prince of Wales Stadium,11/07/2018,20180711
-Track,3,Men,xy,800m,800,50-54,54,Eoin McQuone,2:30.6,150.6,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
-Track,3,Men,xy,800m,800,55-59,59,JJ Willson,2:34.2,154.2,Prince of Wales Stadium,12/07/2017,20170712
-Track,3,Men,xy,800m,800,60-64,64,JJ Willson,2:31.9,151.9,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
+Track,3,Men,xy,800m,800,U20,19,George Parker,02:41.1,161.1,Prince of Wales Stadium,16/07/2014,20140716
+Track,3,Men,xy,800m,800,Senior,34,Will Ferguson,01:59.0,118.97,Tipton,14/08/2018,20180814
+Track,3,Men,xy,800m,800,35-39,39,Will Ferguson,01:59.0,118.97,Tipton,14/08/2018,20180814
+Track,3,Men,xy,800m,800,40-44,44,Phil Jowett,02:08.1,128.1,Birmingham,17/04/2010,20100417
+Track,3,Men,xy,800m,800,45-49,49,Gareth Harries,02:21.1,141.1,Prince of Wales Stadium,11/07/2018,20180711
+Track,3,Men,xy,800m,800,50-54,54,Eoin McQuone,02:30.6,150.6,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
+Track,3,Men,xy,800m,800,55-59,59,JJ Willson,02:34.2,154.2,Prince of Wales Stadium,12/07/2017,20170712
+Track,3,Men,xy,800m,800,60-64,64,JJ Willson,02:31.9,151.9,"Blackbridge Jubilee Track, Gloucester",16/05/2021,20210516
 Track,3,Men,xy,800m,800,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,800m,800,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,U20,19,,,99999,,,99999999
-Track,3,Men,xy,1000m,1000,Senior,34,JJ Willson,3:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
+Track,3,Men,xy,1000m,1000,Senior,34,JJ Willson,03:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
 Track,3,Men,xy,1000m,1000,35-39,39,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,40-44,44,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,45-49,49,,,99999,,,99999999
-Track,3,Men,xy,1000m,1000,50-54,54,JJ Willson,3:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
+Track,3,Men,xy,1000m,1000,50-54,54,JJ Willson,03:22.3,202.3,Prince of Wales Stadium,06/05/2013,20130506
 Track,3,Men,xy,1000m,1000,55-59,59,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,60-64,64,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,1000m,1000,70-74,74,,,99999,,,99999999
-Track,3,Men,xy,1500m,1500,U20,19,Ben Pedley,4:23.1,263.1,Prince of Wales Stadium,09/05/2010,20100509
-Track,3,Men,xy,1500m,1500,Senior,34,Will Ferguson,4:09.4,249.4,"Iffley Rd Stadium, Oxford",29/07/2017,20170729
-Track,3,Men,xy,1500m,1500,35-39,39,John Parker,4:09.8,249.8,Prince of Wales Stadium,21/07/2010,20100721
-Track,3,Men,xy,1500m,1500,40-44,44,James Oram,4:24.6,264.6,"Blackbridge Jubilee Track, Gloucester",15/05/2016,20160515
-Track,3,Men,xy,1500m,1500,45-49,49,Gareth Harries,5:00.3,300.3,Prince of Wales Stadium,18/07/2018,20180718
-Track,3,Men,xy,1500m,1500,50-54,54,Eoin McQuone,5:12.6,312.6,Prince of Wales Stadium,14/07/2021,20210714
-Track,3,Men,xy,1500m,1500,55-59,59,JJ Willson,5:10.8,310.8,Prince of Wales Stadium,18/07/2018,20180718
-Track,3,Men,xy,1500m,1500,60-64,64,JJ Willson,5:35.3,335.3,"Blackbridge Jubilee Track, Gloucester",15/05/2022,20220515
+Track,3,Men,xy,1500m,1500,U20,19,Ben Pedley,04:23.1,263.1,Prince of Wales Stadium,09/05/2010,20100509
+Track,3,Men,xy,1500m,1500,Senior,34,Will Ferguson,04:09.4,249.4,"Iffley Rd Stadium, Oxford",29/07/2017,20170729
+Track,3,Men,xy,1500m,1500,35-39,39,John Parker,04:09.8,249.8,Prince of Wales Stadium,21/07/2010,20100721
+Track,3,Men,xy,1500m,1500,40-44,44,James Oram,04:24.6,264.6,"Blackbridge Jubilee Track, Gloucester",15/05/2016,20160515
+Track,3,Men,xy,1500m,1500,45-49,49,Gareth Harries,05:00.3,300.3,Prince of Wales Stadium,18/07/2018,20180718
+Track,3,Men,xy,1500m,1500,50-54,54,Eoin McQuone,05:12.6,312.6,Prince of Wales Stadium,14/07/2021,20210714
+Track,3,Men,xy,1500m,1500,55-59,59,JJ Willson,05:10.8,310.8,Prince of Wales Stadium,18/07/2018,20180718
+Track,3,Men,xy,1500m,1500,60-64,64,JJ Willson,05:35.3,335.3,"Blackbridge Jubilee Track, Gloucester",15/05/2022,20220515
 Track,3,Men,xy,1500m,1500,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,1500m,1500,70-74,74,,,99999,,,99999999
-Track,3,Men,xy,Mile,1609,U20,19,Ollie Mosley,5:54.4,354.4,Prince of Wales Stadium,27/08/2014,20140827
-Track,3,Men,xy,Mile,1609,Senior,34,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,35-39,39,Will Ferguson,4:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,40-44,44,James Oram,4:54.7,294.7,Prince of Wales Stadium,03/08/2016,20160803
-Track,3,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:23.5,323.5,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,50-54,54,Charles Goodwin,5:21.7,321.7,"Blackbridge Jubilee Track, Gloucester",01/09/2017,20170901
-Track,3,Men,xy,Mile,1609,55-59,59,JJ Willson,5:36.3,336.3,Prince of Wales Stadium,04/07/2018,20180704
-Track,3,Men,xy,Mile,1609,60-64,64,JJ Willson,5:49.0,349.0,"Blackbridge Jubilee Track, Gloucester",24/06/2022,20220024
+Track,3,Men,xy,Mile,1609,U20,19,Ollie Mosley,05:54.4,354.4,Prince of Wales Stadium,27/08/2014,20140827
+Track,3,Men,xy,Mile,1609,Senior,34,Will Ferguson,04:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
+Track,3,Men,xy,Mile,1609,35-39,39,Will Ferguson,04:27.7,267.7,Prince of Wales Stadium,04/07/2018,20180704
+Track,3,Men,xy,Mile,1609,40-44,44,James Oram,04:54.7,294.7,Prince of Wales Stadium,03/08/2016,20160803
+Track,3,Men,xy,Mile,1609,45-49,49,Gareth Harries,05:23.5,323.5,Prince of Wales Stadium,04/07/2018,20180704
+Track,3,Men,xy,Mile,1609,50-54,54,Charles Goodwin,05:21.7,321.7,"Blackbridge Jubilee Track, Gloucester",01/09/2017,20170901
+Track,3,Men,xy,Mile,1609,55-59,59,JJ Willson,05:36.3,336.3,Prince of Wales Stadium,04/07/2018,20180704
+Track,3,Men,xy,Mile,1609,60-64,64,JJ Willson,05:49.0,349,"Blackbridge Jubilee Track, Gloucester",24/06/2022,20220024
 Track,3,Men,xy,Mile,1609,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
 Track,3,Men,xy,3000m,3000,U20,19,George Parker,12:32.9,752.9,Prince of Wales Stadium,02/07/2014,20140702
-Track,3,Men,xy,3000m,3000,Senior,34,Will Ferguson,8:57.2,537.2,Yate,03/04/2011,20110403
+Track,3,Men,xy,3000m,3000,Senior,34,Will Ferguson,08:57.2,537.2,Yate,03/04/2011,20110403
 Track,3,Men,xy,3000m,3000,35-39,39,Chris Driskell,10:24.2,624.2,Prince of Wales Stadium,02/05/2016,20160502
-Track,3,Men,xy,3000m,3000,40-44,44,Juan Moreno,9:30.7,570.7,Granada,20/05/2017,20170520
+Track,3,Men,xy,3000m,3000,40-44,44,Juan Moreno,09:30.7,570.7,Granada,20/05/2017,20170520
 Track,3,Men,xy,3000m,3000,45-49,49,Richard Shardlow,10:47.5,647.5,Prince of Wales Stadium,12/07/2017,20170712
 Track,3,Men,xy,3000m,3000,50-54,54,Paul Northup,10:48.5,648.5,Prince of Wales Stadium,01/05/2017,20170501
-Track,3,Men,xy,3000m,3000,55-59,59,Paul Northup,11:08.56,668.08,Prince of Wales Stadium,02/05/2022,20220502
+Track,3,Men,xy,3000m,3000,55-59,59,Paul Northup,11:08.6,668.08,Prince of Wales Stadium,02/05/2022,20220502
 Track,3,Men,xy,3000m,3000,60-64,64,JJ Willson,11:36.6,696.6,"Blackbridge Jubilee Track, Gloucester",07/06/2022,20220007
 Track,3,Men,xy,3000m,3000,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,3000m,3000,70-74,74,,,99999,,,99999999
@@ -355,7 +355,7 @@ Track,3,Men,xy,5km,5000,35-39,39,Will Ferguson,15:09,909,Yate,23/06/2018,2018062
 Track,3,Men,xy,5km,5000,40-44,44,Juan Moreno,16:06.0,966,Malaga,27/05/2018,20180527
 Track,3,Men,xy,5km,5000,45-49,49,Richard Shardlow,18:16.8,1096.8,Prince of Wales Stadium,13/05/2015,20150513
 Track,3,Men,xy,5km,5000,50-54,54,Richard Shardlow,19:20.5,1160.5,"Blackbridge Jubilee Track, Gloucester",03/09/2019,20190903
-Track,3,Men,xy,5km,5000,55-59,59,Paul Northup,19:03.09,1143.09,Prince of Wales Stadium,30/04/2022,20220430
+Track,3,Men,xy,5km,5000,55-59,59,Paul Northup,19:03.1,1143.09,Prince of Wales Stadium,30/04/2022,20220430
 Track,3,Men,xy,5km,5000,60-64,64,JJ Willson,19:22.3,1162.3,Prince of Wales Stadium,21/07/2021,20210721
 Track,3,Men,xy,5km,5000,65-69,69,,,99999,,,99999999
 Track,3,Men,xy,5km,5000,70-74,74,David James,21:57.9,1317.9,Prince of Wales Stadium,04/11/2020,20201104
@@ -443,7 +443,7 @@ Track,3,Women,xx,150m,150,U20,19,,,99999,,,99999999
 Track,3,Women,xx,150m,150,Senior,34,Hollie Wharton,22.8,22.8,Prince of Wales Stadium,18/07/2012,20120718
 Track,3,Women,xx,150m,150,35-39,39,,,99999,,,99999999
 Track,3,Women,xx,150m,150,40-44,44,Emma Abbey,27.17,27.17,Prince of Wales Stadium,13/07/2016,20160713
-Track,3,Women,xx,150m,150,45-49,49,Amelia Mullins,26.0,26,Prince of Wales Stadium,25/07/2018,20180725
+Track,3,Women,xx,150m,150,45-49,49,Amelia Mullins,26,26,Prince of Wales Stadium,25/07/2018,20180725
 Track,3,Women,xx,150m,150,50-54,54,,,99999,,,99999999
 Track,3,Women,xx,150m,150,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,150m,150,60-64,64,,,99999,,,99999999
@@ -472,7 +472,7 @@ Track,3,Women,xx,300m,300,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,400m,400,U20,19,,,99999,,,99999999
 Track,3,Women,xx,400m,400,Senior,34,Hollie Wharton,73.3,73.3,Worcester,26/04/2012,20120426
 Track,3,Women,xx,400m,400,35-39,39,Rachel Vines,76.6,76.6,Prince of Wales Stadium,12/07/2017,20170712
-Track,3,Women,xx,400m,400,40-44,44,Amelia Mullins,83.0,83,Prince of Wales Stadium,20/07/2016,20160720
+Track,3,Women,xx,400m,400,40-44,44,Amelia Mullins,83,83,Prince of Wales Stadium,20/07/2016,20160720
 Track,3,Women,xx,400m,400,45-49,49,Amelia Mullins,83.3,83.3,Prince of Wales Stadium,11/07/2018,20180711
 Track,3,Women,xx,400m,400,50-54,54,,,99999,,,99999999
 Track,3,Women,xx,400m,400,55-59,59,,,99999,,,99999999
@@ -480,27 +480,27 @@ Track,3,Women,xx,400m,400,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,400m,400,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,400m,400,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,600m,600,U20,19,,,99999,,,99999999
-Track,3,Women,xx,600m,600,Senior,34,Katie Butler,1:47.5,107.5,Prince of Wales Stadium,10/07/2013,20130710
-Track,3,Women,xx,600m,600,35-39,39,Rachel Vines,1:54.7,114.7,Prince of Wales Stadium,19/07/2017,20170719
-Track,3,Women,xx,600m,600,40-44,44,Helen Knight,1:59.4,119.4,Prince of Wales Stadium,17/07/2019,20190717
-Track,3,Women,xx,600m,600,45-49,49,Fiona Brady-Miller,2:11.44,131.44,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
-Track,3,Women,xx,600m,600,50-54,54,Amelia Mullins,2:14.7,134.7,Prince of Wales Stadium,06/07/2022,20220706
+Track,3,Women,xx,600m,600,Senior,34,Katie Butler,01:47.5,107.5,Prince of Wales Stadium,10/07/2013,20130710
+Track,3,Women,xx,600m,600,35-39,39,Rachel Vines,01:54.7,114.7,Prince of Wales Stadium,19/07/2017,20170719
+Track,3,Women,xx,600m,600,40-44,44,Helen Knight,01:59.4,119.4,Prince of Wales Stadium,17/07/2019,20190717
+Track,3,Women,xx,600m,600,45-49,49,Fiona Brady-Miller,02:11.4,131.44,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
+Track,3,Women,xx,600m,600,50-54,54,Amelia Mullins,02:14.7,134.7,Prince of Wales Stadium,06/07/2022,20220706
 Track,3,Women,xx,600m,600,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,600m,600,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,600m,600,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,600m,600,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,800m,800,U20,19,,,99999,,,99999999
-Track,3,Women,xx,800m,800,Senior,34,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
-Track,3,Women,xx,800m,800,35-39,39,Jo Wilkie,2:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
-Track,3,Women,xx,800m,800,40-44,44,Helen Knight,2:41.3,161.3,Prince of Wales Stadium,24/07/2019,20190724
-Track,3,Women,xx,800m,800,45-49,49,Fiona Brady-Miller,2:59.8,179.8,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
-Track,3,Women,xx,800m,800,50-54,54,Amelia Mullins,3:05.86,185.66,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
+Track,3,Women,xx,800m,800,Senior,34,Jo Wilkie,02:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
+Track,3,Women,xx,800m,800,35-39,39,Jo Wilkie,02:31.8,151.8,Prince of Wales Stadium,31/07/2013,20130731
+Track,3,Women,xx,800m,800,40-44,44,Helen Knight,02:41.3,161.3,Prince of Wales Stadium,24/07/2019,20190724
+Track,3,Women,xx,800m,800,45-49,49,Fiona Brady-Miller,02:59.8,179.8,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
+Track,3,Women,xx,800m,800,50-54,54,Amelia Mullins,03:05.9,185.66,"Blackbridge Jubilee Track, Gloucester",19/07/2023,20230719
 Track,3,Women,xx,800m,800,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,800m,800,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,800m,800,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,800m,800,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,1000m,1000,U20,19,,,99999,,,99999999
-Track,3,Women,xx,1000m,1000,Senior,34,Patricia Woods,3:25.2,205.2,Prince of Wales Stadium,04/06/2012,20120604
+Track,3,Women,xx,1000m,1000,Senior,34,Patricia Woods,03:25.2,205.2,Prince of Wales Stadium,04/06/2012,20120604
 Track,3,Women,xx,1000m,1000,35-39,39,,,99999,,,99999999
 Track,3,Women,xx,1000m,1000,40-44,44,,,99999,,,99999999
 Track,3,Women,xx,1000m,1000,45-49,49,,,99999,,,99999999
@@ -510,20 +510,20 @@ Track,3,Women,xx,1000m,1000,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,1000m,1000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,1000m,1000,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,U20,19,,,99999,,,99999999
-Track,3,Women,xx,1500m,1500,Senior,34,Eloise du Luart,4:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
-Track,3,Women,xx,1500m,1500,35-39,39,Rachel Vines,4:59.9,299.9,Prince of Wales Stadium,19/07/2017,20170719
-Track,3,Women,xx,1500m,1500,40-44,44,Rachel Vines,5:20.65,320.65,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
-Track,3,Women,xx,1500m,1500,45-49,49,Amanda Steer,5:35.4,335.4,Stourport,30/04/2015,20150430
-Track,3,Women,xx,1500m,1500,50-54,54,Amelia Mullins,6:20.34,380.34,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
+Track,3,Women,xx,1500m,1500,Senior,34,Eloise du Luart,04:58.5,298.5,S.W. Schools Championships,20/06/2009,20090620
+Track,3,Women,xx,1500m,1500,35-39,39,Rachel Vines,04:59.9,299.9,Prince of Wales Stadium,19/07/2017,20170719
+Track,3,Women,xx,1500m,1500,40-44,44,Rachel Vines,05:20.6,320.65,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
+Track,3,Women,xx,1500m,1500,45-49,49,Amanda Steer,05:35.4,335.4,Stourport,30/04/2015,20150430
+Track,3,Women,xx,1500m,1500,50-54,54,Amelia Mullins,06:20.3,380.34,"Blackbridge Jubilee Track, Gloucester",05/07/2023,20230705
 Track,3,Women,xx,1500m,1500,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,1500m,1500,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,Mile,1609,U20,19,,,99999,,,99999999
-Track,3,Women,xx,Mile,1609,Senior,34,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
-Track,3,Women,xx,Mile,1609,35-39,39,Rachel Vines,5:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
-Track,3,Women,xx,Mile,1609,40-44,44,Helen Knight,5:44.28,344.28,"Iffley Road, Oxford",03/06/2023,20230603
-Track,3,Women,xx,Mile,1609,45-49,49,Amelia Mullins,6:04.7,364.7,Prince of Wales Stadium,05/07/2017,20170705
+Track,3,Women,xx,Mile,1609,Senior,34,Rachel Vines,05:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
+Track,3,Women,xx,Mile,1609,35-39,39,Rachel Vines,05:27.8,327.8,Prince of Wales Stadium,05/07/2017,20170705
+Track,3,Women,xx,Mile,1609,40-44,44,Helen Knight,05:44.3,344.28,"Iffley Road, Oxford",03/06/2023,20230603
+Track,3,Women,xx,Mile,1609,45-49,49,Amelia Mullins,06:04.7,364.7,Prince of Wales Stadium,05/07/2017,20170705
 Track,3,Women,xx,Mile,1609,50-54,54,,,99999,,,99999999
 Track,3,Women,xx,Mile,1609,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,Mile,1609,60-64,64,,,99999,,,99999999
@@ -532,7 +532,7 @@ Track,3,Women,xx,Mile,1609,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,3000m,3000,U20,19,,,99999,,,99999999
 Track,3,Women,xx,3000m,3000,Senior,34,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
 Track,3,Women,xx,3000m,3000,35-39,39,Rachel Vines,10:46.8,646.8,Prince of Wales Stadium,12/07/2017,20170712
-Track,3,Women,xx,3000m,3000,40-44,44,Helen Knight,11:08.03,668.03,Prince of Wales Stadium,02/05/2022,20220502
+Track,3,Women,xx,3000m,3000,40-44,44,Helen Knight,11:08.0,668.03,Prince of Wales Stadium,02/05/2022,20220502
 Track,3,Women,xx,3000m,3000,45-49,49,Amanda Steer,11:50.6,710.6,Nuneaton,04/09/2016,20160904
 Track,3,Women,xx,3000m,3000,50-54,54,Amelia Mullins,12:40.7,760.7,Prince of Wales Stadium,13/07/2022,20220713
 Track,3,Women,xx,3000m,3000,55-59,59,Dawn Addinall,14:36.1,876.1,Prince of Wales Stadium,08/05/2009,20090508
@@ -569,8 +569,8 @@ Track,3,Women,xx,10km,10000,55-59,59,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,10km,10000,70-74,74,,,99999,,,99999999
-Track,3,Women,xx,50km,50000,Senior,34,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
-Track,3,Women,xx,50km,50000,40-44,44,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
+Track,3,Women,xx,50km,50000,Senior,34,Helen Knight,03:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
+Track,3,Women,xx,50km,50000,40-44,44,Helen Knight,03:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
 Track,3,Women,xx,4x100m&nbsp;relay,11100,U20,19,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
 Track,3,Women,xx,4x100m&nbsp;relay,11100,35-39,39,,,99999,,,99999999
@@ -582,7 +582,7 @@ Track,3,Women,xx,4x100m&nbsp;relay,11100,60-64,64,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,4x400m&nbsp;relay,11400,U20,19,,,99999,,,99999999
-Track,3,Women,xx,4x400m&nbsp;relay,11400,Senior,34,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",4:59.7,299.7,Prince of Wales Stadium,21/08/2013,20130821
+Track,3,Women,xx,4x400m&nbsp;relay,11400,Senior,34,"Rachel Vines, Jo Wilkie, Orla Flannery, Vicky Lewis",04:59.7,299.7,Prince of Wales Stadium,21/08/2013,20130821
 Track,3,Women,xx,4x400m&nbsp;relay,11400,35-39,39,,,99999,,,99999999
 Track,3,Women,xx,4x400m&nbsp;relay,11400,40-44,44,,,99999,,,99999999
 Track,3,Women,xx,4x400m&nbsp;relay,11400,45-49,49,,,99999,,,99999999
@@ -637,14 +637,14 @@ Field,4,Women,xx,Triple&nbsp;Jump,90003,Senior,34,Nicola Weager,8.85,8.85,Prince
 Field,4,Women,xx,Javelin,90004,Senior,34,Hollie Wharton,21.36,21.36,Prince of Wales Stadium,13/05/2012,20120513
 parkrun,5,Men,xy,5km,5000,U20,19,Kai Hamer,18:00,1080,Victoria Dock,20/05/2023,20230520
 parkrun,5,Men,xy,5km,5000,Senior,34,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
-parkrun,5,Men,xy,5km,5000,35-39,39,Rob Barnett,18:19,1099,"Pittville Park, Cheltenham",26/03/2022,20220326
+parkrun,5,Men,xy,5km,5000,35-39,39,Joe Willgoss,16:58,1099,"Pittville Park, Cheltenham",26/03/2022,20220326
 parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,16:16,976,"Pittville Park, Cheltenham",25/12/2022,20221225
-parkrun,5,Men,xy,5km,5000,45-49,49,Paul Lockyer,19:21,1161,"Worcester Pitchcroft",08/04/2023,20230408
+parkrun,5,Men,xy,5km,5000,45-49,49,Paul Lockyer,19:21,1161,Worcester Pitchcroft,08/04/2023,20230408
 parkrun,5,Men,xy,5km,5000,55-59,49,Paul Northup,19:53,1193,"Pittville Park, Cheltenham",23/04/2022,20220423
 parkrun,5,Men,xy,5km,5000,60-64,64,JJ Willson,21:45,1305,"KGV, Cheltenham",07/05/2022,20220507
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Cheltenham",26/03/2022,20220326
-parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,"Congleton",18/03/2023,20230318
-parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,"Berkeley Green",27/08/2022,20220827
+parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,Congleton,18/03/2023,20230318
+parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,Berkeley Green,27/08/2022,20220827
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park, Cheltenham",08/04/2023,20230408
 parkrun,5,Women,xx,5km,5000,45-49,49,Amelia Mullins,23:22,1402,"Pittville Park, Cheltenham",23/04/2022,20220423
 parkrun,5,Women,xx,5km,5000,50-54,54,Amelia Mullins,23:19,1399,"Pittville Park, Cheltenham",27/05/2023,20230527
