@@ -25,10 +25,6 @@ items:
   url: /records 
   display: Records
 
-- name: Cotswold Way Relay
-  url: /cwr
-  display: CWR
-
 - name: Awards
   url: /awards
   display: Awards
@@ -40,3 +36,7 @@ items:
 - name: CLC Striders
   url: /shop 
   display: Kit
+
+- name: Contact Us
+  url: /contact
+  display: Contact
