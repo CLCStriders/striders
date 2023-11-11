@@ -22,6 +22,6 @@ The site and DNS records are backed by [CloudFlare](https://www.cloudflare.com/)
 
 The club have social media channels on Instagram, X and Facebook and integrations between them. Integrations are provided through a third party service called [IFTTT](https://ifttt.com) (If This Then That)
 
-* Instagram posts appear on twitter
+* Instagram posts appear on X
 * RSS feed (news items) appear on facebook.
 * Twitter/X posts will need to be manual

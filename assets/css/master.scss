@@ -176,11 +176,11 @@ a.skip-main:focus, a.skip-main:active {
 }
 
 .icon-github:before {
-    content: "\e905";
+    content: "\e904";
 }
 
 .icon-youtube:before {
-    content: "\e900";
+    content: "\e905";
     color: #f00;
 }
 
@@ -195,17 +195,13 @@ a.skip-main:focus, a.skip-main:active {
 }
 
 .icon-x:before {
-    content: "\e903";
+    content: "\e900";
     color: #000000;
 }
 
 .icon-strava:before {
-    content: "\e904";
+    content: "\e903";
     color: #fc4c02;
-}
-
-.icon-rss2:before {
-    content: "\ea9c";
 }
 
 .footer-icons { text-align: center;}
