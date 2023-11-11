@@ -7,7 +7,11 @@ permalink: /fixtures
 
 ---
 
-The CLC Striders have a strong showing at a large variety of races in the local race calendar. The committee have gathered a list of key races for the club throughout the year. The fixture list is below:
+The CLC Striders have a strong showing at a large variety of races in the local race calendar. The committee have gathered a list of key races for the club throughout the year. 
+
+The club take part in the [Cotswold Way Relay](/cwr) which is an annual event hosted by Team Bath Athletic Club, usually on the last Saturday in June, and is a highlight of the running calendar year.
+
+The fixture list is below:
 
 <table id="site_data_fixtures" style="width:100%">
     <thead>
