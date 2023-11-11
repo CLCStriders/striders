@@ -3,33 +3,8 @@ layout: default
 title: Staverton 10
 description: CLC Striders Staverton 10 mile race information and results page
 permalink: /staverton-10
-signUpUrl : https://www.entrycentral.com/staverton-10
-signUpYear: 2023
-routeMap  : /assets/staverton/staverton-10-mile-route-map.pdf 
-# open / full / closed
-state: closed
 
 ---
-
- {% if page.state == "open" %}
-<div class="alert alert-success" role="alert">
-[The {{ page.signUpYear }} Staverton 10 Race Entries are open, spaces are limited so sign up now!]({{ page.signUpUrl }})
-</div>
-{% endif %}
- {% if page.state == "full" %}
-<div class="alert alert-warning" role="alert">
-Unfortunately places in the {{ page.signUpYear }} Staverton 10 have sold out!
-</div>
-{% endif %}
- {% if page.state == "closed" %}
-<div class="alert alert-danger" role="alert">
-Entries for the Staverton 10 are currently closed.
-</div>
-{% endif %}
-
-Unfortunately the recent installation of a new cycle path along the route on Old Gloucester Road has rendered the Staverton 10 route inoperable - the route between Bamfurlong Lane and the Hare and Hounds Pub is too narrow to safely enable participants to run. We are looking into alternatives but we are unsure if we will be in a position to operate the Staverton 10 race in 2024.
-
-Keep an eye on our website for future updates.
 
 ### Course Records
 
