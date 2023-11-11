@@ -48,32 +48,31 @@
             "columns": [
                 { data: "Date", width: "0px" },             // 0
                 { data: "date_sort", width: "0px" },        // 1
-                { data: "Series", width: "0px" },           // 2
-                { data: "Race", width: "100%"},             // 3
-                { data: "Distance", width: "0px" },         // 4
-                { data: "distance_sort", width: "0px" },    // 5
-                { data: "Terrain", width: "0px" }           // 6
+                { data: "Race", width: "100%"},             // 2
+                { data: "Distance", width: "0px" },         // 3
+                { data: "distance_sort", width: "0px" },    // 4
+                { data: "Terrain", width: "0px" }           // 5
             ],
             columnDefs: [
                 { // hidden columns
                     "visible": false,
-                    "targets": [1, 5]  // date_sort, distance_sort
+                    "targets": [1, 4]  // date_sort, distance_sort
                 },
                 { // non-searchable columns
                     "searchable": false,
-                    "targets": [1, 2, 5] // date_sort, Series, distance_sort
+                    "targets": [1, 4] // date_sort, Series, distance_sort
                 },
                 { // non-sortable columns
                     "orderable": false,
-                    "targets": [2, 3] // Series, Race
+                    "targets": [2] // Race
                 },
                 { // column sort remapping
                     targets: [0], // Date
                     orderData: [1] // date_sort
                 },
                 { // column sort remapping
-                    targets: [4], // Distance
-                    orderData: [5] // distance_sort
+                    targets: [3], // Distance
+                    orderData: [4] // distance_sort
                 },
             ],
         });
