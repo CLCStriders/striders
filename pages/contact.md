@@ -7,4 +7,4 @@ embeddedUrl : https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEj
 
 ---
 
-You can contact the committee through the form below.
+You can contact us through the form below.
