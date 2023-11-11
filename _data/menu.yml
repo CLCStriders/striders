@@ -6,7 +6,7 @@ items:
   display: News
 
 - name: CLC Striders Events 
-  url: /c;ub-events
+  url: /club-events
   display: Events
 
 - name: Upcoming Fixtures 
