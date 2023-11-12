@@ -12,7 +12,7 @@ During a brief lull in the wet weather, Paul Lockyer, Helen Knight and Rachel Vi
 
 Later in the afternoon, as the rain had set back in, it was time for the 10k event. First home for the club was Rusty Hemsley in a PB time of 38:33. He was followed by Nick Ledwold in a solid 39:17 and Chris Driskell in 39:35. Clocking an identical time of 39:35 was Kate Telford, who was the first lady to finish overall in what was also a PB time for her. Also ducking in under the 40-minute mark was Adam Greenwood in a time of 39:44. Just outside 40 minutes was Paul Northup, who was second in his MV55 age category in a time of 40:09 and Joel Freeland in a time of 41:26.
 
-![Berkeley 10k runners](/images/2023/05/2023-05-09-Berkeley-10k.jpg "Berkeley 10k runners")
+![Berkeley 10k runners](/images/2023/05/2023-05-09-Berkeley-10k.jpg "Berkeley 10k runners"){:width="314px" height="400px"}
 
 Pictured from left to right, most of the 10k competitors: Kate Telford, Rusty Hemsley, Nick Ledwold, Joel Freeland, Paul Northup and Adam Greenwood.
 

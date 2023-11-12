@@ -16,7 +16,7 @@ On a grey and gusty evening, seven CLC Striders athletes lined up among the fiel
 
 Full results are available on the [RaceRoster website](https://results.raceroster.com/v2/en-US/results/u3gwjpk6p7vhgrs6/results?subEvent= "RaceRoster website") 
 
-![Bourton 1 mile runners](/images/2023/05/2023-05-15-Bourton-1-mile.jpg "Bourton 1 mile runners")
+![Bourton 1 mile runners](/images/2023/05/2023-05-15-Bourton-1-mile.jpg "Bourton 1 mile runners"){:width="314px" height="400px"}
 Pictured at the Bourton Mile, from left to right: Paul Lockyer, Kate Telford, Joel Freeland, Rachel Vines, Paul Northup, Rusty Hemsley and Julia Rose
 
 #### Bristol Half Marathon and 10k, Sunday 14 May
@@ -31,7 +31,7 @@ Helen Knight completed this gruelling trail ultra in a time of just 9 hours and 
 
 “Started at 6am in the mist on the western shore. Passed through Ambleside to see parkrun being set up then rose above the mist climbing Wansfell. From there on in it was hot sunshine all the way.  I finished 3rd lady and 19th overall in 9 hours 29 minutes. A most enjoyable way to spend the weekend.”
 
-![The Lap Clockwise](/images/2023/05/2023-05-15-The-Lap-Clockwise.jpg "The Lap Clockwise")
+![The Lap Clockwise](/images/2023/05/2023-05-15-The-Lap-Clockwise.jpg "The Lap Clockwise"){:width="314px" height="400px"}
 
 #### Tempo Trail Marathon, Sunday 14 May
 
@@ -41,7 +41,7 @@ Gavin Jerman clocked 4 hours 55 minutes for the Tempo Trail Marathon, a Cotswold
 
 Amelia Mullins finished as 5th lady overall and 1st LV45 in a time 40:33 in the Sherborne 5-miler, a multi terrain race through fields and woodlands around the Sherborne National Trust estate.
 
-![The Sherborne 5 miler](/images/2023/05/2023-05-15-Sherborne-5-mile.jpg "The Sherborne 5 miler")
+![The Sherborne 5 miler](/images/2023/05/2023-05-15-Sherborne-5-mile.jpg "The Sherborne 5 miler"){:width="314px" height="400px"}
 
 #### South Downs Way Trail Marathon, Sunday 14 May
 

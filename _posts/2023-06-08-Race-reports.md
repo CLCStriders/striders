@@ -22,7 +22,7 @@ Three Striders ran in the Iffley festival of miles at the famous Iffley road tra
 
 Rob Green travelled to Madrid to take part in the European Sprint Triathlon Finals with team GB. Following heavy rain the swim had to be cancelled resulting in the triathlon becoming a duathlon. Rob finished 2nd V40 overall and first GB athlete.
 
-![European Sprint Triathlon Finals](/images/2023/06/2023-06-08-European-Triathlon.jpg "European Sprint Triathlon Finals")
+![European Sprint Triathlon Finals](/images/2023/06/2023-06-08-European-Triathlon.jpg "European Sprint Triathlon Finals"){:width="314px" height="400px"}
 
 
 
