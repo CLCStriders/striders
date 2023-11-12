@@ -92,22 +92,22 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 14/06/2023,2023-06-14,<a href='https://data.opentrack.run/en-gb/x/2023/GBR/jun-23-road-southwest-5km/'>South West PB Series 2023 - Race 1 5km</a>,"5km",3.1,Road
 03/09/2022,2022-09-03,<a href='https://www.runbritain.com/RaceDetail.aspx?eventid=7eba0dc85968&raceid=7bb909cf5967'>Meteor Mile</a> - TBC,"1mi",1,Road
 04/09/2022,2022-09-04,<a href='https://stroudac.co.uk/woodchester-park'>Woodchester Park</a>,"8mi",8,MT
-03/09/2023,2023-09-03,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
+01/09/2024,2024-09-01,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
 18/09/2022,2022-09-18,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
 23/09/2023,2023-09-23,Autumn 4 & 6 Stage Midland Road Relays (contact club captains),"_",3,Road
 01/10/2023,2023-10-01,<a href='https://runupcote.co.uk'>Run Upcote Autumn Trail</a>,"5mi",5,MT
-16/10/2022,2022-10-16,<a href='https://bathhalf.co.uk'>Bath Half</a>,"HM",13.1,Road
+17/03/2024,2024-03-17,<a href='https://bathhalf.co.uk'>Bath Half Marathon</a>,"HM",13.1,Road
 06/11/2022,2022-11-06,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a> - TBC,"5mi",5,Road
 14/01/2023,2023-01-14,Midland/Birmingham cross country league #3,"4mi&nbsp;/&nbsp;6mi",4,XC
 21/01/2024,2024-01-21,<a href='https://almostathletes.co.uk/linda-franks-race.html'>Linda Franks Race</a>,"5mi",5,Road
-29/01/2023,2023-01-29,<a href='https://clcstriders-runningclub.co.uk/staverton-10'>Staverton 10</a>,"10mi",10,Road
+28/01/2024,2024-01-28,<a href='https://clcstriders-runningclub.co.uk/'>Boddington 10</a>,"10mi",10,Road
 11/02/2023,2023-02-11,Midland/Birmingham cross country league #4,"4mi&nbsp;/&nbsp;6mi",4,XC
 18/02/2023,2023-02-18,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Pittville Park Cheltenham</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 25/02/2024,2024-02-25,<a href='http://www.bourtonroadrunners.co.uk/'>Bourton 10km</a>,"10km",6.2,Road
 05/03/2023,2023-03-05,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Over Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
-18/03/2023,2023-03-18,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission Half</a>,"HM",13.1,Road
-18/03/2023,2023-03-18,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission 20</a>,"20mi",20,Road
-01/04/2023,2023-04-01,Spring 6 & 12 Stage Midland Road (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
+23/03/2024,2024-03-23,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission Half</a>,"HM",13.1,Road
+23/03/2024,2024-03-23,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission 20</a>,"20mi",20,Road
+23/03/2024,2024-03-23,Spring 6 & 12 Stage Midland Road (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
 16/08/2023,2023-08-16,<a href='https://runabc.co.uk/gloucester-5k-haresfield'>Gloucester 5k Haresfield</a>,"5km",3.1,Road
 02/04/2023,2023-04-02,<a href='https://runabc.co.uk/cleevewold-14'>Cleevewold 14</a>,"14mi",14,MT
 29/04/2023,2023-04-29,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 1</a>,"400m,&nbsp;800m,&nbsp;3000m,&nbsp;5000m",0,Track
@@ -145,3 +145,4 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 15/07/2023,2023-07-15,<a href='https://leamingtonathletics.club/2023/06/11/leamington-cycling-athletics-club-summer-open/'>Leamington Summer Open</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
 19/11/2023,2023-11-19,<a href='https://newentrunners.com/the-mandy-whittington-newent-9-2023/'>Newent 9</a>,"9.5km",,Road
 24/02/2024,2024-02-24,<a href='https://www.englishcrosscountry.co.uk/'> The National Cross Country Championships</a>,"_",,XC
+06/10/2024,2024-10-06,<a href='https://www.cardiffhalfmarathon.co.uk/'> Cardiff Half Marathon</a>,"HM",13.1,Road
