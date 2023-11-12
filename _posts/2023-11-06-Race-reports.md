@@ -14,15 +14,15 @@ After a month of heavy rain, conditions were as wet and muddy as anyone could re
 
 First, it was the turn of the ladies, defending their Masters win from last season. Over their two laps, the ladies were led home by Helen Knight in 11th place overall and as 2nd in her LV40 category in a time of 30:35. Next home, 4th in the LV40 category and 27th overall, was Liza Bradshaw in 32:04. Ladies captain Rachel Vines was 40th overall and 6th in her LV40 category in 33:17 to make up CLC’s three scoring finishers. The CLC Striders Ladies Masters were second in the team event, just behind Team Bath.
 
-![ladies](/images/2023/11/2023-11-06-Ladies-XC.jpg "ladies"){:width="314px" height="400px"}
+![ladies](/images/2023/11/2023-11-06-Ladies-XC.jpg "ladies"){:width="400px" height="314px"}
 
 Also running were Fiona Brady-Miller, finishing in 75th place in a time of 36:38, Laura Leaver in 39:52, Emma Abbey in 40:22, Rebecca Reynolds in 41:55 and Nicola Weager 42:13. 
 
 Running in the same race over the two laps, club super-vet David James made a solid start to his season with 2nd place overall in his MV70 category in a time of 35:29.
 
-With the ground well and truly churned up – after all the junior races and the ladies event – it was the turn of the men.
+With the ground well and truly churned up – after all the junior races and the ladies event - it was the turn of the men.
 
-![men](/images/2023/11/2023-11-06-Mens-XC.JPG "men"){:width="314px" height="400px"} to do battle over three laps.
+![men](/images/2023/11/2023-11-06-Mens-XC.JPG "men"){:width="400px" height="314px"} to do battle over three laps.
 
 Once again, it was Rob Green who brought the club's first place home, finishing in 12th overall as 1st in his MV40 category in a really strong field in a time of 38:55. Next was Tom Burgess, delivering a gritty performance for 55th place overall in 44:24. Making his club debut, an impressive Mike Thompson lead a trio of Striders in, finishing in 90th place in 48:00 and followed closely by Jamie Hartnoll in 94th and 48:24 and Aled Leaver in 99th and 48:52. Completing the scoring six, Nick Ledwold was 105th in a time of 49:35.
 
