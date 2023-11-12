@@ -26,7 +26,7 @@ Closer to home, and in his first ever outing over the 10k distance, club talisma
 #### Chester Metric Marathon (26.2km)
 Further afield, the ever-competitive Liza Bradshaw ran superbly to finish as third lady overall and earn herself a pace on the podium over this unusual distance in a time of 1:54:24.
  
-![Liza Bradshaw](/images/2023/10/2023-10-10-Liza-Bradshaw.jpg "Liza Bradshaw"){:width="314px" height="400px"}
+![Liza Bradshaw](/images/2023/10/2023-10-10-Liza-Bradshaw.jpg "Liza Bradshaw"){:width="400px" height="314px"}
 
 #### Royal Parks Half Marathon
 And finally, in the heart of the capital, club captain Will Pearce ran with friends to raise money for their charity, clocking 1:26:54 on the day.
