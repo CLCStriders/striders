@@ -22,7 +22,7 @@ The six B-team scorers on the day were Rob Barnett, Ben Cooper (making his cross
 
 Although the results are not yet published, the men were very pleased with their strong start in this highly competitive league and look forward to racing again in Wolverhampton on 2 December 2023.
 
-![Ladies XC team](/images/2023/11/2023-11-13-Ladies-XC.jpg "Ladies XC"){:width="600px" height="471px"}
+![Ladies XC team](/images/2023/11/2023-11-13-Ladies-XC.jpg "Ladies XC"){:width="620px" height="471px"}
 
 Pictured, the ladies team, from left to right: Fiona Brady-Miller, Nicola Weaver, Emma Abbey, Laura Leaver, Rachael Cary, Helen Knight, Kate Telford, Rachel Vines, Steph Parker, Rebecca Reynolds and Liza Bradshaw
 
