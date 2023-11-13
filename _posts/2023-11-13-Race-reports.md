@@ -26,7 +26,7 @@ Although the results are not yet published, the men were very pleased with their
 
 Pictured, the ladies team, from left to right: Fiona Brady-Miller, Nicola Weaver, Emma Abbey, Laura Leaver, Rachael Cary, Helen Knight, Kate Telford, Rachel Vines, Steph Parker, Rebecca Reynolds and Liza Bradshaw
 
-![Mens XC team](/images/2023/11/2023-11-13-Mens-XC.jpg "Mens XC"){:width="600px" height="471px"}
+![Mens XC team](/images/2023/11/2023-11-13-Mens-XC.jpg "Mens XC"){:width="620px" height="471px"}
 
 Pictured, the men’s team, from left to right: 
 Back Row – Rob Green, Tim Brock, David James, Alex Johnston, Joe Willgoss, Rob Barnett, Aled Leaver, Gary Farquhason, Paul Lockyer, Iain Peter, Jack Wilde
