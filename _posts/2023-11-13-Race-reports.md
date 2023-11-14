@@ -20,7 +20,11 @@ At the time of writing the results for the men’s race are still not published,
 
 The six B-team scorers on the day were Rob Barnett, Ben Cooper (making his cross-country debut for the club), John Comer, Will Pearce, Paul Lockyer and Richard Aarons. Such was the excitement about their Division One debut, the club managed to field a further six finishers in Aled Leaver, Joel Freeland, Gary Farquharson, Jack Wilde (also making his cross-country debut for the club), Tim Brock, and Eoin McQuone. And club super-vet David James also ran in his V70 category.
 
-Although the results are not yet published, the men were very pleased with their strong start in this highly competitive league and look forward to racing again in Wolverhampton on 2 December 2023.
+With an A team score on the day of 655 points, the Striders find themselves in 15th position in the league of 16 and unsurprisingly given the calibre of the division will be battling it out for league survival this season
+
+The Striders Masters team of Green, Ferguson, Porter and Pearce ranked 3rd out of 11 teams on the day
+
+It was strong start in this highly competitive league and look forward to racing again in Wolverhampton on 2 December 2023
 
 ![Ladies XC team](/images/2023/11/2023-11-13-Ladies-XC.jpg "Ladies XC"){:width="720px" height="471px"}
 
