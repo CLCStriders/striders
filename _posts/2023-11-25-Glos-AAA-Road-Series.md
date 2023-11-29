@@ -16,4 +16,4 @@ Well done to all individual and team winners and huge thanks to all of the clubs
 
 We were very disappointed not to be able to host the Staverton 10 which was chosen for the 2023 series due to major roadworks on the course but we are thrilled to have been included in the 2024 series with the inaugural Boddington 10 being given the vote of confidence by the Gloucestershire AAA.
 
-[Glos RR series winners](/images/2023/11/2023-11-25-Glos-RR-series.jpg "Glos RR series winners")
+![Glos RR series winners](/images/2023/11/2023-11-25-Glos-RR-series.jpg "Glos RR series winners")
