@@ -27,6 +27,8 @@ Entries for the Boddington 10 are currently closed.
 </div>
 {% endif %}
 
+<!---
+
 The committee of CLC Striders Running Club would like to thank you for your entry to the first Boddington 10 Mile road race on Sunday 28 January 2023.
 
 You will find some helpful information below to make your race day experience the best it can be.
@@ -152,4 +154,6 @@ Men's -
 Women's - 
 
 ### Previous results
+
+-->
 
