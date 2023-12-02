@@ -114,17 +114,19 @@ Your race number entitles you to 15% off at Up & Running (one of our race sponso
 
 Race Headquarters is located **outside** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
 
-Members of CLC Striders will be there from 0800 for collection of race numbers. 
+Members of CLC Striders will be there from 0800 for entrants to collect race numbers. 
 
 ##### Car Parking
 
-**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road. Please note: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
+**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road. 
 
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
 
+**Please note**: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
+
 ---
 
-### Race details
+#### Race details
 
 ##### At the start
 
@@ -174,7 +176,7 @@ Men's - waiting to be set
 
 Women's - waiting to be set
 
-### Previous results
+#### Previous results
 
 None – as this is the first time we have used this course.
 
