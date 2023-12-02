@@ -1,5 +1,3 @@
-![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
-
 ---
 
 layout: default
@@ -29,6 +27,8 @@ Unfortunately places in the {{ page.signUpYear }} Boddington 10 have sold out!
 Entries for the Boddington 10 are currently closed.
 </div>
 {% endif %}
+
+![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 
 <!---
 
