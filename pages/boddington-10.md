@@ -64,7 +64,7 @@ Here are the key points (additional details outlined below),
 
 ### Date and Time
 
-The race will be held on Sunday 28 January 2024, with a start time of 0900.
+The race will be held on **Sunday 28 January 2024**, with a start time of **0900**.
 
 ### Route Map
 
@@ -77,6 +77,8 @@ Route Map: [Map]({{ page.routeMap }})
 The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does 4 laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
  
 The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
+
+----
 
 ### Race day information
 
@@ -105,11 +107,13 @@ Your race number entitles you to 15% off at Up & Running (one of our race sponso
 
 Race Headquarters is located **OUTSIDE** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. Members of CLC Striders will be there from 0800 for collection of race numbers. 
 
-### Car Parking
+#### Car Parking
 
 **From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road. Please note: The Gloucester Old Spot car park must be vacated by 11.45 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
 
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
+
+----
 
 ### Race details
 
@@ -133,23 +137,38 @@ If you drop out of the race, please notify one of the officials at the finish li
  
 Once you have crossed the finish line, please make sure you return the timing chip. There will be water at the finish and space to get your breath back. But the space will be limited, so we kindly ask you to vacate the finish area and walk back to Race HQ as soon as you are able.
   
-### Results
+#### Results
 
 As long as there is a good signal at Race HQ, live results will be available at [Race Roster](https://results.raceroster.com/results/ag7ub3ad9mx7r4ch).
 
 Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
 
-### After the race
+#### After the race
 
 The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly after the race for refreshments and food. Please do consider supporting these local, independent businesses, without whom we would not be able to run the race. Please note that booking is advised if you would like to have lunch at the Gloucester Old Spot.
 
-### Event Cancellation
+#### Event Cancellation
 
 If there comes a situation, such as poor weather conditions, where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
+
+---- 
 
 ### Official race photos
 
 Dig Deep Race Photography will be taking official race photos during the event, they will be available via their [website](https://linktr.ee/digdeepracephotography).
+
+---- 
+
+### Course Records
+
+Men's - waiting to be set
+Women's - waiting to be set
+
+### Previous results
+
+None – as this is the first time we have used this course.
+
+---- 
 
 ### Acknowledgements
 
@@ -165,13 +184,6 @@ Boddington Estates Ltd, Cheltenham - for agreeing to adjust their animal feeding
 
 [Up and Running](https://www.upandrunning.co.uk/) Cheltenham.
 
-### Course Records
-
-Men's - waiting to be set
-Women's - waiting to be set
-
-### Previous results
-None – as this is the first time we have used this course.
 
 -->
 
