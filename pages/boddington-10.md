@@ -78,7 +78,7 @@ The race is a four-lap course. Starting at the top of Boddington Lane, it heads 
  
 The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
 
----<br>
+---
 
 ### Race day information
 
