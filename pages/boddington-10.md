@@ -1,6 +1,7 @@
+![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
+
 ---
 
-![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 layout: default
 title: Boddington 10
 description: CLC Striders Boddington 10 mile race - information and results page
