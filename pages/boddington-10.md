@@ -1,4 +1,6 @@
 ---
+
+![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 layout: default
 title: Boddington 10
 description: CLC Striders Boddington 10 mile race - information and results page
@@ -33,7 +35,7 @@ CLC Striders Running Club would like to thank you for your entry to the first Bo
 
 Here's some helpful information below to make your race day experience the best it can be.
 
-#### Licence pending / Refunds policy
+### Licence pending / Refunds policy
 
 This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
 
@@ -44,6 +46,8 @@ Having done all the careful planning and preparation, we have been excited and e
 Please note: at the time of opening for entries we have not had our race licence confirmed. The course is officially measured, all our plans are approved, everything is in place, and we expect to get our licence any day now. It is a formality. 
 
 But we felt it more important to open entries now, to give runners ample time to consider what is a brand new event and to register. In the very unlikely event that we are not granted our race licence, then every entrant will receive a refund, less the admin fee that Entry Central charge.
+
+--- 
 
 ### Quick Reference Guide
 
