@@ -77,6 +77,8 @@ You will be able to review the route for the Boddington 10 race on [Strava](http
 
 Route Map: [Map]({{ page.routeMap }})
 
+![Route map](/assets/boddington/boddington-10-mile-route-map.jpg "Boddington 10 route map")
+
 ### Course Description
 
 The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does 4 laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
