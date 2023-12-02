@@ -78,7 +78,7 @@ The race is a four-lap course. Starting at the top of Boddington Lane, it heads 
  
 The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
 
-----
+---
 
 ### Race day information
 
@@ -113,7 +113,7 @@ Race Headquarters is located **OUTSIDE** The Gloucester Old Spot and the postcod
 
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
 
-----
+---
 
 ### Race details
 
@@ -151,13 +151,13 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
 
 If there comes a situation, such as poor weather conditions, where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
 
----- 
+---
 
 ### Official race photos
 
 Dig Deep Race Photography will be taking official race photos during the event, they will be available via their [website](https://linktr.ee/digdeepracephotography).
 
----- 
+---
 
 ### Course Records
 
@@ -168,7 +168,7 @@ Women's - waiting to be set
 
 None – as this is the first time we have used this course.
 
----- 
+---
 
 ### Acknowledgements
 
