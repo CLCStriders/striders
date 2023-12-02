@@ -30,8 +30,6 @@ Entries for the Boddington 10 are currently closed.
 
 ![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 
-<!---
-
 CLC Striders Running Club would like to thank you for your entry to the first Boddington 10 Mile road race on **Sunday 28 January 2024**.
 
 Here's some helpful information below to make your race day experience the best it can be.
@@ -191,6 +189,6 @@ Boddington Estates Ltd, Cheltenham - for agreeing to adjust their animal feeding
 
 [Up and Running](https://www.upandrunning.co.uk/) Cheltenham.
 
-
+<!---
 -->
 
