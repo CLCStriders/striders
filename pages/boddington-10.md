@@ -95,7 +95,7 @@ If you cannot run, please do let us know before the day and we may be able to in
 
 As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
 
-#### Important points for race day
+##### Important points for race day
 
 * Please follow the instructions from our car park marshals upon arrival. (More information about car parking can be found below.)
 * Please collect your race number and timing chip from Race HQ between 0800 and 0845 – this will be at The Gloucester Old Spot (Postcode: GL51 9SY). Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race.
@@ -112,7 +112,7 @@ Your race number entitles you to 15% off at Up & Running (one of our race sponso
 
 #### Race HQ
 
-Race Headquarters is located **OUTSIDE** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
+Race Headquarters is located **outside** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
 
 Members of CLC Striders will be there from 0800 for collection of race numbers. 
 
