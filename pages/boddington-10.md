@@ -34,6 +34,8 @@ CLC Striders Running Club would like to thank you for your entry to the first Bo
 
 Here's some helpful information below to make your race day experience the best it can be.
 
+---
+
 ### Licence pending / Refunds policy
 
 This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
@@ -64,6 +66,8 @@ Here are the key points (additional details outlined below),
 * Join us at Race HQ for prize giving afterwards.
 * Please support The Gloucester Old Spot.
 * If you are unable to race, please let us know so we can offer your place to someone else.
+
+---
 
 ### Date and Time
 
@@ -110,11 +114,13 @@ Your race number entitles you to 15% off at Up & Running (one of our race sponso
 
 #### Race HQ
 
-Race Headquarters is located **OUTSIDE** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. Members of CLC Striders will be there from 0800 for collection of race numbers. 
+Race Headquarters is located **OUTSIDE** The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
+
+Members of CLC Striders will be there from 0800 for collection of race numbers. 
 
 #### Car Parking
 
-**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road. Please note: The Gloucester Old Spot car park must be vacated by 11.45 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
+**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road. Please note: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
 
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
 
@@ -144,7 +150,7 @@ Once you have crossed the finish line, please make sure you return the timing ch
   
 #### Results
 
-As long as there is a good signal at Race HQ, live results will be available at [Race Roster](https://results.raceroster.com/results/ag7ub3ad9mx7r4ch).
+As long as there is a good signal at Race HQ, live results will be available at [Race Roster](https://raceroster.com/search).
 
 Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
 
@@ -179,16 +185,12 @@ None – as this is the first time we have used this course.
 
 Boddington Estates Ltd, Cheltenham - for agreeing to adjust their animal feeding schedule to accomodate the race.
 
-[Clavell and Hind](https://www.clavellandhind.co.uk/) Cheltenham
+[Clavell and Hind](https://www.clavellandhind.co.uk/) Cheltenham.
 
 [CLC Health & Fitness Centre](https://fitness.cheltladiescollege.org/) friends and members of CLC Striders.
 
 [Robert Hitchins](https://www.robert-hitchins.co.uk/) Cheltenham - for allowing use of their property entrance for the race finish.
 
-[The Gloucester Old Spot](https://www.thegloucesteroldspot.co.uk/) Cheltenham.
+[The Gloucester Old Spot](https://www.thegloucesteroldspot.co.uk/) Cheltenham - for allowing use of their car park and property for Race HQ.
 
-[Up and Running](https://www.upandrunning.co.uk/) Cheltenham.
-
-<!---
--->
-
+[Up and Running](https://www.upandrunning.co.uk/) Cheltenham - for race numbers and entrants discount.
