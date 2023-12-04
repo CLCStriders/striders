@@ -40,4 +40,4 @@ Much further south, the club’s emergent ultra-man, Ollie Watkins, faced freezi
  
 Perhaps the performance of the weekend came from Alex Johnston in the Valencia Marathon. Having prepared meticulously, Alex ran a perfectly judged race, keeping his pace absolutely steady and metronomic from start to finish. In the end, he achieved a brilliant PB time of 2:43:30. 
 
-![Alex Johnston Valencia marathon](/images/2023/12/2023-12-04-AJ-Valencia.jpg "Alex Johnston Valencia marathon"){:width="620px" height="471px"}
+![Alex Johnston Valencia marathon](/images/2023/12/2023-12-04-AJ-Valencia.jpg "Alex Johnston Valencia marathon"){:width="471px" height="620px"}
