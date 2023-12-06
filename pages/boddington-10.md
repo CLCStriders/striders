@@ -4,7 +4,8 @@ layout: default
 title: Boddington 10
 description: CLC Striders Boddington 10 mile race - information and results page
 permalink: /boddington-10
-redirect_from: - /Boddington-10
+redirect_from: 
+  - /Boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2024
 routeMap  : /assets/boddington/boddington-10-mile-route-map.pdf 
