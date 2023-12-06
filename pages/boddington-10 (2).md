@@ -7,4 +7,4 @@ permalink: /Boddington-10
 
 ---
 
-![Boddington 10 race information](/pages/boddington-10 "Boddington 10")
+[Boddington 10 race information](/boddington-10)
