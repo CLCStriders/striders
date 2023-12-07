@@ -10,7 +10,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2024
 routeMap  : /assets/boddington/boddington-10-mile-route-map.pdf 
 # open / full / closed
-state: closed
+state: open
 
 ---
 
