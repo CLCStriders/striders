@@ -34,15 +34,15 @@ Entries for the Boddington 10 are currently closed.
 
 CLC Striders Running Club look forward to welcoming you at the first Boddington 10 Mile road race on **Sunday 28 January 2024**, entries for which will be opening at **0700 on Thursday 7 December 2023**.
 
+This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
+
+As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
+
 Here's some helpful information below to make your race day experience the best it can be.
 
 ---
 
 #### Licence pending / Refunds policy
-
-This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
-
-As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
 Having done all the careful planning and preparation, we have been excited and eager to open entries for a good while now. Thursday 7th December at 0700 has been a long time coming!
 
@@ -56,6 +56,7 @@ But we felt it more important to open entries now, to give runners ample time to
 
 Here are the key points (additional details outlined below),
 
+* The UK Athletics licence number is 2024-47258.
 * Race HQ is at The Gloucester Old Spot (postcode GL51 9SY). 
 * Parking will be at The Gloucester Old Spot itself and also at Elmstone Business Park.
 * On the day, please collect your race number from Race HQ between 0745 and 0845 and please make sure it’s clearly visible throughout the race.
@@ -96,6 +97,8 @@ To help make your race day experience the best it can be, please read the helpfu
 If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
 
 As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
+
+The UKA licence number is 2024-47258.
 
 ##### Important points for race day
 
