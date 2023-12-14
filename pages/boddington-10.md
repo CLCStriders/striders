@@ -4,11 +4,13 @@ layout: default
 title: Boddington 10
 description: CLC Striders Boddington 10 mile race - information and results page
 permalink: /boddington-10
+redirect_from: 
+  - /Boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2024
 routeMap  : /assets/boddington/boddington-10-mile-route-map.pdf 
 # open / full / closed
-state: closed
+state: full
 
 ---
 
@@ -32,15 +34,15 @@ Entries for the Boddington 10 are currently closed.
 
 CLC Striders Running Club look forward to welcoming you at the first Boddington 10 Mile road race on **Sunday 28 January 2024**, entries for which will be opening at **0700 on Thursday 7 December 2023**.
 
+This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
+
+As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
+
 Here's some helpful information below to make your race day experience the best it can be.
 
 ---
 
 #### Licence pending / Refunds policy
-
-This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
-
-As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
 Having done all the careful planning and preparation, we have been excited and eager to open entries for a good while now. Thursday 7th December at 0700 has been a long time coming!
 
@@ -54,6 +56,7 @@ But we felt it more important to open entries now, to give runners ample time to
 
 Here are the key points (additional details outlined below),
 
+* The UK Athletics licence number is 2024-47258.
 * Race HQ is at The Gloucester Old Spot (postcode GL51 9SY). 
 * Parking will be at The Gloucester Old Spot itself and also at Elmstone Business Park.
 * On the day, please collect your race number from Race HQ between 0745 and 0845 and please make sure it’s clearly visible throughout the race.
@@ -95,6 +98,8 @@ If you cannot run, please do let us know before the day and we may be able to in
 
 As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
 
+The UKA licence number is 2024-47258.
+
 ##### Important points for race day
 
 * Please follow the instructions from our car park marshals upon arrival. (More information about car parking can be found below.)
@@ -122,7 +127,7 @@ Members of CLC Striders will be there from 0800 for entrants to collect race num
 
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
 
-**Please note** The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
+**Please note**: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
 
 ---
 
