@@ -6,7 +6,7 @@ categories:
 
 ---
 
-### Gloucestershire Cross Country League Race Day 2 incorporating the County Championships, hosted at Bath University - Sunday 10 December 2023
+### Gloucestershire Cross Country League Race Day 2 - Sunday 10 December 2023
 
 With races being cancelled the length and breadth of the country due to waterlogging, it was a relief that the second fixture of the Gloucestershire Cross Country League Season (23/24) went ahead – in what turned out to be sunny conditions with only moderate mud. The fixture also saw the incorporation of the County Championships for the season, so the stakes were high.
  
@@ -18,11 +18,11 @@ Running over the same distance with the ladies, club V70 super-vet David James t
  
 With the course well and truly churned up after all the age category races, it was finally the turn of the men. They were brought home by a virus-ridden Rob Green in 33rd place overall, 2nd in his V40 category, but as the Gold Medal Winner in his category in the County Champs. In his first cross country season with the club, Mike Thompson was next to finish in 114th place. Captain Will Pearce was 115th, Richard Aarons was 137th, Liam Richardson, making his club cross country debut, was 138th, and Gary Farquharson was the 6th team scorer in 140th. The remaining finishers were Joel Freeland in 149th, Aled Leaver in 151th, Robert Hyams in 164th and Jack Wilde in 169th.
 
-![The medal winners](/images/2023/12/2023-12-14-medal-winners-XC.jpeg "The medal winners"){:width="720px" height="471px"}
+![The medal winners](/images/2023/12/2023-12-14-medal-winners-XC.jpg "The medal winners"){:width="720px" height="471px"}
 
 Pictured, the medal winners, from left to right: Helen Knight, Rachel Vines, Kate Telford, David James and Amelia Mullins
 
-![Mens XC team](/images/2023/12/2023-12-14-Mens-XC.jpeg "Mens XC"){:width="720px" height="471px"}
+![Mens XC team](/images/2023/12/2023-12-14-Mens-XC.jpg "Mens XC"){:width="720px" height="471px"}
 
 The men’s team from left to right: back row – Robert Hyams, Aled Leaver, Liam Richardson, Jack Wilde, Richard Aarons, Mike Thompson, Rob Green; front row – Gary Farquharson, Will Pearce, Joel Freeland
  
