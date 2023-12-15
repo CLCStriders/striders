@@ -40,16 +40,6 @@ As a club, CLC Striders is well used to staging very successful races. We’re s
 
 Here's some helpful information below to make your race day experience the best it can be.
 
----
-
-#### Licence pending / Refunds policy
-
-Having done all the careful planning and preparation, we have been excited and eager to open entries for a good while now. Thursday 7th December at 0700 has been a long time coming!
-
-Please note: at the time of opening for entries we have not had our race licence confirmed. The course is officially measured, all our plans are approved, everything is in place, and we expect to get our licence any day now. It is a formality. 
-
-But we felt it more important to open entries now, to give runners ample time to consider what is a brand new event and to register. In the very unlikely event that we are not granted our race licence, then every entrant will receive a refund, less the admin fee that Entry Central charge.
-
 --- 
 
 #### Quick Reference Guide
