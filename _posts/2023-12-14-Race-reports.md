@@ -1,12 +1,12 @@
 ---
-title: 'Gloucestershire Cross Country League Race Day 2 incorporating the County Championships, hosted at Bath University - Sunday 10 December 2023'
+title: 'Gloucestershire Cross Country League Race Day 2 - Sunday 10 December 2023'
 layout: post
 categories:
   - Race reports
 
 ---
 
-### Gloucestershire Cross Country League Race Day 2 - Sunday 10 December 2023
+### Gloucestershire Cross Country League Race Day 2 incorporating the County Championships, hosted at Bath University - Sunday 10 December 2023
 
 With races being cancelled the length and breadth of the country due to waterlogging, it was a relief that the second fixture of the Gloucestershire Cross Country League Season (23/24) went ahead – in what turned out to be sunny conditions with only moderate mud. The fixture also saw the incorporation of the County Championships for the season, so the stakes were high.
  
