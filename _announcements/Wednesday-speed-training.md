@@ -1,6 +1,6 @@
 ---
 title: Wednesday speed training
-published: true
+published: false
 
 ---
 
