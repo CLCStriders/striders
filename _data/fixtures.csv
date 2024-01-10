@@ -3,7 +3,6 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 11/11/2023,2023-11-11,Midland/Birmingham cross country league #1 - Pittville Park,"4mi&nbsp;/&nbsp;6mi",4,XC
 02/12/2023,2023-12-02,Midland/Birmingham cross country league #2 - Wolverhampton,"4mi&nbsp;/&nbsp;6mi",4,XC
 10/12/2023,2023-12-10,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #2 - Incorporating County Championships- Bath</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
-19/12/2021,2021-12-19,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire AAA Open Short Course - Stratford Park Stroud</a>,"4km",2.2,XC
 08/01/2022,2022-01-08,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire County Championships - Cotswold Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 13/01/2024,2024-01-13,Midland/Birmingham cross country league #3 - Warley Woods,"4mi&nbsp;/&nbsp;6mi",4,XC
 06/01/2024,2024-01-06,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Cotswold Farm Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
@@ -21,31 +20,18 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 15/06/2022,2022-06-15,<a href='https://www.entrycentral.com/CirenSummerSizzler'>Cirencester Park Summer Sizzler</a>,"10km",6.2,Road
 19/06/2022,2022-06-19,<a href='https://race-nation.co.uk/register/bourton-roadrunners/bourton-hilly-half-marathon-and-10k'>Bourton Hilly Half</a>,"HM",13.1,Road
 25/06/2022,2022-06-25,Gloucestershire Track & Field Championships Day 3</a>,"Mile,&nbsp;10000m",0,Track
-26/06/2022,2022-06-26,<a href='https://rungloucester.co.uk'>Gloucester 10k</a>,"10km",6.2,Road
-29/06/2022,2022-06-29,<a href='https://data.opentrack.run/en-gb/x/2022/GBR/june22-road-southwest-5km'>South West PB Series 2022 5km</a>,"5km",3.1,Road
-01/07/2022,2022-07-01,<a href='https://www.runbritain.com/RaceDetail.aspx?eventid=7dbd07ce596a&raceid=7bbf07cc5867'>Bourton One Mile Challenge</a>,"1mi",1,Road
-04/07/2022,2022-07-04,<a href='https://stroudac.co.uk//frampton-10k/'>Frampton 10k</a>,"10km",6.2,Road
-05/07/2023,2023-07-05,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 1 - Blackbridge Track Gloucester</a>,"200m,&nbsp;600m,&nbsp;1500m",0,Track
+03/07/2024,2024-07-03,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 1 - Blackbridge Track Gloucester</a>,"TBC",0,Track
 12/07/2022,2022-07-12,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Red Hart Blaisdon 10K</a>,"10km",6.2,Road
-12/07/2023,2023-07-12,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 2 - Blackbridge Track Gloucester</a>,"100m,&nbsp;3000m,",0,Track
-19/07/2023,2023-07-19,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 3 - Blackbridge Track Gloucester</a>,"800m,&nbsp;5000m",0,Track
-24/07/2022,2022-07-24,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader (Oldbury)</a>,"5mi",5,Road
-26/07/2023,2023-07-26,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"400m,&nbsp;Mile",0,Track
-06/08/2022,2022-08-06,<a href='https://eventswerun.co.uk/cranham-boundary-chase'>Cranham Boundary Chase</a>,"6mi",6,MT
-07/08/2022,2022-08-07,<a href='https://stroudac.co.uk/standish-woodland-chase'>Standish Woodland Chase</a>,"10mi",10,MT
-10/08/2022,2022-08-10,<a href='https://www.entrycentral.com/Bugatti10k'>Bugatti 10km</a>,"10km",6.2,Road
+10/07/2024,2024-07-10,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 2 - Blackbridge Track Gloucester</a>,"TBC",0,Track
+17/07/2024,2024-07-17,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 3 - Blackbridge Track Gloucester</a>,"TBC",0,Track
+24/07/2024,2024-07-24,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"TBC",0,Track
 20/08/2023,2023-08-20,<a href='https://www.entrycentral.com/JonWard5k23'>Jon Ward 5k - Hereford</a>,"5km",3.1,Road
-17/08/2022,2022-08-17,<a href='https://www.race-results.co.uk/onlineentries/uploads/info4475.pdf'>Haresfield 5k</a>,"5km",3.1,Road
-28/08/2022,2022-08-28,<a href='https://sites.google.com/site/severnbridgehalfmarathon/home'>Severn Bridge 10km & Half Marathon</a>,"10km,&nbsp;HM",6.2,Road
 14/06/2023,2023-06-14,<a href='https://data.opentrack.run/en-gb/x/2023/GBR/jun-23-road-southwest-5km/'>South West PB Series 2023 - Race 1 5km</a>,"5km",3.1,Road
-03/09/2022,2022-09-03,<a href='https://www.runbritain.com/RaceDetail.aspx?eventid=7eba0dc85968&raceid=7bb909cf5967'>Meteor Mile</a> - TBC,"1mi",1,Road
-04/09/2022,2022-09-04,<a href='https://stroudac.co.uk/woodchester-park'>Woodchester Park</a>,"8mi",8,MT
 01/09/2024,2024-09-01,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
 18/09/2022,2022-09-18,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
 23/09/2023,2023-09-23,Autumn 4 & 6 Stage Midland Road Relays (contact club captains),"_",3,Road
 01/10/2023,2023-10-01,<a href='https://runupcote.co.uk'>Run Upcote Autumn Trail</a>,"5mi",5,MT
 17/03/2024,2024-03-17,<a href='https://bathhalf.co.uk'>Bath Half Marathon</a>,"HM",13.1,Road
-06/11/2022,2022-11-06,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a> - TBC,"5mi",5,Road
 14/01/2023,2023-01-14,Midland/Birmingham cross country league #3,"4mi&nbsp;/&nbsp;6mi",4,XC
 21/01/2024,2024-01-21,<a href='https://almostathletes.co.uk/linda-franks-race.html'>Linda Franks Race</a>,"5mi",5,Road
 28/01/2024,2024-01-28,<a href='https://clcstriders-runningclub.co.uk/'>Boddington 10</a>,"10mi",10,Road
@@ -94,3 +80,4 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 19/11/2023,2023-11-19,<a href='https://newentrunners.com/the-mandy-whittington-newent-9-2023/'>Newent 9</a>,"9.5km",,Road
 24/02/2024,2024-02-24,<a href='https://www.englishcrosscountry.co.uk/'> The National Cross Country Championships</a>,"_",,XC
 06/10/2024,2024-10-06,<a href='https://www.cardiffhalfmarathon.co.uk/'> Cardiff Half Marathon</a>,"HM",13.1,Road
+06/05/2024,2024-05-06,<a href='https://ouac.web.ox.ac.uk/iffley-miles-event-info'> Iffley Festival of Miles</a>,"Mile",,Track
