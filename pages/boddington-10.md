@@ -52,7 +52,6 @@ Here are the key points (additional details outlined below),
 * The race briefing takes place at 0845 at The Gloucester Old Spot.
 * Race starts at 0900 at the top of Boddington Lane.
 * Runners will be disqualified if they wear headphones (UKA Rules).
-* At the finish, don’t forget to pick up a memento.
 * Join us at Clavell & Hind Taproom for prize giving afterwards – every runner will receive a free drink at Clavell & Hind on presentation of their race number.
 * Please support Clavell & Hind Taproom and The Gloucester Old Spot. 
 * If you are unable to race, please let us know so we can offer your place to someone else.
