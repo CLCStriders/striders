@@ -138,7 +138,7 @@ Once you have crossed the finish line, please make sure you return the timing ch
   
 ##### Results
  
-As long as there is a good signal at Race HQ, live results will be available at [Race Roster](https://raceroster.com/search).
+As long as there is a good signal at Race HQ, live results will be available via [Lush timing](https://www.arrowliveresults.com/Boddington10Mile).
  
 Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
  
