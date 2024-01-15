@@ -114,6 +114,8 @@ Members of CLC Striders will be there from 0800 for entrants to collect race num
 Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
  
 **Please note**: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
+
+![Car park plan](/images/2024/01/2024-01-15-Boddington-10-parking "Boddington 10 parking plan"){:width="500px" height="500px"}
  
 ---
  
