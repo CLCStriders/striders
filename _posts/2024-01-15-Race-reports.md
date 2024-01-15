@@ -26,7 +26,7 @@ Also racing hard for the club on the day were Liam Richardson in 214th, Paul Loc
 
 Pictured, the CLC Striders ladies team, from left to right: Amelia Mullins, Laura Leaver, Nicola Weager, Fiona Brady-Miller, Rachel Vines, Liza Bradshaw, Helen Knight, Emma Abbey and Kate Telford
 
-![The mens team](/images/2024/01/2024-01-15-Brum-mens-XC.jpg "Brum league race day 3"){:width="780px" height="471px"}
+![The mens team](/images/2024/01/2024-01-15-Brum-mens-XC.jpg "Brum league race day 3"){:width="760px" height="471px"}
 
 Pictured, the CLC Striders men's team, from left to right back row: Richard Aarons, Paul Lockyer, David James, Sam Baylis, Liam Richardson, Jon Howes, and Aled Leaver. From row: John Comer, Gary Farquharson and Will Pearce
 
