@@ -146,7 +146,7 @@ Soon after the race, we will post them on the [CLC Striders website](https://clc
 
 ##### Prizes 
 
-All prizes are vouchers for Up & Running with the following awarded at the prize giving after the race:
+All prizes are **vouchers for Up & Running** with the following awarded at the prize giving after the race:
 
 * 1st male / female - £60
 * 2nd male / female - £40
