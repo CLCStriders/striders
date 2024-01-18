@@ -143,6 +143,14 @@ Once you have crossed the finish line, please make sure you return the timing ch
 As long as there is a good signal at Race HQ, live results will be available via [Lush timing](https://www.arrowliveresults.com/Boddington10Mile).
  
 Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
+
+##### Prizes 
+
+* 1st male / female - £60
+* 2nd male / female - £40
+* 3rd male / female - £25
+* MV40, MV50, MV60, MV70 - £40
+* LV35, LV45, LV55, LV65 - £40
  
 ##### After the race
  
