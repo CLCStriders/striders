@@ -51,7 +51,7 @@ Here are the key points (additional details outlined below),
 * The Gloucester Old Spot only has toilet facilities – no changing facilities or kit storage is available.
 * The race briefing takes place at 0845 at The Gloucester Old Spot.
 * Race starts at 0900 at the top of Boddington Lane.
-* Runners will be disqualified if they wear headphones (UKA Rules).
+* Runners will be disqualified if they wear headphones - including bone conducting (UKA Rules).
 * Join us at Clavell & Hind Taproom for prize giving afterwards – every runner will receive a free drink at Clavell & Hind on presentation of their race number.
 * Please support Clavell & Hind Taproom and The Gloucester Old Spot. 
 * If you are unable to race, please let us know so we can offer your place to someone else.
@@ -95,7 +95,7 @@ The UKA licence number is 2024-47258.
 * Toilets and portaloos will be available for race participants at The Gloucester Old Spot, Clavell & Hind Taproom and Elmstone Business Park. Unfortunately, no changing facilities or kit storage is available.
 * The race briefing will take place at the rear of The Gloucester Old Spot at 0845. Following this, runners will be guided to the start line.
 * The race starts at 0900 at the top of Boddington Lane.
-* Runners will be disqualified if they wear headphones (UKA Rules).
+* Runners will be disqualified if they wear headphones - including bone conducting (UKA Rules).
 * At the finish, don’t forget to return the timing chip.
 * Join us at the Clavell & Hind Taproom for prize-giving afterwards and a complimentary drink on presentation of your race number.
  
