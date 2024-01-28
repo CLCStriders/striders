@@ -174,13 +174,13 @@ Dig Deep Race Photography will be taking official race photos during the event, 
  
 #### Course Records
  
-Men's – waiting to be set
+Men's – Michael Kallenberg, Swansea Harriers - 51:18
  
-Women's – waiting to be set
+Women's – Emily Hilliar, Poole AC - 1:00:45
  
 #### Previous results
  
-None – as this is the first time we have used this course.
+The [2024 Boddington 10 results](/assets/boddington/2024-01-28-Boddington-10-results-2024.pdf "Boddington 10 results 2024").
  
 ---
  
