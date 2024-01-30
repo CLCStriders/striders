@@ -1,13 +1,13 @@
 Type,type_sort,Gender,gender_search,Distance,distance_m_sort,Age Group,age_sort,Holder,Time,time_secs_sort,Venue,Date,date_sort
-Road,1,Men,xy,Mile,1609,U20,19,George Parker,06:05,365,Bourton,19/07/2014,20140719
-Road,1,Men,xy,Mile,1609,Senior,34,John Parker,04:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,35-39,39,John Parker,04:32,272,Bourton,17/07/2010,20100717
-Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,05:15,315,Bourton,12/05/2023,20230512
-Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,05:25,325,Bourton,21/07/2018,20180721
-Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,05:26,326,Meteor Mile,02/09/2017,20170902
-Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,05:40,340,Bourton,01/07/2022,20220701
-Road,1,Men,xy,Mile,1609,60-64,64,JJ Willson,05:38,338,Bourton,10/07/2021,20210710
-Road,1,Men,xy,Mile,1609,65-69,69,David James,06:44,404,Staverton,31/08/2019,20190831
+Road,1,Men,xy,Mile,1609,U20,19,George Parker,6:05,365,Bourton,19/07/2014,20140719
+Road,1,Men,xy,Mile,1609,Senior,34,John Parker,4:32,272,Bourton,17/07/2010,20100717
+Road,1,Men,xy,Mile,1609,35-39,39,John Parker,4:32,272,Bourton,17/07/2010,20100717
+Road,1,Men,xy,Mile,1609,40-44,44,Joel Freeland,5:15,315,Bourton,12/05/2023,20230512
+Road,1,Men,xy,Mile,1609,45-49,49,Gareth Harries,5:25,325,Bourton,21/07/2018,20180721
+Road,1,Men,xy,Mile,1609,50-54,54,Paul Northup,5:26,326,Meteor Mile,02/09/2017,20170902
+Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,5:40,340,Bourton,01/07/2022,20220701
+Road,1,Men,xy,Mile,1609,60-64,64,JJ Willson,5:38,338,Bourton,10/07/2021,20210710
+Road,1,Men,xy,Mile,1609,65-69,69,David James,6:44,404,Staverton,31/08/2019,20190831
 Road,1,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
 Road,1,Men,xy,5km,5000,U20,19,George Parker,21:03,1263,White Horse,19/08/2014,20140819
 Road,1,Men,xy,5km,5000,Senior,34,Will Ferguson,15:07,907,Aztec West,26/05/2015,20150526
@@ -19,41 +19,41 @@ Road,1,Men,xy,5km,5000,55-59,59,JJ Willson,19:02,1142,Aztec West,26/07/2016,2016
 Road,1,Men,xy,5km,5000,60-64,64,JJ Willson,19:01,1141,Hereford,05/05/2021,20210505
 Road,1,Men,xy,5km,5000,65-69,69,David James,22:34,1354,Aztec West,26/05/2015,20150526
 Road,1,Men,xy,5km,5000,70-74,74,David James,20:57,1257,Hereford,07/04/2021,20210407
-Road,1,Men,xy,4mi,6436,U20,19,Ollie Mosley,29:58:00,1798,Aviator,11/05/2014,20140511
+Road,1,Men,xy,4mi,6436,U20,19,Ollie Mosley,29:58,1798,Aviator,11/05/2014,20140511
 Road,1,Men,xy,4mi,6436,Senior,34,John Parker,20:20,1220,White Horse,10/04/2010,20100410
 Road,1,Men,xy,4mi,6436,35-39,39,John Parker,20:20,1220,White Horse,10/04/2010,20100410
 Road,1,Men,xy,4mi,6436,40-44,44,Phil Jowett,23:14,1394,White Horse,10/04/2010,20100410
-Road,1,Men,xy,4mi,6436,45-49,49,Billy Bradshaw,25:21:00,1521,"Pilot Inn, Gloucester",03/06/2010,20100603
-Road,1,Men,xy,4mi,6436,50-54,54,JJ Willson,25:26:00,1526,Aviator,12/05/2013,20130512
-Road,1,Men,xy,4mi,6436,55-59,59,Nicholas Von Benzon,27:48:00,1668,Aviator,06/05/2012,20120506
-Road,1,Men,xy,4mi,6436,60-64,64,David James,28:26:00,1706,Aviator,06/05/2012,20120506
+Road,1,Men,xy,4mi,6436,45-49,49,Billy Bradshaw,25:21,1521,"Pilot Inn, Gloucester",03/06/2010,20100603
+Road,1,Men,xy,4mi,6436,50-54,54,JJ Willson,25:26,1526,Aviator,12/05/2013,20130512
+Road,1,Men,xy,4mi,6436,55-59,59,Nicholas Von Benzon,27:48,1668,Aviator,06/05/2012,20120506
+Road,1,Men,xy,4mi,6436,60-64,64,David James,28:26,1706,Aviator,06/05/2012,20120506
 Road,1,Men,xy,4mi,6436,65-69,69,,,99999,,,99999999
 Road,1,Men,xy,4mi,6436,70-74,74,,,99999,,,99999999
-Road,1,Men,xy,5mi,8045,U20,19,Ben Pedley,28:54:00,1734,"Pilot Inn, Gloucester",01/01/2010,20100101
-Road,1,Men,xy,5mi,8045,Senior,34,Will Ferguson,25:30:00,1530,"Pilot Inn, Gloucester",01/01/2011,20110101
-Road,1,Men,xy,5mi,8045,35-39,39,John Parker,26:16:00,1576,Aero,01/07/2010,20100701
-Road,1,Men,xy,5mi,8045,40-44,44,Chris Hale,29:28:00,1768,Tewkesbury,07/11/2010,20101107
-Road,1,Men,xy,5mi,8045,45-49,49,Will Miles,30:00:00,1800,White Horse,25/05/2009,20090525
-Road,1,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53:00,1793,Linda Franks,21/01/2018,20180121
-Road,1,Men,xy,5mi,8045,55-59,59,Paul Northup,31:42:00,1902,Linda Franks,23/01/2022,20220123
-Road,1,Men,xy,5mi,8045,60-64,64,JJ Willson,32:47:00,1967,Shepperdine,25/07/2021,20210725
-Road,1,Men,xy,5mi,8045,65-69,69,Ed Collier,37:46:00,2266,Linda Franks,22/01/2023,20230122
+Road,1,Men,xy,5mi,8045,U20,19,Ben Pedley,28:54,1734,"Pilot Inn, Gloucester",01/01/2010,20100101
+Road,1,Men,xy,5mi,8045,Senior,34,Will Ferguson,25:30,1530,"Pilot Inn, Gloucester",01/01/2011,20110101
+Road,1,Men,xy,5mi,8045,35-39,39,John Parker,26:16,1576,Aero,01/07/2010,20100701
+Road,1,Men,xy,5mi,8045,40-44,44,Rob Green,25:49.26,1549.26,Linda Franks,22/01/2024,20240122
+Road,1,Men,xy,5mi,8045,45-49,49,Will Miles,30:00,1800,White Horse,25/05/2009,20090525
+Road,1,Men,xy,5mi,8045,50-54,54,Paul Northup,29:53,1793,Linda Franks,21/01/2018,20180121
+Road,1,Men,xy,5mi,8045,55-59,59,Paul Northup,31:42,1902,Linda Franks,23/01/2022,20220123
+Road,1,Men,xy,5mi,8045,60-64,64,JJ Willson,32:47,1967,Shepperdine,25/07/2021,20210725
+Road,1,Men,xy,5mi,8045,65-69,69,Ed Collier,37:46,2266,Linda Franks,22/01/2023,20230122
 Road,1,Men,xy,5mi,8045,70-74,74,David James,35:10.6,2110.6,Tewkesbury,06/11/2021,20211106
-Road,1,Men,xy,10km,10000,U20,19,Ben Pedley,35:23:00,2123,White Horse,03/04/2010,20100403
-Road,1,Men,xy,10km,10000,Senior,34,Will Ferguson,31:39:00,1899,Telford,09/12/2018,20181209
-Road,1,Men,xy,10km,10000,35-39,39,Will Ferguson,31:39:00,1899,Telford,09/12/2018,20181209
-Road,1,Men,xy,10km,10000,40-44,44,Rob Green,32:57:00,1977,Cricklade,08/10/2023,20231008
-Road,1,Men,xy,10km,10000,45-49,49,Brendan Ward,36:31:00,2191,Blaisdon,04/05/2009,20090504
-Road,1,Men,xy,10km,10000,50-54,54,Charles Goodwin,37:50:00,2270,Berkeley,15/05/2017,20170515
-Road,1,Men,xy,10km,10000,55-59,59,JJ Willson,39:42:00,2382,Berkeley,09/05/2016,20160509
+Road,1,Men,xy,10km,10000,U20,19,Ben Pedley,35:23,2123,White Horse,03/04/2010,20100403
+Road,1,Men,xy,10km,10000,Senior,34,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
+Road,1,Men,xy,10km,10000,35-39,39,Will Ferguson,31:39,1899,Telford,09/12/2018,20181209
+Road,1,Men,xy,10km,10000,40-44,44,Rob Green,32:57,1977,Cricklade,08/10/2023,20231008
+Road,1,Men,xy,10km,10000,45-49,49,Brendan Ward,36:31,2191,Blaisdon,04/05/2009,20090504
+Road,1,Men,xy,10km,10000,50-54,54,Charles Goodwin,37:50,2270,Berkeley,15/05/2017,20170515
+Road,1,Men,xy,10km,10000,55-59,59,JJ Willson,39:42,2382,Berkeley,09/05/2016,20160509
 Road,1,Men,xy,10km,10000,60-64,64,JJ Willson,41:20.2,2480.2,Castle Combe,06/12/2020,20201206
-Road,1,Men,xy,10km,10000,65-69,69,David James,47:25:00,2845,Aviator,14/06/2015,20150614
-Road,1,Men,xy,10km,10000,70-74,74,David James,44:37:00,2677,Berkeley,03/10/2021,20211003
+Road,1,Men,xy,10km,10000,65-69,69,David James,47:25,2845,Aviator,14/06/2015,20150614
+Road,1,Men,xy,10km,10000,70-74,74,David James,44:37,2677,Berkeley,03/10/2021,20211003
 Road,1,Men,xy,7mi,11263,U20,19,,,99999,,,99999999
-Road,1,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03:00,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
+Road,1,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
 Road,1,Men,xy,7mi,11263,35-39,39,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,40-44,44,,,99999,,,99999999
-Road,1,Men,xy,7mi,11263,45-49,49,Charles Goodwin,45:59:00,2759,"Pilot Inn, Gloucester",26/07/2012,20120726
+Road,1,Men,xy,7mi,11263,45-49,49,Charles Goodwin,45:59,2759,"Pilot Inn, Gloucester",26/07/2012,20120726
 Road,1,Men,xy,7mi,11263,50-54,54,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,55-59,59,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,60-64,64,,,99999,,,99999999
