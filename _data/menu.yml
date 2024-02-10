@@ -28,14 +28,14 @@ items:
 - name: Awards
   url: /awards
   display: Awards
-  
-- name: About CLC Striders
-  url: /about 
-  display: About
 
 - name: CLC Striders
   url: /shop 
   display: Kit
+  
+- name: About CLC Striders
+  url: /about 
+  display: About
 
 - name: Contact Us
   url: /contact
