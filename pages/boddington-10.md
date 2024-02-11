@@ -176,9 +176,9 @@ Dig Deep Race Photography will be taking official race photos during the event, 
  
 #### Course Records
  
-Men's – Michael Kallenberg, Swansea Harriers - 51:18
+Men's – Michael Kallenberg, Swansea Harriers (2024) - 51:18
  
-Women's – Emily Hilliar, Poole AC - 1:00:45
+Women's – Emily Hilliar, Poole AC (2024) - 1:00:45
  
 #### Previous results
  
