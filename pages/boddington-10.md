@@ -30,6 +30,8 @@ Entries for the Boddington 10 are currently closed.
 
 ![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 
+<---
+
 CLC Striders Running Club look forward to welcoming you at the first Boddington 10 Mile road race on **Sunday 28 January 2024**.
  
 This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
@@ -164,7 +166,7 @@ The prize giving will take place at Clavell & Hind Taproom at 1115. Each runner 
  
 If there comes a situation, such as poor weather conditions, where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
----
+--->
  
 #### Official race photos
  
