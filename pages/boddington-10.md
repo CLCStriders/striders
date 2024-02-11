@@ -30,8 +30,6 @@ Entries for the Boddington 10 are currently closed.
 
 ![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 
-<---
-
 CLC Striders Running Club look forward to welcoming you at the first Boddington 10 Mile road race on **Sunday 28 January 2024**.
  
 This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
@@ -118,8 +116,6 @@ Please do not park anywhere other than guided by the marshals, under no circumst
 **Please note**: The Gloucester Old Spot car park must be vacated by 1145 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you think you will need to park for longer please use the industrial estate car park.
 
 ![Car park plan](/assets/boddington/2024-01-15-Boddington-10-parking.jpg "Boddington 10 parking plan"){:width="500px" height="500px"}
- 
----
  
 #### Race details
  
