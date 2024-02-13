@@ -17,11 +17,11 @@ For the men, it was a different story. In this, their first year in Division One
 Once again, the men were led home by Sam Baylis, who has competed in all four fixtures and who once again secured a top 100 finish in 94th place. The remaining Striders to complete the course were Robert Hyams in 159th, Gary Farquharson in 166th, Liam Richardson in 171st, Nick Ledwold in 180th, and V70 athlete David James in 190th. Although finishing in last team place on the day, the fact the men fielded six scoring runners means they live to fight again next season – albeit back in Division 2, alongside Gloucester AC who were also relegated on the day.
 
 
-![The ladies XC masters](/images/2024/01/2024-02-14-ladies-xc-masters.jpg "The ladies XC masters"){:width="760px" height="471px"}
+![The ladies XC masters](/images/2024/02/2024-02-14-ladies-xc-masters.jpg "The ladies XC masters"){:width="760px" height="471px"}
 Ladies Masters medallists – Liza Bradshaw, Helen Knight and Kate Telford (three score for the Masters category)
 
-![The ladies XC team](/images/2024/01/2024-02-14-ladies-xc-team.jpg "The ladies XC team"){:width="760px" height="471px"}
+![The ladies XC team](/images/2024/02/2024-02-14-ladies-xc-team.jpg "The ladies XC team"){:width="760px" height="471px"}
 The Ladies team, from left to right: Liza Bradshaw, Laura Leaver, Amelia Mullins, Helen Knight, Emma Abbey, Kate Telford, Fiona Brady-Miller and Rachel Vines
 
-![The mens XC team](/images/2024/01/2024-02-14-mens-xc-team.jpg "The mens XC team"){:width="760px" height="471px"}
+![The mens XC team](/images/2024/02/2024-02-14-mens-xc-team.jpg "The mens XC team"){:width="760px" height="471px"}
 The Men’s team, from left to right: Liam Richardson, David James, Robert Hyams, Gary Farquharson, Nick Ledwold and Sam Baylis
