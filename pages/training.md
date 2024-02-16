@@ -90,12 +90,10 @@ Our Coaches hold the England Athletics’ Coach in Running Fitness (CiRF) qualif
 
 Our Run Leaders hold the England Athletics’ Leadership in Running Fitness (LiRF) qualifications and are DBS-checked
 
-- Tim Brock
 - Andy Brookes
-- Laura Daubney
-- Jon Howes
 - Eoin McQuone
-- Paul Northup
+- Jon Howes
 - Helen Rawcliffe
-- Amanda Steer
 - Nicola Weager
+- Paul Northup
+- Tim Brock
