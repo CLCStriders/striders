@@ -14,7 +14,7 @@ CLC Striders had no less than 25 members racing on the day, and here’s how the
 
 First home was the club, and continuing his incredibly strong start to 2024, was Rob Green, who finished 5th overall in a lightening fast field and as 1st in his MV40 category in a time of 32:29, beating his own club age category record by almost 30 seconds.
 
-Next home was the so-solid Joe Wilgoss in 12th place overall and with a new PB time of 33:25 and Rob Barnett blasted to the finish, also in a new PB time of 34:06 for 18th place. Sam Baylis and Tom Burgess finished 10 seconds apart in 25th and 26th places in times of 35:03, a PB for Baylis, and 35:13 respectively, with John Comer completing the club’s top 50 finishers on the day with a PB time of 36:32 for 46th place.
+Next home was the so-solid Joe Willgoss in 12th place overall and with a new PB time of 33:25 and Rob Barnett blasted to the finish, also in a new PB time of 34:06 for 18th place. Sam Baylis and Tom Burgess finished 10 seconds apart in 25th and 26th places in times of 35:03, a PB for Baylis, and 35:13 respectively, with John Comer completing the club’s top 50 finishers on the day with a PB time of 36:32 for 46th place.
 
 Jon Howes made a great return to road competition after a long time out with injury with an 83rd place finish in 38:08, while Helen Knight continues to amaze, clocking a new PB time of 38:23 to finish as the 1st LV40, smash her own club age category record by 30 seconds and dip into the top 100 overall in 88th place. Richard Aarons and Alex Doherty finished neck-and-neck in the same time of 39:31 to complete the Striders who broke the 40-minute barrier on the day.
 
