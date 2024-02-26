@@ -22,7 +22,7 @@ Next home were Aled Leaver in a new PB time of 40:25 and Paul Northup 40:26 and 
 
 The trio of Nigel Bailey, Tim Brock and Rachael Cary finished within 5 seconds of each other in 42:55, a Pb for Bailey, 42:56 and 43:00 minutes respectively. And the other Striders to complete the 10k were Steph Parker in 45:31, Colin Upton in 47:51, Sam Howe in 48:48, Adam Hockaday in 49:16, and Tanya Evans in 54:27.
 
-![Bourton 10k](/images/2024/02/2024-02-26-Bourton-10k.jpg "Bourton 10k")
+![Bourton 10k](/images/2024/02/2024-02-26-Bourton-10k.JPG "Bourton 10k")
 
 Pictured – just some of the 25 CLC Striders athletes after finishing on the day
 From left to right, back row: Jon Howes, Paul Northup, Nigel Bailey, Tim Brock, Alex Doherty, Adam Hockaday, Colin Upton, Sam Howe
