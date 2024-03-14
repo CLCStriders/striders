@@ -1,7 +1,7 @@
 ---
 title: CLC Striders Road Race Series
 datatable: roadraceseries
-layout: default
+layout: datatable
 description: CLC Striders running club road race series
 permalink: /roadraceseries
 ---
