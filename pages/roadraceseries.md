@@ -50,6 +50,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -74,6 +75,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -98,6 +100,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -122,6 +125,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -146,6 +150,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -170,6 +175,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -194,6 +200,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -218,6 +225,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
@@ -242,6 +250,7 @@ Rules for race series
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
         </tr>
     </thead>
 </table>
