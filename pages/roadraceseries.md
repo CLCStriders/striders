@@ -4,7 +4,6 @@ datatable: roadraceseries
 layout: default
 description: CLC Striders running club road race series
 permalink: /roadraceseries
-
 ---
 
 Blurb about race series
@@ -16,7 +15,7 @@ Rules for race series
 ### Races in the series
 
 - 25 February – Bourton 10km
-- 29 March – Bristol Track Club 5km Day 
+- 29 March – Bristol Track Club 5km Day
 - 28 April – Berkeley 10km
 - 10 May – Bourton 1 Mile
 - June – Cleeve Cloud Cuckoo
@@ -25,7 +24,7 @@ Rules for race series
 - 7 August - Bugatti 10km
 - 1 September – Cheltenham Half
 - September - Angels 10km
-- October – Stroud Half 
+- October – Stroud Half
 - November – Glos League XC
 - December – no event
 
@@ -36,7 +35,8 @@ Rules for race series
 <table id="site_data_roadraceseries_menopen" style="width:100%">
     <thead>
         <tr>
-          <th data-field="bourton10k">Bourton 10k</th>
+            <th data-field="Name">Name</th>
+            <th data-field="bourton10k">Bourton 10k</th>
             <th data-field="bristol">Bristol 5k</th>
             <th data-field="berkeley">Berkeley 10k</th>
             <th data-field="bourton1mile">Bourton 1 Mile</th>
@@ -53,5 +53,3 @@ Rules for race series
         </tr>
     </thead>
 </table>
-
-
