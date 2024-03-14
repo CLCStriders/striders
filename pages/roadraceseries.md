@@ -32,7 +32,7 @@ Rules for race series
 
 #### Men's Open
 
-<table id="site_data_roadraceseries_menopen" style="width:100%">
+<table id="site_data_roadraceseries_mensopen" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
@@ -56,7 +56,7 @@ Rules for race series
 
 #### Womens's Open
 
-<table id="site_data_roadraceseries_womenopen" style="width:100%">
+<table id="site_data_roadraceseries_womensopen" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
