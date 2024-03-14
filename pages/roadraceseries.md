@@ -48,8 +48,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -72,8 +72,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -96,8 +96,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -120,8 +120,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -144,8 +144,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -168,8 +168,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -192,8 +192,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -216,8 +216,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
@@ -240,8 +240,8 @@ Rules for race series
             <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
             <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
-            <th data-field="total">Total</th>
-            <th data-field="rank">Rank</th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
         </tr>
     </thead>
 </table>
