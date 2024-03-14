@@ -36,7 +36,7 @@ Rules for race series
     <thead>
         <tr>
             <th data-field="Name">Name</th>
-            <th data-field="bourton10k">Bourton 10k</th>
+            <th data-field="bourton10k" style="writing-mode: vertical-lr; text-orientation: mixed; white-space: nowrap;">Bourton 10k</th>
             <th data-field="bristol">Bristol 5k</th>
             <th data-field="berkeley">Berkeley 10k</th>
             <th data-field="bourton1mile">Bourton 1 Mile</th>
