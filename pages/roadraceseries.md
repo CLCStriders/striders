@@ -1,38 +1,57 @@
 ---
-title: Annual Road Race Series
+title: CLC Striders Road Race Series
+datatable: roadraceseries
 layout: default
 description: CLC Striders running club road race series
 permalink: /roadraceseries
 
 ---
 
-The CLC Striders annual road race series runs from August to May. This is a great opportuntity to give members some road races to target over the year and be in with a chance of winning prizes.
-
-The club have selected a range of races across different distances (mostly local) and would encourage members to enter races early. Striders must enter and pay for races themselves, other than the Sutton Parks Road Relays where the club pays your entry fee.
-
-There are prizes for the first three placed male and female striders and Vet prizes, with other prizes available for the person who shaves the most time off a PB (please email your PBs to Sophie Longmore before you run your first race!) and for anyone who completes all the races in the series (any races that fall on the same date, this will be taken into account for this!).
+Blurb about race series
 
 ### Rules
 
-Winners are those with the lowest score across the series. Scores are given for every race, even those not run, so even if you enter less than five races you can still be in the running. For those who run more than five races, your best five will count.
+Rules for race series
 
-Your performance from either Cheltenham, or Stroud will be counted AND your performance from either Bath, or Reading will be counted if you choose to run any of these races. Although you can choose to do them all, if you run both Cheltenham or Stroud and/or both Bath and Reading, your best performance from either Cheltenham, or Stroud and/or either Bath or Reading will be taken, as one of your best five performances. This is because we know people often prefer to do one, or the other of these races, so felt this was fairer for all.
+### Races in the series
 
-#### Sutton Parks Road Relays
+- 25 February – Bourton 10km
+- 29 March – Bristol Track Club 5km Day 
+- 28 April – Berkeley 10km
+- 10 May – Bourton 1 Mile
+- June – Cleeve Cloud Cuckoo
+- July – Midsummer Open 1-Mile
+- August – Haresfield 5km
+- 7 August - Bugatti 10km
+- 1 September – Cheltenham Half
+- September - Angels 10km
+- October – Stroud Half 
+- November – Glos League XC
+- December – no event
 
-The club pays your entry fee for this, so please run as bonus points are available.
+### Current Standings
 
-#### Current Standings January 2019/2020
+#### Men's Open
 
-- 1st Male: Andrew Gage
-- 2nd Male: Tim Brock
-- 3rd Male: Edward Collier
-- 1st Lady: Amelia Mullins
-- 2nd Lady: Laura Daubney
-- 3rd Lady: Nicola Weager
-- Vet 40 Male: Alex Monro
-- Vet 50 Male: Mike Speke
-- Vet 60 Male: David James
-- Vet 40 Lady: Helen Knight
-- Vet 50 Lady: Fiona Woods
-- Vet 60 Lady: Sue Clark
+<table id="site_data_roadraceseries_menopen" style="width:100%">
+    <thead>
+        <tr>
+          <th data-field="bourton10k">Bourton 10k</th>
+            <th data-field="bristol">Bristol 5k</th>
+            <th data-field="berkeley">Berkeley 10k</th>
+            <th data-field="bourton1mile">Bourton 1 Mile</th>
+            <th data-field="cleeve">Cleeve Cloud Cuckoo</th>
+            <th data-field="midsummer">Midsummer Open 1-Mile</th>
+            <th data-field="haresfield">Haresfield 5k</th>
+            <th data-field="bugatti">Bugatti 10k</th>
+            <th data-field="cheltenhamhalf">Cheltenham Half</th>
+            <th data-field="angels">Angels 10k</th>
+            <th data-field="stroudhalf">Stroud Half</th>
+            <th data-field="glosxc">Glos League XC</th>
+            <th data-field="total">Total</th>
+            <th data-field="rank">Rank</th>
+        </tr>
+    </thead>
+</table>
+
+
