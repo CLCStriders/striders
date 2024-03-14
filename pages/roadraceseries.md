@@ -37,17 +37,17 @@ Rules for race series
         <tr>
             <th data-field="Name">Name</th>
             <th data-field="bourton10k"><div class="vertical-text">Bourton 10k</div></th>
-            <th data-field="bristol">Bristol 5k</th>
-            <th data-field="berkeley">Berkeley 10k</th>
-            <th data-field="bourton1mile">Bourton 1 Mile</th>
-            <th data-field="cleeve">Cleeve Cloud Cuckoo</th>
-            <th data-field="midsummer">Midsummer Open 1-Mile</th>
-            <th data-field="haresfield">Haresfield 5k</th>
-            <th data-field="bugatti">Bugatti 10k</th>
-            <th data-field="cheltenhamhalf">Cheltenham Half</th>
-            <th data-field="angels">Angels 10k</th>
-            <th data-field="stroudhalf">Stroud Half</th>
-            <th data-field="glosxc">Glos League XC</th>
+            <th data-field="bristol"><div class="vertical-text">Bristol 5k</div></th>
+            <th data-field="berkeley"><div class="vertical-text">Berkeley 10k</div></th>
+            <th data-field="bourton1mile"><div class="vertical-text">Bourton 1 Mile</div></th>
+            <th data-field="cleeve"><div class="vertical-text">Cleeve Cloud Cuckoo</div></th>
+            <th data-field="midsummer"><div class="vertical-text">Midsummer Open 1-Mile</div></th>
+            <th data-field="haresfield"><div class="vertical-text">Haresfield 5k</div></th>
+            <th data-field="bugatti"><div class="vertical-text">Bugatti 10k</div></th>
+            <th data-field="cheltenhamhalf"><div class="vertical-text">Cheltenham Half</div></th>
+            <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
+            <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
+            <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total</th>
             <th data-field="rank">Rank</th>
         </tr>
