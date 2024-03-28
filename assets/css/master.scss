@@ -676,5 +676,11 @@ a.skip-main:focus, a.skip-main:active {
   .carousel.slide {
       box-shadow: none;
   }
+
+  .vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    white-space: nowrap;
+}
   
   

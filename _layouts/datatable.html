@@ -245,4 +245,62 @@
         });
         cwrTable.rows.add(cwrData).draw();
     </script>
+    {% elsif page.datatable == "roadraceseries" %}
+    <script>
+        var roadRaceSeriesData =  {{ site.data.roadraceseries | jsonify }} ;
+
+        mensOpenData = roadRaceSeriesData.filter(f => f.Category == "MO");
+        var mensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_mensopen").DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Name" },            // 0
+                { data: "bourton10k" },      // 1
+                { data: "bristol" },         // 2
+                { data: "berkeley" },        // 3
+                { data: "bourton1mile" },    // 4
+                { data: "cleeve" },          // 5
+                { data: "midsummer" },       // 6
+                { data: "haresfield" },      // 7
+                { data: "bugatti" },         // 8
+                { data: "cheltenhamhalf" },  // 9
+                { data: "angels" },          // 10
+                { data: "stroudhalf" },      // 11
+                { data: "glosxc" },          // 12
+                { data: "total" },           // 13
+                { data: "rank" },            // 14
+                { data: "average" },         // 15
+            ],
+            "pageLength": 10, // initial page lengths
+            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+        });
+        mensOpenRoadRaceSeriesTable.rows.add(mensOpenData).draw();
+
+        womensOpenData = roadRaceSeriesData.filter(f => f.Category == "WO");
+        var womensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_womensopen").DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Name" },            // 0
+                { data: "bourton10k" },      // 1
+                { data: "bristol" },         // 2
+                { data: "berkeley" },        // 3
+                { data: "bourton1mile" },    // 4
+                { data: "cleeve" },          // 5
+                { data: "midsummer" },       // 6
+                { data: "haresfield" },      // 7
+                { data: "bugatti" },         // 8
+                { data: "cheltenhamhalf" },  // 9
+                { data: "angels" },          // 10
+                { data: "stroudhalf" },      // 11
+                { data: "glosxc" },          // 12
+                { data: "total" },           // 13
+                { data: "rank" },            // 14
+                { data: "average" },         // 15
+            ],
+            "pageLength": 10, // initial page lengths
+            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+        });
+        womensOpenRoadRaceSeriesTable.rows.add(womensOpenData).draw();
+    </script>
 {% endif %}
