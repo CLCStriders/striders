@@ -250,6 +250,9 @@
         var roadRaceSeriesData =  {{ site.data.roadraceseries | jsonify }} ;
 
         mensOpenData = roadRaceSeriesData.filter(f => f.Category == "MO");
+        if(mensOpenData.length == 0) {
+            $("#site_data_roadraceseries_mensopen").hide();
+        }else{
         var mensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_mensopen").DataTable({
             "paging": true,
             "info": true,
@@ -275,8 +278,12 @@
             "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
         });
         mensOpenRoadRaceSeriesTable.rows.add(mensOpenData).draw();
+    }
 
         womensOpenData = roadRaceSeriesData.filter(f => f.Category == "WO");
+        if(womensOpenData.length == 0) {
+            $("#site_data_roadraceseries_womensopen").hide();
+        }else{
         var womensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_womensopen").DataTable({
             "paging": true,
             "info": true,
@@ -302,5 +309,39 @@
             "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
         });
         womensOpenRoadRaceSeriesTable.rows.add(womensOpenData).draw();
+    }
+
+        mv40Data = roadRaceSeriesData.filter(f => f.Category == "MV40");
+        if(mv40Data.length == 0) {
+            $("#site_data_roadraceseries_mv40").hide();
+        }
+        lv40Data = roadRaceSeriesData.filter(f => f.Category == "LV40");
+        if(lv40Data.length == 0) {
+            $("#site_data_roadraceseries_lv40").hide();
+        }
+        mv50Data = roadRaceSeriesData.filter(f => f.Category == "MV50");
+        if(mv40Data.length == 0) {
+            $("#site_data_roadraceseries_mv50").hide();
+        }
+        lv50Data = roadRaceSeriesData.filter(f => f.Category == "LV50");
+        if(lv40Data.length == 0) {
+            $("#site_data_roadraceseries_lv50").hide();
+        }
+        mv60Data = roadRaceSeriesData.filter(f => f.Category == "MV60");
+        if(mv40Data.length == 0) {
+            $("#site_data_roadraceseries_mv60").hide();
+        }
+        lv60Data = roadRaceSeriesData.filter(f => f.Category == "LV60");
+        if(lv40Data.length == 0) {
+            $("#site_data_roadraceseries_lv60").hide();
+        }
+        mv70Data = roadRaceSeriesData.filter(f => f.Category == "MV70");
+        if(mv70Data.length == 0) {
+            $("#site_data_roadraceseries_mv70").hide();
+        }
+        lv70Data = roadRaceSeriesData.filter(f => f.Category == "LV70");
+        if(lv70Data.length == 0) {
+            $("#site_data_roadraceseries_lv70").hide();
+        }
     </script>
 {% endif %}
