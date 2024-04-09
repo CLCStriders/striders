@@ -149,7 +149,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 
 #### MV50
 
-<table id="site_data_roadraceseries_mv50" style="width:100%" display="none">
+<table id="site_data_roadraceseries_mv50" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
