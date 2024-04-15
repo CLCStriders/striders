@@ -21,7 +21,7 @@ Membership benefits include:
 
 In line with England Athletics registration, membership is renewable annually on 1st April.
 
-The 2023/24 membership fees are:
+The 2024/25 membership fees are:
 
 - Full year membership - £40 &#x00B9; (available from 1st April to 30th September)
 - Half year membership - £30 &#x00B9; (available from 1st October)
