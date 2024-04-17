@@ -14,7 +14,7 @@ permalink: /roadraceseries
 - 10 May – Bourton 1 Mile
 - 29 May – Cleeve Cloud Cuckoo
 - July – Midsummer Open 1-Mile
-- 14 August – Haresfield 5km
+- 21 August – Haresfield 5km
 - 7 August - Bugatti 10km
 - 1 September – Cheltenham Half
 - 15 September - Angels 10km
