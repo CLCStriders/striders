@@ -12,14 +12,14 @@ permalink: /roadraceseries
 - 29 March – Bristol Track Club 5km Day
 - 28 April – Berkeley 10km
 - 10 May – Bourton 1 Mile
-- June – Cleeve Cloud Cuckoo
+- 29 May – Cleeve Cloud Cuckoo
 - July – Midsummer Open 1-Mile
-- August – Haresfield 5km
+- 21 August – Haresfield 5km
 - 7 August - Bugatti 10km
 - 1 September – Cheltenham Half
-- September - Angels 10km
-- October – Stroud Half
-- November – Glos League XC
+- 15 September - Angels 10km
+- 27 October – Stroud Half
+- 2 November – Glos League XC
 - December – no event
 
 
