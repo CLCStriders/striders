@@ -1,9 +1,9 @@
 ---
-title: CLC Striders Road Race Series
-datatable: roadraceseries
+title: CLC Striders 2024 Race Series
+datatable: raceseries
 layout: datatable
 description: CLC Striders running club road race series
-permalink: /roadraceseries
+permalink: /raceseries
 ---
 
 ### Races in the series

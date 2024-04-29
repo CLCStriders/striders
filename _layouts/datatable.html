@@ -245,12 +245,12 @@
         });
         cwrTable.rows.add(cwrData).draw();
     </script>
-    {% elsif page.datatable == "roadraceseries" %}
+    {% elsif page.datatable == "raceseries" %}
     <script>
-        var roadRaceSeriesData =  {{ site.data.roadraceseries | jsonify }} ;
+        var raceSeriesData =  {{ site.data.raceseries | jsonify }} ;
     
         function initializeDataTable(category, data) {
-            var table = $(`#site_data_roadraceseries_${category}`).DataTable({
+            var table = $(`#site_data_raceseries_${category}`).DataTable({
                 "paging": true,
                 "info": true,
                 "columns": [
@@ -276,7 +276,7 @@
             });
     
             if (data.length === 0) {
-                $(`#site_data_roadraceseries_${category}`).hide();
+                $(`#site_data_raceseries_${category}`).hide();
             } else {
                 table.rows.add(data).draw();
             }
@@ -285,7 +285,7 @@
         var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
     
         categories.forEach(category => {
-            var data = roadRaceSeriesData.filter(f => f.Category === category);
+            var data = raceSeriesData.filter(f => f.Category === category);
             initializeDataTable(category, data);
         });
     </script>
