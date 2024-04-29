@@ -271,12 +271,10 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
     </thead>
 </table>
 
-#### Testing
-
 {% assign sections = "MO MV40 MV50 MV60 MV70 WO LV40 LV50 LV60 LV70" | split: " " %}
 
 {% for section in sections %}
-  {% assign section_id = "site_data_roadraceseries" | append: section | downcase %}
+  {% assign section_id = "site_data_roadraceseries_" | append: section | downcase %}
   {% assign has_rows = false %}
   {% for entry in site.data.roadraceseries %}
     {% if entry.Category == section %}
