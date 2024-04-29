@@ -250,45 +250,36 @@
         var raceSeriesData =  {{ site.data.raceseries | jsonify }} ;
     
         function initializeDataTable(category, data) {
-            function initializeDataTable(category, data) {
-        var table = $(`#site_data_roadraceseries_${category}`).DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-            "columnDefs": [
-                {
-                    "type": "num",
-                    "targets": "_all"
-                },
-                {
-                    "type": "string",
-                    "targets": "_all",
-                    "render": function (data, type, row, meta) {
-                        return data === "" ? '\uFFFF' : data;
-                    }
-                }
-            ]
-        });
-
+            var table = $(`#site_data_raceseries_${category}`).DataTable({
+                "paging": true,
+                "info": true,
+                "columns": [
+                    { data: "Name" },            // 0
+                    { data: "bourton10k" },      // 1
+                    { data: "bristol" },         // 2
+                    { data: "berkeley" },        // 3
+                    { data: "bourton1mile" },    // 4
+                    { data: "cleeve" },          // 5
+                    { data: "midsummer" },       // 6
+                    { data: "haresfield" },      // 7
+                    { data: "bugatti" },         // 8
+                    { data: "cheltenhamhalf" },  // 9
+                    { data: "angels" },          // 10
+                    { data: "stroudhalf" },      // 11
+                    { data: "glosxc" },          // 12
+                    { data: "total" },           // 13
+                    { data: "rank" },            // 14
+                    { data: "average" },         // 15
+                ],
+                "pageLength": 10, // initial page lengths
+                "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+            });
+    
+            if (data.length === 0) {
+                $(`#site_data_raceseries_${category}`).hide();
+            } else {
+                table.rows.add(data).draw();
+            }
         }
     
         var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
