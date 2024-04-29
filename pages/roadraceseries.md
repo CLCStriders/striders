@@ -47,8 +47,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 
 ### Current Standings
 
-{% if site.data.roadraceseries.size > 1 %}
-<h2>Men's Open</h2>
+<h4>Men's Open</h4>
 <table id="site_data_roadraceseries_mensopen" style="width:100%">
     <thead>
         <tr>
@@ -71,7 +70,6 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
         </tr>
     </thead>
 </table>
-{% endif %}
 
 #### Womens's Open
 
@@ -272,3 +270,43 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
         </tr>
     </thead>
 </table>
+
+#### Testing
+
+{% assign sections = "MO MV40 MV50 MV60 MV70 WO LV40" | split: " " %}
+
+{% for section in sections %}
+  {% assign has_rows = false %}
+  {% for entry in site.data.roadraceseries %}
+    {% if entry.Category == section %}
+      {% assign has_rows = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if has_rows %}
+    <h2>{{ section }}</h2>
+    <table id="site_data_roadraceseries_{{ section }}" style="width:100%">
+    <thead>
+        <tr>
+            <th data-field="Name">Name</th>
+            <th data-field="bourton10k"><div class="vertical-text">Bourton 10k</div></th>
+            <th data-field="bristol"><div class="vertical-text">Bristol 5k</div></th>
+            <th data-field="berkeley"><div class="vertical-text">Berkeley 10k</div></th>
+            <th data-field="bourton1mile"><div class="vertical-text">Bourton 1 Mile</div></th>
+            <th data-field="cleeve"><div class="vertical-text">Cleeve Cloud Cuckoo</div></th>
+            <th data-field="midsummer"><div class="vertical-text">Midsummer Open 1-Mile</div></th>
+            <th data-field="haresfield"><div class="vertical-text">Haresfield 5k</div></th>
+            <th data-field="bugatti"><div class="vertical-text">Bugatti 10k</div></th>
+            <th data-field="cheltenhamhalf"><div class="vertical-text">Cheltenham Half</div></th>
+            <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
+            <th data-field="stroudhalf"><div class="vertical-text">Stroud Half</div></th>
+            <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
+            <th data-field="total">Total (best 6)</th>
+            <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Average</th>
+        </tr>
+    </thead>
+</table>
+  {% endif %}
+{% endfor %}
