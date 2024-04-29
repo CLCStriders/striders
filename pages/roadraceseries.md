@@ -284,8 +284,8 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
   {% endfor %}
   
   {% if has_rows %}
-    <h2>{{ section }}</h2>
-    <table id="{{section_id}}" style="width:100%">
+<h2>{{ section }}</h2>
+<table id="{{section_id}}" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
@@ -306,6 +306,6 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
             <th data-field="rank">Average</th>
         </tr>
     </thead>
-    </table>
+</table>
   {% endif %}
 {% endfor %}
