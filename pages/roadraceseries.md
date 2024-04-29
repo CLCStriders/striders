@@ -306,6 +306,6 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
             <th data-field="rank">Average</th>
         </tr>
     </thead>
-</table>
+    </table>
   {% endif %}
 {% endfor %}
