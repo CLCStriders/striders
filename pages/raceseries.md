@@ -54,7 +54,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
   
   {% assign section_id = "site_data_raceseries_" | append: section %}
   {% assign has_rows = false %}
-  {% for entry in site.data.roadraceseries %}
+  {% for entry in site.data.raceseries %}
     {% if entry.Category == section %}
       {% assign has_rows = true %}
       {% break %}
