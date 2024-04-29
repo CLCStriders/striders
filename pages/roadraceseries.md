@@ -273,9 +273,10 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 
 #### Testing
 
-{% assign sections = "MO MV40 MV50 MV60 MV70 WO LV40" | split: " " %}
+{% assign sections = "MO MV40 MV50 MV60 MV70 WO LV40 LV50 LV60 LV70" | split: " " %}
 
 {% for section in sections %}
+  {% assign section_id = "site_data_roadraceseries" | append: section | downcase %}
   {% assign has_rows = false %}
   {% for entry in site.data.roadraceseries %}
     {% if entry.Category == section %}
@@ -286,7 +287,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
   
   {% if has_rows %}
     <h2>{{ section }}</h2>
-    <table id="site_data_roadraceseries_{{ section }}" style="width:100%">
+    <table id="{{section_id}}" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
