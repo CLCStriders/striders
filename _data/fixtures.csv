@@ -11,7 +11,7 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 26/03/2022,2022-03-26,Spring 6 & 12 Stage Midland Road Relays (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
 13/04/2024,2024-04-13,<a href='https://data.opentrack.run/en-gb/x/2024/GBR/apr-24-road-btc-5km/'>Bristol Track Club 5K Race Day</a>,"5km",3.1,Road
 28/04/2024,2024-04-28,<a href='https://www.gloucesterac.co.uk/events/open-meetings/'>Gloucester AC Spring Open Meeting 2024 - Blackbridge Athletics Track Gloucester</a>,"100m,&nbsp;200m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m",0,Track
-12/05/2024,2024-05-12,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships - Gloucester</a>,"TBC",0,Track
+12/05/2024,2024-05-12,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships - Gloucester</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;5000m",0,Track
 02/05/2022,2022-05-02,<a href='https://cheltenhamharriers.co.uk/pages/brewer-games'>Brewer Memorial Games</a>,"100m,&nbsp;200m,&nbsp;400m,<br>800m,&nbsp;1500m,&nbsp;3000m",0,Track
 28/04/2024,2024-04-28,<a href='https://www.entrycentral.com/berkeley10-24/'>Berkeley 10k</a>,"10km",6.2,Road
 15/05/2022,2022-05-15,<a href='https://www.race-results.co.uk/onlineentries/uploads/info4394.pdf'>Gloucestershire Track & Field Championships Day 2 - Prince of Wales Stadium Cheltenham</a>,"100m,&nbsp;200m,&nbsp;1500m",0,Track
@@ -26,7 +26,7 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 17/07/2024,2024-07-17,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 3 - Blackbridge Track Gloucester</a>,"TBC",0,Track
 24/07/2024,2024-07-24,<a href='https://cheltenhamharriers.co.uk/pages/midsummer-open-graded'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"TBC",0,Track
 20/08/2023,2023-08-20,<a href='https://www.entrycentral.com/JonWard5k23'>Jon Ward 5k - Hereford</a>,"5km",3.1,Road
-12/06/2024,2024-06-12,<a href='https://www.facebook.com/p/South-West-PB-Series-100066779344182/'>South West PB Series 2024 - Race 1 5km</a>,"5km",3.1,Road
+12/06/2024,2024-06-12,<a href='https://data.opentrack.run/en-gb/x/2024/GBR/jun-24-road-southwest-5km/'>South West PB Series 2024 - Race 1 5km</a>,"5km",3.1,Road
 01/09/2024,2024-09-01,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
 18/09/2022,2022-09-18,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
 23/09/2023,2023-09-23,Autumn 4 & 6 Stage Midland Road Relays (contact club captains),"_",3,Road
@@ -42,10 +42,10 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 23/03/2024,2024-03-23,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission Half</a>,"HM",13.1,Road
 23/03/2024,2024-03-23,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/2020-fission'>Berkeley Fission 20</a>,"20mi",20,Road
 23/03/2024,2024-03-23,Spring 6 & 12 Stage Midland Road (contact club captains),"3mi&nbsp;/&nbsp;5mi",3,Road
-16/08/2023,2023-08-16,<a href='https://runabc.co.uk/gloucester-5k-haresfield'>Gloucester 5k Haresfield</a>,"5km",3.1,Road
+21/08/2024,2024-08-21,<a href='https://www.gloucesterac.co.uk/events/gloucester-5k/'>Gloucester 5k Haresfield</a>,"5km",3.1,Road
 24/03/2024,2024-03-24,<a href='https://cheltenhamharriers.co.uk/pages/cleevewold'>Cleevewold 14</a>,"14mi",14,MT
 29/04/2023,2023-04-29,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 1</a>,"400m,&nbsp;800m,&nbsp;3000m,&nbsp;5000m",0,Track
-06/05/2024,2024-05-06,<a href='https://cheltenhamharriers.co.uk/pages/brewer-games'>Brewer Games</a>,"Various",0,Track
+06/05/2024,2024-05-06,<a href='https://cheltenhamharriers.co.uk/pages/brewer-games'>Brewer Games</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m",0,Track
 08/05/2023,2023-05-08,<a href='https://www.dursleyrunningclub.org.uk/berkeley-10k/'>Berkeley 10k</a>,"10km",6.2,Road
 10/05/2024,2024-05-10,<a href='https://www.bourtonroadrunners.co.uk/bourton_mile.htm'>Bourton 1 Mile</a>,"1mi",1,Road
 14/05/2023,2023-05-14,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 2</a>,"100m,&nbsp;200m,&nbsp;1500m,&nbsp;10000m",0,Track
@@ -71,14 +71,13 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 17/07/2024,2024-07-17,<a href='https://www.facebook.com/p/South-West-PB-Series-100066779344182/'>South West PB Series 2024 - Race 2 5km</a>,"5km",3.1,Road
 14/08/2024,2024-08-14,<a href='https://www.facebook.com/p/South-West-PB-Series-100066779344182/'>South West PB Series 2024 - Race 3 5km</a>,"5km",3.1,Road
 07/10/2022,2022-10-07,National 4 & 6 Stage Road Relays (contact club captains),"_",,Road
-22/06/2023,2023-06-22,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"200m,&nbsp;800m,&nbsp;3000m,",0,Track
-15/08/2023,2023-08-15,<a href='https://www.worcester-ac.co.uk/EntryForms/2023/WAC%20Open%20meetings%20timetable%202023.pdf'>Worcester AC Open Track Meeting</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
-28/08/2023,2023-08-28,<a href='https://www.ksacmikelambertopen.co.uk/home'>Mike Lambert Open - Stourport</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
-29/06/2023,2023-06-29,<a href='https://thornburyrc.fullonsport.com/event/thornbury-10k-2023/profile'>Thornbury 10k</a>,"10km",6.2,Road
-12/08/2023,2023-08-12,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=20558'>Avon/Yate AC Masters Open 2023</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m,&nbsp;5000m",0,Track
+25/06/2024,2024-06-25,<a href='https://www.worcester-ac.co.uk/EntryForms/2024/Open%20meetings%202024%20-%20Poster.pdf'>Worcester AC Open Track Meeting - June</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;1500m,",0,Track
+01/08/2024,2024-08-01,<a href='https://www.worcester-ac.co.uk/EntryForms/2024/Open%20meetings%202024%20-%20Poster.pdf'>Worcester AC Open Track Meeting - August</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
+26/08/2024,2024-08-26,<a href='https://www.ksacmikelambertopen.co.uk/home'>Mike Lambert Open - Stourport</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
+27/06/2024,2024-06-27,<a href='https://thornburyrc.fullonsport.com/event/thornbury-10k-2024/profile'>Thornbury 10k</a>,"10km",6.2,Road
+21/07/2024,2024-07-21,<a href='https://meets.rosterathletics.com/public/competitions/details/schedule?id=24741'>Avon/Yate AC Masters Open 2024 (For ages 35+) </a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m,&nbsp;5000m",0,Track
 15/07/2023,2023-07-15,<a href='https://leamingtonathletics.club/2023/06/11/leamington-cycling-athletics-club-summer-open/'>Leamington Summer Open</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
 19/11/2023,2023-11-19,<a href='https://newentrunners.com/the-mandy-whittington-newent-9-2023/'>Newent 9</a>,"9.5km",,Road
 24/02/2024,2024-02-24,<a href='https://www.englishcrosscountry.co.uk/'> The National Cross Country Championships</a>,"_",,XC
 06/10/2024,2024-10-06,<a href='https://www.cardiffhalfmarathon.co.uk/'> Cardiff Half Marathon</a>,"HM",13.1,Road
-06/05/2024,2024-05-06,<a href='https://ouac.web.ox.ac.uk/iffley-miles-event-info'> Iffley Festival of Miles</a>,"Mile",,Track
 06/07/2024,2024-07-06,<a href='https://cotswoldwayrelay.co.uk/'> Cotswold Way Relay - Enter via club rep</a>,"Various",,Trail
