@@ -48,7 +48,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 ### Current Standings
 
 {% assign sections = "MO FO MV40 FV40 MV50 FV50 MV60 FV60 MV70 FV70" | split: " " %}
-{% assign category_labels = "MO:Male Open, FO:Female Open, MV40:Male Vet 40, FV40:Female Vet 40, MV50:Male Vet 50, FV50:Female Vet 50, MV60:Male Vet 60, FV60:Female Vet 60, MV70:Male Vet 70, FV70:Female Vet 70" | split: ", " %}
+{% assign category_labels = "MO:Male Open, FO:Female Open, MV40:Male Vet 40-49, FV40:Female Vet 40-49, MV50:Male Vet 50-59, FV50:Female Vet 50-59, MV60:Male Vet 60-69, FV60:Female Vet 60-69, MV70:Male Vet 70-79, FV70:Female Vet 70-79" | split: ", " %}
 
 {% for section in sections %}
   
