@@ -47,7 +47,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 
 ### Current Standings
 
-{% if site.data.roadraceseries.size < 1 %}
+{% if site.data.roadraceseries.size > 1 %}
 <h2>Men's Open</h2>
 <table id="site_data_roadraceseries_mensopen" style="width:100%">
     <thead>
