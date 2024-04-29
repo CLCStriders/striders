@@ -286,7 +286,7 @@
     
         categories.forEach(category => {
             var data = roadRaceSeriesData.filter(f => f.Category === category);
-            initializeDataTable(category.toLowerCase(), data);
+            initializeDataTable(category, data);
         });
     </script>
 {% endif %}
