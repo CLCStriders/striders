@@ -274,6 +274,12 @@
                 "pageLength": 10, // initial page lengths
                 "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
             });
+    
+            if (data.length === 0) {
+                $(`#site_data_raceseries_${category}`).hide();
+            } else {
+                table.rows.add(data).draw();
+            }
         }
     
         var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
