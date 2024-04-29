@@ -273,6 +273,19 @@
             ],
             "pageLength": 10, // initial page lengths
             "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+            "columnDefs": [
+                {
+                    "type": "num",
+                    "targets": "_all"
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ]
         });
 
 
