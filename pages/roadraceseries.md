@@ -47,9 +47,11 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
 
 ### Current Standings
 
-{% assign sections = "MO MV40 MV50 MV60 MV70 WO LV40 LV50 LV60 LV70" | split: " " %}
+{% assign sections = "MO WO MV40 LV40 MV50 LV50 MV60 LV60 MV70 LV70" | split: " " %}
+{% assign category_labels = "MO:Male Open, WO:Female Open, MV40:Men Vet 40, LV40:Female Vet 40, MV50:Men Vet 50, LV50:Female Vet 50, MV60:Men Vet 60, LV60:Female Vet 60, MV70:Men Vet 70, LV70:Female Vet 70" | split: ", " %}
 
 {% for section in sections %}
+  
   {% assign section_id = "site_data_roadraceseries_" | append: section | downcase %}
   {% assign has_rows = false %}
   {% for entry in site.data.roadraceseries %}
@@ -60,7 +62,12 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
   {% endfor %}
   
   {% if has_rows %}
-<h2>{{ section }}</h2>
+    {% for label_map in category_labels %}
+      {% assign label_parts = label_map | split: ":" %}
+      {% if label_parts[0] == section %}
+        <h2>{{ label_parts[1] }}</h2>
+      {% endif %}
+    {% endfor %}
 <table id="{{section_id}}" style="width:100%">
     <thead>
         <tr>
