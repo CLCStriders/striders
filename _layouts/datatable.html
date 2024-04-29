@@ -276,7 +276,10 @@
                 "columnDefs": [
                 {
                     "type": "num",
-                    "targets": "_all"
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
                 },
                 {
                     "type": "string",
