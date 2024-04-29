@@ -250,6 +250,7 @@
         var raceSeriesData =  {{ site.data.raceseries | jsonify }} ;
     
         function initializeDataTable(category, data) {
+            function initializeDataTable(category, data) {
         var table = $(`#site_data_roadraceseries_${category}`).DataTable({
             "paging": true,
             "info": true,
@@ -288,7 +289,7 @@
             ]
         });
 
-    }
+        }
     
         var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
     
