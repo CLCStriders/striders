@@ -65,7 +65,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
     {% for label_map in category_labels %}
       {% assign label_parts = label_map | split: ":" %}
       {% if label_parts[0] == section %}
-        <h2>{{ label_parts[1] }}</h2>
+<h2>{{ label_parts[1] }}</h2>
       {% endif %}
     {% endfor %}
 <table id="{{section_id}}" style="width:100%">
