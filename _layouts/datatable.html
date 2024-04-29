@@ -248,284 +248,45 @@
     {% elsif page.datatable == "roadraceseries" %}
     <script>
         var roadRaceSeriesData =  {{ site.data.roadraceseries | jsonify }} ;
-
-        mensOpenData = roadRaceSeriesData.filter(f => f.Category == "MO");
-        if(mensOpenData.length == 0) {
-            $("#site_data_roadraceseries_mensopen").hide();
-        }else{
-        var mensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_mensopen").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+    
+        function initializeDataTable(category, data) {
+            var table = $(`#site_data_roadraceseries_${category}`).DataTable({
+                "paging": true,
+                "info": true,
+                "columns": [
+                    { data: "Name" },            // 0
+                    { data: "bourton10k" },      // 1
+                    { data: "bristol" },         // 2
+                    { data: "berkeley" },        // 3
+                    { data: "bourton1mile" },    // 4
+                    { data: "cleeve" },          // 5
+                    { data: "midsummer" },       // 6
+                    { data: "haresfield" },      // 7
+                    { data: "bugatti" },         // 8
+                    { data: "cheltenhamhalf" },  // 9
+                    { data: "angels" },          // 10
+                    { data: "stroudhalf" },      // 11
+                    { data: "glosxc" },          // 12
+                    { data: "total" },           // 13
+                    { data: "rank" },            // 14
+                    { data: "average" },         // 15
+                ],
+                "pageLength": 10, // initial page lengths
+                "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
+            });
+    
+            if (data.length === 0) {
+                $(`#site_data_roadraceseries_${category}`).hide();
+            } else {
+                table.rows.add(data).draw();
+            }
+        }
+    
+        var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
+    
+        categories.forEach(category => {
+            var data = roadRaceSeriesData.filter(f => f.Category === category);
+            initializeDataTable(category.toLowerCase(), data);
         });
-        mensOpenRoadRaceSeriesTable.rows.add(mensOpenData).draw();
-    }
-
-        womensOpenData = roadRaceSeriesData.filter(f => f.Category == "WO");
-        if(womensOpenData.length == 0) {
-            $("#site_data_roadraceseries_womensopen").hide();
-        }else{
-        var womensOpenRoadRaceSeriesTable = $("#site_data_roadraceseries_womensopen").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        womensOpenRoadRaceSeriesTable.rows.add(womensOpenData).draw();
-    }
-
-    mv40Data = roadRaceSeriesData.filter(f => f.Category == "MV40");
-        if(mv40Data.length == 0) {
-            $("#site_data_roadraceseries_mv40").hide();
-        }else{
-        var mv40RoadRaceSeriesTable = $("#site_data_roadraceseries_mv40").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        mv40RoadRaceSeriesTable.rows.add(mv40Data).draw();
-    }
-
-    lv40Data = roadRaceSeriesData.filter(f => f.Category == "LV40");
-        if(lv40Data.length == 0) {
-            $("#site_data_roadraceseries_lv40").hide();
-        }else{
-        var lv40RoadRaceSeriesTable = $("#site_data_roadraceseries_lv40").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        lv40RoadRaceSeriesTable.rows.add(lv40Data).draw();
-    }
-
-    mv50Data = roadRaceSeriesData.filter(f => f.Category == "MV50");
-        if(mv50Data.length == 0) {
-            $("#site_data_roadraceseries_mv50").hide();
-        }else{
-        var mv50RoadRaceSeriesTable = $("#site_data_roadraceseries_mv50").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        mv50RoadRaceSeriesTable.rows.add(mv50Data).draw();
-    }
-
-    lv50Data = roadRaceSeriesData.filter(f => f.Category == "LV50");
-        if(lv50Data.length == 0) {
-            $("#site_data_roadraceseries_lv50").hide();
-        }else{
-        var lv50RoadRaceSeriesTable = $("#site_data_roadraceseries_lv50").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        lv50RoadRaceSeriesTable.rows.add(lv50Data).draw();
-    }
-
-    mv60Data = roadRaceSeriesData.filter(f => f.Category == "MV60");
-        if(mv60Data.length == 0) {
-            $("#site_data_roadraceseries_mv60").hide();
-        }else{
-        var mv60RoadRaceSeriesTable = $("#site_data_roadraceseries_mv60").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        mv60RoadRaceSeriesTable.rows.add(mv60Data).draw();
-    }
-
-    lv60Data = roadRaceSeriesData.filter(f => f.Category == "LV60");
-        if(lv60Data.length == 0) {
-            $("#site_data_roadraceseries_lv60").hide();
-        }else{
-        var lv60RoadRaceSeriesTable = $("#site_data_roadraceseries_lv60").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        lv60RoadRaceSeriesTable.rows.add(lv60Data).draw();  
-    }
-
-    mv70Data = roadRaceSeriesData.filter(f => f.Category == "MV70");
-        if(mv70Data.length == 0) {
-            $("#site_data_roadraceseries_mv70").hide();
-        }else{
-        var mv70RoadRaceSeriesTable = $("#site_data_roadraceseries_mv70").DataTable({
-            "paging": true,
-            "info": true,
-            "columns": [
-                { data: "Name" },            // 0
-                { data: "bourton10k" },      // 1
-                { data: "bristol" },         // 2
-                { data: "berkeley" },        // 3
-                { data: "bourton1mile" },    // 4
-                { data: "cleeve" },          // 5
-                { data: "midsummer" },       // 6
-                { data: "haresfield" },      // 7
-                { data: "bugatti" },         // 8
-                { data: "cheltenhamhalf" },  // 9
-                { data: "angels" },          // 10
-                { data: "stroudhalf" },      // 11
-                { data: "glosxc" },          // 12
-                { data: "total" },           // 13
-                { data: "rank" },            // 14
-                { data: "average" },         // 15
-            ],
-            "pageLength": 10, // initial page lengths
-            "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
-        });
-        mv70RoadRaceSeriesTable.rows.add(mv70Data).draw();
-    }
     </script>
 {% endif %}
