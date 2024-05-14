@@ -48,21 +48,21 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 06/05/2024,2024-05-06,<a href='https://cheltenhamharriers.co.uk/pages/brewer-games'>Brewer Games</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m",0,Track
 08/05/2023,2023-05-08,<a href='https://www.dursleyrunningclub.org.uk/berkeley-10k/'>Berkeley 10k</a>,"10km",6.2,Road
 10/05/2024,2024-05-10,<a href='https://www.bourtonroadrunners.co.uk/bourton_mile.htm'>Bourton 1 Mile</a>,"1mi",1,Road
-14/05/2023,2023-05-14,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 2</a>,"100m,&nbsp;200m,&nbsp;1500m,&nbsp;10000m",0,Track
-03/06/2024,2024-06-03,<a href='https://stroudac.co.uk/stroud-beer-race/'>Stroud Beer Race</a>,"7.2mi",7.2,Road
+13/09/2024,2024-09-13,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships Day 2</a>,"3000m,&nbsp;10000m,",0,Track
+03/06/2024,2024-06-03,<a href='https://stroudac.co.uk/events/stroud-beer-race/'>Stroud Beer Race</a>,"7.2mi",7.2,Road
 09/06/2024,2024-06-09,<a href='https://www.runningsomewhereelse.com/fairford10k/'>Fairford 10k</a>,"10km",6.2,Road
 12/06/2024,2024-06-12,<a href='https://www.cirencesterac.com/sizzler-10k'>Cirencester Park Summer Sizzler</a>,"10km",6.2,Road
 30/06/2024,2024-06-30,<a href='https://www.entrycentral.com/gloucester10k'>Gloucester 10k</a>,"10km",6.2,Road
 29/09/2024,2024-09-24,<a href='https://www.bourtonroadrunners.co.uk/hillyhalf+funrun.htm'>Bourton Half Marathon</a>,"HM",13.1,Road
-01/07/2024,2024-07-01,<a href='https://stroudac.co.uk/frampton-10k/'>Frampton 10k</a>,"10km",6.2,Road
+01/07/2024,2024-07-01,<a href='https://stroudac.co.uk/events/frampton-10k/'>Frampton 10k</a>,"10km",6.2,Road
 13/07/2023,2023-07-13,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Red Hart Blaisdon 10k</a>,"10km",6.2,Road
-21/07/2024,2024-07-21,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader</a>,"5mi",5,Road
+21/07/2023,2023-07-21,<a href='https://sites.google.com/site/roguerunsevents/home/our-events/age-grader'>The Age Grader</a>,"5mi",5,Road
 07/09/2024,2024-09-07,<a href='https://severnac.com/cranham-boundary-chase/'>Cranham Boundary Chase</a>,"5.6mi",5.6,Road
-04/08/2024,2024-08-04,<a href='https://stroudac.co.uk/standish-woodland-chase/'>Standish Woodland Chase</a>,"10mi",10,MT
+04/08/2024,2024-08-04,<a href='https://stroudac.co.uk/events/standish-woodland-chase/'>Standish Woodland Chase</a>,"10mi",10,MT
 07/08/2024,2024-08-07,<a href='https://almostathletes.co.uk/bugatti-10k.html'>Bugatti 10k</a>,"10km",6.2,Road
 25/08/2024,2024-08-25,<a href='https://sites.google.com/site/severnbridgehalfmarathon/'>Severn Bridge 10km & Half Marathon</a>,"10km,&nbsp;HM",6.2,Road
-31/08/2024,2024-08-31,<a href='https://almostathletes.co.uk/meteor-mile.html'>Meteor Mile</a>,"1mi",1,Road
-01/09/2024,2024-09-01,<a href='https://stroudac.co.uk/woodchester-park/'>Woodchester Park</a>,"8mi",8,MT
+30/08/2024,2024-08-30,<a href='https://almostathletes.co.uk/meteor-mile.html'>Meteor Mile</a>,"1mi",1,Road
+01/09/2024,2024-09-01,<a href='https://stroudac.co.uk/events/woodchester_park/'>Woodchester Park</a>,"8mi",8,MT
 08/09/2021,2021-09-08,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track and Field Championships - Day 3</a>,"1mile,&nbsp;5000m",0,Track
 10/09/2023,2023-09-10,<a href='https://www.cirencesterac.com/chedworth'>Chedworth Roman Trail</a>,"10mi",10,MT
 15/09/2024,2024-09-15,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
@@ -83,3 +83,12 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 06/07/2024,2024-07-06,<a href='https://cotswoldwayrelay.co.uk/'> Cotswold Way Relay - Enter via club rep</a>,"Various",,Trail
 25/06/2024,2024-06-25,<a href='https://www.entrycentral.com/festival/3657'>Avon AA Open Meeting </a>,"100m,&nbsp;1500m,",0,Track
 27/08/2024,2024-08-27,<a href='https://www.entrycentral.com/festival/3466'>Avon AA Open Meeting </a>,"200m,&nbsp;400m,&nbsp;800m",0,Track
+28/06/2024,2024-06-28,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=25202'>Swindon Harriers Summer Evening Open Meeting </a>,"400m,&nbsp;800m,&nbsp;1500m",0,Track
+22/05/2024,2024-05-22,<a href='https://meets.rosterathletics.com/public/competitions/details/schedule?id=24944'>Oxford City Midweek Open - May </a>,"100m,&nbsp;800m",0,Track
+19/06/2024,2024-06-19,<a href='https://oxfordcityac.com/'>Oxford City Midweek Open - June </a>,"100m,&nbsp;200m,&nbsp;300m,&nbsp;400m,&nbsp;1500m",0,Track
+17/07/2024,2024-07-17,<a href='https://oxfordcityac.com/'>Oxford City Midweek Open - July </a>,"TBC",0,Track
+14/08/2024,2024-08-14,<a href='https://oxfordcityac.com/'>Oxford City Midweek Open - August </a>,"TBC",0,Track
+11/09/2024,2024-09-11,<a href='https://oxfordcityac.com/'>Oxford City Midweek Open - September </a>,"TBC",0,Track
+06/07/2024,2024-07-06,<a href='https://entry4sports.co.uk/dash100'> Dudley and Stourbridge Centenary </a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m",0,Track
+15/05/2024,2024-05-15,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=24914'> Natasha Lewis Open - Bath AC </a>,"100m,&nbsp;300m,&nbsp;400m,&nbsp;800m,&nbsp;1500m",0,Track
+29/05/2024,2024-05-29,<a href='https://englandathletics.sport80.com/public/wizard/e/27813/home?fbclid=IwZXh0bgNhZW0CMTAAAR30--CL_wenfI_mFL_lvkNj5ep7vQ57JmqJ9LRCI7ZbrgEW-UVKj3RXdmo_aem_AdBGEox4VKSNakye-4RK9sDKLUd-KLY3VdGQX21s93Fqh33gidB1XJiIp4UmMubY2Bt0rcXeZnZ3r4o6tM2RwtRL'>Cleeve Cloud Cuckoo</a>,"5mi",5,MT
