@@ -3,27 +3,17 @@
 {% if page.datatable == "awards" %}
     <script>
      var awardsData =  {{ site.data.awards | jsonify }} ;
-     var awardsTable = $("#site_data_awards").DataTable({
-            "paging": false,
-            "info": false,
-            "searching": true,
-            "ordering": true,
-            "columns": [
-                { data: "Award" },      // 0
-                { data: "2023" },       // 1
-                { data: "2022" },       // 2
-                { data: "2021" },       // 3
-                { data: "2020" },       // 4
-                { data: "2019" },       // 5
-                { data: "2018" },       // 6
-                { data: "2017" },       // 7
-                { data: "2016" },       // 8
-                { data: "2015" },       // 9
-                { data: "2014" },       // 10
-                { data: "2013" },       // 11
-            ],
-        });
-        awardsTable.rows.add(awardsData).draw();
+     var columns = Object.keys(awardsData[0]).map(function(key) {
+      return { data: key };
+    });
+    var awardsTable = $("#site_data_awards").DataTable({
+      "paging": false,
+      "info": false,
+      "searching": true,
+      "ordering": true,
+      "columns": columns
+    });
+    awardsTable.rows.add(awardsData).draw();
     </script>
 {% elsif page.datatable == "committee" %}
     <script>
