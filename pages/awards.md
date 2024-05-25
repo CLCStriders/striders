@@ -11,12 +11,14 @@ The Club presents awards each year to recognise members achievements and contrib
 
 * Best newcomer
 * Best road athlete
+* Best track athlete
+* Best trail athlete
 * Female cross country
-* Female Strider of the year
-* Female track Strider
+* Female Strider of the year 
+* ~~Female track Strider~~ (consolidated post-2023 into Best track athlete)
 * Male cross country
 * Male Strider of the year
-* Male track Strider
+* ~~Male track Strider~~ (consolidated post-2023 into Best track athlete)
 * Most improved
 * Service to the Club
 * Special achievement
