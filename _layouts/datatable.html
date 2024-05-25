@@ -6,6 +6,7 @@
      var columns = Object.keys(awardsData[0]).map(function(key) {
       return { data: key };
     });
+    columns.reverse();
     var awardsTable = $("#site_data_awards").DataTable({
       "paging": false,
       "info": false,
