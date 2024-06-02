@@ -13,9 +13,9 @@ permalink: /raceseries
 - 28 April – Berkeley 10km
 - 10 May – Bourton 1 Mile
 - 29 May – Cleeve Cloud Cuckoo
-- July – Midsummer Open 1-Mile
-- 21 August – Haresfield 5km
+- 24 July – Midsummer Open 1-Mile
 - 7 August - Bugatti 10km
+- 21 August – Haresfield 5km
 - 1 September – Cheltenham Half
 - 15 September - Angels 10km
 - 27 October – Stroud Half
@@ -36,7 +36,7 @@ We will check the race results afterwards to see which striders have run so you 
 The scoring will work as follows: 
 If you finish first CLC man or woman you will get one point, 2nd gets 2 points, 3rd 3 points etc. your lowest 6 scores will be added together to get a total and the lowest total wins. 
 
-This scoring system will be used for the following categories: 
+This scoring system will be used for the following categories (Age as at 01/01/2024): 
 * Open male and female 
 * Vet 40-49
 * Vet 50-59
