@@ -18,7 +18,7 @@ Next to finish were a crop of Striders all completing the course between 47 and 
 Last but not least the age-defying David James showed his strength to finish inside the first 100 overall in 85th place and a time of 55:52 to win his MV70 category on the night.
 All in all, another great evening’s racing at a great local event for CLC Striders.
 
-![Stroud Beer race](/images/2024/06/2024-06-09-Stroud-beer-race.jpg "Stroud Beer race")
+![Stroud Beer race](/images/2024/06/2024-06-09-Stroud-beer-race.JPG "Stroud Beer race")
 
 ### Fairford 10k – 9th June 2024
 
