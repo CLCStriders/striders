@@ -31,4 +31,4 @@ Meanwhile, on the weekend preceding, far from home in the magnificent setting of
 
 And to complete a week of diverse events for the Striders, Kate Telford and Gary Farquharson made up half of a four-person tag team at Leeds Endure 24, completing 35 miles and 30 miles respectively.
 
-![Endure Leeds 24](/images/2024/07/2024-07-07-Endure-Leeds-24.jpg "Endure Leeds 24")
+![Endure Leeds 24](/images/2024/07/2024-07-07-Endure-Leeds-2024.jpg "Endure Leeds 24")
