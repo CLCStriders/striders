@@ -25,10 +25,10 @@ Two days later at the Blackbridge Jubilee Athletics Track in Gloucester, Joel Fr
 
 Meanwhile, on the weekend preceding, far from home in the magnificent setting of the Cairngorms National Park, Liza Bradshaw took on the Lairig Ghru Hill race, 26.5 miles and 2408ft of elevation. Despite being on her feet, running and trekking for 23 miles the day before Liza still finished first LV40 and fourth lady overall.
 
-![Lairig Ghru](/images/2024/07/2024-07-07-Lairig-Ghru.jpeg "Lairig Ghru")
+![Lairig Ghru](/images/2024/07/2024-07-07-Lairig-Ghru.jpg "Lairig Ghru")
 
 ### Leeds Endure 24
 
 And to complete a week of diverse events for the Striders, Kate Telford and Gary Farquharson made up half of a four-person tag team at Leeds Endure 24, completing 35 miles and 30 miles respectively.
 
-![Endure Leeds 24](/images/2024/07/2024-07-07-Endure-Leeds-24.jpeg "Endure Leeds 24")
+![Endure Leeds 24](/images/2024/07/2024-07-07-Endure-Leeds-24.jpg "Endure Leeds 24")
