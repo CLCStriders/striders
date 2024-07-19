@@ -4,6 +4,8 @@ layout: post
 categories:
   - Race reports
 
+---
+
 On a sometimes very wet July Saturday, CLC Striders fielded three teams in this iconic local event which sees runners competing over the entire length of the Cotswold Way across one day in 10 legs, starting early at Chipping Campden and ending in the early evening at the Cathedral in Bath. It’s always a favourite event in the club’s racing calendar and provides an opportunity for mixed-gender and mixed ability teams to be part of something truly epic in a club vest.
 
 The CLC Strider Teams turned out to be auspiciously named for the event, with the Mixed Teams being named the Thunderclaps and the Storm Clouds, and the Veterans Team being the Lightning Bolts. In the overall team results, the Thunderclaps finished 21st in their team category and the Storm Clouds were 26th – out of a total of 44 mixed teams. Meanwhile, the Veterans were 13th out 17 veteran teams.
