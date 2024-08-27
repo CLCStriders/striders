@@ -113,7 +113,7 @@ Road,1,Women,xx,5km,5000,U20,19,,,99999,,,99999999
 Road,1,Women,xx,5km,5000,Senior,34,Hilary Mott,17:51,1071,White Horse,19/08/2014,20140819
 Road,1,Women,xx,5km,5000,35-39,39,Laura Kent,18:12,1092,White Horse,20/08/2009,20090820
 Road,1,Women,xx,5km,5000,40-44,44,Helen Knight,18:34,1114,Hereford,05/04/2023,20230405
-Road,1,Women,xx,5km,5000,45-49,49,Amanda Steer,20:46,1246,Pomphrey,30/04/2019,20190430
+Road,1,Women,xx,5km,5000,45-49,49,Helen Knight,19:39,1179,Haresfield,21/08/2024,20240821
 Road,1,Women,xx,5km,5000,50-54,54,Amelia Mullins,22:46,1366,Haresfield,18/06/2023,20230618
 Road,1,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13,1513,White Horse,18/06/2009,20090618
 Road,1,Women,xx,5km,5000,60-64,64,Dawn Addinall,24:13,1453,White Horse,15/07/2010,20100715
@@ -143,7 +143,7 @@ Road,1,Women,xx,10km,10000,U20,19,,,99999,,,99999999
 Road,1,Women,xx,10km,10000,Senior,34,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
 Road,1,Women,xx,10km,10000,35-39,39,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
 Road,1,Women,xx,10km,10000,40-44,44,Helen Knight,38:23,2303,Bourton,25/02/2024,20240225
-Road,1,Women,xx,10km,10000,45-49,49,Amanda Steer,41:05,2465,Bourton,22/02/2015,20150222
+Road,1,Women,xx,10km,10000,45-49,49,Helen Knight,40:57,2457,Bugatti,07/08/2024,20240807
 Road,1,Women,xx,10km,10000,50-54,54,Amanda Steer,43:26.7,2606.7,Bourton,23/02/2020,20200223
 Road,1,Women,xx,10km,10000,55-59,59,Dawn Addinall,48:31,2911,Moreton-in-Marsh,11/04/2010,20100411
 Road,1,Women,xx,10km,10000,60-64,64,Sylvia Koster,52:31,3151,Beacon,06/09/2009,20090906
@@ -574,6 +574,8 @@ Track,3,Women,xx,10000m,10000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,10000m,10000,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,50000,50000,Senior,34,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
 Track,3,Women,xx,50000,50000,40-44,44,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
+Track,3,Women,xx,100000,100000,Senior,34,Helen Knight,9:03:38,32618,"Blackbridge Jubilee Track, Gloucester",24/08/2024,20240824
+Track,3,Women,xx,100000,100000,45-49,49,Helen Knight,9:03:38,32618,"Blackbridge Jubilee Track, Gloucester",24/08/2024,20240824
 Track,3,Women,xx,4x100m&nbsp;relay,11100,U20,19,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
 Track,3,Women,xx,4x100m&nbsp;relay,11100,35-39,39,,,99999,,,99999999
