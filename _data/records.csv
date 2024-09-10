@@ -113,7 +113,7 @@ Road,1,Women,xx,5km,5000,U20,19,,,99999,,,99999999
 Road,1,Women,xx,5km,5000,Senior,34,Hilary Mott,17:51,1071,White Horse,19/08/2014,20140819
 Road,1,Women,xx,5km,5000,35-39,39,Laura Kent,18:12,1092,White Horse,20/08/2009,20090820
 Road,1,Women,xx,5km,5000,40-44,44,Helen Knight,18:34,1114,Hereford,05/04/2023,20230405
-Road,1,Women,xx,5km,5000,45-49,49,Amanda Steer,20:46,1246,Pomphrey,30/04/2019,20190430
+Road,1,Women,xx,5km,5000,45-49,49,Helen Knight,19:39,1179,Haresfield,21/08/2024,20240821
 Road,1,Women,xx,5km,5000,50-54,54,Amelia Mullins,22:46,1366,Haresfield,18/06/2023,20230618
 Road,1,Women,xx,5km,5000,55-59,59,Dawn Addinall,25:13,1513,White Horse,18/06/2009,20090618
 Road,1,Women,xx,5km,5000,60-64,64,Dawn Addinall,24:13,1453,White Horse,15/07/2010,20100715
@@ -143,7 +143,7 @@ Road,1,Women,xx,10km,10000,U20,19,,,99999,,,99999999
 Road,1,Women,xx,10km,10000,Senior,34,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
 Road,1,Women,xx,10km,10000,35-39,39,Laura Kent,37:34,2254,Bourton,28/02/2010,20100228
 Road,1,Women,xx,10km,10000,40-44,44,Helen Knight,38:23,2303,Bourton,25/02/2024,20240225
-Road,1,Women,xx,10km,10000,45-49,49,Amanda Steer,41:05,2465,Bourton,22/02/2015,20150222
+Road,1,Women,xx,10km,10000,45-49,49,Helen Knight,40:57,2457,Bugatti,07/08/2024,20240807
 Road,1,Women,xx,10km,10000,50-54,54,Amanda Steer,43:26.7,2606.7,Bourton,23/02/2020,20200223
 Road,1,Women,xx,10km,10000,55-59,59,Dawn Addinall,48:31,2911,Moreton-in-Marsh,11/04/2010,20100411
 Road,1,Women,xx,10km,10000,60-64,64,Sylvia Koster,52:31,3151,Beacon,06/09/2009,20090906
@@ -214,7 +214,7 @@ Multi-Terrain,2,Men,xy,50mi Ultra,80467,Senior,34,Rob Bircher,9:49:32,35372,Kiel
 Multi-Terrain,2,Men,xy,50mi Ultra,80467,50-54,54,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
 Multi-Terrain,2,Men,xy,100km Ultra,100000,Senior,34,Rob Bircher,15:22:54,55374,"Steel City, Sheffield (60m)",22/04/2023,20230422
 Multi-Terrain,2,Men,xy,100km Ultra,100000,50-54,54,Rob Bircher,15:22:54,55374,"Steel City, Sheffield (60m)",22/04/2023,20230422
-Multi-Terrain,2,Men,xy,100mi Ultra,160934,Senior,34,Rob Bircher,29:18:35,105515,Cotswold Way Century (102mi),18/09/2021,20210918
+Multi-Terrain,2,Men,xy,100mi Ultra,160934,Senior,34,Rich Elsworthy,23:46:31,85591,Lakeland 100 (105mi),26/07/2024,20240726
 Multi-Terrain,2,Men,xy,100mi Ultra,160934,50-54,54,Rob Bircher,29:18:35,105515,Cotswold Way Century (102mi),18/09/2021,20210918
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,Senior,34,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:23,5243,Forest of Dean,20/03/2022,20220320
@@ -230,6 +230,8 @@ Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Ra
 Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,Senior,34,Liza Bradshaw,32:45:44,117594,Lakeland 100 (105mi),26/07/2024,20240726
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,40-44,44,Liza Bradshaw,32:45:44,117594,Lakeland 100 (105mi),26/07/2024,20240726
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
@@ -329,7 +331,7 @@ Track,3,Men,xy,Mile,1609,50-54,54,Charles Goodwin,5:21.7,321.7,"Blackbridge Jubi
 Track,3,Men,xy,Mile,1609,55-59,59,JJ Willson,5:36.3,336.3,Prince of Wales Stadium,04/07/2018,20180704
 Track,3,Men,xy,Mile,1609,60-64,64,JJ Willson,5:49.0,349,"Blackbridge Jubilee Track, Gloucester",24/06/2022,20220024
 Track,3,Men,xy,Mile,1609,65-69,69,,,99999,,,99999999
-Track,3,Men,xy,Mile,1609,70-74,74,,,99999,,,99999999
+Track,3,Men,xy,Mile,1609,70-74,74,David James,7:17.26,437,Blackbridge Jubilee Track,24/07/2024,20240727
 Track,3,Men,xy,3000m,3000,U20,19,George Parker,12:32.9,752.9,Prince of Wales Stadium,02/07/2014,20140702
 Track,3,Men,xy,3000m,3000,Senior,34,Will Ferguson,8:57.2,537.2,Yate,03/04/2011,20110403
 Track,3,Men,xy,3000m,3000,35-39,39,Chris Driskell,10:24.2,624.2,Prince of Wales Stadium,02/05/2016,20160502
@@ -572,6 +574,8 @@ Track,3,Women,xx,10000m,10000,65-69,69,,,99999,,,99999999
 Track,3,Women,xx,10000m,10000,70-74,74,,,99999,,,99999999
 Track,3,Women,xx,50000,50000,Senior,34,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
 Track,3,Women,xx,50000,50000,40-44,44,Helen Knight,3:58:13,14293,"Blackbridge Jubilee Track, Gloucester",08/07/2023,20230708
+Track,3,Women,xx,100000,100000,Senior,34,Helen Knight,9:03:38,32618,"Blackbridge Jubilee Track, Gloucester",24/08/2024,20240824
+Track,3,Women,xx,100000,100000,45-49,49,Helen Knight,9:03:38,32618,"Blackbridge Jubilee Track, Gloucester",24/08/2024,20240824
 Track,3,Women,xx,4x100m&nbsp;relay,11100,U20,19,,,99999,,,99999999
 Track,3,Women,xx,4x100m&nbsp;relay,11100,Senior,34,"Rachel Vines, Amelia Mullins, Helen Howes, Nicola Weager",71.8,71.8,Prince of Wales Stadium,07/09/2018,20180907
 Track,3,Women,xx,4x100m&nbsp;relay,11100,35-39,39,,,99999,,,99999999
