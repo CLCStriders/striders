@@ -112,7 +112,7 @@ Note that the CLC Striders Running Club do not endorse or recommend any commerci
 <tr>
 <td>Discount Offered to Club Members:</td>
 <td><br />
-10% discount (some exclusion may apply) - view the pricing list on the website for prices and to book
+10% discount (some exclusion may apply) - view the pricing list on the website for prices and to book</td>
 </tr>
 <tr>
 <td>Company Info:</td>
