@@ -203,11 +203,11 @@ Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Iain Porter,1:21:58,49
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Iain Porter,1:21:58,4918,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Rob Bircher,2:07:46,7666,Newbold Comyn,06/10/2022,20221006
 Multi-Terrain,2,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Ed Thompson,1:56:17,6977,Forest of Dean,20/03/2022,20220320
-Multi-Terrain,2,Men,xy,Marathon,42188,Senior,34,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
+Multi-Terrain,2,Men,xy,Marathon,42188,Senior,34,Gavin Jerman,4:16:11,15371,Kielder,06/10/2024,20241006
 Multi-Terrain,2,Men,xy,Marathon,42188,35-39,39,Iain Porter,5:42:03,20523,Snowdonia,02/04/2022,20220422
 Multi-Terrain,2,Men,xy,Marathon,42188,50-54,54,Rob Bircher,4:31:54,16314,Walton-on-Thames,28/05/2022,20220528
-Multi-Terrain,2,Men,xy,Marathon,42188,55-59,54,Gavin Jerman,4:47:52,17272,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Men,xy,Marathon,42188,60-64,54,Gavin Jerman,5:22:27,19347,Illmington,05/05/2024,20240505
+Multi-Terrain,2,Men,xy,Marathon,42188,55-59,59,Gavin Jerman,4:47:52,17272,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Men,xy,Marathon,42188,60-64,64,Gavin Jerman,4:16:11,15371,Kielder,06/10/2024,20241006
 Multi-Terrain,2,Men,xy,50k Ultra,50000,Senior,34,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
 Multi-Terrain,2,Men,xy,50k Ultra,50000,55-59,59,Gavin Jerman,5:15:12,18912,Sharpness 50k Canal Race,12/06/2022,20220612
 Multi-Terrain,2,Men,xy,50mi Ultra,80467,Senior,34,Rob Bircher,9:49:32,35372,Kielder Forest (82km),02/04/2022,20220422
@@ -230,8 +230,9 @@ Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Ra
 Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
-Multi-Terrain,2,Women,xx,100mi Ultra,160934,Senior,34,Liza Bradshaw,32:45:44,117594,Lakeland 100 (105mi),26/07/2024,20240726
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,Senior,34,Helen Knight,24:54:33,89673,Cotswold Way Century,14/09/2024,20240914
 Multi-Terrain,2,Women,xx,100mi Ultra,160934,40-44,44,Liza Bradshaw,32:45:44,117594,Lakeland 100 (105mi),26/07/2024,20240726
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,45-49,49,Helen Knight,24:54:33,89673,Cotswold Way Century,14/09/2024,20240914
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
@@ -651,5 +652,5 @@ parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park, Chelte
 parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,Congleton,18/03/2023,20230318
 parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,Berkeley Green,27/08/2022,20220827
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park, Cheltenham",08/04/2023,20230408
-parkrun,5,Women,xx,5km,5000,45-49,49,Amelia Mullins,23:22,1402,"Pittville Park, Cheltenham",23/04/2022,20220423
-parkrun,5,Women,xx,5km,5000,50-54,54,Amelia Mullins,23:19,1399,"Pittville Park, Cheltenham",27/05/2023,20230527
+parkrun,5,Women,xx,5km,5000,45-49,49,Amanda Steer,21:13,1273,"Pittville Park, Cheltenham",13/04/2029,20190413
+parkrun,5,Women,xx,5km,5000,50-54,54,Amanda Steer,22:38,1358,"Pittville Park, Cheltenham",04/01/2020,20200104
