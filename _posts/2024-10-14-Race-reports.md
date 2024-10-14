@@ -20,7 +20,7 @@ Although official team results are yet to be posted, our own calculations place 
 
 ![Glos League XC Yate ladies](/images/2024/10/2024-10-14-Yate-Glos-League-XC-ladies.jpg "Glos League XC Yate ladies")
 
-![Glos League XC Yate mens](/images/2024/10/2024-10-14-Yate-Glos-League-XC-mens.jpg "Glos League XC Yate mens")
+![Glos League XC Yate mens](/images/2024/10/2024-10-14-Yate-Glos-League-XC-mens.JPG "Glos League XC Yate mens")
 
 ### Leeds Abbey Dash - Sunday 13 October 2024
 
