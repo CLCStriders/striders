@@ -2,7 +2,7 @@ Name,Category,bourton10k,bristol,berkeley,bourton1mile,cleeve,midsummer,haresfie
 Rob Green,MO,1,,,1,1,,,,1,1,,,5,,1
 Rob Green,MV40,1,,,1,1,,,,1,1,,,5,,1
 Joe Willgoss,MO,2,,,,,,1,2,3,,,,8,,2
-Rob Barnett,MO,3,,,,,,,,2,,,,5,,2.5
+Rob Barnett,MO,3,,,,,,,,2,,1,,6,,2
 Sam Baylis,MO,4,2,,,,,,,,,,,6,,3
 Tom Burgess,MO,5,,,,,,,,5,,,,10,,5
 Jon Comer,MO,6,,,,,,,,4,,,,10,,5
@@ -11,8 +11,8 @@ Jon Howes,MV40,2,,,,,,,,,,,,2,,2
 Richard Aarons,MO,8,,2,,,,3,3,,2,,,18,,3.6
 Richard Aarons,MV40,3,,1,,,,2,1,,2,,,9,,1.75
 Alexander Doherty,MO,9,,,,8,,,,,,,,17,,8.5
-Paul Northup,MO,10,5,4,7,7,,,,,3,,,36,1,6
-Paul Northup,MV50,1,1,1,1,2,,,,,1,,,7,1,1.16
+Paul Northup,MO,10,5,4,7,7,,,,,3,3,,39,1,5.5
+Paul Northup,MV50,1,1,1,1,2,,,,,1,1,,8,1,1.14
 Joel Freeland,MO,11,4,3,4,,2,,,13,,,,37,2,6.16
 Joel Freeland,MV40,4,1,2,2,,1,,,5,,,,15,1,2.5
 Nick Ledwold,MO,12,,,5,6,,,,,,,,23,,7.66
@@ -22,8 +22,8 @@ Nigel Bailey,MO,14,,,,,,,7,,,,,21,,10.5
 Nigel Bailey,MV50,3,,,,,,,4,,,,,7,,3.5
 Tim Brock,MO,15,,,,,,,5,,,,,20,,10
 Tim Brock,MV50,4,,,,,,,2,,,,,6,,3
-Colin Upton,MO,16,,7,10,11,,,,15,5,,,64,4,10.66
-Colin Upton,MV50,5,,3,3,3,,,,1,2,,,17,2,2.83
+Colin Upton,MO,16,,7,10,11,,,,15,5,5,,69,4,9.85
+Colin Upton,MV50,5,,3,3,3,,,,1,2,2,,19,2,2.71
 Sam Howe,MO,17,,,,,,,,,,,,17,,17
 Adam Hockaday,MO,18,,,,,,,,,,,,18,,18
 Adam Hockaday,MV40,5,,,,,,,,,,,,5,,5
@@ -73,7 +73,7 @@ Nikki Smith,LO,,,,,,,,5,,,,,5,,5
 Nikki Smith,FV50,,,,,,,,1,,,,,1,,1
 Will Pearce,MO,,,,,,,2,,6,,,,8,,4
 Will Pearce,MV40,,,,,,,1,,2,,,,3,,1.5
-Andy Richardson,MO,,,,,,,4,,8,,,,12,,6
+Andy Richardson,MO,,,,,,,4,,8,,4,,16,,5.33
 Liam Richardson,MO,,,,,,,,,7,,,,7,,7
 Sheng Peng,MO,,,,,,,,,9,,,,9,,9
 Sheng Peng,MV40,,,,,,,,,3,,,,3,,3
@@ -83,4 +83,5 @@ Jack Wilde,MO,,,,,,,,,14,,,,14,,14
 Helen Howes,FO,,,,,,,,,3,,,,3,,3
 Helen Howes,FV40,,,,,,,,,3,,,,3,,3
 Sam Templeton,FO,,,,,,,,,4,,,,4,,4
-Heather Ip,FO,,,,,,,,,5,,,,5,,5
+Heather Ip,FO,,,,,,,,,5,,1,,6,,3
+Tom Fletcher,MO,,,,,,,,,,,2,,2,,2
