@@ -265,21 +265,28 @@
                 "pageLength": 10, // initial page lengths
                 "order": [[14, 'asc'], [15, 'asc'], [13, 'asc']], // initial sort - rank, average, total
                 "columnDefs": [
-                {
-                    "type": "num",
-                    "targets": "_all",
-                    "render": function (data, type, row, meta) {
-                        return data === "" ? '\uFFFF' : data;
+                    {
+                        "targets": 14,  // Rank column
+                        "render": function (data, type, row) {
+                            // Use Infinity for null/empty values when sorting so they appear last
+                            return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                        }
+                    },
+                    {
+                        "type": "num",
+                        "targets": "_all",
+                        "render": function (data, type, row, meta) {
+                            return data === "" ? '\uFFFF' : data;
+                        }
+                    },
+                    {
+                        "type": "string",
+                        "targets": "_all",
+                        "render": function (data, type, row, meta) {
+                            return data === "" ? '\uFFFF' : data;
+                        }
                     }
-                },
-                {
-                    "type": "string",
-                    "targets": "_all",
-                    "render": function (data, type, row, meta) {
-                        return data === "" ? '\uFFFF' : data;
-                    }
-                }
-            ],
+                ],
             });
     
             if (data.length === 0) {
@@ -295,5 +302,5 @@
             var data = raceSeriesData.filter(f => f.Category === category);
             initializeDataTable(category, data);
         });
-    </script>
+    </script>    
 {% endif %}
