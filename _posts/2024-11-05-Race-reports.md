@@ -19,12 +19,12 @@ The men then completed the racing for the day. First Strider home, in 34:22 and 
 
 The CLC Men were the 7th A team on the day, with the B team in 17th. Overall, the A team lie in 8th place in the league, and the B team have moved up off the bottom! In the Masters, the men have moved into 6th place after two races.
 
-![Gloucestershire XC Cirencester ladies](/images/2024/11/2024-11-05-2024-11-05-Cirencester-XC-ladies.jpg "Gloucestershire XC Cirencester ladies")
+![Gloucestershire XC Cirencester ladies](/images/2024/11/2024-11-05-Cirencester-XC-ladies.jpg "Gloucestershire XC Cirencester ladies")
 
 CLC Striders ladies cross country team at Cirencester Park
 From left to right: Helen Knight, Hifsa O’Kelly, Fiona Brady-Miller, Nicola weaver, Stephanie Parker, Amelia Mullins, Rebecca Reynolds, Laura McEvoy and Kate Telford
 
-![Gloucestershire XC Cirencester mens](/images/2024/11/2024-11-05-2024-11-05-Cirencester-XC-mens.jpg "Gloucestershire XC Cirencester mens")
+![Gloucestershire XC Cirencester mens](/images/2024/11/2024-11-05-Cirencester-XC-mens.jpg "Gloucestershire XC Cirencester mens")
 
 CLC Striders mens cross country team at Cirencester Park 
 Back row from left to right: Gary Farquharson, Rich Elsworthy, Gavin Woods, Chris Driskell, Tim Brock, Nick Ledwold, Rob Green, Max Harrison-Tosatto, Joe Willgoss, Liam Richardson, Richard Aarons and Luke Hunter
@@ -40,11 +40,11 @@ After saving his energy in the cross-country the day before, Rob Green completed
 
 Next home was Tom Burgess, surprising himself with a confidence-boosting run of 28:20 for 16th place overall after a long period of struggling with form and injury. Paul Northup registered a solid 32:20 for 5th place in his V55 category, ducking just inside the top 50 finishers in the men’s race for 48th place. Not far behind, Joel Freeland was next home in 32:42, after landing back in the UK the night before from a family holiday. The only CLC Striders lady racing, Rhianna Evans, clocked 35:40, MV60 Mike Speke finished in 38:14 and Andrew Danson in 38:17.
 
-![GF5](/images/2024/11/2024-11-05-2024-11-05-GF5.jpg "GF5 RG")
+![GF5](/images/2024/11/2024-11-05-GF5.jpg "GF5 RG")
 
 Rob Green powers home in first place at the Guy Fawkes Five
 
-![GF5](/images/2024/11/2024-11-05-2024-11-05-GF5-2.jpg "GF5")
+![GF5](/images/2024/11/2024-11-05-GF5-2.jpg "GF5")
 
 The first four CLC Striders finishers at the Guy Fawkes Five, from left to right: Paul Northup, Tom Burgess, Rob Green and Joel Freeland
 
