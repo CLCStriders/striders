@@ -30,7 +30,7 @@ Entries for the Boddington 10 are currently closed.
 
 ![Boddington 10 graphic](/assets/boddington/Boddington-10-graphic.jpeg "Boddington 10 graphic")
 
-SAVE THE DATE - Sunday 26 January 2025
+### SAVE THE DATE - Sunday 26 January 2025
 
 <!--
 
