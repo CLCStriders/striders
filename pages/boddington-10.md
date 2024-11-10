@@ -129,7 +129,7 @@ The first 50 drivers approaching from Cheltenham will be directed to park in Sta
 
 We would suggest that runners allow plenty of time to walk from the car park as some of our car parks are a 10 minute walk from Race HQ. Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
 
-![Car park plan](/assets/boddington/2024-01-15-Boddington-10-parking.jpg "Boddington 10 parking plan"){:width="500px" height="500px"}
+![Car park plan](/assets/boddington/2024-01-15-Boddington-10-parking.jpg "Boddington 10 parking plan"){:width="750px" height="500px"}
 
 --- 
 
