@@ -71,16 +71,16 @@ The race will be held on **Sunday 26 January 2025**, with a start time of **0900
  
 #### Quick Reference Guide
  
-Here are the key points (additional details outlined below),
+Here are the key points (additional details outlined below):
  
 * The UK Athletics licence number is TBC 
 * If you are unable to race, please let us know so we can offer your place to someone else
 * Please collect your race number and timing chip from Race HQ between 0745 and 0830 – this will be at The Gloucester Old Spot (Postcode: GL51 9SY). Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race. 
 * When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time. 
-* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting these to your shoes will be at Race HQ. It is important that you wear this as we be relying on chip timing only for the results. Without this, you will not get a result. 
+* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result. 
 * Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible
 * Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available.
-* A baggage drop will be available but will not supervised so use this at your own risk and do not leave valuables.
+* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables.
 * The A4019 Tewkesbury Road is very busy, even on a Sunday morning so please do your warm up on Boddington Lane. A safe route will be marked from the Race HQ to the start line please use the crossing point provided for your own safety.
 * The race briefing will take place at the start line at 0850.
 * Race starts at 0900 at the top of Boddington Lane
@@ -95,7 +95,9 @@ Here are the key points (additional details outlined below),
  
 #### Course Description
  
-The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does 4 laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
+The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does four (4) laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
+
+**Please note:** There is a short 200m out- and- back section on the 1st lap only.
 
 The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
 
@@ -113,9 +115,9 @@ To help make your race day experience the best it can be, please read the helpfu
  
 If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
 
-As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited with the exception of bon-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
+As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited - with the exception of bon-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
 
-Please use Boddington Lane for your warm up runs. The road past the Elmstone Business Park is very busy even on a Sunday morning and not a safe location for running.
+**Please use Boddington Lane for your warm up runs**. The road past the Elmstone Business Park is very busy, even on a Sunday morning, and not a safe location for running.
 
 Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in!
  
@@ -137,13 +139,13 @@ We would suggest that runners allow plenty of time to walk from the car park as 
  
 ##### At the start
  
-The race briefing will be held at 0850 at the start line.
+The race briefing will be held at 0850 at the start line on Boddington Lane.
  
 The race will start at 0900 and will be run under UK Athletics rules. 
  
 ##### The race itself
  
-The race consists of start and finish sections of around 1 mile and four (4) anti-clockwise laps of roughly two miles each, with an out-and-back section on Lap One only. Runners are strongly advised to run on the left-hand side of the road at all times, apart from two short sections near the start and finish and the out-and-back section, where you will be directed to run on the right-hand side, following the direction of marshals.
+The race consists of an out- and- back section with four (4) anti-clockwise laps of roughly two miles each with a short (200m) out- and- back section on the 1st lap only. Runners are strongly advised to run on the left-hand side of the road at all times, apart from two short sections near the start and finish, where you will be directed to run on the right-hand side, and follow the direction of marshals. 
 
 There will be a large number of CLC Striders members out marshaling on the course. They will be there to guide you around the course. We have also placed a number of directional arrows and mile markers, too. Please note that marshals are not permitted to direct traffic, as road users have priority.
 
@@ -151,7 +153,7 @@ There will be one water station at Barrow at approximately 2, 4, 6 and 8 miles. 
  
 ##### At the Finish
  
-After you cross the finish line, you will notice a group of timekeepers. Please do not distract the them, as they need to concentrate and ensure everyone gets the correct result. 
+After you cross the finish line, you will notice a group of timekeepers. Please do not distract them, as they need to concentrate and ensure everyone gets their correct result. 
  
 If you drop out of the race, please notify one of the officials at the finish line so that we know you haven’t got lost out on the course. 
  
@@ -165,9 +167,9 @@ Soon after the race, we will post them on the [CLC Striders website](https://clc
 
 ##### Prizes 
 
-Prizes will be awarded for the 1st, 2nd and 3rd placed men and women an the 1st placed men and women in the following age categories:  MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75.
+Prizes will be awarded for the 1st, 2nd and 3rd placed men and women and the 1st placed men and women in the following age categories:  MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75.
 
-This year we will also be offering a team prize. This will be awarded to the best placed UKA affiliated club consisting of 2 men and 2 women.
+This year, we will also be offering a team prize. This will be awarded to the best placed UKA affiliated club consisting of 2 men and 2 women.
 
 ###### Prize structure
 
@@ -184,17 +186,19 @@ Up & Running vouchers will be awarded as follows:
  
 Please join us at the Clavell & Hind Brewery Tap for prize giving at 11.15. All competitors will receive a free drink.
 
-The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly after the race for refreshments and food. Please do consider supporting these local independent businesses, without whom we would not be able to run the race. Please note that booking is advised if you would like to have lunch at the Gloucester Old Spot. (Note from the Race Director “I can say from personal experience that the food and drink at both these venues is outstanding!”)
+The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly after the race for refreshments and food. Please do consider supporting these local independent businesses, without whom we would not be able to run the race. Please note that booking is advised if you would like to have lunch at the Gloucester Old Spot. 
+
+(Note from the Race Director “I can say from personal experience that the food and drink at both these venues is outstanding!”)
 
 ##### Event Cancellation
  
-If there comes a situation, such as poor weather conditions, where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
+If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
 -->
  
 #### Official race photos
  
-Dig Deep Race Photography will be taking official race photos during the event, they will be available via their [website](https://linktr.ee/digdeepracephotography).
+Dig Deep Race Photography will be taking official race photos during the event. They will be available via their [website](https://linktr.ee/digdeepracephotography).
 
 [2024 race photos](https://photos.app.goo.gl/c2kJ9p1RtZAPbg8SA)
  
@@ -214,14 +218,14 @@ The [2024 Boddington 10 results](/assets/boddington/2024-01-28-Boddington-10-res
  
 #### Acknowledgements
  
-Boddington Estates Ltd, Cheltenham - for agreeing to adjust their animal feeding schedule to accommodate the race.
+* Boddington Estates Ltd, Cheltenham - For agreeing to adjust their animal feeding schedule to accommodate the race.
 
-[CLC Health & Fitness Centre](https://fitness.cheltladiescollege.org/) friends and members of CLC Striders.
+* [CLC Health & Fitness Centre](https://fitness.cheltladiescollege.org/) - Friends and members of CLC Striders.
 
-[Robert Hitchins](https://www.robert-hitchins.co.uk/) Cheltenham – for allowing use of their property entrance for the race finish.
+* [Robert Hitchins](https://www.robert-hitchins.co.uk/) – For allowing use of their property entrance for the race finish.
 
-The Gloucester Old Spot (https://www.thegloucesteroldspot.co.uk/), Cheltenham – for providing our Race HQ and parking.
+* The Gloucester Old Spot (https://www.thegloucesteroldspot.co.uk/), Cheltenham – For providing our Race HQ and parking.
 
-[Clavell and Hind](https://www.clavellandhind.co.uk/) Cheltenham., [Cellar Supplies](http://www.cellarsupplies.co.uk/), [In2Print[(http://www.in2print.com/), [Journey Hospitality](https://journey.travel/) and [Phoenix Mechanical Engineers](http://www.phoenixmechanical.co.uk/) for providing parking.
+* [Clavell and Hind](https://www.clavellandhind.co.uk/) Cheltenham., [Cellar Supplies](http://www.cellarsupplies.co.uk/), [In2Print[(http://www.in2print.com/), [Journey Hospitality](https://journey.travel/) and [Phoenix Mechanical Engineers](http://www.phoenixmechanical.co.uk/) for providing parking.
 
-Up and Running (https://www.upandrunning.co.uk/) Cheltenham – for providing the race numbers.
+* Up and Running (https://www.upandrunning.co.uk/) Cheltenham – for providing the race numbers.
