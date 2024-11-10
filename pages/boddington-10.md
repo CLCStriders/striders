@@ -28,7 +28,7 @@ Entries for the Boddington 10 are currently closed.
 </div>
 {% endif %}
 
-![Boddington 10 graphic](/assets/boddington/boddington10-2025-header.jpeg "Boddington 10 graphic")
+![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
 
 
 <p align="center">
