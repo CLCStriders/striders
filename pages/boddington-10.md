@@ -31,7 +31,9 @@ Entries for the Boddington 10 are currently closed.
 ![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
 
 
-#### Boddington 10 2025 will take place on Sunday 26 January 2025
+#### Save the date
+
+Boddington 10 2025 will take place on Sunday 26 January 2025
 
 ---
 
