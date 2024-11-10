@@ -43,7 +43,7 @@ Entries open at 1200 on Sunday 24 November 2025
 
 ---
 
-
+<!--
 
 CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 2 January 2025**.
  
@@ -190,7 +190,7 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If there comes a situation, such as poor weather conditions, where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
-
+-->
  
 #### Official race photos
  
