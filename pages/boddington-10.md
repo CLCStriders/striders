@@ -53,7 +53,7 @@ CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mi
 This is an exciting road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
- <!--
+<!--
 Here's some helpful information below to make your race day experience the best it can be.
  
 ---
