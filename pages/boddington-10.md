@@ -28,7 +28,7 @@ Entries for the Boddington 10 are currently closed.
 </div>
 {% endif %}
  {% if page.state == "opensoon" %}
-<div class="alert alert-info mb-0" role="alert">
+<div class="alert alert-info" role="alert" style="padding: 0;">
 Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 2025
 </div>
 {% endif %}
