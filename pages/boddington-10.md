@@ -58,6 +58,7 @@ Here's some helpful information below to make your race day experience the best 
  
 ---
 
+<!--
 ##### Race HQ
  
 Race Headquarters is located OUTSIDE The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
@@ -197,7 +198,7 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
- 
+ -->
 #### Official race photos
  
 Dig Deep Race Photography will be taking official race photos during the event. They will be available via their [website](https://linktr.ee/digdeepracephotography).
