@@ -44,7 +44,7 @@ Boddington 10 2025 will take place at 9am on Sunday 26 January 2025
 
 #### Entries 
 
-Entries open at 1200 on Sunday 24 November 2025
+Entries open at 1200 on Sunday 24 November 2025 [via EntryCentral]({{ page.signUpUrl }})
 
 ---
 
