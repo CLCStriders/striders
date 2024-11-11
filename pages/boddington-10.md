@@ -7,8 +7,8 @@ permalink: /boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
 routeMap  : /assets/boddington/boddington-10-mile-route-map.pdf 
-# open / full / closed
-state: closed
+# open / full / closed / opensoon
+state: opensoon
 
 ---
 
@@ -27,6 +27,11 @@ Unfortunately places in the {{ page.signUpYear }} Boddington 10 have sold out!
 Entries for the Boddington 10 are currently closed.
 </div>
 {% endif %}
+ {% if page.state == "opensoon" %}
+<div class=" alert-info" role="alert">
+Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 2025
+</div>
+{% endif %}
 
 ![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
 
@@ -42,8 +47,6 @@ Boddington 10 2025 will take place on Sunday 26 January 2025
 Entries open at 1200 on Sunday 24 November 2025
 
 ---
-
-<!--
 
 CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 2 January 2025**.
  
@@ -194,7 +197,6 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
--->
  
 #### Official race photos
  
