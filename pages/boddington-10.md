@@ -53,12 +53,12 @@ CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mi
 This is an exciting road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
- 
+ <!--
 Here's some helpful information below to make your race day experience the best it can be.
  
 ---
 
-<!--
+
 ##### Race HQ
  
 Race Headquarters is located OUTSIDE The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
@@ -199,6 +199,9 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
  -->
+
+ ---
+
 #### Official race photos
  
 Dig Deep Race Photography will be taking official race photos during the event. They will be available via their [website](https://linktr.ee/digdeepracephotography).
