@@ -48,7 +48,7 @@ Entries open at 1200 on Sunday 24 November 2025
 
 ---
 
-CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 2 January 2025**.
+CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**.
  
 This is an exciting road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
