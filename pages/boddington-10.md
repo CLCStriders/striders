@@ -6,7 +6,7 @@ description: CLC Striders Boddington 10 mile race - information and results page
 permalink: /boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
-routeMap  : /assets/boddington/boddington-10-mile-route-map.pdf 
+routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
 state: opensoon
 
@@ -38,7 +38,7 @@ Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 
 
 #### Save the date
 
-Boddington 10 2025 will take place on Sunday 26 January 2025
+Boddington 10 2025 will take place at 9am on Sunday 26 January 2025
 
 ---
 
