@@ -50,7 +50,7 @@ Entries open at 1200 on Sunday 24 November 2025
 
 CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**.
  
-This is an exciting road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
+This is an exciting road race for Gloucestershire established in 2024. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
@@ -99,6 +99,7 @@ Here are the key points (additional details outlined below):
 * Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch. The food at both venues is outstanding
 
 ---
+-->
  
 #### Course Description
  
@@ -113,8 +114,13 @@ The entire route will be clearly signed and marshalled. Please note that road cl
 You will be able to review the route for the Boddington 10 race on [Strava](https://strava.app.link/kOtLaSvNyEb)
  
 Route Map: [Map]({{ page.routeMap }})
- 
+
+#### Cut off time
+
+To ensure an enjoyable race experience for all runners and in the interest of local residents on the looped course, we will need to operate a cut off time. Please do not enter the race if you do not think a finish time of 2 hours or below for 10 miles is achievable. A 2 hour finish time would require an average pace of 12 min/mile or 7:27 min/km. Any runners entering the final loop (at 7.4 miles in) not on pace for a 2 hour finish will be asked to withdraw from the race as our marshalls will no longer be available out on the course.
+
 ---
+<!--
  
 #### Race day information
  
