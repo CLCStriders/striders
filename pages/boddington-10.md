@@ -54,6 +54,8 @@ This is an exciting road race for Gloucestershire established in 2024. A flat an
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
+The event licence number for this year's edition of the Boddington 10 is #28542.
+
 ---
 
 <!--
@@ -80,7 +82,7 @@ The race will be held on **Sunday 26 January 2025**, with a start time of **0900
  
 Here are the key points (additional details outlined below):
  
-* The UK Athletics licence number is TBC 
+* The UK Athletics licence number is #28542 
 * If you are unable to race, please let us know so we can offer your place to someone else
 * Please collect your race number and timing chip from Race HQ between 0745 and 0830 – this will be at The Gloucester Old Spot (Postcode: GL51 9SY). Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race. 
 * When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time. 
