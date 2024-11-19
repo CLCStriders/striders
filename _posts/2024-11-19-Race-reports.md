@@ -15,7 +15,7 @@ Due to lots of clashing commitments on the day, the ladies were struggling to mu
  
 After the long journey, Helen Knight finished in the top 50, in 47th place as the 4th finisher in the Masters category. Liza Bradshaw was next home in 70th overall and 14th Master. Steph Parker was 112th and Hifsa O'Kelly, saving the day, in 133rd. Overall, the ladies were 15th in the team standings but an incredible 3rd in the Masters standings.
  
-![Midlands XC ladies](/images/2024/11/2024-11-19-Midlands-XC-ladies.jpg "Midlands XC ladies")
+![Midlands XC ladies](/images/2024/11/2024-11-19-Midlands-XC-ladies.png "Midlands XC ladies")
 
 CLC Striders ladies cross country team
 From left to right: Helen Knight, Steph Parker, Liza Bradshaw and Hifsa O'Kelly
