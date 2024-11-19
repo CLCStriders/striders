@@ -41,11 +41,11 @@ We change the route every few weeks but examples are:
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6085072) / [GPX](assets/gpx/4m_Warden_Hill_Hatherley.gpx)
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6085063) / [GPX](assets/gpx/6m_Warden_Hill_Hatherley.gpx)
 
-#### Wednesdays – Speed work
+#### Wednesdays – Interval Sessions
 
 Meet at 6.30pm, CLC Health & Fitness Centre
 
-Our speed work sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park.
+Our interval training sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park.
 
 #### Other sessions
 
