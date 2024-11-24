@@ -58,7 +58,6 @@ The event licence number for this year's edition of the Boddington 10 is #28542.
 
 ---
 
-<!--
 Here's some helpful information below to make your race day experience the best it can be.
  
 ---
@@ -101,7 +100,6 @@ Here are the key points (additional details outlined below):
 * Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch. The food at both venues is outstanding
 
 ---
--->
  
 #### Course Description
  
@@ -122,7 +120,6 @@ Route Map: [Map]({{ page.routeMap }})
 To ensure an enjoyable race experience for all runners and in the interest of local residents on the looped course, we will need to operate a cut off time. Please do not enter the race if you do not think a finish time of 2 hours or below for 10 miles is achievable. A 2 hour finish time would require an average pace of 12 min/mile or 7:27 min/km. Any runners entering the final loop (at 7.4 miles in) not on pace for a 2 hour finish will be asked to withdraw from the race as our marshalls will no longer be available out on the course.
 
 ---
-<!--
  
 #### Race day information
  
@@ -209,7 +206,7 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
--->
+---
 
 #### Official race photos
  
