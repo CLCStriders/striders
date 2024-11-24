@@ -36,46 +36,26 @@ Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 
 ![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
 
 
-#### Save the date
-
-Boddington 10 2025 will take place at 9am on Sunday 26 January 2025
-
----
-
 #### Entries 
 
-Entries open at 1200 on Sunday 24 November 2025 [via EntryCentral]({{ page.signUpUrl }})
+**Entries are now open** [via EntryCentral]({{ page.signUpUrl }})
 
 ---
 
-CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**.
- 
+CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**, with a start time of **0900**.
+
 This is an exciting road race for Gloucestershire established in 2024. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
-The event licence number for this year's edition of the Boddington 10 is #28542.
-
 ---
 
-<!--
-Here's some helpful information below to make your race day experience the best it can be.
- 
----
-
-
-##### Race HQ
+#### Race HQ
  
 Race Headquarters is located OUTSIDE The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
  
 Members of CLC Striders will be there from 0745 for entrants to collect race numbers. 
 
---- 
-
-#### Date and Time
- 
-The race will be held on **Sunday 26 January 2025**, with a start time of **0900**.
- 
 ---
  
 #### Quick Reference Guide
@@ -84,24 +64,32 @@ Here are the key points (additional details outlined below):
  
 * The UK Athletics licence number is #28542 
 * If you are unable to race, please let us know so we can offer your place to someone else
-* Please collect your race number and timing chip from Race HQ between 0745 and 0830 – this will be at The Gloucester Old Spot (Postcode: GL51 9SY). Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race. 
-* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time. 
-* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result. 
 * Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible
-* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available.
-* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables.
-* The A4019 Tewkesbury Road is very busy, even on a Sunday morning so please do your warm up on Boddington Lane. A safe route will be marked from the Race HQ to the start line please use the crossing point provided for your own safety.
-* The race briefing will take place at the start line at 0850.
+* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available
+* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables
 * Race starts at 0900 at the top of Boddington Lane
 * Runners will be disqualified if they wear headphones except for bone-conducting headphones that meet the UKA Rules
 * You must be 18 or over to enter this race
-* Please do not enter the race if you are not confident of finishing within 2 hours. For the wellbeing of marshals, runners who do not complete the 3rd lap within 1 hour 30 minutes will be asked to stop the race. If any runner chooses to carry on it will be at their own risk and they will not get a time. For reference the cut off time represents a pace of 12 minutes per mile or 7.5 minutes per kilometer.
-* At the finish, don’t forget to return the timing chip. 
+
+##### Race number 
+
+* Collect your race number and timing chip from Race HQ between 0745 and 0830. Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race
+* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time
+* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result
+
+##### Race start
+
+* Use Boddington Lane for your warm up runs. The A4019 Tewkesbury Road and the road past the Elmstone Business Park are very busy, even on a Sunday morning, and not a safe location for running. A safe route will be marked from the Race HQ to the start line, please use the crossing point provided for your own safety
+* The race briefing will take place at the start line at 0850
+* Please do not enter the race if you are not confident of finishing within 2 hours. For the wellbeing of marshals, runners who do not complete the 3rd lap within 1 hour 30 minutes will be asked to stop the race. If any runner chooses to carry on it will be at their own risk and they will not get a time. For reference the cut off time represents a pace of 12 minutes per mile or 7.27 minutes per kilometre
+
+##### Post race
+
+* At the finish, don’t forget to return the timing chip
 * Join us at the Clavell & Hind Brewery Tap for prize giving at 11.15. All competitors will receive a free drink
 * Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch. The food at both venues is outstanding
 
 ---
--->
  
 #### Course Description
  
@@ -119,22 +107,21 @@ Route Map: [Map]({{ page.routeMap }})
 
 #### Cut off time
 
-To ensure an enjoyable race experience for all runners and in the interest of local residents on the looped course, we will need to operate a cut off time. Please do not enter the race if you do not think a finish time of 2 hours or below for 10 miles is achievable. A 2 hour finish time would require an average pace of 12 min/mile or 7:27 min/km. Any runners entering the final loop (at 7.4 miles in) not on pace for a 2 hour finish will be asked to withdraw from the race as our marshalls will no longer be available out on the course.
+To ensure an enjoyable race experience for all runners and in the interest of local residents on the looped course, we will need to operate a cut off time. Please do not enter the race if you do not think a finish time of 2 hours or below for 10 miles is achievable. A 2 hour finish time would require an average pace of 12 min/mile or 7:27 min/km. Any runners entering the final loop (at 7.4 miles in) not on pace for a 2 hour finish will be asked to withdraw from the race as our marshals will no longer be available out on the course.
 
 ---
-<!--
  
 #### Race day information
  
 To help make your race day experience the best it can be, please read the helpful information below. 
  
-If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
+* If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
 
-As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited - with the exception of bon-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
+* As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited - with the exception of bon-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
 
-**Please use Boddington Lane for your warm up runs**. The road past the Elmstone Business Park is very busy, even on a Sunday morning, and not a safe location for running.
+* **Please use Boddington Lane for your warm up runs**. The A4019 Tewkesbury Road and the road past the Elmstone Business Park are very busy, even on a Sunday morning, and not a safe location for running. A safe route will be marked from the Race HQ to the start line, please use the crossing point provided for your own safety.
 
-Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in!
+* Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in!
  
 ##### Car Parking
  
@@ -209,7 +196,7 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
--->
+---
 
 #### Official race photos
  

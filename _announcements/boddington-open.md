@@ -1,7 +1,7 @@
 ---
 title: boddington
-published: false
+published: true
 
 ---
 
-Entries are now open for the **brand new** [Boddington 10 mile](/boddington-10) hosted by CLC Striders on Sunday 28 January 2024.
+Entries are now open for the [Boddington 10 mile](/boddington-10) hosted by CLC Striders on Sunday 26 January 2025.
