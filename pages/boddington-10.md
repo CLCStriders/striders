@@ -8,7 +8,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
 routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
-state: opensoon
+state: open
 
 ---
 
@@ -226,7 +226,7 @@ The [2024 Boddington 10 results](/assets/boddington/2024-01-28-Boddington-10-res
 
 * [Robert Hitchins](https://www.robert-hitchins.co.uk/) – For allowing use of their property entrance for the race finish.
 
-* The Gloucester Old Spot (https://www.thegloucesteroldspot.co.uk/), Cheltenham – For providing our Race HQ and parking.
+* [The Gloucester Old Spot](https://www.thegloucesteroldspot.co.uk/), Cheltenham – For providing our Race HQ and parking.
 
 * [Clavell and Hind](https://www.clavellandhind.co.uk/), [Cellar Supplies](http://www.cellarsupplies.co.uk/), [In2Print](http://www.in2print.com/), [Journey Hospitality](https://journey.travel/) and [Phoenix Mechanical Engineers](http://www.phoenixmechanical.co.uk/) for providing parking.
 
