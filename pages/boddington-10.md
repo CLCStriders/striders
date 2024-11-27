@@ -8,7 +8,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
 routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
-state: open
+state: full
 
 ---
 
@@ -38,7 +38,7 @@ Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 
 
 #### Entries 
 
-**Entries are now open** [via EntryCentral]({{ page.signUpUrl }})
+The Boddington 10 is now full, but you may join the waiting list [via EntryCentral]({{ page.signUpUrl }})
 
 ---
 
