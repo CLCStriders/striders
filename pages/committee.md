@@ -14,7 +14,7 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 {:.committee .display}
 |Name | Role | Email |
 |--|--|--|
-| Brendan Ward| Club President and Founder | |
+| Brendan Ward| Club Founder | |
 | Matt Ashman| Chair| <chair@clcstriders-runningclub.co.uk> |
 | Matt Ashman| Club Secretary, Welfare Officer and Coach | <secretary@clcstriders-runningclub.co.uk> |
 | Tom Burgess| Treasurer| <treasurer@clcstriders-runningclub.co.uk> |
@@ -22,9 +22,8 @@ The club is run on a volunteer basis and the committee is elected at the club AG
 | Amelia Mullins| Welfare Officer and Coach| <training@clcstriders-runningclub.co.uk> |
 | Dan Bazzard & Adam Greenwood| Men’s Captains| <races@clcstriders-runningclub.co.uk> |
 | Joel Freeland| Men’s Vice Captain, Coach| <races@clcstriders-runningclub.co.uk> |
-| Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
 | Fiona Brady-Miller & Helen Knight| Women's Captains | <races@clcstriders-runningclub.co.uk> |
-| Rob Barnett | Kit Coordinator| <kit@clcstriders-runningclub.co.uk> |
+| Sophie Longmore| Women’s Vice Captain| <races@clcstriders-runningclub.co.uk> |
 | Nick Ledwold | Webmaster| <webmaster@clcstriders-runningclub.co.uk> |
 | Paul Northup| Press Officer| |
 | Laura Elsworthy| Social Coordinator| |
