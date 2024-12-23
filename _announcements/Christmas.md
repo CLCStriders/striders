@@ -1,6 +1,6 @@
 ---
 title: Christmas 2024
-published: false
+published: true
 
 ---
 
