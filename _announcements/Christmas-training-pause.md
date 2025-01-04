@@ -1,6 +1,6 @@
 ---
 title: Club training over Christmas
-published: true
+published: false
 
 ---
 
