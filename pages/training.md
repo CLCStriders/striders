@@ -6,7 +6,7 @@ permalink: /training
 
 ---
 
-Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs. We have two main sessions: a social run on Mondays and interval training on Wednesdays. We cater for different paces so if you can run 4 miles (6.4k) in around 40 minutes or less, come and give us a try.  
+Our training benefits those who are fairly new to running, regular runners wanting to try out a club for the first time, and more experienced athletes looking to compete and go for PBs. We have two main sessions: a social run on Mondays and interval training on Wednesdays. We cater for different paces so if you can run 4 miles (6.4k) in around 36 minutes or less, come and give us a try.  
 
 The Monday and Wednesday sessions are free for members and you’re welcome to check out a few sessions before you commit to joining. Contact us at <training@clcstriders-runningclub.co.uk> for more details or to let us know if you’re coming along to training for the first time.  
 
@@ -45,7 +45,7 @@ We change the route every few weeks but examples are:
 
 Meet at 6.30pm, CLC Health & Fitness Centre
 
-Our interval training sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track at CLC Health & Fitness Centre, Pittville Park and Hatherley Park.
+Our interval training sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track and sports field at CLC Health & Fitness Centre and Pittville Park.
 
 #### Other sessions
 

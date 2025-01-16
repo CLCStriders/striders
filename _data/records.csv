@@ -221,12 +221,14 @@ Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,40-44,44,Helen Knight,1:27:23,
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,45-49,49,Fiona Brady-Miller,1:44:18,6258,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,50-54,54,Sarah Wilson,2:02:42,7362,Forest of Dean,20/03/2022,20220320
 Multi-Terrain,2,Women,xx,Half&nbsp;Marathon,21094,65-69,69,Jill Harsent,2:30:47,9047,South Downs,17/06/2023,20230617
-Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,3:11:09,11469,Portsmouth,22/12/2024,20241222
 Multi-Terrain,2,Women,xx,Marathon,42188,40-44,44,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
+Multi-Terrain,2,Women,xx,Marathon,42188,45-49,49,Helen Knight,3:11:09,11469,Portsmouth,22/12/2024,20241222
 Multi-Terrain,2,Women,xx,Marathon,42188,50-54,54,Amelia Mullins,5:13:11,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:58:06,21486,Trail Events Company Exmoor Ultra,22/07/2023,20230722
-Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,5:58:06,21486,Trail Events Company Exmoor Ultra,22/07/2023,20230722
-Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,"Race to the King, South Downs",11/06/2022,20220611
+Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:58:06,21486,Exmoor Ultra,22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,5:58:06,21486,Exmoor Ultra,22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,45-49,49,Helen Knight,6:05:27,21927,Coast to Capital Ultra,04/01/2025,20250104
+Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,Race to the King - South Downs,11/06/2022,20220611
 Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
@@ -653,4 +655,4 @@ parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,Congleton,18/03/2023,2
 parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,Berkeley Green,27/08/2022,20220827
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park, Cheltenham",08/04/2023,20230408
 parkrun,5,Women,xx,5km,5000,45-49,49,Helen Knight,19:54,1194,"Pittville Park, Cheltenham",25/12/2024,20241225
-parkrun,5,Women,xx,5km,5000,50-54,54,Fiona Brady-Miller,22:35,1355,"Pittville Park, Cheltenham",28/12/2024,20241228
+parkrun,5,Women,xx,5km,5000,50-54,54,Fiona Brady-Miller,22:29,1349,"Pittville Park, Cheltenham",11/01/2025,20240111
