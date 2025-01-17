@@ -184,7 +184,11 @@ Up & Running vouchers will be awarded as follows:
 * Course record bonus = £40
 * Team prize = 4 bottles of wine
  
-##### After the race
+##### Post race massage and advice
+
+Origin Health will be on hand offering post run massages and advice, they will be setup in the conservatory at the back of Clavell & Hind.
+
+##### Prize giving
  
 Please join us at the Clavell & Hind Brewery Tap for prize giving at 11.15. All competitors will receive a free drink.
 
