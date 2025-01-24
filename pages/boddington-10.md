@@ -35,11 +35,6 @@ Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 
 
 ![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
 
-
-#### Entries 
-
-The Boddington 10 is now full, but you may join the waiting list [via EntryCentral]({{ page.signUpUrl }})
-
 ---
 
 CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**, with a start time of **0900**.
