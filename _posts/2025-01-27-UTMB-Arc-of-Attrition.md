@@ -6,7 +6,7 @@ categories:
 
 ---
 
-Two intrepid lady CLC Striders journeyed to the south-west tip of the English mainland to do battle as part of the infamous ‘Arc of Attrition’ ultra-marathon event, hosted by UTMB. Comprising a hundred-mile race (yes, that’s 100 miles!) along the Cornish coastal footpath from Coverack on the south coast to Porthtowan on the north coast, it has at least a 50% DNF (did not finish) rate – and so not for the faint-hearted. Perfect for the indestructible ![Helen Knight](/images/2025/01/2025-01-27-UTMB.jpg "Helen Knight") and the indominable Sarah Bergdahl to pit themselves against.
+Two intrepid lady CLC Striders journeyed to the south-west tip of the English mainland to do battle as part of the infamous ‘Arc of Attrition’ ultra-marathon event, hosted by UTMB. Comprising a hundred-mile race (yes, that’s 100 miles!) along the Cornish coastal footpath from Coverack on the south coast to Porthtowan on the north coast, it has at least a 50% DNF (did not finish) rate – and so not for the faint-hearted. Perfect for the indestructible [Helen Knight](/images/2025/01/2025-01-27-UTMB.jpg "Helen Knight") and the indominable Sarah Bergdahl to pit themselves against.
 
 The course had plenty of ankle-deep mud, unavoidable puddles, rocky sections, more ascents and descents than you could count, with so, so many steps to contend with – not to mention running through the cover of darkness through the night! 
 
