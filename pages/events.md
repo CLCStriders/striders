@@ -7,7 +7,7 @@ description: CLC Striders hosted events
 
 - [Boddington 10 Mile](/boddington-10)
 
-This is an exciting, brand new road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
+This is an exciting road race for Gloucestershire. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
 
 - [Staverton 10 Mile](/staverton-10) - course records and previous results
 
