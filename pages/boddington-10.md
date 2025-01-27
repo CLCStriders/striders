@@ -43,7 +43,7 @@ This is an exciting road race for Gloucestershire established in 2024. A flat an
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
----
+<!---
 
 #### Race HQ
  
@@ -195,13 +195,14 @@ The Gloucester Old Spot and Clavell & Hind Taproom will both be open shortly aft
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
----
+--->
 
 #### Official race photos
  
 Dig Deep Race Photography will be taking official race photos during the event. They will be available via their [website](https://linktr.ee/digdeepracephotography).
 
 [2024 race photos](https://photos.app.goo.gl/c2kJ9p1RtZAPbg8SA)
+
 [2025 race photos](https://photos.app.goo.gl/JbA4qZ3AspL2UBnf7)
  
 ---
@@ -215,6 +216,7 @@ Women's – Emily Hilliar, Poole AC (2024) - 1:00:45
 #### Previous results
  
 The [2024 Boddington 10 results](/assets/boddington/2024-01-28-Boddington-10-results-2024.pdf "Boddington 10 results 2024").
+
 The [2025 Boddington 10 results](/assets/boddington/2025-01-27-Boddington-10-results-2025.pdf "Boddington 10 results 2025").
 
 ---
