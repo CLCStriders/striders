@@ -4,5 +4,4 @@ published: true
 
 ---
 
-The [results](https://results.raceroster.com/v2/en-US/results/nvyz6yuw4c6xmgza/results) are now available for CLC striders' [Boddington 10 mile](/boddington-10)
-
+The [2025 Boddington 10 results](/assets/boddington/2025-01-27-Boddington-10-results-2025.pdf "Boddington 10 results 2025") are now live.
