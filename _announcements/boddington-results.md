@@ -1,8 +1,8 @@
 ---
 title: boddington results
-published: false
+published: true
 
 ---
 
-The [results](/assets/boddington/2024-01-28-Boddington-10-results-2024.pdf "Boddington 10 results 2024") are now available for CLC striders' [Boddington 10 mile](/boddington-10)
+The [results](https://results.raceroster.com/v2/en-US/results/nvyz6yuw4c6xmgza/results) are now available for CLC striders' [Boddington 10 mile](/boddington-10)
 
