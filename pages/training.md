@@ -32,7 +32,7 @@ We change the route every few weeks but examples are:
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7336512) / GPX
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7333921) / [GPX](assets/gpx/6m_Honeybourne_Hewlett_Hales.gpx)
   
-- Fiddler's Green & The Reddings
+- Fiddler's Green & Benhall
   - 4M - [Gmap](http://www.gmap-pedometer.com/?r=7749814) / GPX
   - 6M - [Gmap](http://www.gmap-pedometer.com/?r=7749815) / GPX
 
