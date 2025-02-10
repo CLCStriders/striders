@@ -92,8 +92,13 @@ Our Run Leaders hold the England Athletics’ Leadership in Running Fitness (LiR
 
 - Andy Brookes
 - Eoin McQuone
-- Jon Howes
 - Helen Rawcliffe
+- Jon Howes
+- Kate Telford
+- Laura Elsworthy
+- Nick Ledwold
 - Nicola Weager
 - Paul Northup
+- Rich Elsworthy
+- Steph Parker
 - Tim Brock
