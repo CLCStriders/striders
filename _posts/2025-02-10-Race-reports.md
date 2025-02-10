@@ -22,7 +22,7 @@ The men’s results are not yet officially published, but the signs are good tha
 
 Other Strider finishers on the day were Tom Burgess in 102nd, Gavin Woods in 115th, Adam Greenwood in 124th, Rob Hyams in 129th, Liam Richardson in 130th, Richard Aarons in 161st and Gary Farquharson in 180th. (Tim Brock and Dan Bazzard both had to retire with niggles.)
 
-** Footnote
+**Footnote**
 With more running planned for the weekend and very little time to recover, Ellie Pudifoot was first lady home the very next morning at the Westonbirt Arboretum 10K!
 
 ![Midlands XC ladies](/images/2025/02/2025-02-10-Midlands-XC.jpg "Midlands XC ladies")
