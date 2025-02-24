@@ -25,17 +25,17 @@ Nick Ledwold paced his new club member partner Nia Comley to her hoped-for 45-mi
 
 The final club quartet to finish were Mike Speke in 49:38, second claim runner Jo Amos in 50:37, 75 year-old super-vet David James in 51:26 and Tanya Evans in 53:21.
 
-![Bourton 10k](/images/2025/02/2025-02-24-Bourton-10k.jpg "Bourton 10k")
+![Bourton 10k](/images/2025/02/2025-02-24-Bourton-10k.jpeg "Bourton 10k")
 
 Pictured (not all of us!) at the Bourton 10k
 Back row, from left to right: Will McNeile, Nia Comley, Nick Ledwold, Jon Margetts, Rhianna Evans, Richard Aarons, Tom Fletcher, Alex Doherty, Rob Barnett, David Orme, Nigel Bailey and Paul Northup
-Front row, from left to right: Mike Speke, david James, Kate Telford and Eoin McQuone 
+Front row, from left to right: Mike Speke, David James, Kate Telford and Eoin McQuone 
 
 ### Wokingham Half Marathon
 
 Meanwhile, further afield, two Striders were racing in the prestigious Wokingham Half Marathon. Again doing battle with the wind (especially in the last 5k), Will Pearce beat his 85-minute target in a time of 1:24:43 and Adam Greenwood clocked a PB time of 1:27:04
 
-![Wokingham half](/images/2025/02/2025-02-24-Wokingham-half.jpg "Wokingham half")
+![Wokingham half](/images/2025/02/2025-02-24-Wokingham-half.jpeg "Wokingham half")
 
 Pictured, Adam Greenwood (left) and Will Pearce (right) at the Wokingham Half Marathon.
 
