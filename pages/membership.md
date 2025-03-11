@@ -21,14 +21,14 @@ Membership benefits include:
 
 In line with England Athletics registration, membership is renewable annually on 1st April.
 
-The 2024/25 membership fees are:
+The 2025/26 membership fees are:
 
 - Full year membership - £40 &#x00B9; (available from 1st April to 30th September)
 - Half year membership - £30 &#x00B9; (available from 1st October)
 - Student full year membership - £23 &#x00B9; (available year round to students aged 18 or over in full time education)
 - Second claim membership - £23 &#x00B2;
 
-  &#x00B9; Includes the £19 England Athletics registration fee.  
+  &#x00B9; Includes the £20 England Athletics registration fee.  
   &#x00B2; Second claim members are those already registered with another England Athletics club.
 
 **Memberships are only available to people aged 18 or over.**
