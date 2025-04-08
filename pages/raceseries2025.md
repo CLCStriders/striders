@@ -64,7 +64,7 @@ At the end of the year, prizes will be awarded at the Christmas party.
   {% endfor %}
   
   {% if has_rows %}
-    {% for label_map in category_labels %}
+    {% for label_map in category_labels1 %}
       {% assign label_parts = label_map | split: ":" %}
       {% if label_parts[0] == section %}
 <br/>
@@ -101,24 +101,24 @@ At the end of the year, prizes will be awarded at the Christmas party.
 
 {% for section in sections2 %}
   
-  {% assign section_id = "site_data_raceseries2025_" | append: section %}
-  {% assign has_rows = false %}
+  {% assign section_id2 = "site_data_raceseries2025_" | append: section %}
+  {% assign has_rows2 = false %}
   {% for entry in site.data.raceseries2025 %}
     {% if entry.Category == section %}
-      {% assign has_rows = true %}
+      {% assign has_rows2 = true %}
       {% break %}
     {% endif %}
   {% endfor %}
   
-  {% if has_rows %}
-    {% for label_map in category_labels %}
-      {% assign label_parts = label_map | split: ":" %}
-      {% if label_parts[0] == section %}
+  {% if has_rows2 %}
+    {% for label_map in category_labels2 %}
+      {% assign label_parts2 = label_map | split: ":" %}
+      {% if label_parts2[0] == section %}
 <br/>
-<h4>{{ label_parts[1] }}</h4>
+<h4>{{ label_parts2[1] }}</h4>
       {% endif %}
     {% endfor %}
-<table id="{{section_id}}" style="width:100%">
+<table id="{{section_id2}}" style="width:100%">
     <thead>
         <tr>
             <th data-field="Name">Name</th>
