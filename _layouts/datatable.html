@@ -341,7 +341,7 @@
             "order": [[13, 'asc'], [12, 'desc'], [0, 'asc']], // initial sort - rank, total, name
             "columnDefs": [
                 {
-                    "targets": 15,  // Rank column
+                    "targets": 13,  // Rank column
                     "render": function (data, type, row) {
                         // Use Infinity for null/empty values when sorting so they appear last
                         return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
