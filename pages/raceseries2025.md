@@ -1,6 +1,6 @@
 ---
 title: CLC Striders 2025 Race Series
-datatable: raceseries
+datatable: raceseries2025
 layout: datatable
 description: CLC Striders running club road race series
 permalink: /raceseries2025
@@ -49,10 +49,10 @@ At the end of the year, prizes will be awarded at the Christmas party.
 
 ### Current Standings
 
-{% assign sections = "MO FO" | split: " " %}
-{% assign category_labels = "MO:Male Open, FO:Female Open" | split: ", " %}
+{% assign sections1 = "MO FO" | split: " " %}
+{% assign category_labels1 = "MO:Male Open, FO:Female Open" | split: ", " %}
 
-{% for section in sections %}
+{% for section in sections1 %}
   
   {% assign section_id = "site_data_raceseries2025_" | append: section %}
   {% assign has_rows = false %}
@@ -96,10 +96,10 @@ At the end of the year, prizes will be awarded at the Christmas party.
   {% endif %}
 {% endfor %}
 
-{% assign sections = "AG" | split: " " %}
-{% assign category_labels = "AG:Age graded" | split: ", " %}
+{% assign sections2 = "AG" | split: " " %}
+{% assign category_labels2 = "AG:Age graded" | split: ", " %}
 
-{% for section in sections %}
+{% for section in sections2 %}
   
   {% assign section_id = "site_data_raceseries2025_" | append: section %}
   {% assign has_rows = false %}
