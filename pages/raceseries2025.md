@@ -31,22 +31,21 @@ Participation Races:
 
 ### Rules
 
-In order to participate in the series, you will need to enter and run in at least 5 of them. You can do more than 5 and if you do, your score will be based on your best 6 finishing positions in terms of other striders. 
+Scoring for this year’s competition will work differently to last year.
 
-You need to be a fully paid up member of the club at the time of running the 5 qualifying races so if you join part way through the year, you can still participate from the point you join club but you must run at least 5 races.  
+Points will be based on finishing position versus club mates in each race, with 10 points for 1st place, 9 points for 2nd – down to 1 point for 10th place and beyond.
 
-You can compete if you are a second claim member as well as first claim. 
+There will be three competitions within the series with prizes up for grabs for the top 3 in each of the following:
+- Men's Open Competition – minimum 5 of 12 races to qualify, best 6 scores used
+- Ladies Open Competition – minimum 5 of 12 races to qualify, best 6 scores used
+- Age-Graded Competition – ranked by Age Grade % for non-trail events, minimum 5 of 10 races to qualify, best 5 scores used
 
-We will check the race results afterwards to see which striders have run so you will automatically be entered into the competition if you run any 6 or more of the above. 
+We will check the race results afterwards to see which Striders have run, so you will automatically be entered into the series standings on our website. And if you run at least 5 of the races you will qualify with a final ranking in the competition.
 
-The scoring will work as follows: 
-If you finish first CLC man or woman you will get 10 points, 2nd gets 9 points, down to 1 point for 10th place and beyond. Your highest 6 scores will be added together to get a total and the highest total wins. 
+Another change for 2025 is the addition of the above listed ‘Participation Races’. These races will not count towards the minimum 5 qualifying races but will give you a chance to boost your score significantly!
 
-This scoring system will be used for the following competitions: 
-* Open male and female competition
-* Age-graded competition
+At the end of the year, prizes will be awarded at the Christmas party.
 
-At the end of the year, prizes will be awarded at the Christmas do. This will be for the first 3 overall men and first 3 overall women plus the first 3 in the age-graded competition.
 
 ### Current Standings
 
@@ -57,7 +56,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
   
   {% assign section_id = "site_data_raceseries2025_" | append: section %}
   {% assign has_rows = false %}
-  {% for entry in site.data.raceseries %}
+  {% for entry in site.data.raceseries2025 %}
     {% if entry.Category == section %}
       {% assign has_rows = true %}
       {% break %}
@@ -90,7 +89,52 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
             <th data-field="stroud"><div class="vertical-text">Stroud Half</div></th>
             <th data-field="participationbonus"><div class="vertical-text">Participation bonus</div></th>
             <th data-field="total">Total (best 6)</th>
-            <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Rank (min. 5 fixtures)</th>
+        </tr>
+    </thead>
+</table>
+  {% endif %}
+{% endfor %}
+
+{% assign sections = "AG" | split: " " %}
+{% assign category_labels = "AG:Age graded" | split: ", " %}
+
+{% for section in sections %}
+  
+  {% assign section_id = "site_data_raceseries2025_" | append: section %}
+  {% assign has_rows = false %}
+  {% for entry in site.data.raceseries2025 %}
+    {% if entry.Category == section %}
+      {% assign has_rows = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if has_rows %}
+    {% for label_map in category_labels %}
+      {% assign label_parts = label_map | split: ":" %}
+      {% if label_parts[0] == section %}
+<br/>
+<h4>{{ label_parts[1] }}</h4>
+      {% endif %}
+    {% endfor %}
+<table id="{{section_id}}" style="width:100%">
+    <thead>
+        <tr>
+            <th data-field="Name">Name</th>
+            <th data-field="bourton10k"><div class="vertical-text">Bourton 10k</div></th>
+            <th data-field="bristol"><div class="vertical-text">Bristol 5k</div></th>
+            <th data-field="countychamps"><div class="vertical-text">3k Track County Champs</div></th>
+            <th data-field="bourton1mile"><div class="vertical-text">Bourton 1 Mile</div></th>
+            <th data-field="cirencester"><div class="vertical-text">Cirencester Park 10k</div></th>
+            <th data-field="frampton"><div class="vertical-text">Frampton 10k</div></th>
+            <th data-field="midsummer"><div class="vertical-text">Midsummer Open 1-Mile</div></th>
+            <th data-field="bugatti"><div class="vertical-text">Bugatti 10k</div></th>
+            <th data-field="angels"><div class="vertical-text">Angels 10k</div></th>
+            <th data-field="stroud"><div class="vertical-text">Stroud Half</div></th>
+            <th data-field="participationbonus"><div class="vertical-text">Participation bonus</div></th>
+            <th data-field="total">Total (best 5)</th>
+            <th data-field="rank">Rank (min. 5 fixtures)</th>
         </tr>
     </thead>
 </table>

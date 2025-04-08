@@ -303,4 +303,71 @@
             initializeDataTable(category, data);
         });
     </script>    
+{% elsif page.datatable == "raceseries2025" %}
+<script>
+    var raceSeriesData =  {{ site.data.raceseries2025 | jsonify }} ;
+
+    function initializeDataTable(category, data) {
+        var table = $(`#site_data_raceseries_${category}`).DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Name" },            // 0
+                { data: "bourton10k" },      // 1
+                { data: "bristol" },         // 2
+                { data: "countychamps" },    // 3
+                { data: "bourton1mile" },    // 4
+                { data: "cleeve" },          // 5
+                { data: "cirencester" },     // 6
+                { data: "frampton" },        // 7
+                { data: "midsummer" },       // 8
+                { data: "bugatti" },         // 9
+                { data: "woodchester" },     // 10
+                { data: "angels" },          // 11
+                { data: "stroud" },          // 12
+                { data: "participationbonus" },// 13
+                { data: "total" },           // 14
+                { data: "rank" },            // 15
+            ],
+            "pageLength": 10, // initial page lengths
+            "order": [[15, 'asc'], [14, 'desc'], [0, 'asc']], // initial sort - rank, total, name
+            "columnDefs": [
+                {
+                    "targets": 15,  // Rank column
+                    "render": function (data, type, row) {
+                        // Use Infinity for null/empty values when sorting so they appear last
+                        return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                    }
+                },
+                {
+                    "type": "num",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ],
+        });
+
+        if (data.length === 0) {
+            $(`#site_data_raceseries_${category}`).hide();
+        } else {
+            table.rows.add(data).draw();
+        }
+    }
+
+    var categories = ["MO", "FO", "AG"];
+
+    categories.forEach(category => {
+        var data = raceSeriesData.filter(f => f.Category === category);
+        initializeDataTable(category, data);
+    });
+</script>    
 {% endif %}
