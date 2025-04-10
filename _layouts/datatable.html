@@ -1,306 +1,431 @@
-{% include default.html %}
-
-{% if page.datatable == "awards" %}
-    <script>
-     var awardsData =  {{ site.data.awards | jsonify }} ;
-     var columns = Object.keys(awardsData[0]).map(function(key) {
-      return { data: key };
-    });
-    columns.reverse();
-    var awardsTable = $("#site_data_awards").DataTable({
-      "paging": false,
-      "info": false,
-      "searching": true,
-      "ordering": true,
-      "columns": columns
-    });
-    awardsTable.rows.add(awardsData).draw();
-    </script>
+{% include default.html %} {% if page.datatable == "awards" %}
+<script>
+   var awardsData =  {{ site.data.awards | jsonify }} ;
+   var columns = Object.keys(awardsData[0]).map(function(key) {
+    return { data: key };
+  });
+  columns.reverse();
+  var awardsTable = $("#site_data_awards").DataTable({
+    "paging": false,
+    "info": false,
+    "searching": true,
+    "ordering": true,
+    "columns": columns
+  });
+  awardsTable.rows.add(awardsData).draw();
+</script>
 {% elsif page.datatable == "committee" %}
-    <script>
-        // committee page this code is more basic as its a standard markdown table
-        $(".committee").DataTable({
-            "paging": false,
-            "info": false,
-            "searching": false,
-            "ordering": false,
-            "order": []
-        });
-    </script>
+<script>
+  // committee page this code is more basic as its a standard markdown table
+  $(".committee").DataTable({
+    paging: false,
+    info: false,
+    searching: false,
+    ordering: false,
+    order: [],
+  });
+</script>
 {% elsif page.datatable == "fixtures" %}
-    <script>
-        var cutoffDate = new Date();
-        cutoffDate.setFullYear(cutoffDate.getFullYear(), cutoffDate.getMonth() - 1); // display events from 1 month ago forwards
-        var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
-        var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
-        var fixturesTable = $("#site_data_fixtures").DataTable({
-            "paging": false,
-            "info": true,
-            "columns": [
-                { data: "Date", width: "0px" },             // 0
-                { data: "date_sort", width: "0px" },        // 1
-                { data: "Race", width: "100%"},             // 2
-                { data: "Distance", width: "0px" },         // 3
-                { data: "distance_sort", width: "0px" },    // 4
-                { data: "Terrain", width: "0px" }           // 5
-            ],
-            columnDefs: [
-                { // hidden columns
-                    "visible": false,
-                    "targets": [1, 4]  // date_sort, distance_sort
-                },
-                { // non-searchable columns
-                    "searchable": false,
-                    "targets": [1, 4] // date_sort, Series, distance_sort
-                },
-                { // non-sortable columns
-                    "orderable": false,
-                    "targets": [2] // Race
-                },
-                { // column sort remapping
-                    targets: [0], // Date
-                    orderData: [1] // date_sort
-                },
-                { // column sort remapping
-                    targets: [3], // Distance
-                    orderData: [4] // distance_sort
-                },
-            ],
-        });
-        fixturesTable.rows.add(fixturesData).draw();
-    </script>
+<script>
+  var cutoffDate = new Date();
+  cutoffDate.setFullYear(cutoffDate.getFullYear(), cutoffDate.getMonth() - 1); // display events from 1 month ago forwards
+  var fixturesDataAll =  {{ site.data.fixtures | jsonify }} ;
+  var fixturesData = fixturesDataAll.filter(d => Date.parse(d.date_sort) > cutoffDate);
+  var fixturesTable = $("#site_data_fixtures").DataTable({
+      "paging": false,
+      "info": true,
+      "columns": [
+          { data: "Date", width: "0px" },             // 0
+          { data: "date_sort", width: "0px" },        // 1
+          { data: "Race", width: "100%"},             // 2
+          { data: "Distance", width: "0px" },         // 3
+          { data: "distance_sort", width: "0px" },    // 4
+          { data: "Terrain", width: "0px" }           // 5
+      ],
+      columnDefs: [
+          { // hidden columns
+              "visible": false,
+              "targets": [1, 4]  // date_sort, distance_sort
+          },
+          { // non-searchable columns
+              "searchable": false,
+              "targets": [1, 4] // date_sort, Series, distance_sort
+          },
+          { // non-sortable columns
+              "orderable": false,
+              "targets": [2] // Race
+          },
+          { // column sort remapping
+              targets: [0], // Date
+              orderData: [1] // date_sort
+          },
+          { // column sort remapping
+              targets: [3], // Distance
+              orderData: [4] // distance_sort
+          },
+      ],
+  });
+  fixturesTable.rows.add(fixturesData).draw();
+</script>
 {% elsif page.datatable == "records" %}
-    <script>
-        var recordsData =  {{ site.data.records | jsonify }} ;
-        recordsData = recordsData.filter(f => f.date_sort != "99999999") // ignore empty records
-    </script>
-    {% if page.datatype == "road" %}
-        <script>
-            recordsData = recordsData.filter(f => f.type_sort == "1") // road only
-        </script>
-    {% elsif page.datatype == "multi" %}
-        <script>
-            recordsData = recordsData.filter(f => f.type_sort == "2") // multi-terrain only
-        </script>
-    {% elsif page.datatype == "track" %}
-        <script>
-            recordsData = recordsData.filter(f => f.type_sort == "3") // track only
-        </script>
-    {% elsif page.datatype == "field" %}
-        <script>
-            recordsData = recordsData.filter(f => f.type_sort == "4") // field events only
-        </script>
-    {% elsif page.datatype == "parkrun" %}
-    <script>
-        recordsData = recordsData.filter(f => f.type_sort == "5") // parkrun only
-    </script>
-    {% endif %}
-    {% if page.datagender == "men" %}
-    <script>
-        recordsData = recordsData.filter(f => f.gender_search == "xy") // men only
-    </script>
-    {% elsif page.datagender == "women" %}
-    <script>
-        recordsData = recordsData.filter(f => f.gender_search == "xx") // women only
-    </script>
-    {% endif %}
-    <script>
-        var recordsTable = $("#site_data_records").DataTable({
-            "paging": true,
-            "info": true,
-            "language": {
-                "emptyTable": "No records",
-                "zeroRecords": "No records"
-            },
-            "columns": [
-                { data: "Type" },               // 0
-                { data: "type_sort" },          // 1
-                { data: "Gender" },             // 2
-                { data: "gender_search" },      // 3
-                { data: "Distance" },           // 4
-                { data: "distance_m_sort" },    // 5
-                { data: "Age Group" },          // 6
-                { data: "age_sort" },           // 7
-                { data: "Holder" },             // 8
-                { data: "Time" },               // 9
-                { data: "time_secs_sort" },     // 10
-                { data: "Venue" },              // 11
-                { data: "Date" },               // 12
-                { data: "date_sort" }           // 13
-            ],
-            "pageLength": 25, // initial page length
-            "order": [[4, 'asc'], [6, 'asc']], // initial sort - Distance, Age Group
-            columnDefs: [
-                { // hidden columns
-                    "visible": false,
-                    "targets": [0, 1, 2, 3, 5, 7, 10, 13]  // Type, type_sort, Gender, gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
-                },
-                { // non-searchable columns
-                    "searchable": false,
-                    "targets": [0, 1, 2, 3, 5, 7, 10, 13]  // Type, type_sort, Gender, gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
-                },
-                { // non-sortable columns
-                    "orderable": false,
-                    "targets": [8, 11] // Holder, Venue
-                },
-                { // column sort remapping
-                    targets: [4], // Distance
-                    orderData: [5] // distance_m_sort
-                },
-                { // column sort remapping
-                    targets: [6], // Age Group
-                    orderData: [7] // age_sort
-                },
-                { // column sort remapping
-                    targets: [9], // Time
-                    orderData: [10] // time_secs_sort
-                },
-                { // column sort remapping
-                    targets: [12], // Date
-                    orderData: [13] // date_sort
-                },
-                // column widths 0px => width to fit data
-                { "width": "0px", "targets": 4 },   // Distance
-                { "width": "0px", "targets": 6 },   // Age Group
-                { "width": "0px", "targets": 9 },   // Time
-                { "width": "0px", "targets": 12 },  // Date
-            ],
-        });
-    </script>
-    {% if page.datatype == "field" %}
-    <script>
-        $(recordsTable.column(4).header()).text('Event'); // field - rename Distance column to Event
-    </script>
-    {% elsif page.datatype == "parkrun" %}
-        <script>
-            recordsTable.column(4).visible(false); // parkrun - hide Distance column, they're all 5k
-        </script>
-    {% endif %}
-    <script>
-        recordsTable.rows.add(recordsData).draw();
-    </script>
+<script>
+  var recordsData =  {{ site.data.records | jsonify }} ;
+  recordsData = recordsData.filter(f => f.date_sort != "99999999") // ignore empty records
+</script>
+{% if page.datatype == "road" %}
+<script>
+  recordsData = recordsData.filter((f) => f.type_sort == "1"); // road only
+</script>
+{% elsif page.datatype == "multi" %}
+<script>
+  recordsData = recordsData.filter((f) => f.type_sort == "2"); // multi-terrain only
+</script>
+{% elsif page.datatype == "track" %}
+<script>
+  recordsData = recordsData.filter((f) => f.type_sort == "3"); // track only
+</script>
+{% elsif page.datatype == "field" %}
+<script>
+  recordsData = recordsData.filter((f) => f.type_sort == "4"); // field events only
+</script>
+{% elsif page.datatype == "parkrun" %}
+<script>
+  recordsData = recordsData.filter((f) => f.type_sort == "5"); // parkrun only
+</script>
+{% endif %} {% if page.datagender == "men" %}
+<script>
+  recordsData = recordsData.filter((f) => f.gender_search == "xy"); // men only
+</script>
+{% elsif page.datagender == "women" %}
+<script>
+  recordsData = recordsData.filter((f) => f.gender_search == "xx"); // women only
+</script>
+{% endif %}
+<script>
+  var recordsTable = $("#site_data_records").DataTable({
+    paging: true,
+    info: true,
+    language: {
+      emptyTable: "No records",
+      zeroRecords: "No records",
+    },
+    columns: [
+      { data: "Type" }, // 0
+      { data: "type_sort" }, // 1
+      { data: "Gender" }, // 2
+      { data: "gender_search" }, // 3
+      { data: "Distance" }, // 4
+      { data: "distance_m_sort" }, // 5
+      { data: "Age Group" }, // 6
+      { data: "age_sort" }, // 7
+      { data: "Holder" }, // 8
+      { data: "Time" }, // 9
+      { data: "time_secs_sort" }, // 10
+      { data: "Venue" }, // 11
+      { data: "Date" }, // 12
+      { data: "date_sort" }, // 13
+    ],
+    pageLength: 25, // initial page length
+    order: [
+      [4, "asc"],
+      [6, "asc"],
+    ], // initial sort - Distance, Age Group
+    columnDefs: [
+      {
+        // hidden columns
+        visible: false,
+        targets: [0, 1, 2, 3, 5, 7, 10, 13], // Type, type_sort, Gender, gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
+      },
+      {
+        // non-searchable columns
+        searchable: false,
+        targets: [0, 1, 2, 3, 5, 7, 10, 13], // Type, type_sort, Gender, gender_search, distance_m_sort, age_sort, time_secs_sort, date_sort
+      },
+      {
+        // non-sortable columns
+        orderable: false,
+        targets: [8, 11], // Holder, Venue
+      },
+      {
+        // column sort remapping
+        targets: [4], // Distance
+        orderData: [5], // distance_m_sort
+      },
+      {
+        // column sort remapping
+        targets: [6], // Age Group
+        orderData: [7], // age_sort
+      },
+      {
+        // column sort remapping
+        targets: [9], // Time
+        orderData: [10], // time_secs_sort
+      },
+      {
+        // column sort remapping
+        targets: [12], // Date
+        orderData: [13], // date_sort
+      },
+      // column widths 0px => width to fit data
+      { width: "0px", targets: 4 }, // Distance
+      { width: "0px", targets: 6 }, // Age Group
+      { width: "0px", targets: 9 }, // Time
+      { width: "0px", targets: 12 }, // Date
+    ],
+  });
+</script>
+{% if page.datatype == "field" %}
+<script>
+  $(recordsTable.column(4).header()).text("Event"); // field - rename Distance column to Event
+</script>
+{% elsif page.datatype == "parkrun" %}
+<script>
+  recordsTable.column(4).visible(false); // parkrun - hide Distance column, they're all 5k
+</script>
+{% endif %}
+<script>
+  recordsTable.rows.add(recordsData).draw();
+</script>
 {% elsif page.datatable == "cwr" %}
-    <script>
-        var cwrData =  {{ site.data.cwr | jsonify }} ;
-        var cwrTable = $("#site_data_cwr").DataTable({
+<script>
+  var cwrData =  {{ site.data.cwr | jsonify }} ;
+  var cwrTable = $("#site_data_cwr").DataTable({
+      "paging": true,
+      "info": true,
+      "columns": [
+          { data: "Leg" },                // 0
+          { data: "leg_search" },         // 1
+          { data: "Team" },               // 2
+          { data: "Category" },           // 3
+          { data: "Name" },               // 4
+          { data: "name_sort" },          // 5
+          { data: "Time" },               // 6
+          { data: "time_secs_sort" },     // 7
+          { data: "Distance" },           // 8
+          { data: "Start" },              // 9
+          { data: "Finish" },             // 10
+          { data: "Date" },               // 11
+          { data: "date_sort" },          // 12
+      ],
+      "pageLength": 25, // initial page length
+      "order": [[11, 'desc'], [0, 'asc'], [6, 'asc']], // initial sort - Date, Leg, Time
+      columnDefs: [
+          { // hidden columns
+              "visible": false,
+              "targets": [1, 5, 7, 12]  // leg_search, name_sort, time_secs_sort, date_sort
+          },
+          { // non-searchable columns
+              "searchable": false,
+              "targets": [0, 5, 7, 12]  // Leg, name_sort, time_secs_sort, date_sort
+          },
+          { // non-sortable columns
+              "orderable": false,
+              "targets": [2, 3, 9, 10] // Team, Category, Start, Finish
+          },
+          { // column sort remapping
+              targets: [4], // Name
+              orderData: [5] // name_sort
+          },
+          { // column sort remapping
+              targets: [6], // Time
+              orderData: [7] // time_sort
+          },
+          { // column sort remapping
+              targets: [11], // Date
+              orderData: [12] // date_sort
+          },
+          { "width": "0px", "targets": 0 },   // Leg
+          { "width": "0px", "targets": 3 },   // Category
+          { "width": "0px", "targets": 6 },   // Time
+          { "width": "0px", "targets": 8 },   // Distance
+          { "width": "0px", "targets": 11 },  // Date
+      ],
+  });
+  cwrTable.rows.add(cwrData).draw();
+</script>
+{% elsif page.datatable == "raceseries" %}
+<script>
+  var raceSeriesData =  {{ site.data.raceseries | jsonify }} ;
+
+  function initializeDataTable(category, data) {
+      var table = $(`#site_data_raceseries_${category}`).DataTable({
+          "paging": true,
+          "info": true,
+          "columns": [
+              { data: "Name" },            // 0
+              { data: "bourton10k" },      // 1
+              { data: "bristol" },         // 2
+              { data: "berkeley" },        // 3
+              { data: "bourton1mile" },    // 4
+              { data: "cleeve" },          // 5
+              { data: "midsummer" },       // 6
+              { data: "haresfield" },      // 7
+              { data: "bugatti" },         // 8
+              { data: "cheltenhamhalf" },  // 9
+              { data: "angels" },          // 10
+              { data: "stroudhalf" },      // 11
+              { data: "glosxc" },          // 12
+              { data: "total" },           // 13
+              { data: "rank" },            // 14
+              { data: "average" },         // 15
+          ],
+          "pageLength": 10, // initial page lengths
+          "order": [[14, 'asc'], [15, 'asc'], [13, 'desc']], // initial sort - rank, average, total
+          "columnDefs": [
+              {
+                  "targets": 14,  // Rank column
+                  "render": function (data, type, row) {
+                      // Use Infinity for null/empty values when sorting so they appear last
+                      return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                  }
+              },
+              {
+                  "type": "num",
+                  "targets": "_all",
+                  "render": function (data, type, row, meta) {
+                      return data === "" ? '\uFFFF' : data;
+                  }
+              },
+              {
+                  "type": "string",
+                  "targets": "_all",
+                  "render": function (data, type, row, meta) {
+                      return data === "" ? '\uFFFF' : data;
+                  }
+              }
+          ],
+      });
+
+      if (data.length === 0) {
+          $(`#site_data_raceseries_${category}`).hide();
+      } else {
+          table.rows.add(data).draw();
+      }
+  }
+
+  var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
+
+  categories.forEach(category => {
+      var data = raceSeriesData.filter(f => f.Category === category);
+      initializeDataTable(category, data);
+  });
+</script>
+{% elsif page.datatable == "raceseries2025" %}
+<script>
+    var raceSeriesData =  {{ site.data.raceseries2025 | jsonify }} ;
+
+    function initializeDataTable(category, data) {
+
+        let columns;
+  if (category === "AG") {
+    var table = $(`#site_data_raceseries2025_${category}`).DataTable({
             "paging": true,
             "info": true,
             "columns": [
-                { data: "Leg" },                // 0
-                { data: "leg_search" },         // 1
-                { data: "Team" },               // 2
-                { data: "Category" },           // 3
-                { data: "Name" },               // 4
-                { data: "name_sort" },          // 5
-                { data: "Time" },               // 6
-                { data: "time_secs_sort" },     // 7
-                { data: "Distance" },           // 8
-                { data: "Start" },              // 9
-                { data: "Finish" },             // 10
-                { data: "Date" },               // 11
-                { data: "date_sort" },          // 12
-            ],
-            "pageLength": 25, // initial page length
-            "order": [[11, 'desc'], [0, 'asc'], [6, 'asc']], // initial sort - Date, Leg, Time
-            columnDefs: [
-                { // hidden columns
-                    "visible": false,
-                    "targets": [1, 5, 7, 12]  // leg_search, name_sort, time_secs_sort, date_sort
-                },
-                { // non-searchable columns
-                    "searchable": false,
-                    "targets": [0, 5, 7, 12]  // Leg, name_sort, time_secs_sort, date_sort
-                },
-                { // non-sortable columns
-                    "orderable": false,
-                    "targets": [2, 3, 9, 10] // Team, Category, Start, Finish
-                },
-                { // column sort remapping
-                    targets: [4], // Name
-                    orderData: [5] // name_sort
-                },
-                { // column sort remapping
-                    targets: [6], // Time
-                    orderData: [7] // time_sort
-                },
-                { // column sort remapping
-                    targets: [11], // Date
-                    orderData: [12] // date_sort
-                },
-                { "width": "0px", "targets": 0 },   // Leg
-                { "width": "0px", "targets": 3 },   // Category
-                { "width": "0px", "targets": 6 },   // Time
-                { "width": "0px", "targets": 8 },   // Distance
-                { "width": "0px", "targets": 11 },  // Date
-            ],
-        });
-        cwrTable.rows.add(cwrData).draw();
-    </script>
-    {% elsif page.datatable == "raceseries" %}
-    <script>
-        var raceSeriesData =  {{ site.data.raceseries | jsonify }} ;
-    
-        function initializeDataTable(category, data) {
-            var table = $(`#site_data_raceseries_${category}`).DataTable({
-                "paging": true,
-                "info": true,
-                "columns": [
-                    { data: "Name" },            // 0
-                    { data: "bourton10k" },      // 1
-                    { data: "bristol" },         // 2
-                    { data: "berkeley" },        // 3
-                    { data: "bourton1mile" },    // 4
-                    { data: "cleeve" },          // 5
-                    { data: "midsummer" },       // 6
-                    { data: "haresfield" },      // 7
-                    { data: "bugatti" },         // 8
-                    { data: "cheltenhamhalf" },  // 9
-                    { data: "angels" },          // 10
-                    { data: "stroudhalf" },      // 11
-                    { data: "glosxc" },          // 12
-                    { data: "total" },           // 13
-                    { data: "rank" },            // 14
-                    { data: "average" },         // 15
-                ],
-                "pageLength": 10, // initial page lengths
-                "order": [[14, 'asc'], [15, 'asc'], [13, 'desc']], // initial sort - rank, average, total
-                "columnDefs": [
-                    {
-                        "targets": 14,  // Rank column
-                        "render": function (data, type, row) {
-                            // Use Infinity for null/empty values when sorting so they appear last
-                            return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
-                        }
-                    },
-                    {
-                        "type": "num",
-                        "targets": "_all",
-                        "render": function (data, type, row, meta) {
-                            return data === "" ? '\uFFFF' : data;
-                        }
-                    },
-                    {
-                        "type": "string",
-                        "targets": "_all",
-                        "render": function (data, type, row, meta) {
-                            return data === "" ? '\uFFFF' : data;
-                        }
+      { data: "Name" },
+      { data: "bourton10k" },
+      { data: "bristol" },
+      { data: "countychamps" },
+      { data: "bourton1mile" },
+      { data: "cirencester" },
+      { data: "frampton" },
+      { data: "midsummer" },
+      { data: "bugatti" },
+      { data: "angels" },
+      { data: "stroud" },
+      { data: "participationbonus" },
+      { data: "total" },
+      { data: "rank", defaultContent: "" },
+    ],
+            "pageLength": 10, // initial page lengths
+            "order": [[13, 'asc'], [12, 'desc'], [1, 'desc']], // initial sort - rank, total, name
+            "columnDefs": [
+                {
+                    "targets": 13,  // Rank column
+                    "render": function (data, type, row) {
+                        // Use Infinity for null/empty values when sorting so they appear last
+                        return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
                     }
-                ],
-            });
-    
-            if (data.length === 0) {
-                $(`#site_data_raceseries_${category}`).hide();
-            } else {
-                table.rows.add(data).draw();
-            }
-        }
-    
-        var categories = ["MO", "FO", "MV40", "FV40", "MV50", "FV50", "MV60", "FV60", "MV70"];
-    
-        categories.forEach(category => {
-            var data = raceSeriesData.filter(f => f.Category === category);
-            initializeDataTable(category, data);
+                },
+                {
+                    "type": "num",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ],
         });
-    </script>    
+  } else {
+    var table = $(`#site_data_raceseries2025_${category}`).DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Name" },            // 0
+                { data: "bourton10k" },      // 1
+                { data: "bristol" },         // 2
+                { data: "countychamps" },    // 3
+                { data: "bourton1mile" },    // 4
+                { data: "cleeve" },          // 5
+                { data: "cirencester" },     // 6
+                { data: "frampton" },        // 7
+                { data: "midsummer" },       // 8
+                { data: "bugatti" },         // 9
+                { data: "woodchester" },     // 10
+                { data: "angels" },          // 11
+                { data: "stroud" },          // 12
+                { data: "participationbonus" },// 13
+                { data: "total" },           // 14
+                { data: "rank", defaultContent: ""},            // 15
+            ],
+            "pageLength": 10, // initial page lengths
+            "order": [[15, 'asc'], [14, 'desc'], [0, 'asc']], // initial sort - rank, total, name
+            "columnDefs": [
+                {
+                    "targets": 15,  // Rank column
+                    "render": function (data, type, row) {
+                        // Use Infinity for null/empty values when sorting so they appear last
+                        return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                    }
+                },
+                {
+                    "type": "num",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ],
+        });
+  }
+
+
+        if (data.length === 0) {
+            $(`#site_data_raceseries2025_${category}`).hide();
+        } else {
+            table.rows.add(data).draw();
+        }
+    }
+
+    var categories = ["MO", "FO", "AG"];
+
+    categories.forEach(category => {
+        var data = raceSeriesData.filter(f => f.Category === category);
+        initializeDataTable(category, data);
+    });
+</script>
 {% endif %}

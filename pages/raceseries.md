@@ -87,7 +87,7 @@ At the end of the year, prizes will be awarded at the Christmas do. This will be
             <th data-field="glosxc"><div class="vertical-text">Glos League XC</div></th>
             <th data-field="total">Total (best 6)</th>
             <th data-field="rank">Rank (min. 6 fixtures)</th>
-            <th data-field="rank">Average</th>
+            <th data-field="average">Average</th>
         </tr>
     </thead>
 </table>
