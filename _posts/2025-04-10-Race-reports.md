@@ -30,7 +30,7 @@ Over the much shorter 5k distance over in Calne, Eoin McQuone clocked his first 
 Rich Elsworthy powers to first placed a new course record in the Cleevewold event
 
 ![CLC Striders at the Cleevewold event, from left to right: Pete Duffy, Gavin woods, Liza Bradshaw, Gavin Jerman, Jon Howes, Tom Fletcher, Rich Elsworthy and Helen Knight
-](/images/2025/03/2025-04-10-Cleevewold-team.jpg "CLC Striders at the Cleevewold event, from left to right: Pete Duffy, Gavin woods, Liza Bradshaw, Gavin Jerman, Jon Howes, Tom Fletcher, Rich Elsworthy and Helen Knight")
+](/images/2025/04/2025-04-10-Cleevewold-team.jpg "CLC Striders at the Cleevewold event, from left to right: Pete Duffy, Gavin woods, Liza Bradshaw, Gavin Jerman, Jon Howes, Tom Fletcher, Rich Elsworthy and Helen Knight")
 
 CLC Striders at the Cleevewold event, from left to right: Pete Duffy, Gavin woods, Liza Bradshaw, Gavin Jerman, Jon Howes, Tom Fletcher, Rich Elsworthy and Helen Knight
 
