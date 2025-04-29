@@ -16,13 +16,13 @@ Competing in the Berkeley 10k, Pete Duffy, 4th overall, ran a superb time of 34:
 
 At the season’s opening Gloucestershire Spring Open athletics meeting over at the Blackbridge Track in Gloucester, Rob Hyams and Rachel Vines ran in the 3000m. Official results are pending at the time of writing, but Rob came home in 10:38-ish and Rachel clocked a sub-12-minute time.
 
-![Pictured: Will Pearce at the end of the London marathon](/images/2025/04/2025-04-29-Will-Pearce.jpg "Will Pearce at the end of the London marathon")
+![Pictured: Will Pearce at the end of the London marathon](/images/2025/04/2025-04-29-Will-Pearce.jpeg "Will Pearce at the end of the London marathon")
 Pictured: Will Pearce at the end of the London marathon
 
-![Pictured: Paul Northup and Helen Knight at the end of the London marathon](/images/2025/04/2025-04-29-PN-HK.jpg "Paul Northup and Helen Knight at the end of the London marathon")
+![Pictured: Paul Northup and Helen Knight at the end of the London marathon](/images/2025/04/2025-04-29-PN-HK.jpeg "Paul Northup and Helen Knight at the end of the London marathon")
 Pictured: Paul Northup and Helen Knight at the end of the London marathon
 
-![Pictured: Fiona Brady-Miller at the end of the London marathon](/images/2025/04/2025-04-29-FBM.jpg "Fiona Brady-Miller at the end of the London marathon")
+![Pictured: Fiona Brady-Miller at the end of the London marathon](/images/2025/04/2025-04-29-FBM.jpeg "Fiona Brady-Miller at the end of the London marathon")
 Pictured: Fiona Brady-Miller at the end of the London marathon
 
 
