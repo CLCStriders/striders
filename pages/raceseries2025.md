@@ -11,7 +11,7 @@ permalink: /raceseries2025
 - 26 February – Bourton 10km
 - 6 April – Bristol Track Club 5km Day
 - 27 April – 3000m Track County Champs
-- 09 May – Bourton Mile
+- 9 May – Bourton Mile
 - 28 May – Cleeve Cloud Cuckoo
 - 11 June – Cirencester Park 10k
 - 7 July – Frampton 10k
@@ -22,9 +22,8 @@ permalink: /raceseries2025
 - 26 October – Stroud Half
 
 Participation Races:
-- Gloucester XC Races 1/2/3 (if scheduled in 2025)
+- Gloucester XC Races 1/2/3
 - Birmingham/Midland League XC - Races 1/2
-- Sprint 6/12 Stage Road Relays
 - Autumn 4/6 Stage Road Relays
 - Cotswold Way Relay
 
