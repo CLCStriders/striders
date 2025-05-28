@@ -23,7 +23,7 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 {:.display}
 |Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
-|Race vest| <a href="/images/kit/Race_vest_1.jpg"><img src=" /images/kit/Race_vest_1.jpg" width="100">|Unisex|Club colours|£22|
+|Race vest| <a href="/images/kit/NewVest.jpg"><img src=" /images/kit/NewVest.jpg" width="150">|Mens & Ladies fit|Club colours|£22|
 |Plain vest| <a href="/images/kit/Plain_vest.jpg"><img src=" /images/kit/Plain_vest.jpg" width="100"> |Mens & Ladies fit|Green, black, white, fluorescent yellow|£12|
 |Plain short sleeved training t-shirt| <a href="/images/kit/Kit2018_01.jpg"><img src=" /images/kit/Kit2018_01.jpg" width="100"></a>|Mens & Ladies fit|Green, black, white, fluorescent yellow|£13|
 
