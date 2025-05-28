@@ -13,7 +13,7 @@ The club offers a range of items to proudly wear the CLC Striders name and badge
 {:.display}
 |Description|Photo|Fit|Colour Options|Price|
 |--- |--- |--- |--- |--- |
-|Softshell jacket| <a href="/images/kit/Softshell_jacket.jpg"><img src=" /images/kit/Softshell_jacket.jpg" width="100"> |Unisex|Club colours|£26|
+|Softshell jacket| <a href="/images/kit/Softshell_jacket.jpg"><img src=" /images/kit/Softshell_jacket.jpg" width="100"> |Mens & Ladies fit|Club colours|£25|
 |Waterproof jacket|<a href="/images/kit/kit_2.jpg"><img src=" /images/kit/kit_2.jpg" width="100"></a>|Unisex|Club colours|£38|
 |Hoodie| <a href="/images/kit/kit_2.jpg"><img src=" /images/kit/kit_2.jpg" width="100"></a>|Unisex|Club colours|£32|
 |Buffs| <a href="/images/kit/Buff.jpg"><img src=" /images/kit/Buff.jpg" width="100">|Unisex|Club colours|£5|
