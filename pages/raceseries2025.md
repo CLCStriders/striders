@@ -14,8 +14,8 @@ permalink: /raceseries2025
 - 9 May – Bourton Mile
 - 28 May – Cleeve Cloud Cuckoo
 - 11 June – Cirencester Park 10k
+- 2 July – Midsummer Open 1-Mile
 - 7 July – Frampton 10k
-- 23 July (TBC) – Midsummer Open 1-Mile
 - 6 August - Bugatti 10km
 - 7 September – Woodchester Trail Challenge
 - 14 September - Angels 10km
