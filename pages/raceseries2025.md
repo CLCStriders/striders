@@ -14,8 +14,8 @@ permalink: /raceseries2025
 - 9 May – Bourton Mile
 - 28 May – Cleeve Cloud Cuckoo
 - 11 June – Cirencester Park 10k
+- 2 July – Midsummer Open 1-Mile
 - 7 July – Frampton 10k
-- 23 July (TBC) – Midsummer Open 1-Mile
 - 6 August - Bugatti 10km
 - 7 September – Woodchester Trail Challenge
 - 14 September - Angels 10km
@@ -41,7 +41,7 @@ There will be three competitions within the series with prizes up for grabs for 
 
 We will check the race results afterwards to see which Striders have run, so you will automatically be entered into the series standings on our website. And if you run at least 5 of the races you will qualify with a final ranking in the competition.
 
-Another change for 2025 is the addition of the above listed ‘Participation Races’. These races will not count towards the minimum 5 qualifying races but will give you a chance to boost your score significantly!
+Another change for 2025 is the addition of the above listed ‘Participation Races’. These races will not count towards the minimum 5 qualifying races but will give you a chance to boost your score significantly! Athletes will be awarded 5 points for each participation race that they finish.
 
 At the end of the year, prizes will be awarded at the Christmas party.
 
