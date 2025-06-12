@@ -14,12 +14,12 @@ permalink: /raceseries2025
 - 9 May – Bourton Mile
 - 28 May – Cleeve Cloud Cuckoo
 - 11 June – Cirencester Park 10k
-- 2 July – Midsummer Open 1-Mile
-- 7 July – Frampton 10k
-- 6 August - Bugatti 10km
-- 7 September – Woodchester Trail Challenge
-- 14 September - Angels 10km
-- 26 October – Stroud Half
+- 2 July – [Midsummer Open 1-Mile](https://meets.rosterathletics.com/public/competitions/details/about?id=27037)
+- 7 July – [Frampton 10k](https://race-nation.co.uk/register/stroud-district-ac/frampton-10k-2025)
+- 6 August - [Bugatti 10km](https://www.entrycentral.com/bugatti10k)
+- 7 September – [Woodchester Trail Challenge](https://race-nation.co.uk/register/stroud-district-ac/woodchester-park-2025)
+- 14 September - [Angels 10km](https://www.entrycentral.com/angels10k)
+- 26 October – [Stroud Half](https://www.stroudhalf.com/)
 
 Participation Races:
 - Gloucester XC Races 1/2/3
