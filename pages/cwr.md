@@ -20,6 +20,7 @@ Runners who have completed all 10 legs of the competition are awarded a **King o
 - **Billy Bradshaw** - King of the Cotswolds 03/07/2021
 - **Jon Howes** - King of the Cotswolds 03/07/2021
 - **Nikki Smith** - Queen of the Cotswolds 01/07/2023
+- **Liza Bradshaw** - Queen of the Cotswolds 06/07/2024
 
 #### Fastest times
 
@@ -38,7 +39,7 @@ The club members' fastest times for each leg are:
 | 7 | Jon Howes | 56:41 | 7.2 mi | Dursley | Wotton U Edge | 28/06/2014 |
 | 8 | Chris Driskell | 1:30:07 | 12 mi | Wotton U Edge | Old Sodbury | 24/06/2017 |
 | 9 | Nick Barry | 1:04:35 | 9.2 mi | Old Sodbury | Cold Ashton | 25/06/2016 |
-| 10 | John Comer | 1:08:40 | 9.3 mi | Cold Ashton (new length) | Bath Victoria Park | 02/07/2022 |
+| 10 | Max Harrison-Tosatto | 1:06:16 | 9.8 mi | Cold Ashton | Bath Victoria Park | 06/07/2023 |
 
 ##### Women
 
