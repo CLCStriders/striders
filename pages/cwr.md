@@ -47,13 +47,13 @@ The club members' fastest times for each leg are:
 | 1 | Rachael Cary | 1:31:01 | 12 | Chipping Campden | Stanway House | 27/06/2015 |
 | 2 | Liza Barry | 1:39:28 | 11.5 | Stanway House | Cleeve Common | 29/06/2013 |
 | 3 | Alice Johnston | 1:10:06 | 8.2 | Cleeve Common | Seven Springs | 29/06/2013 |
-| 4 | Liza Bradshaw | 1:35:14 | 12.2 | Seven Springs (new length) | Cranham Corner | 02/07/2022 |
+| 4 | Liza Bradshaw | 1:35:14 | 12.2 | Seven Springs | Cranham Corner | 02/07/2022 |
 | 5 | Liza Barry | 1:27:22 | 11.7 | Cranham Corner | Ebley Mill | 25/06/2016 |
 | 6 | Liza Barry | 1:09:36 | 8.8 | Dudbridge | Dursley | 27/06/2015 |
 | 7 | Katie Truslove | 59:14 | 7.2 | Dursley | Wotton U Edge | 27/06/2015 |
 | 8 | Liza Barry | 1:33:52 | 12 | Wotton U Edge | Old Sodbury | 25/06/2011 |
 | 9 | Katie Truslove | 1:12:21 | 9.2 | Old Sodbury | Cold Ashton | 25/06/2016 |
-| 10 | Helen Knight | 1:12:09 | 8.9 | Cold Ashton (new route) | Bath Victoria Park | 03/07/2021 |
+| 10 | Helen Knight | 1:12:09 | 8.9 | Cold Ashton | Bath Victoria Park | 03/07/2021 |
 
 #### Club results
 
