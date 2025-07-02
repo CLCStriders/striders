@@ -243,7 +243,7 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 4,leg4,CLC Striders White,Mixed,Nikki Smith,Nikki Smith,2:17:24,8244,12.8,Seven Springs,Cranham Corner,29/06/2019,20190629
 5,leg5,CLC Striders White,Mixed,Loius Fievet,Loius Fievet,1:32:55,5575,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
 5,leg5,CLC Striders Green,Veterans,Jon Howes,Jon Howes,1:33:45,5625,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
-5,leg5,CLC Striders Black,Women,Laura Fletcher,Laura Fletcher,2:09:24,7764,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
+5,leg5,CLC Striders Black,Women,Laura Leaver,Laura Leaver,2:09:24,7764,11.8,Cranham Corner,Ebley Mill,29/06/2019,20190629
 6,leg6,CLC Striders Green,Veterans,Eoin McQuone,Eoin McQuone,1:27:02,5222,8.8,Dudbridge,Dursley,29/06/2019,20190629
 6,leg6,CLC Striders Black,Women,Helen Howes,Helen Howes,1:33:40,5620,8.8,Dudbridge,Dursley,29/06/2019,20190629
 6,leg6,CLC Striders White,Mixed,Cerys Jones,Cerys Jones,1:51:07,6667,8.8,Dudbridge,Dursley,29/06/2019,20190629
@@ -316,7 +316,7 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 9,leg9,CLC Storm Clouds,Mixed,Helen Knight,Helen Knight,1:16:04,4564,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
 9,leg9,CLC Lightning Bolts,Veterans,James Babbage,James Babbage,1:23:07,4987,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
 9,leg9,CLC Thunderclaps,Mixed,Nikki Smith,Nikki Smith,1:32:05,5525,9.1,Old Sodbury,Cold Ashton,02/07/2022,20220702
-10,legx,CLC Storm Clouds,Mixed,Laura Rose,Laura Rose,1:37:42,5862,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
+10,legx,CLC Storm Clouds,Mixed,Laura Leaver,Laura Leaver,1:37:42,5862,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
 10,legx,CLC Lightning Bolts,Veterans,John Comer,John Comer,1:08:40,4120,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
 10,legx,CLC Thunderclaps,Mixed,- No Runner -,zzz,2:15:00,8100,9.3,Cold Ashton (new length),Bath Victoria Park,02/07/2022,20220702
 1,leg1,CLC Thunderclaps,Open,Adam Greenwood,Adam Greenwood,1:38:32,5912,12,Chipping Campden,Stanway House,01/07/2023,20230701
