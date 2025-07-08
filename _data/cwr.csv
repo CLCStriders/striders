@@ -379,3 +379,33 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 10,legx,CLC Thunderclaps,Veterans,Eoin McQuone,Eoin McQuone,1:26:31,5191,9.8,Cold Ashton,Bath Victoria Park,06/07/2024,20240706
 10,legx,CLC Lightning Bolts,Mixed,Max Harrison-Tosatto,Max Harrison-Tosatto,1:06:16,3976,9.8,Cold Ashton,Bath Victoria Park,06/07/2024,20240706
 10,legx,CLC Storm Clouds,Mixed,Jamie Hartnoll,Jamie Hartnoll,1:29:40,5380,9.8,Cold Ashton,Bath Victoria Park,06/07/2024,20240706
+1,leg1,CLC Thunderclaps,Mixed,Sophie Longmore,Sophie Longmore,1:41:26,6086,12,Chipping Campden,Stanway House,05/07/2025,20250705
+1,leg1,CLC Storm Clouds,Ladies,Emma Abbey,Emma Abbey,2:07:29,7649,12,Chipping Campden,Stanway House,05/07/2025,20250705
+1,leg1,CLC Hurricanes,Open,Colin Upton,Colin Upton,2:01:13,7273,12,Chipping Campden,Stanway House,05/07/2025,20250705
+2,leg2,CLC Thunderclaps,Mixed,Philip Abbey,Philip Abbey,2:06:26,7586,11.8,Stanway House,Cleeve Common,05/07/2025,20250705
+2,leg2,CLC Storm Clouds,Ladies,Nicola Weager,Nicola Weager,2:24:13,8653,11.8,Stanway House,Cleeve Common,05/07/2025,20250705
+2,leg2,CLC Hurricanes,Open,Jamie Hartnoll,Jamie Hartnoll,1:41:14,6074,11.8,Stanway House,Cleeve Common,05/07/2025,20250705
+3,leg3,CLC Thunderclaps,Mixed,Heather Ip,Heather Ip,2:21:41,8501,10.9,Cleeve Common,Hartley Lane,05/07/2025,20250705
+3,leg3,CLC Storm Clouds,Ladies,Scarlett Bell,Scarlett Bell,1:31:43,5503,10.9,Cleeve Common,Hartley Lane,05/07/2025,20250705
+3,leg3,CLC Hurricanes,Open,Liam Richardson,Liam Richardson,1:31:25,5485,10.9,Cleeve Common,Hartley Lane,05/07/2025,20250705
+4,leg4,CLC Thunderclaps,Mixed,Julia Rose,Julia Rose,2:03:12,7392,12.4,Hartley Lane,Painswick (new location),05/07/2025,20250705
+4,leg4,CLC Storm Clouds,Ladies,Ellie Pudifoot,Ellie Pudifoot,1:39:14,5954,12.4,Hartley Lane,Painswick (new location),05/07/2025,20250705
+4,leg4,CLC Hurricanes,Open,Paul Lockyer,Paul Lockyer,1:53:53,6833,12.4,Hartley Lane,Painswick (new location),05/07/2025,20250705
+5,leg5,CLC Thunderclaps,Mixed,👑 Nikki Smith,Nikki Smith,1:36:52,5812,9.3,Painswick (new location),Ebley Mill,05/07/2025,20250705
+5,leg5,CLC Storm Clouds,Ladies,Fiona Brady-Miller,Fiona Brady-Miller,1:26:41,5201,9.3,Painswick (new location),Ebley Mill,05/07/2025,20250705
+5,leg5,CLC Hurricanes,Open,Rich Elsworthy,Rich Elsworthy,1:00:24,3624,9.3,Painswick (new location),Ebley Mill,05/07/2025,20250705
+6,leg6,CLC Thunderclaps,Mixed,Gavin Jerman,Gavin Jerman,1:28:42,5322,8.7,Dudbridge,Dursley,05/07/2025,20250705
+6,leg6,CLC Storm Clouds,Ladies,Laura Elsworthy,Laura Elsworthy,1:49:51,6591,8.7,Dudbridge,Dursley,05/07/2025,20250705
+6,leg6,CLC Hurricanes,Open,Tom Fletcher,Tom Fletcher,1:14:21,4461,8.7,Dudbridge,Dursley,05/07/2025,20250705
+7,leg7,CLC Thunderclaps,Mixed,Jo Thomson,Jo Thomson,1:21:50,4910,7.5,Dursley,Wotton Under Edge,05/07/2025,20250705
+7,leg7,CLC Storm Clouds,Ladies,Sarah Bergdahl,Sarah Bergdahl,1:08:58,4138,7.5,Dursley,Wotton Under Edge,05/07/2025,20250705
+7,leg7,CLC Hurricanes,Open,Sam Templeton,Sam Templeton,1:30:00,5400,7.5,Dursley,Wotton Under Edge,05/07/2025,20250705
+8,leg8,CLC Thunderclaps,Mixed,Si Thomson,Si Thomson,2:07:23,7643,12.1,Wotton Under Edge,Old Sodbury,05/07/2025,20250705
+8,leg8,CLC Storm Clouds,Ladies,Karlien Heyrman,Karlien Heyrman,1:45:03,6303,12.1,Wotton Under Edge,Old Sodbury,05/07/2025,20250705
+8,leg8,CLC Hurricanes,Open,Rob Hyams,Rob Hyams,1:40:03,6003,12.1,Wotton Under Edge,Old Sodbury,05/07/2025,20250705
+9,leg9,CLC Thunderclaps,Mixed,Gary Farquharson,Gary Farquharson,1:20:57,4857,9.3,Old Sodbury,Cold Ashton,05/07/2025,20250705
+9,leg9,CLC Storm Clouds,Ladies,Helen Howes,Helen Howes,1:29:26,5366,9.3,Old Sodbury,Cold Ashton,05/07/2025,20250705
+9,leg9,CLC Hurricanes,Open,Ed Collier,Ed Collier,1:44:06,6246,9.3,Old Sodbury,Cold Ashton,05/07/2025,20250705
+10,legx,CLC Thunderclaps,Mixed,Ed Thompson,Ed Thompson,1:44:39,6279,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
+10,legx,CLC Storm Clouds,Ladies,Kate Telford,Kate Telford,1:20:21,4821,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
+10,legx,CLC Hurricanes,Open,James Babbage,James Babbage,1:34:48,5688,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
