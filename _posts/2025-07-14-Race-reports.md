@@ -1,0 +1,30 @@
+---
+title: 'CLC Striders race round up'
+layout: post
+categories:
+  - Race reports
+
+---
+
+#### Frampton 10k - Monday 7 July 2025 
+
+While not quite a staple of the Gloucestershire calendar, there's a special something about Frampton-on-Severn that brought 505 runners from 35 different clubs to Junction 13 of the M5. Perhaps it was the promise of a free Aston Manor Cider offered afterwards.
+
+Among strong competition from local rivals Cheltenham & County Harriers, Stroud & District, and Severn AC, nine Striders raced on the evening, coming back with strong results.
+
+Frampton is a lightly-undulating course, mostly on tarmac - making for extremely favourable conditions. Our runners outran the field as well as their sunburns. In the open category, Joe Willgoss (34:07), Pete Duffy (34:19), and Max Harrison-Tosatto (34:34) were the first home for the Striders - coming in at 7th, 8th, and 9th respectively. This was Max's first race after injury; what a way to bounce back!
+
+Adam Greenwood (40:23) clocked in a strong time, just ahead of Kate Telford (40:35) who finished 5th in the Female category. Also in good form on the evening were Joel Freeland (46:21) and Morwenna Suleiman (46:30).
+
+Colin Upton (50:13) placed himself comfortably in the top half of the V50 Category, while course veteran Edward Collier (55:16) rounded up the evening, having raced Frampton more times than any of us can remember.
+
+CLC Striders placed as second men’s team, just behind Western Tempo. Well done to everyone who competed!
+
+
+![Frampton 10k](/images/2025/07/2025-07-14-Frampton-10k.jpg "Frampton 10k")
+
+Pictured from left to right at the Frampton 10k - Adam Greenwood, Joe Willgoss, Joel Freeland, Kate Telford, Colin Upton, Morwenna Suleiman, Ed Collier
+
+
+
+
