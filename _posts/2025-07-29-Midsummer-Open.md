@@ -1,5 +1,5 @@
 ---
-title: 'CLC Striders race report'
+title: 'CLC Striders race report for Midsummer Open 3'
 layout: post
 categories:
   - Race reports

@@ -8,7 +8,6 @@ categories:
 
 #### Cleeve Cloud Cuckoo and Stroud Beer Race, Wednesday 28 May 2025
 
-
 On a bright and breezy late May evening, athletes from CLC Striders headed for the hills.
 
 At the local Cleeve Cloud Cuckoo event, hosted by Cheltenham Harriers, and surely one of the most challenging but rewarding of local races, no fewer than 22 Striders turned out to pit themselves against the ascents and descents around Cleeve Common. It was to prove a very successful evening for the club, with a hat-trick of race winners completed in 2023, 2024 and now 2025.

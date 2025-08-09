@@ -24,4 +24,4 @@ Meanwhile, elsewhere in the County over in the Forest of Dean, Helen Knight and 
 
 ![Rob Barnett coming home 4th in the Half Marathon race](/images/2025/03/2025-03-30-Berkeley-half.jpg "Rob Barnett coming home 4th in the Half Marathon race")
 
-![JHelen Knight and Fiona Brady-Miller at the Forest of Dean Half](/images/2025/03/2025-03-30-FOD-half.jpg "Helen Knight and Fiona Brady-Miller at the Forest of Dean Half")
+![Helen Knight and Fiona Brady-Miller at the Forest of Dean Half](/images/2025/03/2025-03-30-FOD-half.jpg "Helen Knight and Fiona Brady-Miller at the Forest of Dean Half")
