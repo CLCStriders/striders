@@ -1,6 +1,6 @@
 ---
 title: Monday social runs
-published: false
+published: true
 
 ---
 
