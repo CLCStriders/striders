@@ -23,7 +23,6 @@ Julia Rose in 1:43:48.2, Fiona Brady-Miller in 1:44:00.4, an injury-affected Mat
 In the 10k alternative distance on the day Helen Knight went comfortably sub-40 minutes in a time of 39:23 and Rachel Vines finished in a solid 42:13.
 
 ![Cheltenham half](/images/2025/09/2025-09-22-Cheltenham-half-1.jpg "Cheltenham half")
-<img src="(https://clcstriders-runningclub.co.uk/images/2025/09/2025-09-22-Cheltenham-half-1.jpg)" width="40%" height="40%">
 ![Cheltenham half](/images/2025/09/2025-09-22-Cheltenham-half-2.jpg "Cheltenham half")
 
 
