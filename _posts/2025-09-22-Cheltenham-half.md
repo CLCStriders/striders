@@ -6,7 +6,7 @@ categories:
 
 ---
 
-The annual Cheltenham Half Marathon event draws runners from all over the region and this year CLC Striders fielded no less than 33 runners. Conditions were calm and clear – after days of wind and rain – and the temperature had dropped too. All those on the start line were relieved and excited to test themselves around the Cheltenham streets over the 13.1-mile distance. There were some standout achievements, Championship qualifying times, and multiple PBs on the day – which, even though the course is not officially licensed and so don’t officially ‘count’, we are proud to list here.
+The annual Cheltenham Half Marathon event draws runners from all over the region and this year CLC Striders fielded no less than 34 runners. Conditions were calm and clear – after days of wind and rain – and the temperature had dropped too. All those on the start line were relieved and excited to test themselves around the Cheltenham streets over the 13.1-mile distance. There were some standout achievements, Championship qualifying times, and multiple PBs on the day – which, even though the course is not officially licensed and so don’t officially ‘count’, we are proud to list here.
  
 First home for the club, in a new PB (and London Marathon Championship entry qualifying time) was the talismanic Rob Green, who was 7th overall in a superb 1:10:48.3. Joe Willgoss was second Strider finisher, also recording a half marathon PB with a superb time of 1:13:59.6 for 11th place overall. Pete Duffy, running his first Home Half in Striders colours, was only 14 seconds behind in a PB time of 1:14:13.3 for 13th place and a gutsy run from Tom Fletcher earned him 32nd place in a PB time of 1:18:51.7.
  
@@ -23,7 +23,6 @@ Julia Rose in 1:43:48.2, Fiona Brady-Miller in 1:44:00.4, an injury-affected Mat
 In the 10k alternative distance on the day Helen Knight went comfortably sub-40 minutes in a time of 39:23 and Rachel Vines finished in a solid 42:13.
 
 ![Cheltenham half](/images/2025/09/2025-09-22-Cheltenham-half-1.jpg "Cheltenham half")
-
 ![Cheltenham half](/images/2025/09/2025-09-22-Cheltenham-half-2.jpg "Cheltenham half")
 
 
