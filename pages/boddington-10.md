@@ -8,7 +8,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
 routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
-state: closed
+state: opensoon
 
 ---
 
@@ -29,7 +29,7 @@ Entries for the Boddington 10 are currently closed.
 {% endif %}
  {% if page.state == "opensoon" %}
 <div class="alert alert-info" role="alert">
-Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 2025
+Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 2025
 </div>
 {% endif %}
 
@@ -37,7 +37,7 @@ Entries for the Boddington 10 will be available from 12PM on Sunday 24 November 
 
 ---
 
-CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 26 January 2025**, with a start time of **0900**.
+CLC Striders Running Club look forward to welcoming you at the  Boddington 10 Mile road race on **Sunday 25 January 2026**, with a start time of **0900**.
 
 This is an exciting road race for Gloucestershire established in 2024. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
  
