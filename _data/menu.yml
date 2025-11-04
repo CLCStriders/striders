@@ -6,8 +6,8 @@ items:
   display: News
 
 - name: CLC Striders Events 
-  url: /club-events
-  display: Events
+  url: /boddington-10
+  display: Boddington 10
 
 - name: Upcoming Fixtures 
   url: /fixtures 
