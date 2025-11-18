@@ -33,7 +33,7 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 </div>
 {% endif %}
 
-![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
+![Boddington 10 graphic](/assets/boddington/boddington10-2026-graphic.jpg "Boddington 10 graphic")
 
 ---
 
