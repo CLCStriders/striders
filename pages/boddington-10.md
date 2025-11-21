@@ -80,6 +80,15 @@ We would suggest that runners allow plenty of time to walk from the car park as 
 
 ---
 
+#### Race number 
+
+* Collect your race number and timing chip from Race HQ between 0745 and 0830. Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race
+* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time
+* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result
+* Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in
+
+---
+
 #### Race information
 
 To help make your race day experience the best it can be, please read the helpful information below. 
@@ -96,12 +105,19 @@ Please take all rubbish home with you or dispose of in bins at the finish.
 
 * **Please use Boddington Lane for your warm up runs**. The A4019 Tewkesbury Road and the road past the Elmstone Business Park are very busy, even on a Sunday morning, and not a safe location for running. A safe route will be marked from the Race HQ to the start line, please use the crossing point provided for your own safety.
 
-##### Race number 
+##### Course Description
+ 
+The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does four (4) laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
 
-* Collect your race number and timing chip from Race HQ between 0745 and 0830. Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race
-* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time
-* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result
-* Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in
+**Please note:** There is a short 200m out- and- back section on the 1st lap only.
+
+The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
+
+##### Route Map
+ 
+You will be able to review the route for the Boddington 10 race on [Strava](https://strava.app.link/kOtLaSvNyEb)
+ 
+Route Map: [Map]({{ page.routeMap }})
 
 ##### Race start
 
@@ -133,22 +149,6 @@ To ensure an enjoyable race experience for all runners and in the interest of lo
 Please join us at the [Clavell & Hind Brewery Tap](https://www.clavellandhind.co.uk/) for prize giving at 11.15. All competitors will receive a free drink.
 
 The [The Gloucester Old Spot](https://www.thegloucesteroldspot.co.uk/) and [Clavell & Hind Taproom](https://www.clavellandhind.co.uk/) will both be open shortly after the race for refreshments and food. Please do consider supporting these local independent businesses, without whom we would not be able to run the race. Please note that booking is advised if you would like to have lunch at the Gloucester Old Spot. 
-
----
- 
-#### Course Description
- 
-The race is a four-lap course. Starting at the top of Boddington Lane, it heads towards Boddington and then does four (4) laps of Boddington/Barrow finishing back on Boddington Lane outside the premises of Robert Hitchings.
-
-**Please note:** There is a short 200m out- and- back section on the 1st lap only.
-
-The entire route will be clearly signed and marshalled. Please note that road closures have **not** been applied for, so keep well to the left at all times (unless directed otherwise). 
-
-##### Route Map
- 
-You will be able to review the route for the Boddington 10 race on [Strava](https://strava.app.link/kOtLaSvNyEb)
- 
-Route Map: [Map]({{ page.routeMap }})
 
 --- 
 
