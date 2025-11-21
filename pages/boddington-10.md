@@ -43,7 +43,7 @@ This is an exciting road race for Gloucestershire established in 2024. A flat an
  
 As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
 
-
+---
 
 #### Quick Reference Guide
  
@@ -180,7 +180,7 @@ Soon after the race, we will post them on the [CLC Striders website](https://clc
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
---->
+---
 
 #### Official race photos
  
