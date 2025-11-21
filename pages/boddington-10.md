@@ -5,7 +5,7 @@ title: Boddington 10
 description: CLC Striders Boddington 10 mile race - information and results page
 permalink: /boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
-signUpYear: 2025
+signUpYear: 2026
 routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
 state: open
@@ -29,7 +29,7 @@ Entries for the Boddington 10 are currently closed.
 {% endif %}
  {% if page.state == "opensoon" %}
 <div class="alert alert-info" role="alert">
-Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 2025
+Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 2026
 </div>
 {% endif %}
 
