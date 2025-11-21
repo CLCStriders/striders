@@ -6,9 +6,9 @@ description: CLC Striders Boddington 10 mile race - information and results page
 permalink: /boddington-10
 signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2026
-routeMap  : /assets/boddington/boddington-10-route-map-2025.png
+routeMap  : /assets/boddington/boddington-10-route-map.png
 # open / full / closed / opensoon
-state: open
+state: opensoon
 
 ---
 
