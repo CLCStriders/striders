@@ -83,6 +83,12 @@ We would suggest that runners allow plenty of time to walk from the car park as 
 #### Race information
 
 To help make your race day experience the best it can be, please read the helpful information below. 
+
+There will be a large number of CLC Striders members out marshaling on the course. They will be there to guide you around the course. We have also placed a number of directional arrows and mile markers, too. Please note that marshals are not permitted to direct traffic, as road users have priority.
+
+There will be one water station at Barrow at approximately 2, 4, 6 and 8 miles. We are aiming to make this a low waste event, so please carry your own water bottle if you need it. You will be able to fill your bottle at the water station.
+
+Please take all rubbish home with you or dispose of in bins at the finish.
  
 * If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
 
@@ -102,13 +108,19 @@ To help make your race day experience the best it can be, please read the helpfu
 * The race briefing will take place at the start line at 0850
 * The race will start at 0900 and will be run under UK Athletics rules. 
 
-#### Cut off time
+##### Cut off time
 
 To ensure an enjoyable race experience for all runners and in the interest of local residents on the looped course, we will need to operate a cut off time. Please do not enter the race if you do not think a finish time of 2 hours or below for 10 miles is achievable. A 2 hour finish time would require an average pace of 12 min/mile or 7:27 min/km. Any runners entering the final loop (at 7.4 miles in) not on pace for a 2 hour finish will be asked to withdraw from the race as our marshals will no longer be available out on the course.
 
+##### At the Finish
+ 
+* Once you have crossed the finish line, please make sure you return the timing chip. 
+* After you cross the finish line, you will notice a group of timekeepers. Please do not distract them, as they need to concentrate and ensure everyone gets their correct result. 
+* If you drop out of the race, please notify one of the officials at the finish line so that we know you haven’t got lost out on the course. 
+* There will be water at the finish and space to get your breath back, but the space will be limited so we kindly ask you vacate the finish area and walk back to Race HQ as soon as you are able.
+
 ##### Post race
 
-* At the finish, don’t forget to return the timing chip
 * Join us at the Clavell & Hind Brewery Tap for prize giving at 11.15. All competitors will receive a free drink
 * Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch.
 
@@ -137,26 +149,6 @@ The entire route will be clearly signed and marshalled. Please note that road cl
 You will be able to review the route for the Boddington 10 race on [Strava](https://strava.app.link/kOtLaSvNyEb)
  
 Route Map: [Map]({{ page.routeMap }})
-
---- 
-
-#### Race details
- 
-##### The race itself
- 
-There will be a large number of CLC Striders members out marshaling on the course. They will be there to guide you around the course. We have also placed a number of directional arrows and mile markers, too. Please note that marshals are not permitted to direct traffic, as road users have priority.
-
-There will be one water station at Barrow at approximately 2, 4, 6 and 8 miles. We are aiming to make this a low waste event, so please carry your own water bottle if you need it. You will be able to fill your bottle at the water station.
-
-Please take all rubbish home with you or dispose of in bins at the finish.
- 
-##### At the Finish
- 
-After you cross the finish line, you will notice a group of timekeepers. Please do not distract them, as they need to concentrate and ensure everyone gets their correct result. 
- 
-If you drop out of the race, please notify one of the officials at the finish line so that we know you haven’t got lost out on the course. 
- 
-Once you have crossed the finish line, please make sure you return the timing chip. There will be water at the finish and space to get your breath back, but the space will be limited so we kindly ask you vacate the finish area and walk back to Race HQ as soon as you are able.
 
 --- 
 
