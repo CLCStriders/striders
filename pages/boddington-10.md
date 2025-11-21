@@ -29,7 +29,7 @@ Entries for the Boddington 10 are currently closed.
 {% endif %}
  {% if page.state == "opensoon" %}
 <div class="alert alert-info" role="alert">
-Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 2026
+Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 2026 via Entry Central
 </div>
 {% endif %}
 
@@ -37,30 +37,30 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 
 ---
 
-CLC Striders Running Club look forward to welcoming you at the Boddington 10 Mile road race on **Sunday 25 January 2026**, with a start time of **0900**.
+CLC Striders Running Club look forward to welcoming you at the Boddington 10-mile road race on Sunday 25 January 2026, with a start time of 0900.
 
-This is an exciting road race for Gloucestershire established in 2024. A flat and fast 10-mile race on quiet roads, with ample nearby parking and well organised Race HQ. 
- 
-As a club, CLC Striders is well used to staging very successful races. We’re sure that the Boddington 10 will be no different, quickly becoming a firm fixture in runners’ calendars.
+A flat and fast 10-mile race on quiet roads, with ample nearby parking and a well organised Race HQ, this is an exciting road race for Gloucestershire, established in 2024. 
+
+As a club, CLC Striders is well used to staging successful races and the Boddington 10 is no different, having quickly become a firm fixture in runners’ calendars.
 
 ---
 
 #### Quick Reference Guide
  
-* The UK Athletics licence number is #30107 
-* Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible
-* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available
-* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables
-* Race starts at 0900 at the top of Boddington Lane
-* Runners will be disqualified if they wear headphones except for bone-conducting headphones that meet the UKA Rules
-* You must be 18 or over to enter this race
-* If you are unable to race, please let us know so we can offer your place to someone else
+* The UK Athletics licence number is #30107.
+* Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible.
+* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available.
+* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables.
+* Race starts at 0900 at the top of Boddington Lane.
+* Runners will be disqualified if they wear headphones, except for bone-conducting headphones that meet the UKA Rules.
+* You must be 18 or over to enter this race.
+* If you are unable to race, please let us know so we can offer your place to someone else.
 
 --- 
 
 #### Race HQ
  
-Race Headquarters is located OUTSIDE The Gloucester Old Spot and the postcode for Race HQ is GL51 9SY. 
+Race Headquarters is located outside The Gloucester Old Spot - the postcode for Race HQ is GL51 9SY. 
  
 Members of CLC Striders will be there from 0745 for entrants to collect race numbers. 
 
@@ -68,13 +68,13 @@ Members of CLC Striders will be there from 0745 for entrants to collect race num
  
 #### Car Parking
  
-**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road as well as Stanboro Lane (50m before The Gloucester Old Spot if travelling from Cheltenham). 
+**From 0745**, members of CLC Striders will be helping runners find suitable car parking. We will be using the car park at The Gloucester Old Spot and the small industrial estate further along the road as well as Stanboro Lane (50m before The Gloucester Old Spot if travelling from Cheltenham).
 
 The first 50 drivers approaching from Cheltenham will be directed to park in Stanboro Lane. There is a short walk of up to 500m from this parking area – please use the footpath for your own safety.
 
 **Please note**: The Gloucester Old Spot car park must be vacated by 11.45 to allow their regular customers to park (unless you are planning to book a table at the pub for lunch), so if you are directed to park there, please move your car to the industrial estate car park after the race.
 
-We would suggest that runners allow plenty of time to walk from the car park as some of our car parks are a 10 minute walk from Race HQ. Please do not park anywhere other than guided by the marshals, under no circumstances should participants park on the road.
+We would suggest that runners allow plenty of time to walk from the car park as some of our car parks are a 10-minute walk from Race HQ. Please do not park anywhere other than guided by the marshals. Under no circumstances should participants park on the road.
 
 ![Car park plan](/assets/boddington/2024-01-15-Boddington-10-parking.jpg "Boddington 10 parking plan"){:width="750px" height="500px"}
 
@@ -82,10 +82,10 @@ We would suggest that runners allow plenty of time to walk from the car park as 
 
 #### Race number 
 
-* Collect your race number and timing chip from Race HQ between 0745 and 0830. Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race
-* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time
-* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip as we be relying on chip timing only for the results. Without this, you will not get a result
-* Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in
+* Collect your race number and timing chip from Race HQ between 0745 and 0830. Any runner who does not collect their race number by 0845 will have their place transferred to anyone from the waiting list that is ready to race.
+* When you get your race number, please write your name, emergency contact details and any important medical information on the reverse of your number. Please make sure your number is clearly visible on the front of your vest throughout the race. We need to ensure that we see your number at the finish line to give you an accurate time.
+* You will be given a timing chip which should be looped through your shoe laces. Instructions for fitting the timing chip to your shoes will be at Race HQ. It is important that you wear the chip, as we will be relying on chip timing only for the results. Without this, you will not get a result.
+* Your race number entitles you to 15% off at Up & Running (one of our race sponsors) for two weeks after the race. So please keep hold of it and pop in.
 
 ---
 
