@@ -33,7 +33,7 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 </div>
 {% endif %}
 
-![Boddington 10 graphic](/assets/boddington/boddington10-2025-graphic.jpg "Boddington 10 graphic")
+![Boddington 10 graphic](/assets/boddington/boddington10-2026-graphic.jpg "Boddington 10 graphic")
 
 ---
 
@@ -130,37 +130,26 @@ To ensure an enjoyable race experience for all runners and in the interest of lo
 
 ##### At the Finish
  
-* Once you have crossed the finish line, please make sure you return the timing chip. 
-* After you cross the finish line, you will notice a group of timekeepers. Please do not distract them, as they need to concentrate and ensure everyone gets their correct result. 
-* If you drop out of the race, please notify one of the officials at the finish line so that we know you haven’t got lost out on the course. 
-* There will be water at the finish and space to get your breath back, but the space will be limited so we kindly ask you vacate the finish area and walk back to Race HQ as soon as you are able.
+* Once you have crossed the finish line, please make sure you return the timing chip 
+* After you cross the finish line, you will notice a group of timekeepers. Please do not distract them, as they need to concentrate and ensure everyone gets their correct result
+* If you drop out of the race, please notify one of the officials at the finish line so that we know you haven’t got lost out on the course
+* There will be water at the finish and space to get your breath back, but the space will be limited so we kindly ask you vacate the finish area and walk back to Race HQ as soon as you are able
 
 ##### Post race
 
 * Join us at the Clavell & Hind Brewery Tap for prize giving at 11.15. All competitors will receive a free drink
-* Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch.
+* Please support our hosts The Gloucester Old Spot and Clavell & Hind by staying for a drink or booking for lunch
+* [Origin Health](https://originhealthgroup.com/) will be on hand offering post run massages and advice, they will be setup in the conservatory at the back of Clavell & Hind
 
-##### Post race massage and advice
+--- 
 
-[Origin Health](https://originhealthgroup.com/) will be on hand offering post run massages and advice, they will be setup in the conservatory at the back of Clavell & Hind.
-
-##### Prize giving
+#### Prize giving
  
 Please join us at the [Clavell & Hind Brewery Tap](https://www.clavellandhind.co.uk/) for prize giving at 11.15. All competitors will receive a free drink.
 
 The [The Gloucester Old Spot](https://www.thegloucesteroldspot.co.uk/) and [Clavell & Hind Taproom](https://www.clavellandhind.co.uk/) will both be open shortly after the race for refreshments and food. Please do consider supporting these local independent businesses, without whom we would not be able to run the race. Please note that booking is advised if you would like to have lunch at the Gloucester Old Spot. 
 
---- 
-
-#### Results
- 
-As long as there is a good signal at Race HQ, live results will be available via [Lush timing](https://www.arrowliveresults.com/Boddington10Mile).
- 
-Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
-
----
-
-#### Prizes 
+##### Prizes 
 
 Prizes will be awarded for the 1st, 2nd and 3rd placed men and women and the 1st placed men and women in the following age categories:  MV40, MV45, MV50, MV55, MV60, MV65, MV70, MV75, LV35, LV40, LV45, LV50, LV55, LV60, LV65, LV70, LV75.
 
@@ -176,6 +165,14 @@ Up & Running vouchers will be awarded as follows:
 * Age category win = £20
 * Course record bonus = £40
 * Team prize
+
+--- 
+
+#### Results
+ 
+As long as there is a good signal at Race HQ, live results will be available via [Lush timing](https://www.arrowliveresults.com/Boddington10Mile).
+ 
+Soon after the race, we will post them on the [CLC Striders website](https://clcstriders-runningclub.co.uk).
 
 --- 
 
