@@ -8,7 +8,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2025
 routeMap  : /assets/boddington/boddington-10-route-map-2025.png
 # open / full / closed / opensoon
-state: opensoon
+state: open
 
 ---
 
