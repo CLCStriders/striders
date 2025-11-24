@@ -1,6 +1,6 @@
 ---
 title: boddington
-published: closed
+published: false
 
 ---
 
