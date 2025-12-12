@@ -8,7 +8,7 @@ categories:
 
 #### Midland and Birmingham Cross Country Leagues, Race Day One - Saturday 15 November
 
- ##### Ladies Midland Cross-Country League – Race Day One, Leamington
+##### Ladies Midland Cross-Country League – Race Day One, Leamington
  
 Just managing to field the minimum team of four requisite runners, the CLC Striders ladies battled hard to finish as 8thteam on the day in their first regional league fixture of this winter season. With the ground well and truly saturated after Storm Claudia and a stream crossing to navigate it was a true test. Both the women’s regiona l Divisions were racing together, making for a field of just over 500 runners on the day.
  
