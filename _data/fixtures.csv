@@ -15,13 +15,13 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 27/04/2025,2025-04-27,<a href='https://www.gloucesterac.co.uk/events/open-meetings/'>Gloucester AC Spring Open Meeting 2025 & 3000m County Champs - Blackbridge Athletics Track Gloucester</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp,800m,&nbsp;1500m,&nbsp;3000m",0,Track
 04/09/2025,2025-09-04,<a href='https://www.gloucesterac.co.uk/events/open-meetings/'>Gloucester AC September Open Meeting 2025 - Blackbridge Athletics Track Gloucester</a>,"400m,&nbsp,600m,&nbsp;Mile,&nbsp;3000m",0,Track
 11/05/2025,2025-05-11,<a href='https://www.athletics4u.co.uk/track-and-field/'>Gloucestershire Track & Field Championships - Gloucester</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,",0,Track
-27/04/2025,2025-04-27,<a href='https://www.entrycentral.com/berkeley10-25/'>Berkeley 10k</a>,"10km",6.2,Road
+12/04/2026,2026-04-12,<a href='https://www.dursleyrunningclub.org.uk/berkeley-10k/'>Berkeley 10k</a>,"10km",6.2,Road
 02/07/2025,2025-07-02,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=27037'>Midsummer Open Track Meeting 1 - Blackbridge Track Gloucester</a>,"400m,&nbsp;Mile",0,Track
 09/07/2025,2025-07-09,<a href='https://meets.rosterathletics.com/public/competitions/details/about?id=27042'>Midsummer Open Track Meeting 2 - Blackbridge Track Gloucester</a>,"3000m",0,Track
 16/07/2025,2025-07-16,<a href='https://meets.rosterathletics.com/public/competitions/details/schedule?id=27043'>Midsummer Open Track Meeting 3 - Blackbridge Track Gloucester</a>,"800m,&nbsp;5000m",0,Track
 23/07/2025,2025-07-23,<a href='https://meets.rosterathletics.com/public/competitions/details/schedule?id=27048'>Midsummer Open Track Meeting 4 - Blackbridge Track Gloucester</a>,"600m,&nbsp;1500m",0,Track
 12/06/2024,2024-06-12,<a href='https://data.opentrack.run/en-gb/x/2024/GBR/jun-24-road-southwest-5km/'>South West PB Series 2024 - Race 1 5km</a>,"5km",3.1,Road
-21/09/2025,2025-09-21,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
+20/09/2026,2026-09-20,<a href='https://www.runcheltenham.com/'>Run Cheltenham Half Marathon</a>,"HM",13.1,Road
 20/09/2025,2025-09-20,Autumn 4 & 6 Stage Midland Road Relays (contact club captains),"_",3,Road
 17/03/2024,2024-03-17,<a href='https://bathhalf.co.uk'>Bath Half Marathon</a>,"HM",13.1,Road
 18/01/2026,2026-01-18,<a href='https://almostathletes.co.uk/races-and-events/linda-franks/'>Linda Franks Race</a>,"5mi",5,Road
@@ -33,24 +33,25 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 21/08/2024,2024-08-21,<a href='https://www.gloucesterac.co.uk/events/gloucester-5k/'>Gloucester 5k Haresfield</a>,"5km",3.1,Road
 30/03/2025,2025-03-30,<a href='https://cheltenhamharriers.co.uk/pages/cleevewold'>Cleevewold 14</a>,"14mi",14,MT
 05/05/2025,2025-05-05,<a href='https://cheltenhamharriers.co.uk/pages/brewer-games'>Brewer Games</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;3000m",0,Track
-09/05/2025,2025-05-09,<a href='https://www.bourtonroadrunners.co.uk/bourton_mile.htm'>Bourton 1 Mile</a>,"1mi",1,Road
-28/05/2025,2025-05-28,<a href='https://race-nation.co.uk/register/stroud-district-ac/stroud-beer-race-2025'>Stroud Beer Race</a>,"7.2mi",7.2,Road
-08/06/2025,2025-06-08,<a href='https://www.entrycentral.com/fairford10k/'>Fairford 10k</a>,"10km",6.2,Road
-11/06/2025,2025-06-11,<a href='https://www.entrycentral.com/CirenSummerSizzler'>Cirencester Park Summer Sizzler</a>,"10km",6.2,Road
-28/09/2025,2025-09-28,<a href='https://race-nation.co.uk/register/bourton-roadrunners/bourton-half-2025'>Bourton Half Marathon</a>,"HM",13.1,Road
-07/07/2025,2025-07-07,<a href='https://race-nation.co.uk/register/stroud-district-ac/frampton-10k-2025/'>Frampton 10k</a>,"10km",6.2,Road
-15/07/2025,2025-07-15,<a href='https://englandathletics.sport80.com/public/wizard/e/29795/home'>Red Hart Blaisdon 10k</a>,"10km",6.2,Road
-06/09/2025,2025-09-06,<a href='https://englandathletics.sport80.com/public/wizard/e/29788/home'>Cranham Boundary Chase</a>,"5.6mi",5.6,Road
-03/08/2025,2025-08-03,<a href='https://race-nation.co.uk/register/stroud-district-ac/standish-woodland-chase-2025'>Standish Woodland Chase</a>,"10mi",10,MT
-06/08/2025,2025-08-06,<a href='https://www.entrycentral.com/Bugatti10k/'>Bugatti 10k</a>,"10km",6.2,Road
+08/05/2026,2026-05-08,<a href='https://www.bourtonroadrunners.co.uk/bourton_mile.htm'>Bourton 1 Mile</a>,"1mi",1,Road
+27/05/2026,2026-05-27,<a href='https://stroudac.eventrac.co.uk/e/stroud-beer-race-13851'>Stroud Beer Race</a>,"7.2mi",7.2,Road
+07/06/2026,2026-06-07,<a href='https://www.entrycentral.com/fairford10k/'>Fairford 10k</a>,"10km",6.2,Road
+10/06/2026,2026-06-10,<a href='https://www.cirencesterac.com/sizzler-10k'>Cirencester Park Summer Sizzler</a>,"10km",6.2,Road
+27/09/2026,2026-09-27,<a href='https://www.bourtonroadrunners.co.uk/hillyhalf+funrun.htm'>Bourton Half Marathon</a>,"HM",13.1,Road
+29/06/2026,2026-06-29,<a href='https://stroudac.eventrac.co.uk/e/frampton-10k-13852'>Frampton 10k</a>,"10km",6.2,Road
+16/07/2026,2026-07-16,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Red Hart Blaisdon 10k</a>,"10km",6.2,Road
+05/09/2026,2026-09-05,<a href='https://severnac.com/cranham-boundary-chase/'>Cranham Boundary Chase</a>,"5.6mi",5.6,Road
+02/08/2026,2026-08-02,<a href='https://stroudac.eventrac.co.uk/e/standish-woodland-chase-13853'>Standish Woodland Chase</a>,"10mi",10,MT
+05/08/2026,2026-08-05,<a href='https://almostathletes.co.uk/bugatti-10k/'>Bugatti 10k</a>,"10km",6.2,Road
 25/08/2024,2024-08-25,<a href='https://sites.google.com/site/severnbridgehalfmarathon/'>Severn Bridge 10km & Half Marathon</a>,"10km,&nbsp;HM",6.2,Road
-29/08/2025,2025-08-29,<a href='https://almostathletes.co.uk/races-and-events/meteor-mile/'>Meteor Mile</a>,"1mi",1,Road
-07/09/2025,2025-09-07,<a href='https://race-nation.co.uk/register/stroud-district-ac/woodchester-park-2025/'>Woodchester Trail Challenge</a>,"8mi",8,MT
+28/08/2026,2026-08-28,<a href='https://almostathletes.co.uk/races-and-events/meteor-mile/'>Meteor Mile</a>,"1mi",1,Road
+06/09/2026,2026-09-06,<a href='https://stroudac.eventrac.co.uk/e/woodchester-trail-challenge-13848'>Woodchester Trail Challenge</a>,"8mi",8,MT
 21/09/2025,2025-09-21,<a href='https://www.entrycentral.com/chedworth10'>Chedworth Roman Trail</a>,"10mi",10,MT
-14/09/2025,2025-09-14,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
+13/09/2026,2026-09-13,<a href='https://www.angelsrunningclub.org.uk/angels-10k'>Angels 10k</a>,"10km",6.2,Road
 26/10/2025,2025-10-26,<a href='https://www.stroudhalf.com'>Stroud Half Marathon</a>,"HM",13.1,Road
-12/10/2025,2025-10-12,<a href='https://www.dursleyrunningclub.org.uk/'>Sharpness 4 Miles</a>,"4mi",4,Road
-02/11/2025,2025-11-02,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a>,"5mi",5,Road
+01/11/2026,2026-11-01,<a href='https://runcirencester.co.uk'>Cirencester Half Marathon</a>,"HM",13.1,Road
+11/10/2026,2026-10-11,<a href='https://www.dursleyrunningclub.org.uk/'>Sharpness 4 Miles</a>,"4mi",4,Road
+01/11/2026,2026-11-01,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a>,"5mi",5,Road
 17/07/2024,2024-07-17,<a href='https://data.opentrack.run/en-gb/x/2024/GBR/jul-24-road-southwest-5km/'>South West PB Series 2024 - Race 2 5km</a>,"5km",3.1,Road
 14/08/2024,2024-08-14,<a href='https://www.facebook.com/p/South-West-PB-Series-100066779344182/'>South West PB Series 2024 - Race 3 5km</a>,"5km",3.1,Road
 26/04/2025,2025-04-26,<a href='https://www.worcester-ac.co.uk/FixturesTandF.htm'>Worcester AC Open Track Meeting - April</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp;800m,&nbsp;1500m,&nbsp;5000m",0,Track
@@ -78,6 +79,10 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 01/03/2026,2026-03-01,<a href='https://race-nation.co.uk/register/new-berkeley-harriers/jenner-jog-10k-26/'>Jenner Jog</a>,"10km",6.2,Road
 15/05/2025,2025-05-15,<a href='https://englandathletics.sport80.com/public/wizard/e/29296/home?fbclid=IwY2xjawJSM-pleHRuA2FlbQIxMAABHW_jtxK5K0J-rhRKIXnhDv-Gw7fpbt8iaJiu23xXEE7nwOy4gEZQRTv6og_aem_XCsiZSI3IJsue1qaoUJ9ww'>The Fountain 5</a>,"5mi",5,MT
 18/06/2025,2025-06-18,<a href='https://www.malvernjoggers.co.uk/event/malvern-joggers-5k-10k-25'>Malvern Joggers 10k Trail</a>,"10km",6.2,MT
+
+
+
+
 
 
 
