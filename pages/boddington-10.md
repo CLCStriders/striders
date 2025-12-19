@@ -19,7 +19,7 @@ state: full
 {% endif %}
  {% if page.state == "full" %}
 <div class="alert alert-warning" role="alert">
-Unfortunately places in the {{ page.signUpYear }} Boddington 10 have sold out!
+Unfortunately places in the {{ page.signUpYear }} Boddington 10 have sold out! A waiting list can be joined at [EntryCentral.com/](https://www.entrycentral.com/boddington-10)
 </div>
 {% endif %}
  {% if page.state == "closed" %}
