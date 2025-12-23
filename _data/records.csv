@@ -51,7 +51,7 @@ Road,1,Men,xy,10km,10000,55-59,59,Paul Northup,39:34,2374,Bourton,23/02/2025,202
 Road,1,Men,xy,10km,10000,60-64,64,JJ Willson,41:21,2481,Castle Combe,06/12/2020,20201206
 Road,1,Men,xy,10km,10000,65-69,69,David James,47:25,2845,Aviator,14/06/2015,20150614
 Road,1,Men,xy,10km,10000,70-74,74,David James,44:37,2677,Berkeley,03/10/2021,20211003
-Road,1,Men,xy,10km,10000,75-79,79,David James,51:26,3086,Bourton,23/02/2025,20250223
+Road,1,Men,xy,10km,10000,75-79,79,David James,49:16,2956,Telford,14/12/2025,20251214
 Road,1,Men,xy,7mi,11263,U20,19,,,99999,,,99999999
 Road,1,Men,xy,7mi,11263,Senior,34,Nathan Jones,40:03,2403,"Pilot Inn, Gloucester",30/07/2009,20090730
 Road,1,Men,xy,7mi,11263,35-39,39,,,99999,,,99999999
@@ -75,7 +75,7 @@ Road,1,Men,xy,10mi,16090,70-74,74,,,99999,,,99999999
 Road,1,Men,xy,Half&nbsp;Marathon,21094,U20,19,George Parker,1:43:37,6217,Stroud,26/10/2014,20141026
 Road,1,Men,xy,Half&nbsp;Marathon,21094,Senior,34,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
 Road,1,Men,xy,Half&nbsp;Marathon,21094,35-39,39,Will Ferguson,1:09:54,4194,Reading,17/03/2019,20190317
-Road,1,Men,xy,Half&nbsp;Marathon,21094,40-44,44,Rob Green,1:10:0,4231,Stroud,26/10/2025,20251025
+Road,1,Men,xy,Half&nbsp;Marathon,21094,40-44,44,Rob Green,1:10:30,4230,Stroud,26/10/2025,20251025
 Road,1,Men,xy,Half&nbsp;Marathon,21094,45-49,49,James Endicott,1:20:20,4840,Stroud,26/10/2025,20251025
 Road,1,Men,xy,Half&nbsp;Marathon,21094,50-54,54,Charles Goodwin,1:22:02,4922,Cheltenham,27/09/2015,20150927
 Road,1,Men,xy,Half&nbsp;Marathon,21094,55-59,59,Andy Brookes,1:26:58,5218,Cheltenham,30/09/2018,20180930
@@ -665,6 +665,8 @@ parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park - C
 parkrun,5,Women,xx,5km,5000,45-49,49,Helen Knight,19:54,1194,"Pittville Park - Cheltenham",25/12/2024,20241225
 parkrun,5,Women,xx,5km,5000,50-54,54,Fiona Brady-Miller,21:17,1277,"Pittville Park - Cheltenham",08/02/2025,20250208
 parkrun,5,Women,xx,5km,5000,55-59,59,Amanda Steer,24:42,1482,"Pittville Park - Cheltenham",08/03/2025,20250308
+
+
 
 
 
