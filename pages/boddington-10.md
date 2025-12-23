@@ -47,14 +47,14 @@ As a club, CLC Striders is well used to staging successful races and the Bodding
 
 #### Quick Reference Guide
  
-* The UK Athletics licence number is #30107.
-* Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible.
-* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available.
-* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables.
-* Race starts at 0900 at the top of Boddington Lane.
-* Runners will be disqualified if they wear headphones, except for bone-conducting headphones that meet the UKA Rules.
-* You must be 18 or over to enter this race.
-* If you are unable to race, please let us know so we can offer your place to someone else.
+* The UK Athletics licence number is #30107
+* Please follow the instructions from our car park marshals upon arrival. We are using 3 car parks and parking is limited so you must use the car park you are directed to. Please try to share transport if possible
+* Toilets and portaloos will be available for race participants at The Gloucester Old Spot and Elmstone Business Park. Unfortunately, no changing facilities are available
+* A baggage drop will be available, but will not supervised so use this at your own risk and do not leave valuables
+* Race starts at 0900 at the top of Boddington Lane
+* Runners will be disqualified if they wear headphones, except for bone-conducting headphones that meet the UKA Rules
+* You must be 18 or over to enter this race
+* If you are unable to race, please let us know so we can offer your place to someone else
 
 --- 
 
