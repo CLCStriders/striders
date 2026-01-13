@@ -25,8 +25,8 @@ permalink: /raceseries2026
 - 1 April - 30th November - **Any Licensed Road Marathon**** - Road
 
 
-\* _Official published time used and ranked against others parkrunning in July_
-\*\* _Official chip time used and ranked throughout the qualifying window_
+`*` _Official published time used and ranked against others parkrunning in July_  
+`**` _Official chip time used and ranked throughout the qualifying window_
 
 
 Participation Races:
