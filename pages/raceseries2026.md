@@ -22,7 +22,7 @@ permalink: /raceseries2026
 - 28 August - **Meteor Mile** - Road
 - 5 September - **Cranham Boundary Chase** - Road - _not age gradable_
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
-- 1 April - 30th November - **Any Licensed Road Marathon** - Road **
+- 1 April - 30th November - **Any Licensed Road Marathon**** - Road
 
 
 \* _Official published time used and ranked against others parkrunning in July_
