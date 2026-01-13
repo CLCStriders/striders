@@ -17,7 +17,7 @@ permalink: /raceseries2026
 - 27 May – **Cleeve Cloud Cuckoo** - Trail
 - 22 June – **Frampton 10k** - Road
 - Weds (TBC) July - **Midsummer Open 5000m - Gloucester** - Track
-- Any Saturday in July - any parkrun*
+- Any Saturday in July - **any parkrun***
 - 5 August - **Bugatti 10km** - Road
 - 28 August - **Meteor Mile** - Road
 - 5 September - **Cranham Boundary Chase** - Road - _not age gradable_
@@ -25,7 +25,7 @@ permalink: /raceseries2026
 - 1 April - 30th November - **Any Licensed Road Marathon** - Road **
 
 
-\* _Official published time used and ranked against others parkrunning in July_ </br>
+\* _Official published time used and ranked against others parkrunning in July_
 \*\* _Official chip time used and ranked throughout the qualifying window_
 
 
@@ -45,23 +45,21 @@ There will be three competitions within the series with prizes up for grabs for 
 - Ladies Open Competition – minimum 5 of 15 races to qualify, best 7 scores used
 - Age-Graded Competition – ranked by Age Grade % for non-trail events, minimum 5 of 12 races to qualify, best 6 scores used
 
-<br/>
 We will check the race results afterwards to see which Striders have run, so you will automatically be entered into the series standings on our website and if you run at least 5 of the races you will qualify with a final ranking in the competition.
-</br>
-<br/>
-In addition there are a number of ‘Participation Races’ (listed above). You will earn 5 points for finishing for the club in the listed team events (Men’s and Women’s Open Competitions only).</br>
+
+In addition there are a number of ‘Participation Races’ (listed above). You will earn 5 points for finishing for the club in the listed team events (Men’s and Women’s Open Competitions only).
 These races will not count towards the minimum 5 qualifying races but will give you a chance to boost your score significantly!
-</br>
-</br>
+
+
 In the event of a tie, finishing positions in all competitions will be decided by head-to-head results over the series.
-<br/>
-<br/>
+
+
 At the end of the year, prizes will be awarded at the Christmas party.
 
 
 ### Previous results
 
-2025: [Results](/raceseries2025)</br>
+2025: [Results](/raceseries2025)
 2024: [Results](/raceseries)
 
 ### Current Standings
