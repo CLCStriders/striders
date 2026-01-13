@@ -338,7 +338,7 @@
       { data: "rank"},
     ],
             "pageLength": 10, // initial page lengths
-            "order": [[13, 'asc'], [12, 'desc'], [1, 'desc']], // initial sort - rank, total, name
+            "order": [[13, 'asc'], [12, 'desc'], [0, 'desc']], // initial sort - rank, total, name
             "columnDefs": [
                 {
                     "targets": 13,  // Rank column
@@ -416,6 +416,128 @@
 
         if (data.length === 0) {
             $(`#site_data_raceseries2025_${category}`).hide();
+        } else {
+            table.rows.add(data).draw();
+        }
+    }
+
+    var categories = ["MO", "FO", "AG"];
+
+    categories.forEach(category => {
+        var data = raceSeriesData.filter(f => f.Category === category);
+        initializeDataTable(category, data);
+    });
+</script>
+{% elsif page.datatable == "raceseries2026" %}
+<script>
+    var raceSeriesData =  {{ site.data.raceseries2026 | jsonify }} ;
+
+    function initializeDataTable(category, data) {
+
+        let columns;
+  if (category === "AG") {
+    var table = $(`#site_data_raceseries2026_${category}`).DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+      { data: "Name" },
+      { data: "lindafranks" },
+      { data: "bourton10k" },
+      { data: "cleevewold" },
+      { data: "bristol" },
+      { data: "countychamps" },
+      { data: "bourtonmile" },
+      { data: "cloudcuckoo" },
+      { data: "frampton" },
+      { data: "midsummer" },
+      { data: "bugatti" },
+      { data: "parkrun" },
+      { data: "meteormile" },
+      { data: "cranham" },
+      { data: "stroud" },
+      { data: "marathon" },
+      { data: "participationbonus" },
+      { data: "total" },
+      { data: "rank"},
+    ],
+            "pageLength": 10, // initial page lengths
+            "order": [[18, 'asc'], [17, 'desc'], [0, 'desc']], // initial sort - rank, total, name
+            "columnDefs": [
+                {
+                    "targets": 13,  // Rank column
+                    "render": function (data, type, row) {
+                        // Use Infinity for null/empty values when sorting so they appear last
+                        return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                    }
+                },
+                {
+                    "type": "num",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ],
+        });
+  } else {
+    var table = $(`#site_data_raceseries2026_${category}`).DataTable({
+            "paging": true,
+            "info": true,
+            "columns": [
+                { data: "Name" },            // 0
+                { data: "lindafranks" },      // 1
+                { data: "bourton10k" },      // 2
+                { data: "bristol" },         // 3
+                { data: "countychamps" },    // 4
+                { data: "bourtonmile" },    // 5
+                { data: "frampton" },        // 6
+                { data: "midsummer" },       // 7
+                { data: "parkrun" },         // 8
+                { data: "bugatti" },         // 9
+                { data: "meteormile" },     // 10
+                { data: "stroud" },          // 11
+                { data: "marathon" },        // 12
+                { data: "participationbonus" },// 13
+                { data: "total" },           // 14
+                { data: "rank"},            // 15
+            ],
+            "order": [[15, 'asc'], [14, 'desc'], [0, 'asc']], // initial sort - rank, total, name
+            "columnDefs": [
+                {
+                    "targets": 15,  // Rank column
+                    "render": function (data, type, row) {
+                        // Use Infinity for null/empty values when sorting so they appear last
+                        return data === null || data === "" ? (type === 'sort' ? Infinity : '') : data;
+                    }
+                },
+                {
+                    "type": "num",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                },
+                {
+                    "type": "string",
+                    "targets": "_all",
+                    "render": function (data, type, row, meta) {
+                        return data === "" ? '\uFFFF' : data;
+                    }
+                }
+            ],
+        });
+  }
+
+
+        if (data.length === 0) {
+            $(`#site_data_raceseries2026_${category}`).hide();
         } else {
             table.rows.add(data).draw();
         }
