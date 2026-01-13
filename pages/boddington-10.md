@@ -166,7 +166,8 @@ Up & Running vouchers will be awarded as follows:
 * 3rd place - Male & Female = £25
 * Age category win = £20
 * Course record bonus = £40
-* Team prize
+  
+* Team prize = 4 bottles of wine
 
 --- 
 
