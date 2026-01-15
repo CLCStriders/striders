@@ -24,8 +24,8 @@ permalink: /raceseries2026
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
 - 1 April - 30th November - **Any Licensed Road Marathon**** - Road
 
-&#42; _Official published time used and ranked against others parkrunning in July_
-&#42;&#42; _Official chip time used and ranked throughout the qualifying window_
+`*` <em>Official published time used and ranked against others parkrunning in July</em>  
+`**` <em>Official chip time used and ranked throughout the qualifying window</em>
 
 Participation Races:
 - Spring Midland Road Relays
