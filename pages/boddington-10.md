@@ -105,7 +105,7 @@ Please take all rubbish home with you or dispose of in bins at the finish.
  
 * If you cannot run, please do let us know before the day and we may be able to invite people from the waiting list to take up your place. We cannot guarantee we will be able to offer a refund if you cannot run, but we will do our best to transfer your place (and refund you if we can). 
 
-* As we are running under UK Athletic Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited - with the exception of bon-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
+* As we are running under UK Athletics Rules and do not have full road closures along the route, wearing of personal listening devices is strictly prohibited - with the exception of bone-conducting devices that are approved by UKA. This is because you need to clearly hear traffic, runners overtaking and/or marshals’ instructions. Any runner seen wearing such a device will be disqualified. 
 
 * **Please use Boddington Lane for your warm up runs**. The A4019 Tewkesbury Road and the road past the Elmstone Business Park are very busy, even on a Sunday morning, and not a safe location for running. A safe route will be marked from the Race HQ to the start line, please use the crossing point provided for your own safety.
 
