@@ -36,6 +36,8 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 ![Boddington 10 graphic](/assets/boddington/boddington10-2026-graphic.jpg "Boddington 10 graphic")
 
 ---
+The 2026 Race Day Briefing can be found [HERE](assets/boddington/Boddington-10-2026-Runner-briefing.pdf)
+
 
 CLC Striders Running Club look forward to welcoming you at the Boddington 10-mile road race on Sunday 25 January 2026, with a start time of 0900.
 
