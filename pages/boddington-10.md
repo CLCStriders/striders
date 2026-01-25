@@ -36,6 +36,10 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 ![Boddington 10 graphic](/assets/boddington/boddington10-2026-graphic.jpg "Boddington 10 graphic")
 
 ---
+
+The 2026 Results can be found [HERE](https://results.raceroster.com/v3/events/jqapef375b47t4d7/race/250695)
+
+
 The 2026 Race Day Briefing can be found [HERE](assets/boddington/Boddington-10-2026-Runner-briefing.pdf)
 
 
