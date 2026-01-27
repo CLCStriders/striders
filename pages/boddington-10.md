@@ -201,9 +201,9 @@ Dig Deep Race Photography will be taking official race photos during the event. 
  
 #### Course Records
  
-Men's – Dominic James, Western Tempo (2025) - 49:56
+Men's – Dominic James, Western Tempo (2026) - 49:29
  
-Women's – Emily Hilliar, Poole AC (2024) - 1:00:45
+Women's – Alice Tredgett, Severn AC (2026) - 1:00:22
  
 #### Previous results
  
