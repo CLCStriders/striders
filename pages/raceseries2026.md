@@ -11,14 +11,14 @@ permalink: /raceseries2026
 - 18 January - **Linda Franks 5 Mile** - Road
 - 22 February – **Bourton 10km** - Road
 - 29th March - **Cleevewold** - Trail
-- Early April - **Bristol & West 5km Race Day** - Road (Not yet confirmed as taking place, backup race is Hereford Couriers 5k on 15th April)
+- Early April (TBC)- **Bristol & West 5km Race Day** - Road 
 - Late April (TBC) – **3000m Track County Champs** - Track
 - 8 May – **Bourton Mile** - Road
 - 27 May – **Cleeve Cloud Cuckoo** - Trail
 - 22 June – **Frampton 10k** - Road
 - Weds (TBC) July - **Midsummer Open 5000m - Gloucester** - Track
 - Any Saturday in July - **any parkrun***
-- 5 August - **Bugatti 10km** - Road
+- 29 July - **Bugatti 10km** - Road
 - 28 August - **Meteor Mile** - Road
 - 5 September - **Cranham Boundary Chase** - Road - _not age gradable_
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
