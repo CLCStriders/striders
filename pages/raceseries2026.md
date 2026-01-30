@@ -11,7 +11,7 @@ permalink: /raceseries2026
 - 18 January - **Linda Franks 5 Mile** - Road
 - 22 February – **Bourton 10km** - Road
 - 29th March - **Cleevewold** - Trail
-- Early April (TBC)- **Bristol & West 5km Race Day** - Road 
+- 18th April - **Bristol & West 5km Race Day** - Road 
 - Late April (TBC) – **3000m Track County Champs** - Track
 - 8 May – **Bourton Mile** - Road
 - 27 May – **Cleeve Cloud Cuckoo** - Trail
