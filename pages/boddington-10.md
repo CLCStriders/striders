@@ -43,7 +43,7 @@ A flat and fast 10-mile race on quiet roads, with ample nearby parking and a wel
 
 As a club, CLC Striders is well used to staging successful races and the Boddington 10 is no different, having quickly become a firm fixture in runners’ calendars.
 
-<---
+<!---
 
 #### Quick Reference Guide
  
