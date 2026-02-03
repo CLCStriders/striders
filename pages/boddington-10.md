@@ -8,7 +8,7 @@ signUpUrl : https://www.entrycentral.com/boddington-10
 signUpYear: 2026
 routeMap  : /assets/boddington/boddington-10-route-map.png
 # open / full / closed / opensoon
-state: full
+state: closed
 
 ---
 
@@ -37,18 +37,13 @@ Entries for the Boddington 10 will be available from 1200 on Sunday 23 November 
 
 ---
 
-The 2026 Results can be found [HERE](https://results.raceroster.com/v3/events/jqapef375b47t4d7/race/250695)
-
-The 2026 Photos can be found [HERE](https://photos.app.goo.gl/eVvDcv7hMWnfahLe6)
-
-
 CLC Striders Running Club look forward to welcoming you at the Boddington 10-mile road race on Sunday 25 January 2026, with a start time of 0900.
 
 A flat and fast 10-mile race on quiet roads, with ample nearby parking and a well organised Race HQ, this is an exciting road race for Gloucestershire, established in 2024. 
 
 As a club, CLC Striders is well used to staging successful races and the Boddington 10 is no different, having quickly become a firm fixture in runners’ calendars.
 
----
+<---
 
 #### Quick Reference Guide
  
@@ -187,7 +182,7 @@ Soon after the race, we will post them on the [CLC Striders website](https://clc
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
  
----
+--->
 
 #### Official race photos
  
@@ -196,7 +191,9 @@ Dig Deep Race Photography will be taking official race photos during the event. 
 [2024 race photos](https://photos.app.goo.gl/c2kJ9p1RtZAPbg8SA)
 
 [2025 race photos](https://photos.app.goo.gl/JbA4qZ3AspL2UBnf7)
- 
+
+[2026 race photos](https://photos.app.goo.gl/eVvDcv7hMWnfahLe6)
+
 ---
  
 #### Course Records
@@ -210,6 +207,8 @@ Women's – Alice Tredgett, Severn AC (2026) - 1:00:22
 The [2024 Boddington 10 results](/assets/boddington/2024-01-28-Boddington-10-results-2024.pdf "Boddington 10 results 2024").
 
 The [2025 Boddington 10 results](/assets/boddington/2025-01-27-Boddington-10-results-2025.pdf "Boddington 10 results 2025").
+
+The [2026 Boddington 10 results](https://results.raceroster.com/v3/events/jqapef375b47t4d7/race/250695)
 
 ---
  
