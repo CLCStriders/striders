@@ -33,6 +33,10 @@ On the day the ladies were 2nd in the senior team competition and 1st Masters te
 their promotion from Division 2 back to Division 1 with a 4 th placing overall in the league
 across the 3 fixtures and 2 nd overall for the season in the Masters category.
 
+<img src="/images/2026/02/2026-02-07-xc-ladies.jpg"
+     alt="Ladies XC Squad Coombe abbey"
+     style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+
 As the day moved on, attention turned to the men, racing in the afternoon over at Plock
 Court, Gloucester, in a fixture hosted by Severn AC. Could they emulate the ladies’
 promotion feats? With all the clubs turning out all their very best and biggest squads,
