@@ -34,7 +34,7 @@ across the 3 fixtures and 2nd overall for the season in the Masters category.
 
 <img src="/images/2026/02/2026-02-07-xc-ladies.jpeg"
      alt="Ladies XC Squad Coombe abbey"
-     style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+     style="display: block; margin: 0 auto; max-width: 55%; height: auto;">
 
 As the day moved on, attention turned to the men, racing in the afternoon over at Plock
 Court, Gloucester, in a fixture hosted by Severn AC. Could they emulate the ladies’
