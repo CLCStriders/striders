@@ -1,6 +1,5 @@
 ---
-title: 'CLC Striders race reports - Midland and Birmingham League XC - Season Finale
-'
+title: 'Midland and Birmingham League XC - Season Finale'
 layout: post
 categories:
   - Race reports
