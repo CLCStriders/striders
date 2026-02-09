@@ -59,8 +59,9 @@ running well and pushing other team runners back in the placings were Tim Elliot
 Hunter, Gary Farquharson, Tim Brock and Colin Upton.
 
 On the day the CLC Striders men finished as the 9 th A Team and 2 nd B Team, but across the
-season, they were 3 rd placed team overall, booking their promotion spot back up to Division
-1. Pete Duffy deserves special mention for his 2 nd place in the season’s Masters rankings,
+season, they were 3 rd placed team overall, booking their promotion spot back up to Division 1.
+
+Pete Duffy deserves special mention for his 2 nd place in the season’s Masters rankings,
 playing a key role in securing the team 1 st place in the team Masters standings for the season.
 All-in-all, it was a wonderful day for a small, local club and CLC Striders look forward to
 competing at the very top level in their regional cross-country leagues next season.
