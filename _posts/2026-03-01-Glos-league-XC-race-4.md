@@ -21,7 +21,7 @@ In terms of the team standings for the season, the CLC Striders Masters team (of
 Running with the women as part of their race, two Striders super-vets did well on the day, with Ed Collier 5th in his M65 category and David James, 1st in his rarefied M75 category.
 
 <img src="/images/2026/03/2026-03-01-Glos-XC-ladies.jpg"
-     alt="Ladies XC Squad Pittville Park"
+     alt="Ladies XC Pittville Park"
      style="display: block; margin: 0 auto; max-width: 55%; height: auto;">
 
 Back row, from left to right: Jill Harsent, Emma Abbey, Hannah Weager, Carline Heyrman, Isabel Brinsden, Rachel Vines, Helen Knight, Ellie Pudifoot, Amelia Mullins (and David James)
@@ -36,7 +36,7 @@ Also racing well on the day were Louis Jones for 44th, Fred Reid for 45th, James
 As well as Rob Green’s gold, the other medal winners for the season were Max Harrison-Tosatto with bronze in the Senior Men’s category and David James with bronze in his M75 category.
 
 <img src="/images/2026/03/2026-03-01-Glos-XC-mens.jpg"
-     alt="Mens XC Squad Pittville Park"
+     alt="Mens XC Pittville Park"
      style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 
 From left to right: Oliver Wright Jones, Nigel Bailey, Tim Brock, Tom Burgess, Rob Green, Tom Fletcher, Max Harrison-Tosatto, James Endicott, Fred Reid, Andy Richardson, Louis Jones, Jon Pearce, Timothy Elliott, Gavin Woods, Colin Upton (just visible!), Gary Farquharson, Will McNeile and James Mogridge
