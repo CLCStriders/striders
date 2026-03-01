@@ -6,8 +6,6 @@ categories:
 
 ---
 
-#### Midland and Birmingham League XC - Saturday 7 February 
-
 After the unrelenting rain of the first six weeks of 2026, Saturday 14 February was bright and sunny: the perfect day for the last fixture in the 2025/26 Gloucestershire Cross Country season. Pittville Park, complete with its notorious river crossing, woodland sections and sharp inclines was the location – with the ground surprisingly good, with a few squelchy exceptions,  and the river deep and fast-flowing.
 
 CLC Striders turned out strong teams for the ladies and men’s races, with some wonderful individual and team results registered. First it was the turn of the ladies…
