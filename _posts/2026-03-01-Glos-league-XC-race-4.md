@@ -20,7 +20,7 @@ In terms of the team standings for the season, the CLC Striders Masters team (of
 
 Running with the women as part of their race, two Striders super-vets did well on the day, with Ed Collier 5th in his M65 category and David James, 1st in his rarefied M75 category.
 
-<img src="/images/2026/03/2026-03-01-Glos-XC-ladies.jpeg"
+<img src="/images/2026/03/2026-03-01-Glos-XC-ladies.jpg"
      alt="Ladies XC Squad Pittville Park"
      style="display: block; margin: 0 auto; max-width: 55%; height: auto;">
 
