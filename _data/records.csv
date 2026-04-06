@@ -230,16 +230,16 @@ Multi-Terrain,2,Women,xx,Marathon,42188,Senior,34,Helen Knight,3:11:09,11469,Por
 Multi-Terrain,2,Women,xx,Marathon,42188,40-44,44,Helen Knight,3:57:35,14255,Broadway,20/11/2022,20221122
 Multi-Terrain,2,Women,xx,Marathon,42188,45-49,49,Helen Knight,3:11:09,11469,Portsmouth,22/12/2024,20241222
 Multi-Terrain,2,Women,xx,Marathon,42188,50-54,54,Amelia Mullins,5:13:11,14255,Broadway,20/11/2022,20221122
-Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:58:06,21486,Exmoor Ultra,22/07/2023,20230722
+Multi-Terrain,2,Women,xx,50km Ultra,50000,Senior,34,Helen Knight,5:09:00,18540,Imber Ultra,01/03/2026,20260103
 Multi-Terrain,2,Women,xx,50km Ultra,50000,40-44,44,Helen Knight,5:58:06,21486,Exmoor Ultra,22/07/2023,20230722
-Multi-Terrain,2,Women,xx,50km Ultra,50000,45-49,49,Helen Knight,6:05:27,21927,Coast to Capital Ultra,04/01/2025,20250104
+Multi-Terrain,2,Women,xx,50km Ultra,50000,45-49,49,Helen Knight,5:09:00,18540,Imber Ultra,01/03/2026,20260103
 Multi-Terrain,2,Women,xx,50km Ultra,50000,55-59,59,Nikki Smith,7:22:25,26545,Race to the King - South Downs,11/06/2022,20220611
 Multi-Terrain,2,Women,xx,100km Ultra,100000,Senior,34,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,40-44,44,Helen Knight,14:14:51,51291,Roseland August Trails (RAT) - The Plague 100k,05/08/2023,20230805
 Multi-Terrain,2,Women,xx,100km Ultra,100000,55-59,59,Nikki Smith,15:06:19,54379,"Race to the King Weekender, South Downs (50k Sat, 51.5k Sun)",11/06/2022,20220611
-Multi-Terrain,2,Women,xx,100mi Ultra,160934,Senior,34,Helen Knight,24:54:33,89673,Cotswold Way Century,14/09/2024,20240914
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,Senior,34,Helen Knight,23:48:33,85724,Rasselbock Backyard Ultra,28/03/2026,20260328
 Multi-Terrain,2,Women,xx,100mi Ultra,160934,40-44,44,Liza Bradshaw,32:45:44,117594,Lakeland 100 (105mi),26/07/2024,20240726
-Multi-Terrain,2,Women,xx,100mi Ultra,160934,45-49,49,Helen Knight,24:54:33,89673,Cotswold Way Century,14/09/2024,20240914
+Multi-Terrain,2,Women,xx,100mi Ultra,160934,45-49,49,Helen Knight,23:48:33,85724,Rasselbock Backyard Ultra,28/03/2026,20260328
 Track,3,Men,xy,100m,100,U20,19,,,99999,,,99999999
 Track,3,Men,xy,100m,100,Senior,34,Nick O'Neil,11.9,11.9,Prince of Wales Stadium,10/05/2009,20090510
 Track,3,Men,xy,100m,100,35-39,39,Richard Cannock,14.5,14.5,Prince of Wales Stadium,03/07/2009,20090703
@@ -649,22 +649,22 @@ Field,4,Women,xx,Long&nbsp;Jump,90002,Senior,34,Nicola Weager,4.17,4.17,"Blackbr
 Field,4,Women,xx,Triple&nbsp;Jump,90003,Senior,34,Nicola Weager,8.85,8.85,Prince of Wales Stadium,18/07/2018,20180718
 Field,4,Women,xx,Javelin,90004,Senior,34,Hollie Wharton,21.36,21.36,Prince of Wales Stadium,13/05/2012,20120513
 parkrun,5,Men,xy,5km,5000,U20,19,Kai Hamer,18:00,1080,Victoria Dock,20/05/2023,20230520
-parkrun,5,Men,xy,5km,5000,Senior,34,Rob Green,15:54,954,"Pittville Park - Cheltenham",22/03/2025,20250322
+parkrun,5,Men,xy,5km,5000,Senior,34,Rob Green,15:44,944,"Pittville Park - Cheltenham",21/03/2026,20260321
 parkrun,5,Men,xy,5km,5000,35-39,39,Rob Barnett,16:22,982,"Pittville Park - Cheltenham",27/12/2025,20251227
-parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,15:54,954,"Pittville Park - Cheltenham",22/03/2025,20250322
-parkrun,5,Men,xy,5km,5000,45-49,49,Paul Lockyer,19:21,1161,Worcester Pitchcroft,08/04/2023,20230408
+parkrun,5,Men,xy,5km,5000,40-44,44,Rob Green,15:44,944,"Pittville Park - Cheltenham",21/03/2026,20260321
+parkrun,5,Men,xy,5km,5000,45-49,49,James Endicott,18:20,1110,Pittville Park - Cheltenham,28/03/2026,20260328
 parkrun,5,Men,xy,5km,5000,50-54,54,Paul Northup,18:46,1126,Pittville Park - Cheltenham,29/04/2017,20170429
 parkrun,5,Men,xy,5km,5000,55-59,59,Paul Northup,19:51,1191,"Pittville Park - Cheltenham",29/06/2024,20240629
-parkrun,5,Men,xy,5km,5000,60-64,64,Peter Mitchener,21:34,1305,"Pittville Park - Cheltenham",13/12/2025,20251213
-parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:36,1416,"Pittville Park - Cheltenham",26/03/2022,20220326
+parkrun,5,Men,xy,5km,5000,60-64,64,Paul Northup,20:57,1257,"Pittville Park - Cheltenham",04/04/2026,20260404
+parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:03,1383,"Pittville Park - Cheltenham",28/05/2026,20260528
 parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,Congleton,18/03/2023,20230318
-parkrun,5,Men,xy,5km,5000,75-79,79,David James,24:10,1450,"Gloucester",03/01/2025,20250103
-parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:24,1164,Berkeley Green,27/08/2022,20220827
+parkrun,5,Men,xy,5km,5000,75-79,79,David James,24:01,1441,"Pittville Park - Cheltenham",04/04/2026,20260404
+parkrun,5,Women,xx,5km,5000,Senior,34,Isabel Brinsden,17:30,1050,"Pittville Park - Cheltenham",10/01/2026,2026011
+parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:20,1160,Victoria Dock,22/04/2023,20230422
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park - Cheltenham",08/04/2023,20230408
-parkrun,5,Women,xx,5km,5000,45-49,49,Helen Knight,19:52,1192,"Pittville Park - Cheltenham",25/12/2025,20251225
+parkrun,5,Women,xx,5km,5000,45-49,49,Helen Knight,19:46,1186,"Pittville Park - Cheltenham",04/04/2026,20260404
 parkrun,5,Women,xx,5km,5000,50-54,54,Fiona Brady-Miller,21:17,1277,"Pittville Park - Cheltenham",08/02/2025,20250208
 parkrun,5,Women,xx,5km,5000,55-59,59,Amanda Steer,24:42,1482,"Pittville Park - Cheltenham",08/03/2025,20250308
-parkrun,5,Women,xx,5km,5000,Senior,34,Isabel Brinsden,17:30,1050,"Pittville Park - Cheltenham",10/01/2026,20260110
 
 
 
