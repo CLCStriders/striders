@@ -1,16 +1,16 @@
 Date,date_sort,Race,Distance,distance_sort,Terrain
-12/10/2025,2025-10-12,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #1 - Nympsfield</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+10-11/10/2026,2026-10-10-11,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #1 - Nympsfield</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 15/11/2025,2025-11-15,"<a href='https://midland-athletics.co.uk/cross-country/midland-womens-cross-country-league/'>Midland League Cross Country #1 - Leamington</a>","4mi",4,XC
 15/11/2025,2025-11-15,<a href='https://www.birminghamccleague.co.uk'>Birmingham & District Cross Country League #1 - Leamington</a>,"6mi",6,XC
 06/12/2025,2025-12-06,"<a href='https://midland-athletics.co.uk/cross-country/midland-womens-cross-country-league/'>Midland League Cross Country #2 - Birmingham</a>","4mi",4,XC
 06/12/2025,2025-12-06,"<a href='https://www.birminghamccleague.co.uk'>Birmingham & District Cross Country League #2 - Pittville Park - Cheltenham</a>","6mi",6,XC
-01/11/2025,2025-11-01,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #2 - Cirencester Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+31/10/2026,2026-10-31,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #2 - Cirencester Park</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 10/01/2026,2026-01-10,"<a href='https://midland-athletics.co.uk/cross-country/midland-womens-cross-country-league/'>Midland League Cross Country #3 - Worcester</a>","4mi",4,XC
 10/01/2026,2026-01-10,"<a href='https://www.birminghamccleague.co.uk'>Birmingham & District Cross Country League #3 - Burton Dassett</a>","6mi",6,XC
-14/12/2025,2025-12-14,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Bath Uni - incorporating County Champs</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+13/12/2026,2026-12-13,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #3 - Bath Uni - incorporating County Champs</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 07/02/2026,2026-02-07,"<a href='https://midland-athletics.co.uk/cross-country/midland-womens-cross-country-league/'>Midland League Cross Country #4 - TBC</a>","4mi",4,XC
 07/02/2026,2026-02-07,"<a href='https://www.birminghamccleague.co.uk/'>Birmingham & District Cross Country League #4 - Plock Court - Gloucester</a>","6mi",6,XC
-14/02/2026,2026-02-14,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Pittville Park - Cheltenham</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
+20/02/2027,2027-02-20,<a href='https://www.athletics4u.co.uk/cross-country/'>Gloucestershire Cross Country League #4 - Pittville Park - Cheltenham</a>,"4mi&nbsp;/&nbsp;6mi",4,XC
 18/04/2026,2026-04-18,<a href='https://www.bristoltrackclub.com/our-events'>Bristol Track Club 5K Race Day</a>,"5km",3.1,Road
 26/04/2026,2026-04-26,<a href='https://www.gloucesterac.co.uk/events/open-meetings/'>Gloucester AC Spring Open Meeting 2025 & 3000m County Champs - Blackbridge Athletics Track Gloucester</a>,"100m,&nbsp;200m,&nbsp;400m,&nbsp,800m,&nbsp;1500m,&nbsp;3000m",0,Track
 04/09/2025,2025-09-04,<a href='https://www.gloucesterac.co.uk/events/open-meetings/'>Gloucester AC September Open Meeting 2025 - Blackbridge Athletics Track Gloucester</a>,"400m,&nbsp,600m,&nbsp;Mile,&nbsp;3000m",0,Track
@@ -40,8 +40,8 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 10/06/2026,2026-06-10,<a href='https://www.cirencesterac.com/sizzler-10k'>Cirencester Park Summer Sizzler</a>,"10km",6.2,Road
 27/09/2026,2026-09-27,<a href='https://www.bourtonroadrunners.co.uk/hillyhalf+funrun.htm'>Bourton Half Marathon</a>,"HM",13.1,Road
 22/06/2026,2026-06-22,<a href='https://stroudac.eventrac.co.uk/e/frampton-10k-13852'>Frampton 10k</a>,"10km",6.2,Road
-02/08/2026,2026-08-02,<a href='https://stroudac.eventrac.co.uk/e/tinkley-tormentor-14775'>Tinklet Tormentor</a>,"TBC",0,MT
-14/07/2026,2026-07-14,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Red Hart Blaisdon 10k</a>,"10km",6.2,Road
+02/08/2026,2026-08-02,<a href='https://stroudac.eventrac.co.uk/e/tinkley-tormentor-14775'>Tinkley Tormentor</a>,"TBC",0,MT
+14/07/2026,2026-07-14,<a href='http://fodac.org.uk/wordpress/?page_id=6077'>Dave Lucas Memorial 10k AKA Blaisdon 10k</a>,"10km",6.2,Road
 05/09/2026,2026-09-05,<a href='https://severnac.com/cranham-boundary-chase/'>Cranham Boundary Chase</a>,"5.6mi",5.6,Road
 02/08/2026,2026-08-02,<a href='https://stroudac.eventrac.co.uk/e/standish-woodland-chase-13853'>Standish Woodland Chase</a>,"10mi",10,MT
 29/07/2026,2026-07-29,<a href='https://almostathletes.co.uk/bugatti-10k/'>Bugatti 10k</a>,"10km",6.2,Road
@@ -53,7 +53,7 @@ Date,date_sort,Race,Distance,distance_sort,Terrain
 26/07/2026,2026-07-26,<a href='https://sites.google.com/site/chepstowharriersrunningclub/open-races/magor-10k'>Magor 10k</a>,"10km",6.2,Road
 26/10/2025,2025-10-26,<a href='https://www.stroudhalf.com'>Stroud Half Marathon</a>,"HM",13.1,Road
 01/11/2026,2026-11-01,<a href='https://runcirencester.co.uk'>Cirencester Half Marathon</a>,"HM",13.1,Road
-11/10/2026,2026-10-11,<a href='https://www.dursleyrunningclub.org.uk/'>Sharpness 4 Miles</a>,"4mi",4,Road
+04/10/2026,2026-10-04,<a href='https://www.dursleyrunningclub.org.uk/'>Sharpness 4 Miles</a>,"4mi",4,Road
 01/11/2026,2026-11-01,<a href='https://www.tewkesburyrunningclub.com/guy-fawkes-5'>Guy Fawkes 5</a>,"5mi",5,Road
 17/07/2024,2024-07-17,<a href='https://data.opentrack.run/en-gb/x/2024/GBR/jul-24-road-southwest-5km/'>South West PB Series 2024 - Race 2 5km</a>,"5km",3.1,Road
 14/08/2024,2024-08-14,<a href='https://www.facebook.com/p/South-West-PB-Series-100066779344182/'>South West PB Series 2024 - Race 3 5km</a>,"5km",3.1,Road
