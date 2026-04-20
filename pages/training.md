@@ -37,7 +37,7 @@ We change the route every few weeks but examples are:
   - 6M - [Gmap](http://www.gmap-pedometer.com/?r=7749815) / GPX
 
 - Summer route with Pittville Park / Racecourse
-  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=6584237) / GPX
+  - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7752456) / GPX
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=6584229) / [GPX](assets/gpx/6m_Summer_Route_Pittville_Park_Racecourse.gpx)
   - 8M - Gmap / [GPX](assets/gpx/8m_Summer_Route_Pittville_Park_Racecourse.gpx)
 
