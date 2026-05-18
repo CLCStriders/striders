@@ -105,7 +105,7 @@ At the end of the year, prizes will be awarded at the Christmas party.
             <th data-field="marathon"><div class="vertical-text">Marathon</div></th>
             <th data-field="participationbonus"><div class="vertical-text">Participation bonus</div></th>
             <th data-field="total">Total (best 7)</th>
-            <th data-field="rank">Rank (min. 6 fixtures)</th>
+            <th data-field="rank">Rank (min. 5 fixtures)</th>
         </tr>
     </thead>
 </table>
