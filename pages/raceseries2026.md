@@ -16,7 +16,7 @@ permalink: /raceseries2026
 - 8 May – **Bourton Mile** - Road
 - 27 May – **Cleeve Cloud Cuckoo** - Trail
 - 22 June – **Frampton 10k** - Road
-- Weds (TBC) July - **Midsummer Open 5000m - Gloucester** - Track
+- 15 July - **Midsummer Open 5000m - Gloucester** - Track
 - Any Saturday in July - **any parkrun***
 - 29 July - **Bugatti 10km** - Road
 - 28 August - **Meteor Mile** - Road
