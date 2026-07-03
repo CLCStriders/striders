@@ -18,7 +18,7 @@ permalink: /raceseries2026
 - 15 July - **Midsummer Open 5000m - Gloucester** - Track
 - 20 July – **Frampton 10k - rearranged date** - Road
 - 29 July - **Bugatti 10km** - Road
-- Any Saturday in August - **any parkrun***
+- Any Saturday in July or August - **any parkrun***
 - 28 August - **Meteor Mile** - Road
 - 5 September - **Cranham Boundary Chase** - Road - _not age gradable_
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
