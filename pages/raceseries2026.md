@@ -24,7 +24,7 @@ permalink: /raceseries2026
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
 - 1 April - 30th November - **Any Licensed Road Marathon**** - Road
 
-<span><em>* Official published time used and ranked against others parkrunning in July</em> 
+<span><em>* Official published time used and ranked against others parkrunning in July or August</em> 
 <em>** Official chip time used and ranked throughout the qualifying window</em></span>
 
 Participation Races:
