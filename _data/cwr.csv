@@ -409,3 +409,33 @@ Leg,leg_search,Team,Category,Name,name_sort,Time,time_secs_sort,Distance,Start,F
 10,legx,CLC Thunderclaps,Mixed,Ed Thompson,Ed Thompson,1:44:39,6279,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
 10,legx,CLC Storm Clouds,Ladies,Kate Telford,Kate Telford,1:20:21,4821,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
 10,legx,CLC Hurricanes,Open,James Babbage,James Babbage,1:34:48,5688,9.8,Cold Ashton,Bath Abbey,05/07/2025,20250705
+1,leg1,Trail Titans,Open,Pete Duffy,Pete Duffy,1:22:47,4967,12,Chipping Campden,Stanway House,04/07/2026,20260704
+2,leg2,Trail Titans,Open,Ollie Wright-Jones,Ollie Wright-Jones,1:45:45,6345,11.8,Stanway House,Cleeve Common,04/07/2026,20260704
+3,leg3,Trail Titans,Open,Peter Mitchener,Peter Mitchener,2:11:12,7872,13.5,Cleeve Common,Crickley Hill (new location),04/07/2026,20260704
+4,leg4,Trail Titans,Open,Nigel Bailey,Nigel Bailey,1:46:08,6368,10.3,Crickley Hill (new location),Painswick,04/07/2026,20260704
+5,leg5,Trail Titans,Open,Alex Doherty,Alex Doherty,1:22:31,4951,9.3,Painswick,Ebley Mill,04/07/2026,20260704
+6,leg6,Trail Titans,Open,Luke Hunter,Luke Hunter,1:28:51,5331,8.7,Dudbridge,Dursley,04/07/2026,20260704
+7,leg7,Trail Titans,Open,Lee Ormerod,Lee Ormerod,1:08:48,4128,7.5,Dursley,Wotton Under Edge,04/07/2026,20260704
+8,leg8,Trail Titans,Open,Jamie Hartnoll,Jamie Hartnoll,1:53:12,6792,12.1,Wotton Under Edge,Old Sodbury,04/07/2026,20260704
+9,leg9,Trail Titans,Open,John Comer,John Comer,1:12:41,4361,9.3,Old Sodbury,Cold Ashton,04/07/2026,20260704
+10,legx,Trail Titans,Open,Arnie Delstanche,Arnie Delstanche,1:12:33,4353,9.8,Cold Ashton,Bath Abbey,04/07/2026,20260704
+1,leg1,Limestone Legends,Open,Tom Fletcher,Tom Fletcher,1:31:15,5475,12,Chipping Campden,Stanway House,04/07/2026,20260704
+2,leg2,Limestone Legends,Open,Emma Abbey,Emma Abbey,2:20:19,8419,11.8,Stanway House,Cleeve Common,04/07/2026,20260704
+3,leg3,Limestone Legends,Open,Ed Collier,Ed Collier,3:00:00,10800,13.5,Cleeve Common,Crickley Hill (new location),04/07/2026,20260704
+4,leg4,Limestone Legends,Open,Ed Thomson,Ed Thomson,2:05:00,7500,10.3,Crickley Hill (new location),Painswick,04/07/2026,20260704
+5,leg5,Limestone Legends,Open,James Babbage,James Babbage,1:27:00,5220,9.3,Painswick,Ebley Mill,04/07/2026,20260704
+6,leg6,Limestone Legends,Open,Philip Abbey,Philip Abbey,1:35:24,5724,8.7,Dudbridge,Dursley,04/07/2026,20260704
+7,leg7,Limestone Legends,Open,Liam Richardson,Liam Richardson,1:11:41,4301,7.5,Dursley,Wotton Under Edge,04/07/2026,20260704
+8,leg8,Limestone Legends,Open,👑 Liza Bradshaw,Liza Bradshaw,1:49:46,6586,12.1,Wotton Under Edge,Old Sodbury,04/07/2026,20260704
+9,leg9,Limestone Legends,Open,Gavin Jerman,Gavin Jerman,1:28:01,5281,9.3,Old Sodbury,Cold Ashton,04/07/2026,20260704
+10,legx,Limestone Legends,Open,Colin Upton,Colin Upton,1:54:03,6843,9.8,Cold Ashton,Bath Abbey,04/07/2026,20260704
+1,leg1,Summit Striders,Open,Kate Telford,Kate Telford,1:47:31,6451,12,Chipping Campden,Stanway House,04/07/2026,20260704
+2,leg2,Summit Striders,Open,Alice Johnston,Alice Johnston,1:58:42,7122,11.8,Stanway House,Cleeve Common,04/07/2026,20260704
+3,leg3,Summit Striders,Open,Laura Leaver,Laura Leaver,2:28:19,8899,13.5,Cleeve Common,Crickley Hill (new location),04/07/2026,20260704
+4,leg4,Summit Striders,Open,Nicola Weager,Nicola Weager,1:47:13,6433,10.3,Crickley Hill (new location),Painswick,04/07/2026,20260704
+5,leg5,Summit Striders,Open,Scarlett Bell,Scarlett Bell,1:13:24,4404,9.3,Painswick,Ebley Mill,04/07/2026,20260704
+6,leg6,Summit Striders,Open,Helen Knight,Helen Knight,1:19:49,4789,8.7,Dudbridge,Dursley,04/07/2026,20260704
+7,leg7,Summit Striders,Open,Sophie Longmore,Sophie Longmore,1:09:48,4188,7.5,Dursley,Wotton Under Edge,04/07/2026,20260704
+8,leg8,Summit Striders,Open,Ellie Pudifoot,Ellie Pudifoot,1:41:15,6075,12.1,Wotton Under Edge,Old Sodbury,04/07/2026,20260704
+9,leg9,Summit Striders,Open,Karlien Heyrman,Karlien Heyrman,1:13:05,4385,9.3,Old Sodbury,Cold Ashton,04/07/2026,20260704
+10,legx,Summit Striders,Open,Fiona Brady-Miller,Fiona Brady-Miller,1:32:35,5555,9.8,Cold Ashton,Bath Abbey,04/07/2026,20260704
