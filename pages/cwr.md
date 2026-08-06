@@ -21,6 +21,7 @@ Runners who have completed all 10 legs of the competition are awarded a **King o
 - **Jon Howes** - King of the Cotswolds 03/07/2021
 - **Nikki Smith** - Queen of the Cotswolds 01/07/2023
 - **Liza Bradshaw** - Queen of the Cotswolds 06/07/2024
+- **Peter Mitchener** - King of the Cotswolds 04/07/2026
 
 #### Fastest times
 

@@ -84,10 +84,18 @@ Our Coaches hold the England Athletics’ Coach in Running Fitness (CiRF) qualif
 &emsp;&emsp;![Jamie Hartnoll](/images/coaches/jamie-hartnoll.jpg "Jamie Hartnoll")
 - Joined CLC Striders in 2022, CiRF since 2023
 
+&emsp;&emsp;**Jon Howes**  
+&emsp;&emsp;![Jon Howes](/images/coaches/jon-howes.jpg "Jon Howes")
+- Joined CLC Striders in 2009, CiRF since 2025
+
 &emsp;&emsp;**Amelia Mullins**  
 &emsp;&emsp;![Amelia Mullins](/images/coaches/amelia-mullins.jpg "Amelia Mullins")
 - Joined CLC Striders in 2009, CiRF since 2019
 - Co-ordinator of Monday night club runs
+
+&emsp;&emsp;**Kate Telford**  
+&emsp;&emsp;![Kate Telford](/images/coaches/kate-telford.jpg "Kate Telford")
+- Joined CLC Striders in 2020, CiRF since 2026
   <br>
 
 ##### Run Leaders

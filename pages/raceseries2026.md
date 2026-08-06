@@ -15,16 +15,16 @@ permalink: /raceseries2026
 - 26 April – **3000m Track County Champs** - Track
 - 8 May – **Bourton Mile** - Road
 - 27 May – **Cleeve Cloud Cuckoo** - Trail
-- 22 June – **Frampton 10k** - Road
 - 15 July - **Midsummer Open 5000m - Gloucester** - Track
-- Any Saturday in July - **any parkrun***
+- 20 July – **Frampton 10k - rearranged date** - Road
 - 29 July - **Bugatti 10km** - Road
+- Any Saturday in July or August - **any parkrun***
 - 28 August - **Meteor Mile** - Road
 - 5 September - **Cranham Boundary Chase** - Road - _not age gradable_
 - 25 October – [**Stroud Half**](https://www.stroudhalf.com/) - Road
 - 1 April - 30th November - **Any Licensed Road Marathon**** - Road
 
-<span><em>* Official published time used and ranked against others parkrunning in July</em> 
+<span><em>* Official published time used and ranked against others parkrunning in July or August</em> 
 <em>** Official chip time used and ranked throughout the qualifying window</em></span>
 
 Participation Races:
