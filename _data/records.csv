@@ -9,7 +9,7 @@ Road,1,Men,xy,Mile,1609,55-59,59,Paul Northup,5:40,340,Bourton,01/07/2022,202207
 Road,1,Men,xy,Mile,1609,60-64,64,JJ Willson,5:38,338,Bourton,10/07/2021,20210710
 Road,1,Men,xy,Mile,1609,65-69,69,David James,6:44,404,Staverton,31/08/2019,20190831
 Road,1,Men,xy,Mile,1609,70-74,74,David James,6:49,409,Bourton,11/05/2024,20240511
-Road,1,Men,xy,Mile,1609,75-79,79,David James,7:31,451,Bourton,08/05/2026,20260526
+Road,1,Men,xy,Mile,1609,75-79,79,David James,7:18,438,Staverton,28/08/2026,20260828
 Road,1,Men,xy,5km,5000,U20,19,George Parker,21:03,1263,White Horse,19/08/2014,20140819
 Road,1,Men,xy,5km,5000,Senior,34,Will Ferguson,15:07,907,Aztec West,26/05/2015,20150526
 Road,1,Men,xy,5km,5000,35-39,39,John Parker,15:11,911,White Horse,18/08/2011,20110818
@@ -660,6 +660,7 @@ parkrun,5,Men,xy,5km,5000,60-64,64,Paul Northup,20:57,1257,"Pittville Park - Che
 parkrun,5,Men,xy,5km,5000,65-69,69,Ed Collier,23:03,1383,"Pittville Park - Cheltenham",28/05/2022,20220528
 parkrun,5,Men,xy,5km,5000,70-74,74,David James,22:39,1359,Congleton,18/03/2023,20230318
 parkrun,5,Men,xy,5km,5000,75-79,79,David James,24:01,1441,"Pittville Park - Cheltenham",04/04/2026,20260404
+parkrun,5,Women,xx,5km,5000,U20,19,Georgiana Abbey,23:50,1430,King George V Playing Field,22/08/2026,20260822
 parkrun,5,Women,xx,5km,5000,Senior,34,Isabel Brinsden,17:30,1050,"Pittville Park - Cheltenham",10/01/2026,2026011
 parkrun,5,Women,xx,5km,5000,35-39,39,Kate Telford,19:20,1160,Victoria Dock,22/04/2023,20230422
 parkrun,5,Women,xx,5km,5000,40-44,44,Helen Knight,19:24,1164,"Pittville Park - Cheltenham",08/04/2023,20230408
