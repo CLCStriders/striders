@@ -20,4 +20,8 @@ Ellie Pudifoot finished 25th overall and 3rd lady in a time of 1 hour 34, claimi
 
 Completing the Striders line-up was Helen Knight who ran an excellent half marathon to claim the V40 to V50 prize, and V45 county medal. Helen is preparing for a multiday event next weekend where she will run 5 marathons in 5 days on the Isles of Scilly.
 
-Whilst the Striders lacked a sixth member to qualify for the team prize on the day, the team’s performance saw them move to 3rd in both the men’s overall and vet standings for the road race series. 
+Whilst the Striders lacked a sixth member to qualify for the team prize on the day, the team’s performance saw them move to 3rd in both the men’s overall and vet standings for the road race series.
+
+<img src="/images/2026/09/2026-09-30-Bourton-half.jpg"
+     alt="Bourton Half Marathon"
+     style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
