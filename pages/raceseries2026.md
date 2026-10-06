@@ -30,9 +30,9 @@ permalink: /raceseries2026
 Participation Races:
 - Spring Midland Road Relays
 - Autumn Midland Road Relays
-- Glos League XC 1 in October
-- Glos League XC 2 in November
-- Midland/Birmingham League XC 1 in November
+- Glos League XC 1 on 18th October
+- Glos League XC 2 on 31st October
+- Midland/Birmingham League XC 1 on 14th November
 
 ### Rules
 
