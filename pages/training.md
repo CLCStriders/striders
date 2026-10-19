@@ -19,13 +19,12 @@ Meet at 6.30pm, CLC Health & Fitness Centre
 This is a 4 or 6 mile sociable run in groups, at varying paces, each group with an experienced leader. We start and finish at the CLC Health & Fitness Centre, using well-lit pavements around Cheltenham in the winter months, and Pitville Park and the Racecourse in the summer.
 
 ##### Current Monday routes:
-
-- Honeybourne & Hewlett Rd / Hales Road
-  - 4M / 6km - [OnTheGoMap](https://onthegomap.com/s/vuj0q5ek)
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=mi&amp;w%5B%5D=Routes+may+not+be+suitable+for+public+use.&amp;c%5B%5D=Route+data+%C2%A92026+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=6842&amp;f=879cf7394a&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=qruy9ffuC38Vq1HSKc1Qm1Qq144AMKc1i3q6UY2e2s4EM1625A3642449Ef18b1KOq1k1648344EGCA68494B27CCY1Y1_3_2c1M86w2_1e1Q44KEg7y4OGECQIQGq8y5UKc4q2OEs3W2QEk5s1s2Qk1C20620O6U0U7s13e21o41S3I1122C8G8A8q2s1i3e2i4a3i1Ug1Qc3_1g1W1e2_1MI02r1_4Pm2F_10u11I5I7O9ENO9E36Fq102Na2Be1Vk1Vg1l1c2Nk1BOVe2J_13U1Y12IAe1CUGQ8IAc10Q3IVw13K0E2GKm2CW2Cg26a112Z4g1VAf2Op1EX2CR4F2F232L0R030J0b11d15l2Jj5b2l5n2r2h1n3v104Z1u4Ru3f1w5d1i50699B2365E0G28DCHS5I3I6Y10W11I9UDOHIJ8J1PKHO~1W4Lc15153X36l28Z20d1DL7h1Jp4X2X9f4R4DH9FBLl1h2FJTb1~1X2x1z1HJNNh4p4z1z1BB57f2f2NRX1r17H35Bj17TJx217b2h4Jd1X1r179Rd1Tb1TVv2X2FDf1TNHb1TX4x273NHLFFB77b2p11221Ux2Mf2Kn24F2FQh54V6Z28v18n44v34h2Cn2Kz2W2Z7a1r3w1t529095665GP430N4NCZ1It147C3A444C5A7412967676D6L31FB7B5J0HAB0915EB4749Ud187i1f2ANKn1En16X1Ab26d2012RY4t1M9u1Po2Z1SBa1FO9g1JA3a2X1SJADw2p4CR6FOX2y1t1e1~1Y1r1IRSl1"></iframe><br/>
- 
-- 6M / 10km - [OnTheGoMap](https://onthegomap.com/s/9797pm8f)
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=mi&amp;w%5B%5D=Routes+may+not+be+suitable+for+public+use.&amp;c%5B%5D=Route+data+%C2%A92026+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=10091&amp;f=b45201e1fe&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=kruy9ZfuC22Vq1HSKc1Qm1Qq1EQKc1i3q6UY2e2s4EK026FMZ22B4D0102E6GAW2a22A44EGCA2246494B2303k1k1_3_2c1M86w2_1e1QOIg7y4OGECQIQGq8y5UKc4q2OEs3W2QEk5s1s2Qk1C820O6U0U7s13e21o41S3C06C8G8A8q2s1i3e2i4a3i1U0102g1Qc3_1g1W1e2_1KG22r1W5Pm2F_10u11I5I7O9ENO9E36Fq1Nc2Be1Vk1Vg1l1c2Nk1BOVe2J_13U1Y12IAe1CUGQ8IAc10Q3IVw13K0E2GKm2CW2Cg26a11221c1BY3Vk3VM5a4Vw19u4Ds11S1S2Y12o1W1e1Q424KHw214Bm1Ty4Ne4Bu1Bg11a1Ls3Je3Fe216Re3Ti3FUBe2DY23CJw23AN_3Du25c21k24m24a20W20k71a50y31m7Bk70w34m26u20i21e17g19c1d1c4Ly1DW1FW1Ru1DU9W1Vm4B_1BW20201B53D51d18Z5o107B41020Oi5Ey2Cg2SY42CEY14k110FCJ8Z14F0p6NX33p13b41b4Dr6Fb1Dh1Lf1Ph1Rn2v1HDHHZ1j1Z1h1BFj1t1BDFe113Z1n1j1X2d1h1d1Rh2Vz1Td1Hb3v1Ch131NDPLt2j2JJd2r2n1Z2r1j2v2x3Ph1DRBTJt1Dx1Bd25J1T9X21D3HBR1JFVDRv2X4h4t67BNb1Rh1d2p3Z2d3Z1l1X1d1PPh1Z1d3b2n2j1F7TPTVX3X5z3f6h2Z4f1b2v2f4p1l25B238v1Gr1IHCTQZ1KPUd1Y1l1a2r3CHAJUn1m1n267Y3j56B6Bk2t533JNX1r1BNBj17TJx217b2h4Jd1f1~1Rd1Tb1TVv2X2FDf1TNHb1TX4x273NHLFFB77Z2n111Ux2Mf2Kn24F2FQh54VEz38n44v34h2Cn2Kz2W2Z7a1r3w1t52909GP430N4NCZ1It147C3A444C51J0p12T1P2H27C9EB8HUd187i1f2ANKn1En16X1Ab26f22RY4t1k2Z1o2Z1SBa1FO9g1JA3a2X1SJADw2p4CR6FOX2y1t1e1~1Y1r1IRUp1"></iframe><br/>
+- Warden Hill & Hatherley
+  - 4M / 6km - [OnTheGoMap](https://onthegomap.com/s/ln2hteio)
+ <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=mi&amp;w%5B%5D=Routes+may+not+be+suitable+for+public+use.&amp;c%5B%5D=Route+data+%C2%A92026+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=6637&amp;f=d038d97537&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=wruy9nfuC9GVq1HSX1s1d1W2x1u1d4r552D8j3u1z3Y2p3w1541020JPFHFDVNPPTRLL75X1VTN95f2d1H1P8B85EBF7373F3X13R3T22F0b18~1Qx2BJFH3DJ31r111FB75d1X175t1r19BDR9T5LNp3f1n67d1t1p3X2l3Tb1Z1X2x1t4t1X4v1l45NF451B5HDr1t1JLh1h1BDBDFHn1f1~2b2r1d1NFPTPX1FJb1r1z2Z4BHZ1r1Vt1Rz1Z5nDRj2f1r3Lz1DTr3b8x1b47Dr1l31020o1h2Y1j1s1f2w2n4CLUb2Kv1Et18TMh3Ud3k1n3Y1z28RAt12T2p1193z1Hv27x11X20Z14t1AX26TIz1CX1Of2Qh2Il17586o2k2MKW1c1o1u1SW1g1s1KQk2w2QSg1i2Us1Ga1Y1s2o1q4AQAUQa26EAIY1q1e3e48A44OY1Ok1OW2Ag1As14_12q2260U0Y10E1Y53Y37Y37e2Tu70CP_5Da43_10e12q11SAE4a1Ag10G26O1m2E60W4Mq18_3Qm6c1c3I602ACE2I3s162J_51AG8Rw8Bm39o21QJo5X1y9Rc8b2WL1E4M0O0Q4EGICKPy27W20c11GU1S4Y14G48484CG6DC7Q7I2g2e1A6UOY1W18668GEUSQQW1OGEGIKQ63q3v1_3X2k3t1K9e4s5y1t1e1~1Y1r1IRW1p147"></iframe><br/>
+    
+  - 6M / 10km - [OnTheGoMap](https://onthegomap.com/s/dv1cilg7) 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=km&amp;w%5B%5D=Routes+may+not+be+suitable+for+public+use.&amp;c%5B%5D=Route+data+%C2%A92026+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=10067&amp;f=d038d97537&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=iruy9ffuC48Vq1HSX1s1d1W2x1u1d4r5JAj3u1z3Y2p3w15433FLFHFDVNPPTRLL75X1VTN95f2d1H1P8B85EBF7373F3X13R3T22F0b18~1Qx2BJFH3DJ31r1HD75d1X175t1r19BDR9T5LNp3Fj2PZ47d1t1p3X2l3Tb1Z1X2x1t4t1X4v1l45NF451B5HDr1t1JLh1h1BDBDFHn1f1~2b2r1d1NFPTPX1FJb1r1z2Z4BHZ1r1Vt1Rz1Z5nDRj2Tt2BTLz1DTr3b8x1b47Dr1l332x1i2d1q114j1a2X2q2x2y3HQIw1Qs26K1CDW19Oj6mFDW17Kf4iAFe1Hc1BMRe1~5k7Rg1Pi1Jk1Nw1Nm1HU5MJY17BHRf3p5x3n6d1X27BNd1Rt1Hp1Hr1Df22F0h1Cv1o5z98Bo1d3e1v2a1r2c1b3Cj1s1b6A~2096FGn1CRo2zEI~2W1r4c1p4k2j8Qt227m1j4O~1Y3f7c1j3Y1b3Uj3Mx2Kb3Qh48p18n1Ev28h1Ex2Ah1Cf1Ch1Gf1Gd1Ib1IZ1MZ1MVk1r1q1h1QJODm1JO7e13K5E7G7QRA0g1a1AI8EY1c3W1g3MY28GEUEy14k10k23s15o1041O5e20g22G2O6KCKIMOEQAq1SG8EEo2k2o2k2MKW1c1o1u1SW1g1s1KQk2w2QSg1i2Us1Ga1Y1s2o1q4AQAUQa26EAIY1q1e3e48A44OY1Ok1OW2Ag1As14_12q2260U0Y10E1Y53Y37Y37e2Tu70CP_5Da43_10e12q11SAE4a1Ag12M60I1m2E60W4Mq18_3Qm6c1i3IG4A27y2J_51AG8Rw8Bm39o21QJo5X1y9Rc8b2WL1E4M0O0Q4EGICKPy27W20c11G1e34q14u1Og5Iq3k1a9Uk5S_4F6Qc3482413K041E982Ud187i1f2ANKn1En16X1Ab26f22R0304Y4t1k2Z1o2Z1SBa1FO9g1JA3a2X1SJADw2p4CR6FOX2y1t1e1~1Y1r1IRSj1"></iframe><br/>
     
 We change the route every few weeks but other examples are:
 
@@ -36,6 +35,10 @@ We change the route every few weeks but other examples are:
 - Christmas lights
   - 4M - [Gmap](https://www.gmap-pedometer.com/?r=7428607) / GPX
   - 6M - [Gmap](https://www.gmap-pedometer.com/?r=7428605) / [GPX](assets/gpx/6m_Christmas_Lights.gpx)
+
+- Honeybourne & Hewlett Rd / Hales Road
+  - 4M / 6km - [OnTheGoMap](https://onthegomap.com/s/vuj0q5ek)
+  - 6M / 10km - [OnTheGoMap](https://onthegomap.com/s/9797pm8f)
   
 - Fiddler's Green & Benhall
   - 4M - [Gmap](http://www.gmap-pedometer.com/?r=7749814) / GPX
@@ -55,6 +58,7 @@ We change the route every few weeks but other examples are:
 Meet at 6.30pm, CLC Health & Fitness Centre
 
 Our interval training sessions are brilliant for developing fitness, running efficiency, technique and pacing; all sessions are taken by our qualified Coaches.  They are suitable for everyone as you work at your own pace, and are structured so that no-one gets left behind.  Depending on numbers and training conditions, we may split into two groups according to pace.  In the winter we train on the Honeybourne Line, which is tarmacked, well-lit and traffic free.  In the summer we use the grass track and sports field at CLC Health & Fitness Centre and Pittville Park.
+
 
 #### Other sessions
 
