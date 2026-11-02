@@ -12,11 +12,11 @@ In the men’s over 65 race David James placed first in the V75 category and 15t
 
 Next to race were the men on a 9.8 km course. First home for the Striders was Pete Duffy in 25th place overall. Behind Duffy were Thomas Fletcher in 35th, Josh Phillips in 43rd, Gavin Woods in 47th, Izaac Cole in 50th and Tom Burgess in 54th, resulting in a total of 254 points which earned 5th place in the team competition. Also representing the club were James Mogridge in 55th, Lee Ormerod in 74th, Jon Howes in 85th, Liam Richardson in 97th, Nick Ledwold in 98th and Jon Pearce in 110th. 
 
-<img src="/images/2026/09/2026-11-02-Glos-XC-womens.jpg"
+<img src="/images/2026/11/2026-11-02-Glos-XC-womens.jpg"
      alt="Gloucestershire XC series round 2 - womens team"
      style="display: block; margin: 0 auto; max-width: 80%; height: auto;">   
 
-<img src="/images/2026/09/2026-11-02-Glos-XC-mens.jpg"
+<img src="/images/2026/11/2026-11-02-Glos-XC-mens.jpg"
      alt="Gloucestershire XC series round 2 - mens team"
      style="display: block; margin: 0 auto; max-width: 80%; height: auto;">    
 

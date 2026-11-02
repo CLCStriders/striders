@@ -17,13 +17,13 @@ The season long efforts of Pudifoot, Freeland and James were rewarded with silve
 
 In the Cirencester half marathon, Timothy Bridges and James Watt toed the line for the Striders.  On a hilly course they finished in 1:30:48 and 1:30:50 for 99th and 100th places overall. For Watt it was the second half marathon in as many weeks, and he showed true resilience in being only just over a minute slower on a more testing course.
 
-<img src="/images/2026/09/2026-11-02-Guy-Fawkes-5.jpg"
+<img src="/images/2026/11/2026-11-02-Guy-Fawkes-5.jpg"
      alt="Guy Fawkes 5"
      style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 
 Left to right: Matt Ashman, Paul Northup, Tim Brock, Tom Burgess, Ellie Pudifoot, Jon Pearce, Hollie Freeland, Arnie Delstanche, Peter Bellwood, Gavin Woods, Kate Telford and David James
 
-<img src="/images/2026/09/2026-11-02-Glos-road-race-medalists.jpg"
+<img src="/images/2026/11/2026-11-02-Glos-road-race-medalists.jpg"
      alt="Gloucester Road Race Series Medallists"
      style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 
