@@ -45,8 +45,6 @@ Established in 2024, the Boddington 10 has quickly become a popular fixture in t
 
 As an experienced race organiser, CLC Striders is committed to providing a safe, enjoyable and well-supported event for runners of all abilities. Please take a few minutes to read the information below to help ensure your race day runs smoothly.
 
-<!---
-
 #### Quick Reference Guide
  
 * **Race Start:** 09:00 at the top of Boddington Lane.
@@ -248,8 +246,6 @@ While we hope to welcome you to the start line, participant safety will always b
 
 Please check your email regularly in the days leading up to the event and follow our social media channels for the latest race information.
  
---->
-
 #### Official race photos
  
 Dig Deep Race Photography will be taking official race photos during the event. They will be available via their [website](https://linktr.ee/digdeepracephotography).
