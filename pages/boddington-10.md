@@ -49,7 +49,7 @@ As an experienced race organiser, CLC Striders is committed to providing a safe,
  
 * **Race Start:** 09:00 at the top of Boddington Lane.
 * **Race HQ Opens:** 07:45.
-* **UK Athletics Licence:** #30107.
+* **UK Athletics Licence:** #31889.
 * **Minimum Age:** 18 years on race day.
 * **Race Number Collection:** Between 07:45 and 08:30.
 * **Race Briefing:** 08:50 at the start line.
