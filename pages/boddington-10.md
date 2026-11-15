@@ -276,7 +276,7 @@ The [2026 Boddington 10 results](https://results.raceroster.com/v3/events/jqapef
  
 #### Acknowledgements
  
-* A2B Removals - for allowing us to use their yard for car parking.
+* [A2B Removals Nationwide Limited](https://www.a2bmoving.com/) - for allowing us to use their yard for car parking.
 
 * Boddington Estates Ltd, Cheltenham - For agreeing to adjust their animal feeding schedule to accommodate the race.
 
