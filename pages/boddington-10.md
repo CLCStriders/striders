@@ -115,6 +115,7 @@ When collecting your race number:
 Please note that results will be determined solely through chip timing. Runners who do not wear a timing chip will not receive an official result.
 
 As a bonus, your race number entitles you to 15% off purchases at Up & Running for two weeks following race day.
+
 ---
 
 #### Race information
