@@ -43,8 +43,6 @@ A flat and fast 10-mile race on quiet roads, with ample nearby parking and a wel
 
 As a club, CLC Striders is well used to staging successful races and the Boddington 10 is no different, having quickly become a firm fixture in runners’ calendars.
 
-<!---
-
 #### Quick Reference Guide
  
 * The UK Athletics licence number is #30107
@@ -181,8 +179,7 @@ Soon after the race, we will post them on the [CLC Striders website](https://clc
 #### Event Cancellation
  
 If a situation arises - such as poor weather conditions - where we have to make the difficult decision to cancel the race, we will contact all entrants via email and post notices on our [Facebook page](https://www.facebook.com/CLCStriders/). Please ensure that you check your emails and follow our social media accounts for any updates. 
- 
---->
+
 
 #### Official race photos
  
