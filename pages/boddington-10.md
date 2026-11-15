@@ -65,19 +65,19 @@ As an experienced race organiser, CLC Striders is committed to providing a safe,
  
 Race Headquarters will be located outside The Gloucester Old Spot (postcode GL51 9SY).
 
-CLC Striders volunteers will be available from 07:45 to assist runners with registration, race number collection and race-day enquiries.
+CLC Striders volunteers will be available from 07:45 to assist runners with race-day enquiries.
 
 ---
  
 #### Car Parking
  
-Parking marshals will be on site from **07:45** to direct participants to the available parking areas.
+Parking marshals will be on site from 07:45 to direct participants to the available parking areas.
 
 We will be using:
 
 * The Gloucester Old Spot car park
 * The industrial estate further along the road
-* Stanboro Lane
+* A2B Removals on Stanboro Lane
 
 To help manage demand, the first 50 vehicles arriving from Cheltenham will be directed to park on Stanboro Lane. This parking location is approximately 500 metres from Race HQ, with a footpath available for safe access.
 
@@ -85,7 +85,7 @@ To help manage demand, the first 50 vehicles arriving from Cheltenham will be di
 * Please follow marshals' instructions at all times.
 * Do not park on roads or verges under any circumstances.
 * Allow extra time to walk from your allocated parking area, as some locations are up to 10 minutes from Race HQ.
-* We strongly encourage car sharing where possible.
+* We **strongly encourage** car sharing where possible.
 
 **Please note:** The Gloucester Old Spot car park must be vacated by 11:45 to accommodate regular customers, unless you are staying for lunch at the pub. Participants parked there should move their vehicles to the industrial estate after the race if planning to remain in the area.
 
@@ -194,10 +194,9 @@ Runners who reach the final lap point (approximately 7.4 miles) and are not on p
  
 After crossing the finish line:
 
-1. Return your timing chip.
-2. Avoid distracting the race timekeepers while results are being recorded.
-3. If you retire from the race, report to a race official immediately.
-4. Collect water and move away from the finish area as soon as possible to allow space for other finishers.
+1. Avoid distracting the race timekeepers while results are being recorded.
+2. If you retire from the race, report to a race official immediately.
+3. Collect water and move away from the finish area as soon as possible to allow space for other finishers.
 
 Please then make your way back to Race HQ.
 
@@ -277,6 +276,8 @@ The [2026 Boddington 10 results](https://results.raceroster.com/v3/events/jqapef
  
 #### Acknowledgements
  
+* A2B Removals - for allowing us to use their yard for car parking.
+
 * Boddington Estates Ltd, Cheltenham - For agreeing to adjust their animal feeding schedule to accommodate the race.
 
 * [Clavell and Hind](https://www.clavellandhind.co.uk/), [Cellar Supplies](http://www.cellarsupplies.co.uk/), [In2Print](http://www.in2print.com/), [Journey Hospitality](https://journey.travel/) and [Phoenix Mechanical Engineers](http://www.phoenixmechanical.co.uk/) for providing parking.
