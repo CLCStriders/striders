@@ -82,28 +82,28 @@ To make sure our club runs are safe and enjoyable for everyone, please follow th
 Our Coaches hold the England Athletics’ Coach in Running Fitness (CiRF) qualifications and are DBS-checked. Please talk to them about your personal training goals, general running queries or any concerns you may have.
 
 &emsp;&emsp;**Matt Ashman**  
-&emsp;&emsp;![Matt Ashman](/images/coaches/matt-ashman.jpg "Matt Ashman")
+&emsp;&emsp;<img src="/images/coaches/matt-ashman.jpg" alt="Matt Ashman" title="Matt Ashman" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2019, CiRF since 2022
 
 &emsp;&emsp;**Joel Freeland**  
-&emsp;&emsp;![Joel Freeland](/images/coaches/joel-freeland.jpg "Joel Freeland")
+&emsp;&emsp;<img src="/images/coaches/joel-freeland.jpg" alt="Joel Freeland" title="Joel Freeland" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2010, CiRF since 2017
 
 &emsp;&emsp;**Jamie Hartnoll**  
-&emsp;&emsp;![Jamie Hartnoll](/images/coaches/jamie-hartnoll.jpg "Jamie Hartnoll")
+&emsp;&emsp;<img src="/images/coaches/jamie-hartnoll.jpg" alt="Jamie Hartnoll" title="Jamie Hartnoll" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2022, CiRF since 2023
 
 &emsp;&emsp;**Jon Howes**  
-&emsp;&emsp;![Jon Howes](/images/coaches/jon-howes.jpg "Jon Howes")
+&emsp;&emsp;<img src="/images/coaches/jon-howes.jpg" alt="Jon Howes" title="Jon Howes" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2009, CiRF since 2025
 
 &emsp;&emsp;**Amelia Mullins**  
-&emsp;&emsp;![Amelia Mullins](/images/coaches/amelia-mullins.jpg "Amelia Mullins")
+&emsp;&emsp;<img src="/images/coaches/amelia-mullins.jpg" alt="Amelia Mullins" title="Amelia Mullins" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2009, CiRF since 2019
 - Co-ordinator of Monday night club runs
 
 &emsp;&emsp;**Kate Telford**  
-&emsp;&emsp;![Kate Telford](/images/coaches/kate-telford.jpg "Kate Telford")
+&emsp;&emsp;<img src="/images/coaches/kate-telford.jpg" alt="Kate Telford" title="Kate Telford" width="200" height="200" style="width:200px;height:200px;object-fit:cover;border-radius:8px;">
 - Joined CLC Striders in 2020, CiRF since 2026
   <br>
 
